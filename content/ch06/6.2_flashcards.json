@@ -1,0 +1,76 @@
+{
+    "chapterId": "6.2",
+    "title": "6.2 Chronic Adaptations to Aerobic Exercise",
+    "cards": [
+        {
+            "id": "6.2-01",
+            "tag": "Cardiovascular Adaptations & Cardiac Output",
+            "reference": "Section 6.2",
+            "front": "What primary adaptation drives the increase in <strong>maximal cardiac output (Q<sub>max</sub>)</strong> following chronic aerobic endurance training?",
+            "back": "Maximal cardiac output increases primarily due to a significant rise in <strong>maximal stroke volume (SV<sub>max</sub>)</strong>, while maximal heart rate remains unchanged or slightly decreases with age."
+        },
+        {
+            "id": "6.2-02",
+            "tag": "Resting Bradycardia & Autonomic Control",
+            "reference": "Section 6.2",
+            "front": "What mechanisms account for <strong>resting bradycardia</strong> (resting HR of 40 to 60 beats/min) in highly trained endurance athletes?",
+            "back": "Resting bradycardia is driven by <strong>increased parasympathetic (vagal) tone</strong>, reduced sympathetic drive, and an increased stroke volume that maintains resting cardiac output at a lower heart rate."
+        },
+        {
+            "id": "6.2-03",
+            "tag": "Myocardial Remodeling & Frank-Starling Mechanism",
+            "reference": "Section 6.2",
+            "front": "What structural cardiac alterations occur during chronic aerobic training to enhance <strong>end-diastolic filling and stroke volume</strong>?",
+            "back": "The heart undergoes <strong>eccentric hypertrophy</strong>, increasing left ventricular chamber size (volume) and moderate wall thickness to accommodate greater end-diastolic volume (EDV) and stretch myocardial fibers for stronger contraction via the Frank-Starling mechanism."
+        },
+        {
+            "id": "6.2-04",
+            "tag": "Capillary Density & Oxygen Diffusion",
+            "reference": "Section 6.2",
+            "front": "How does chronic aerobic exercise alter <strong>capillary density</strong> in trained skeletal muscle, and what is its physiological benefit?",
+            "back": "Aerobic training increases <strong>capillaries per muscle fiber (angiogenesis)</strong>, which decreases oxygen diffusion distance, prolongs transit time for gas exchange, and enhances oxygen and nutrient delivery to mitochondria."
+        },
+        {
+            "id": "6.2-05",
+            "tag": "Respiratory Adaptations & Ventilation",
+            "reference": "Section 6.2",
+            "front": "How do <strong>submaximal and maximal respiratory mechanics</strong> adapt to long-term aerobic endurance conditioning?",
+            "back": "<ul><li><strong>Submaximal Exercise:</strong> Minute ventilation decreases via reduced breathing frequency and increased tidal volume, improving ventilatory efficiency.</li><li><strong>Maximal Exercise:</strong> Maximal minute ventilation increases significantly due to higher breathing frequency and tidal volume.</li></ul>"
+        },
+        {
+            "id": "6.2-06",
+            "tag": "Neural Efficiency & Motor Unit Rotation",
+            "reference": "Section 6.2",
+            "front": "What early <strong>neural adaptation</strong> occurs in skeletal muscle during prolonged submaximal aerobic exercise to delay fatigue?",
+            "back": "The central nervous system optimizes <strong>synergistic motor unit rotation</strong>, alternating activation among motor units within trained muscle groups to reduce overall energy expenditure and delay contractile fatigue."
+        },
+        {
+            "id": "6.2-07",
+            "tag": "Muscle Fiber Type Transitions & Hypertrophy",
+            "reference": "Section 6.2",
+            "front": "What structural and fiber type alterations occur in skeletal muscle following chronic aerobic training?",
+            "back": "Aerobic training induces <strong>selective hypertrophy of Type I (slow-twitch) fibers</strong> and stimulates a transition of <strong>Type IIx fibers toward Type IIa fibers</strong>, enhancing their oxidative enzyme capacity."
+        },
+        {
+            "id": "6.2-08",
+            "tag": "Substrate Utilization & Glycogen Sparing",
+            "reference": "Section 6.2",
+            "front": "How does chronic aerobic conditioning alter <strong>substrate utilization</strong> and shift the <strong>Onset of Blood Lactate Accumulation (OBLA)</strong>?",
+            "back": "Increased mitochondrial density and fat oxidation produce a <strong>glycogen-sparing effect</strong>, delaying carbohydrate depletion and shifting OBLA to higher relative intensities (<strong>80% to 90% of VO<sub>2</sub>max</strong>)."
+        },
+        {
+            "id": "6.2-09",
+            "tag": "Mitochondrial & Enzymatic Adaptations",
+            "reference": "Section 6.2",
+            "front": "What cellular organelle and biochemical adaptations occur within trained skeletal muscle fibers?",
+            "back": "Aerobic endurance training increases the <strong>size and number of mitochondria</strong>, elevates <strong>myoglobin content</strong>, increases oxidative enzyme activity (citrate synthase, succinate dehydrogenase), and expands glycogen and triglyceride stores."
+        },
+        {
+            "id": "6.2-10",
+            "tag": "Bone, Connective Tissue & Endocrine Responses",
+            "reference": "Section 6.2",
+            "front": "How do <strong>bone mineral density</strong> and <strong>submaximal endocrine responses</strong> adapt to chronic aerobic training?",
+            "back": "<ul><li><strong>Bone Mineral Density:</strong> Increases in response to high-impact, weight-bearing aerobic activities (e.g., running) that exceed the minimal essential strain threshold.</li><li><strong>Endocrine Responses:</strong> Submaximal exercise produces attenuated (blunted) acute hormonal surges due to lower relative physiological stress at a given absolute workload.</li></ul>"
+        }
+    ]
+}

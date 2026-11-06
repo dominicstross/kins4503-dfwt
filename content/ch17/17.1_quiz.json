@@ -1,0 +1,769 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Which principle of anaerobic exercise prescription was first formally suggested by DeLorme in 1945 to describe training an athlete in a specific manner to produce a specific outcome?",
+        "opts": [
+          "Specificity",
+          "Overload",
+          "Progression",
+          "Periodization"
+        ],
+        "correct": 0,
+        "rationale": "DeLorme (1945) first suggested the principle of specificity, which dictates that training an athlete in a specific manner produces a specific adaptation or training outcome."
+      },
+      {
+        "id": 2,
+        "q": "What does the acronym SAID stand for in the context of resistance training program design?",
+        "opts": [
+          "Systematic Adaptation to Intense Drills",
+          "Specific Adaptation to Imposed Demands",
+          "Sequential Alignment of Individual Demands",
+          "Standardized Application of Isokinetic Demands"
+        ],
+        "correct": 1,
+        "rationale": "SAID stands for Specific Adaptation to Imposed Demands. It describes the physiological principle that the type of demand placed on the human body dictates the specific type of adaptation that will occur."
+      },
+      {
+        "id": 3,
+        "q": "How does the principle of specificity apply when comparing a heavy back squat to a vertical jump?",
+        "opts": [
+          "The squat mimics the exact movement speed and force application rate of the vertical jump",
+          "The squat is irrelevant because training exercises must mimic all velocity aspects of the sporting skill",
+          "The squat is relevant because it recruits the same muscle groups and joint extension actions, despite differences in speed and force application",
+          "The squat replaces vertical jump training completely by providing identical motor unit firing rates"
+        ],
+        "correct": 2,
+        "rationale": "Specificity refers to involved muscles, movement patterns, and muscle actions, but does not require mimicking all velocity aspects of the skill. The squat recruits the same lower-body joint extensors as a vertical jump, even though movement speed and force application rates differ."
+      },
+      {
+        "id": 4,
+        "q": "Which statement best defines the principle of overload in resistance training?",
+        "opts": [
+          "Assigning a training load or intensity greater than what the athlete is currently accustomed to",
+          "Increasing training volume until acute muscular failure occurs in every set",
+          "Replacing core structural exercises with high-velocity plyometrics every week",
+          "Training the athlete to maximum capacity without periodized rest intervals"
+        ],
+        "correct": 0,
+        "rationale": "Overload refers to assigning a workout or training regimen of greater intensity than the athlete is accustomed to, thereby stressing the body at a higher level to drive physiological adaptations."
+      },
+      {
+        "id": 5,
+        "q": "Which of the following is considered a subtle method of applying the overload principle beyond simply increasing the resistance load?",
+        "opts": [
+          "Decreasing the number of training sessions per week",
+          "Increasing rest period lengths between sets",
+          "Emphasizing simple single-joint exercises over complex exercises",
+          "Adding exercises or sets, or decreasing rest period lengths between sets"
+        ],
+        "correct": 3,
+        "rationale": "Overload can be applied subtly by increasing session frequency, adding exercises/sets, emphasizing complex multi-joint exercises, or decreasing the length of rest periods between sets and exercises."
+      },
+      {
+        "id": 6,
+        "q": "Which sequence illustrates a proper technical exercise progression for an athlete advancing in Olympic weightlifting movements?",
+        "opts": [
+          "Power clean \\(\\rightarrow\\) hang power clean \\(\\rightarrow\\) front squat",
+          "Front squat \\(\\rightarrow\\) hang power clean \\(\\rightarrow\\) power clean",
+          "Back squat \\(\\rightarrow\\) push press \\(\\rightarrow\\) overhead squat",
+          "Hang power clean \\(\\rightarrow\\) power clean \\(\\rightarrow\\) front squat"
+        ],
+        "correct": 1,
+        "rationale": "As detailed in the textbook, a logical technical progression advances the athlete systematically from mastering the front squat, to learning the hang power clean, and eventually performing the full power clean."
+      },
+      {
+        "id": 7,
+        "q": "What are the seven core program design variables that a strength and conditioning professional must manipulate?",
+        "opts": [
+          "Needs analysis, exercise selection, training frequency, exercise order, training load/repetitions, volume, rest periods",
+          "Warm-up, mobility, core stability, main lift, secondary lift, conditioning, cool-down",
+          "Assessment, periodization, plyometrics, agility, power testing, hyperventilation, recovery",
+          "Intensity, density, velocity, strain, displacement, impulse, work"
+        ],
+        "correct": 0,
+        "rationale": "The seven program design variables discussed in Chapter 17 are: 1. Needs analysis, 2. Exercise selection, 3. Training frequency, 4. Exercise order, 5. Training load and repetitions, 6. Volume, 7. Rest periods."
+      },
+      {
+        "id": 8,
+        "q": "In the textbook scenario comparison, why does the high school cross-country runner (Scenario C) require a different program design approach than the basketball center (Scenario A) or football lineman (Scenario B)?",
+        "opts": [
+          "Scenario C has an extensive 4-year lifting background and high technical skill",
+          "Scenario C began lifting only 4 weeks prior, possessing limited experience and undeveloped lifting skills",
+          "Scenario C requires maximum power cleans while Scenarios A and B perform only machine exercises",
+          "Scenario C is in the off-season while Scenarios A and B are in postseason active rest"
+        ],
+        "correct": 1,
+        "rationale": "Scenarios A and B have trained since high school, are accustomed to heavy loads, and are skilled in complex lifts. In contrast, the runner in Scenario C started resistance training only 4 weeks prior in the preseason, meaning exercise technique skills are undeveloped."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following aspects are encompassed by the principle of specificity in resistance training? (Select all that apply)",
+        "opts": [
+          "Muscles involved in the movement",
+          "Movement pattern and joint angles",
+          "Nature of the muscle action (speed and force application)",
+          "Requirement that exercises must replicate 100% of the sport skill velocity",
+          "Progression of training from generalized to sport-specific across seasons"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Specificity encompasses muscle groups, movement patterns, muscle actions, and seasonal progression from general to sport-specific. It does NOT require replicating 100% of skill velocity in every weight room exercise."
+      },
+      {
+        "id": 2,
+        "q": "Which strategies can be utilized to achieve progressive overload in an athletic resistance training program? (Select all that apply)",
+        "opts": [
+          "Increasing the weight/load assigned for an exercise",
+          "Adding sets or exercises to a workout session",
+          "Increasing weekly or daily training session frequency",
+          "Shortening the rest period length between sets",
+          "Decreasing overall training volume and intensity simultaneously"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Overload can be achieved by increasing load, adding sets/exercises, increasing training frequency, or decreasing rest period lengths. Decreasing volume and intensity simultaneously reduces stimulus rather than overloading."
+      },
+      {
+        "id": 3,
+        "q": "Which principles must guide the progression of an athletic resistance training program over time? (Select all that apply)",
+        "opts": [
+          "Progression must be based on the athlete's current training status",
+          "Progression should be introduced systematically and gradually",
+          "Progression can involve increasing load, frequency, or technical exercise difficulty",
+          "Progression must force immediate maximum load increments regardless of technique",
+          "Progression aims to produce long-term training benefits while preventing overtraining"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Progression must be gradual, systematic, matched to training status, and variable in stimulus (load, frequency, technical complexity) to yield long-term gains without overtraining."
+      },
+      {
+        "id": 4,
+        "q": "Which of the following baseline characteristics apply to the basketball center (Scenario A) and football offensive lineman (Scenario B)? (Select all that apply)",
+        "opts": [
+          "Accustomed to lifting heavy resistance loads",
+          "Skilled in performing machine and free weight exercises",
+          "Has been resistance training since high school",
+          "Began resistance training for the first time 4 weeks ago",
+          "Cleared for training with no musculoskeletal dysfunction"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Scenarios A and B are well-conditioned, cleared of dysfunction, experienced lifters since high school, skilled in free weights/machines, and accustomed to heavy loads. Only Scenario C began lifting 4 weeks ago."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "To strictly adhere to the principle of specificity, every weight room exercise must duplicate the exact speed of movement and force application of the sport skill.",
+        "ans": false,
+        "feedback": "Specificity applies to muscles involved, joint patterns, and muscle actions, but does not require duplicating all velocity aspects. Exercises like heavy squats share joint movement and muscle recruitment with vertical jumping despite differing movement speeds."
+      },
+      {
+        "id": 2,
+        "q": "The SAID principle implies that high-speed power athletes (such as baseball pitchers) should aim to recruit relevant motor units at high velocities during power training.",
+        "ans": true,
+        "feedback": "The SAID principle dictates that training demands determine physiological adaptations; thus, athletes competing in explosive, high-speed sports benefit from high-velocity motor unit recruitment during power training."
+      },
+      {
+        "id": 3,
+        "q": "Decreasing the length of rest periods between sets is a valid method of imposing overload on an athlete.",
+        "ans": true,
+        "feedback": "Overload stresses the body beyond accustomed levels. Shortening rest periods increases metabolic density and stress, constituting a valid form of overload."
+      },
+      {
+        "id": 4,
+        "q": "Progression should be applied aggressively and rapidly, irrespective of the athlete's initial exercise technique proficiency or training status.",
+        "ans": false,
+        "feedback": "Progression must always be introduced systematically and gradually based on the athlete's training status to ensure safety and long-term adaptation."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "The acronym **SAID** stands for specific adaptation to imposed demands, a principle closely linked to **specificity**.",
+        "targets": [
+          "SAID",
+          "specificity"
+        ],
+        "optionsBank": [
+          "SAID",
+          "specificity",
+          "overload",
+          "progression",
+          "periodization"
+        ],
+        "hint": "Refers to the foundational training law dictating that the body adapts specifically to the precise physical demands imposed upon it."
+      },
+      {
+        "id": 2,
+        "statement": "An athlete progressing technically may advance from the **front squat** to the **hang power clean** and eventually the full power clean.",
+        "targets": [
+          "front squat",
+          "hang power clean"
+        ],
+        "optionsBank": [
+          "front squat",
+          "hang power clean",
+          "back squat",
+          "snatch pull",
+          "overhead press"
+        ],
+        "hint": "Describes the step-by-step movement progression from a foundational squatting pattern to an intermediate dynamic pull."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain how a strength and conditioning professional applies the principle of specificity (and SAID) when designing a resistance program for a high-speed rotational athlete (e.g., a baseball pitcher or tennis player).",
+        "model": "The strength and conditioning professional applies specificity by identifying the primary muscle groups, joint movement patterns, and contraction velocities involved in the rotational skill. Under the SAID principle (Specific Adaptation to Imposed Demands), training must impose specific Neuromuscular demands. To enhance explosive power, the program incorporates resistance exercises that train relevant motor units at high velocities (e.g., medicine ball rotational throws and plyometrics) while strengthening core joint extensors and stabilizers (e.g., shoulder abductors, core rotators, hip extensors). However, specificity does not require mimicking the exact throwing motion with heavy dumbbells; rather, it combines foundational multi-joint strength exercises with high-velocity motor unit recruitment drills.",
+        "criteria": [
+          "Identifies muscle groups, joint movement patterns, and contraction velocities relevant to the sport skill",
+          "Explains the SAID principle (Specific Adaptation to Imposed Demands) and its role in motor unit recruitment",
+          "Clarifies that specificity does not require 100% skill duplication, balancing heavy foundational strength with high-velocity power drills"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Contrast the subtle methods of progressive overload used for an advanced athlete versus the technical progression required for a novice lifter.",
+        "model": "For an advanced athlete who is accustomed to heavy loads and possesses high technical proficiency, overload is often introduced through subtle acute variable manipulations beyond mere weight increases, such as adding exercise sets, increasing training frequency, emphasizing complex structural movements, or shortening rest periods. For a novice lifter (such as the high school cross-country runner in Scenario C), progression must focus primarily on gradual, systematic increases in load and technical complexity (e.g., advancing from a basic front squat to a hang power clean before attempting a full power clean) to ensure proper exercise execution, prevent injury, and establish foundational motor patterns.",
+        "criteria": [
+          "Lists subtle overload methods for advanced lifters (set/exercise additions, rest period reductions, complex lifts)",
+          "Outlines technical progression requirements for novices (systematic skill acquisition from basic to complex lifts)",
+          "Emphasizes that progression must be gradual and aligned with training status to prevent overtraining"
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What are the two major stages of a comprehensive needs analysis in resistance training program design?",
+        "opts": [
+          "Evaluation of the sport and assessment of the athlete",
+          "Biomechanical video analysis and 1RM testing",
+          "Cardiovascular screening and nutritional profiling",
+          "Macrocycle planning and daily periodization"
+        ],
+        "correct": 0,
+        "rationale": "Step 1 (Needs Analysis) is a two-stage process consisting of: 1) Evaluation of the requirements and characteristics of the sport, and 2) Assessment of the individual athlete."
+      },
+      {
+        "id": 2,
+        "q": "Which three core analyses must be included when evaluating a sport during a needs analysis?",
+        "opts": [
+          "Movement analysis, physiological analysis, and injury analysis",
+          "Speed analysis, agility analysis, and flexibility analysis",
+          "Metabolic analysis, VO2max analysis, and body fat analysis",
+          "Kinematic analysis, kinetic analysis, and anthropometric analysis"
+        ],
+        "correct": 0,
+        "rationale": "Evaluation of the sport requires at least three central analyses: Movement analysis (movement patterns and muscle involvement), Physiological analysis (strength, power, hypertrophy, endurance priorities), and Injury analysis (common injury sites and causes)."
+      },
+      {
+        "id": 3,
+        "q": "What does a movement analysis examine during the evaluation of a sport?",
+        "opts": [
+          "Body and limb movement patterns and specific muscular involvement",
+          "Energy system contributions and lactic acid accumulation rates",
+          "Prevalence of joint sprains across competitive seasons",
+          "Historical 1RM testing norms across position groups"
+        ],
+        "correct": 0,
+        "rationale": "A movement analysis investigates body and limb movement patterns, joint actions, and the specific muscle groups recruited during sport performance."
+      },
+      {
+        "id": 4,
+        "q": "Which physiological priorities are specifically evaluated for resistance training program design?",
+        "opts": [
+          "Strength, power, hypertrophy, and muscular endurance",
+          "VO2max, lactate threshold, stroke volume, and cardiac output",
+          "Reaction time, hand-eye coordination, balance, and agility",
+          "Flexibility, static balance, respiratory rate, and peak power"
+        ],
+        "correct": 0,
+        "rationale": "The needs analysis for resistance training focuses specifically on four key physiological outcomes: maximal strength, power, hypertrophy, and local muscular endurance."
+      },
+      {
+        "id": 5,
+        "q": "How does a movement analysis describe the kinematic trajectory of the shot-put event?",
+        "opts": [
+          "Begins in a semicrouched stance with flexed/adducted joints and finishes in an upright stance with extended/abducted joints",
+          "Begins in an upright stance with extended joints and finishes in a deep squat with flexed joints",
+          "Consists entirely of unilateral hip abduction and trunk flexion in the frontal plane",
+          "Relies exclusively on static isometric contractions of the upper body flexors"
+        ],
+        "correct": 0,
+        "rationale": "Movement analysis shows shot-putting is an all-body movement starting in a semicrouched stance with many joints flexed and adducted, culminating in an upright stance with joints extended and abducted."
+      },
+      {
+        "id": 6,
+        "q": "Which muscle groups are heavily recruited during the shot-put field event?",
+        "opts": [
+          "Triceps brachii, deltoids, gluteals, hamstrings, quadriceps, soleus, and gastrocnemius",
+          "Biceps brachii, latissimus dorsi, pectoralis minor, rectus abdominis, and tibialis anterior",
+          "Flexor carpi radialis, trapezius, rhomboids, and gracilis",
+          "Brachialis, infraspinatus, sartorius, and tensor fasciae latae"
+        ],
+        "correct": 0,
+        "rationale": "The shot-put heavily recruits the elbow extensors (triceps brachii), shoulder abductors (deltoids), hip extensors (gluteals, hamstrings), knee extensors (quadriceps), and ankle plantar flexors (soleus, gastrocnemius)."
+      },
+      {
+        "id": 7,
+        "q": "Why is muscular hypertrophy advantageous for a shot-put athlete according to muscle physiology?",
+        "opts": [
+          "Muscle force capability increases as its cross-sectional area becomes greater",
+          "Hypertrophy decreases muscle pennation angle, allowing faster movement speed",
+          "Hypertrophy reduces total body mass, improving metabolic economy",
+          "Hypertrophy converts Type I slow-twitch fibers into non-functional connective tissue"
+        ],
+        "correct": 0,
+        "rationale": "Enhanced muscular hypertrophy is advantageous because a muscle's ability to exert force increases directly as its physiological cross-sectional area (PCSA) expands."
+      },
+      {
+        "id": 8,
+        "q": "What does an injury analysis reveal regarding common injury risks in shot-put throwers?",
+        "opts": [
+          "Repetitive overuse injuries to the muscles and tendons surrounding the shoulder and elbow joints",
+          "High rates of anterior cruciate ligament (ACL) tears from sudden deceleration",
+          "Chronic plantar fasciitis caused by long-distance road running",
+          "Acute lumbar disc herniation from hyper-flexion during sprint starts"
+        ],
+        "correct": 0,
+        "rationale": "Due to the repetitive throwing nature of training and competition, shot-put throwers commonly experience overuse injuries in the muscles and tendons surrounding the shoulder and elbow joints."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following are essential components of the 'Evaluation of the Sport' stage of a needs analysis? (Select all that apply)",
+        "opts": [
+          "Movement analysis of body and limb movement patterns",
+          "Physiological analysis of strength, power, hypertrophy, and endurance priorities",
+          "Injury analysis of common injury sites and causative mechanisms",
+          "Assessment of position-specific sport attributes",
+          "Determination of the athlete's 1RM bench press history"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Evaluation of the sport includes movement, physiological, and injury analyses, alongside position-specific attributes. 1RM bench press history belongs to the second stage: Assessment of the Athlete."
+      },
+      {
+        "id": 2,
+        "q": "Which major muscle groups are explicitly recruited during the shot-put field event? (Select all that apply)",
+        "opts": [
+          "Elbow extensors (triceps brachii)",
+          "Shoulder abductors (deltoids)",
+          "Hip extensors (gluteals, hamstrings)",
+          "Knee extensors (quadriceps)",
+          "Ankle plantar flexors (soleus, gastrocnemius)"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "rationale": "Shot-putting is an all-body movement recruiting elbow extensors (triceps), shoulder abductors (deltoids), hip extensors (glutes/hamstrings), knee extensors (quads), and plantar flexors (soleus/gastrocnemius)."
+      },
+      {
+        "id": 3,
+        "q": "Which physiological outcomes are prioritized in a resistance training needs analysis for shot-put throwers? (Select all that apply)",
+        "opts": [
+          "Maximal Strength",
+          "Explosive Power",
+          "Muscular Hypertrophy",
+          "High Aerobic Muscular Endurance",
+          "Maximal Oxygen Consumption (VO2max)"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Shot-putting requires high strength, power, and hypertrophy (to increase force via cross-sectional area). Muscular endurance and VO2max requirements are minimal."
+      },
+      {
+        "id": 4,
+        "q": "What factors are evaluated during an injury analysis of a sport? (Select all that apply)",
+        "opts": [
+          "Common anatomical sites for joint and muscle injuries",
+          "Causative factors (e.g., repetitive overuse vs. acute impact trauma)",
+          "Biomechanical joint stresses inherent to movement patterns",
+          "Preventative prehabilitation exercise priorities",
+          "Current athlete VO2max normative scores"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Injury analysis evaluates common joint/muscle injury sites, causative factors, movement stresses, and preventative priorities. VO2max scores belong to physical testing."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "In a resistance training needs analysis, the evaluation of the sport must be conducted before assessing the individual athlete.",
+        "ans": true,
+        "feedback": "Determining the requirements of the sport (movement, physiological, injury profiles) provides the benchmark standards needed to properly evaluate the athlete."
+      },
+      {
+        "id": 2,
+        "q": "Shot-put performance demands high levels of local muscular endurance to sustain prolonged repetitive muscle contractions during competition.",
+        "ans": false,
+        "feedback": "Shot-putting is an explosive single-effort event requiring high strength, power, and hypertrophy; its muscular endurance requirement is minimal."
+      },
+      {
+        "id": 3,
+        "q": "Muscular hypertrophy enhances force production capacity because muscle force output scales directly with muscle cross-sectional area.",
+        "ans": true,
+        "feedback": "Textbook muscle physiology establishes that a muscle's maximal force production capability increases as its physiological cross-sectional area becomes larger."
+      },
+      {
+        "id": 4,
+        "q": "Injury analysis focuses exclusively on traumatic ligament tears and ignores chronic tendon overuse injuries.",
+        "ans": false,
+        "feedback": "Injury analysis evaluates both acute trauma and chronic overuse injury mechanisms, such as shoulder and elbow tendonitis in throwers."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Shot-putting transitions from a semicrouched stance with flexed joints to an upright stance with joints **extended** and **abducted**.",
+        "targets": [
+          "extended",
+          "abducted"
+        ],
+        "optionsBank": [
+          "extended",
+          "abducted",
+          "flexed",
+          "adducted",
+          "rotated"
+        ],
+        "hint": "Describes the terminal joint positions during the explosive release phase of the shot-put throw."
+      },
+      {
+        "id": 2,
+        "statement": "Shot-putting requires high levels of strength and **power**, whereas its requirement for muscular **endurance** is minimal.",
+        "targets": [
+          "power",
+          "endurance"
+        ],
+        "optionsBank": [
+          "power",
+          "endurance",
+          "flexibility",
+          "hypertrophy",
+          "aerobic capacity"
+        ],
+        "hint": "Contrasts the primary explosive bioenergetic demand against the negligible fatigue-resistance demand of the event."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Conduct a comprehensive three-part evaluation of the sport for the shot-put field event (covering movement analysis, physiological analysis, and injury analysis).",
+        "model": "1. Movement Analysis: Shot-putting is an all-body movement initiating from a semicrouched stance with flexed and adducted joints, culminating in an upright stance with joints fully extended and abducted. Major muscles recruited include elbow extensors (triceps brachii), shoulder abductors (deltoids), hip extensors (gluteals, hamstrings), knee extensors (quadriceps), and ankle plantar flexors (soleus, gastrocnemius).\n2. Physiological Analysis: High maximal strength and explosive power are essential for throwing performance. Muscular hypertrophy is highly advantageous because force capability increases with larger muscle cross-sectional area. Muscular endurance demands are minimal.\n3. Injury Analysis: Repetitive, high-velocity training and throwing place heavy stress on the shoulder and elbow joints, making surrounding muscles and tendons susceptible to chronic overuse injuries.",
+        "criteria": [
+          "Movement Analysis: Identifies joint actions (flexed/adducted to extended/abducted) and major muscle groups (triceps, deltoids, glutes, hamstrings, quads, calves)",
+          "Physiological Analysis: Identifies strength, power, and hypertrophy priorities while noting minimal endurance needs",
+          "Injury Analysis: Identifies overuse injury risk in shoulder and elbow joints/tendons"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain how establishing a physiological analysis of a sport guides the selection of targeted resistance outcomes and exercise choices.",
+        "model": "The physiological analysis identifies the primary physical qualities required for competitive success\u2014specifically categorizing priorities among maximal strength, power, hypertrophy, and local muscular endurance. By determining these priorities, the strength and conditioning professional can select exercise choices and acute training variables that directly target those pathways. For example, if the physiological analysis indicates high power and hypertrophy demands (as in shot-put or football line play), the coach selects structural multi-joint power exercises (e.g., power clean, push press) and heavy core lifts (e.g., squat, bench press) performed at loads and volumes that maximize motor unit recruitment and cross-sectional area expansion, while avoiding high-repetition endurance protocols that induce conflicting adaptations.",
+        "criteria": [
+          "Defines physiological analysis as categorizing priorities among strength, power, hypertrophy, and muscular endurance",
+          "Explains how physiological priorities dictate variable selection (load, reps, exercise types)",
+          "Provides a practical example linking physiological goals to specific resistance choices"
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What is defined as an athlete's current condition or level of preparedness to begin a new or revised resistance training program?",
+        "opts": [
+          "Training status",
+          "Training status continuum",
+          "Periodization index",
+          "Metabolic capacity"
+        ],
+        "correct": 0,
+        "rationale": "Training status refers to an athlete's current condition or level of preparedness to begin a new or revised training program, which includes evaluating current/past injuries and exercise history."
+      },
+      {
+        "id": 2,
+        "q": "Which four key factors should be evaluated when assessing an athlete's training background or exercise history?",
+        "opts": [
+          "Type of program, length of recent regular participation, intensity level, and degree of technique experience",
+          "Age, body weight, vertical jump height, and 40-yard dash time",
+          "Heart rate variability, blood pressure, VO2max, and body fat percentage",
+          "Caloric intake, sleep duration, supplement use, and flexibility score"
+        ],
+        "correct": 0,
+        "rationale": "An assessment of training background evaluates: 1) Type of training program, 2) Length of recent regular participation, 3) Level of intensity involved, and 4) Degree of exercise technique experience."
+      },
+      {
+        "id": 3,
+        "q": "According to Table 17.1, how is a 'Beginner' (untrained) athlete classified regarding resistance training background?",
+        "opts": [
+          "Not training or just started (< 2\u20136 months), no or low intensity, and minimal or no technique experience",
+          "Currently training 2\u20136 months, moderate intensity, and basic technique experience",
+          "Currently training \u2265 1 year continuously, high intensity, and high technique experience",
+          "Currently training > 3 years intermittently, extreme intensity, and expert technique experience"
+        ],
+        "correct": 0,
+        "rationale": "Table 17.1 classifies a Beginner as an individual currently not training or who just started (< 2\u20136 months), with low or no training intensity, and minimal or no exercise technique experience."
+      },
+      {
+        "id": 4,
+        "q": "According to Table 17.1, what characteristics define an 'Advanced' (trained) athlete?",
+        "opts": [
+          "Currently training \u2265 1 year continuously, high intensity, and high exercise technique experience",
+          "Currently training 2\u20136 months, low intensity, and basic technique experience",
+          "Currently training < 2 months, high intensity, and minimal technique experience",
+          "Currently training 6 months intermittently, moderate intensity, and no technique experience"
+        ],
+        "correct": 0,
+        "rationale": "Table 17.1 defines an Advanced athlete as one currently resistance training continuously for 1 year or more, participating at high intensity levels, and possessing high exercise technique skill."
+      },
+      {
+        "id": 5,
+        "q": "What criteria should guide the selection of physical tests when evaluating an athlete's strength and physical capabilities?",
+        "opts": [
+          "Tests must be related to the sport, consistent with skill level, and realistically based on available equipment",
+          "Tests must always test 1RM snatch regardless of the athlete's lifting background",
+          "Tests must rely exclusively on laboratory metabolic carts and muscle biopsies",
+          "Tests must be identical across all sport disciplines regardless of movement analysis"
+        ],
+        "correct": 0,
+        "rationale": "To yield pertinent and reliable data, physical tests should relate directly to the athlete's sport, be consistent with their level of skill, and be realistic based on available testing equipment."
+      },
+      {
+        "id": 6,
+        "q": "Why does the textbook recommend concentrating on only ONE primary resistance training outcome (e.g., strength OR muscular endurance) per season?",
+        "opts": [
+          "Attempting to target multiple conflicting outcomes simultaneously compromises optimal physiological adaptation",
+          "NCAA rules strictly prohibit training more than one physical quality per mesocycle",
+          "Athletes lack the psychological capacity to learn more than one exercise routine per year",
+          "Resistance training cannot improve more than one muscle fiber type across a lifetime"
+        ],
+        "correct": 0,
+        "rationale": "Concentrating on one primary outcome per season optimizes targeted adaptations. Attempting to target disparate outcomes (e.g., heavy strength and high-repetition endurance) simultaneously creates conflicting cellular signaling and limits progress."
+      },
+      {
+        "id": 7,
+        "q": "According to Table 17.2, what is the primary resistance training priority during the OFF-SEASON?",
+        "opts": [
+          "High priority; Hypertrophy and muscular endurance initially, progressing to strength and power later",
+          "Low priority; Maintenance of pre-season position of strength and power",
+          "Medium priority; Sport-specific movement endurance only",
+          "No priority; Complete sedentary rest and active rehabilitation"
+        ],
+        "correct": 0,
+        "rationale": "Table 17.2 establishes that the off-season has a HIGH resistance training priority, focusing initially on hypertrophy and muscular endurance, and transitioning to strength and power in later off-season phases."
+      },
+      {
+        "id": 8,
+        "q": "According to Table 17.2, how does resistance training emphasis shift during the IN-SEASON?",
+        "opts": [
+          "Shifts to LOW priority, focusing on maintenance of preseason strength, power, or muscular endurance",
+          "Shifts to HIGH priority, focusing on maximum hypertrophy and high-volume overload",
+          "Shifts to MEDIUM priority, focusing exclusively on learning new complex Olympic lifts",
+          "Is completely eliminated from the athlete's schedule"
+        ],
+        "correct": 0,
+        "rationale": "During the in-season, sport practice and competition take top priority. Resistance training shifts to LOW priority, focusing on maintaining preseason levels of strength, power, or muscular endurance."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which factors must be evaluated when assessing an athlete's training background or exercise history? (Select all that apply)",
+        "opts": [
+          "Type of training programs previously performed (e.g., sprint, resistance, plyometric)",
+          "Length of recent regular participation in training programs",
+          "Level of intensity involved in previous training",
+          "Degree of exercise technique experience and skill",
+          "Number of competitive games won in the previous season"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "An athlete's training background evaluation examines program type, length of recent regular participation, training intensity level, and technique experience. Game win statistics are irrelevant to exercise history."
+      },
+      {
+        "id": 2,
+        "q": "Which parameters define the 'Intermediate' (moderately trained) classification in Table 17.1? (Select all that apply)",
+        "opts": [
+          "Current resistance training duration of approximately 2 to 6 months",
+          "Moderate training intensity level",
+          "Basic exercise technique experience",
+          "Continuous training duration of 1 year or more",
+          "Minimal or no technique experience"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Table 17.1 defines Intermediate as ~2-6 months current training, moderate intensity, and basic technique experience. Continuous training \u22651 year defines Advanced; minimal technique defines Beginner."
+      },
+      {
+        "id": 3,
+        "q": "Which guidelines should be followed when conducting physical testing and evaluation for program design? (Select all that apply)",
+        "opts": [
+          "Tests selected should relate directly to the athlete's sport demands",
+          "Tests must be consistent with the athlete's level of skill",
+          "Tests must be realistically based on available equipment",
+          "Testing results should be compared to normative or descriptive data to identify strengths and weaknesses",
+          "Tests should force untrained athletes to attempt maximal 1RM power cleans on day one"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Physical testing must be sport-relevant, skill-appropriate, equipment-realistic, and compared against normative data. Untrained athletes should not be forced into complex 1RM power cleans without skill."
+      },
+      {
+        "id": 4,
+        "q": "According to Table 17.2, how do resistance training priorities shift across sport seasons? (Select all that apply)",
+        "opts": [
+          "Off-season: High priority for resistance training (hypertrophy/endurance initially, strength/power later)",
+          "Preseason: Medium priority (sport and movement-specific resistance emphasis)",
+          "In-season: Low priority (maintenance of preseason strength, power, or endurance)",
+          "Postseason: Low priority (variable active rest and rehabilitation)",
+          "In-season: High priority (maximum hypertrophy and structural volume expansion)"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Table 17.2 outlines: Off-season = High priority (hypertrophy/strength); Preseason = Medium priority (sport-specific); In-season = Low priority (maintenance); Postseason = Low priority (active rest)."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "The training status classifications of beginner, intermediate, and advanced exist on a continuous spectrum rather than rigid demarcations.",
+        "ans": true,
+        "feedback": "Table 17.1 emphasizes that training status exists on a continuum and athletes transition smoothly as their experience, intensity, and duration increase."
+      },
+      {
+        "id": 2,
+        "q": "An athlete should attempt to maximize both maximal strength and high-repetition muscular endurance simultaneously within the same in-season block.",
+        "ans": false,
+        "feedback": "The textbook explicitly advises concentrating on ONE primary resistance training outcome per season to prevent conflicting cellular signaling and optimize adaptation."
+      },
+      {
+        "id": 3,
+        "q": "During the in-season, resistance training shifts to a low priority focused on maintaining preseason strength and power.",
+        "ans": true,
+        "feedback": "In-season priorities shift toward sport performance and competition; resistance training assumes a low priority focused on maintaining established qualities."
+      },
+      {
+        "id": 4,
+        "q": "Physical testing batteries should be identical for all athletes regardless of their sport movement analysis or lifting skill.",
+        "ans": false,
+        "feedback": "Tests must be selected based on the movement analysis of the sport, the athlete's skill level, and available equipment to yield meaningful data."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "An advanced athlete has been resistance training continuously for at least **1 year**, demonstrating high training intensity and high **technique** experience.",
+        "targets": [
+          "1 year",
+          "technique"
+        ],
+        "optionsBank": [
+          "1 year",
+          "technique",
+          "2 weeks",
+          "6 months",
+          "endurance"
+        ],
+        "hint": "Refers to the minimum continuous timeframe and skill requirement for an advanced lifter in Table 17.1."
+      },
+      {
+        "id": 2,
+        "statement": "Resistance training has a high priority during the **off-season**, whereas it shifts to low priority maintenance during the **in-season**.",
+        "targets": [
+          "off-season",
+          "in-season"
+        ],
+        "optionsBank": [
+          "off-season",
+          "in-season",
+          "preseason",
+          "postseason",
+          "active rest"
+        ],
+        "hint": "Contrasts the sport season of highest weight room volume against the season focused on maintaining competition readiness."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain how a strength and conditioning professional assesses an athlete's training status using the four exercise history factors and Table 17.1 classifications.",
+        "model": "The strength and conditioning professional evaluates four key exercise history factors: 1) Type of training program previously performed (sprint, plyometric, resistance), 2) Length of recent regular participation, 3) Level of intensity involved, and 4) Degree of exercise technique experience. Based on these factors, the athlete is categorized along the training status continuum (Table 17.1): Beginner (<2\u20136 months training, low intensity, minimal technique), Intermediate (~2\u20136 months training, moderate intensity, basic technique), or Advanced (\u22651 year continuous training, high intensity, high technique experience). This classification determines exercise selection complexity, initial loading, and progression rates.",
+        "criteria": [
+          "Lists the four exercise history factors (program type, length of participation, intensity level, technique experience)",
+          "Explains Table 17.1 continuum classifications (Beginner, Intermediate, Advanced) with timeframe and intensity parameters",
+          "Describes how training status shapes exercise selection, loading, and progression rate"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Detail how physical testing data and seasonal priorities (Table 17.2) are synthesized to establish an athlete's primary resistance training goal.",
+        "model": "Establishing the primary goal involves combining physical testing evaluation with the physiological analysis of the sport and sport season priorities (Table 17.2). Testing batteries (e.g., 1RM bench press, squat, power clean) identify an athlete's specific strengths and weaknesses relative to normative data. The coach then aligns these findings with seasonal priorities: in the off-season (high resistance priority), the primary goal typically focuses on hypertrophy or foundational strength; in the preseason (medium priority), the goal shifts to sport-specific power or endurance; in the in-season (low priority), the goal is maintaining established strength/power levels. To avoid conflicting physiological signaling, the coach focuses on only ONE primary resistance outcome per season.",
+        "criteria": [
+          "Explains how physical testing results are compared to normative data to identify strengths and weaknesses",
+          "Outlines seasonal priority shifts according to Table 17.2 (Off-season = High/Hypertrophy-Strength; Preseason = Medium/Power; In-season = Low/Maintenance)",
+          "States the rule of focusing on ONE primary resistance outcome per season to optimize adaptation"
+        ]
+      }
+    ]
+  }
+}

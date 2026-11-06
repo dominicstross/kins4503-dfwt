@@ -1,0 +1,190 @@
+{
+    "meta": {
+        "course": "DFWT - KINS 4503 Design of Fitness & WT",
+        "chapter": "3",
+        "section": "3.2",
+        "ch": "3",
+        "mod": "3.2",
+        "moduleTitle": "3.2 Biological Energy Systems"
+    },
+    "pages": [
+        {
+            "id": "p1",
+            "title": "Part 1: The Phosphagen System and Cellular Energy Resynthesis",
+            "sampleCounts": {
+                "mcq": 2,
+                "ms": 2,
+                "tf": 2,
+                "cloze": 2,
+                "sa": 1
+            },
+            "readingHtml": "<h2>The Phosphagen System and Cellular Energy Resynthesis</h2><p>Three basic energy systems exist in mammalian skeletal muscle cells to replenish adenosine triphosphate (ATP): the <strong>phosphagen system</strong>, <strong>glycolysis</strong>, and the <strong>oxidative system</strong>. In exercise bioenergetics, metabolic pathways are categorized into <strong>anaerobic</strong> (oxygen-independent) processes occurring in the cell sarcoplasm and <strong>aerobic</strong> (oxygen-dependent) processes occurring in the mitochondria. The phosphagen and glycolytic pathways operate anaerobically, whereas the Krebs cycle and electron transport chain (ETC) function aerobically, requiring molecular oxygen as the terminal electron acceptor. Of the three primary macronutrients—carbohydrate, protein, and fat—only carbohydrate can be metabolized for energy without the direct involvement of oxygen.</p><h3>Phosphagen System Kinematics and Kinetics</h3><p>The phosphagen system provides ATP primarily for short-term, high-intensity activities (e.g., maximal sprinting and heavy resistance training) and is highly active at the onset of all exercise regardless of intensity. This system relies on cellular ATP hydrolysis and the breakdown of <strong>creatine phosphate (CP)</strong>, also termed <strong>phosphocreatine (PCr)</strong>. The reversible enzyme <strong>creatine kinase</strong> catalyzes the synthesis of ATP from CP and adenosine diphosphate (ADP):</p><p style=\"text-align:center;\"><strong>ADP + CP &harr; ATP + Creatine</strong> <em>(catalyzed by Creatine Kinase)</em></p><p>Skeletal muscle stores relatively small amounts of CP, limiting its capacity as a continuous primary energy supplier for long-duration activities. Under normal resting conditions, muscle CP concentrations are 4 to 6 times higher than ATP concentrations (80 to 100 g or ~3 oz of total body ATP). Resting ATP stores cannot be completely depleted during fatigue, typically decreasing by only 50% to 60% of preexercise levels to maintain baseline cellular viability. Type II (fast-twitch) muscle fibers contain significantly higher CP concentrations than Type I (slow-twitch) fibers, enabling individuals with higher Type II composition to resynthesize ATP faster during high-power anaerobic performance.</p><h3>Adenylate Kinase Reaction and Law of Mass Action</h3><p>Another single-enzyme reaction that rapidly replenishes ATP is catalyzed by <strong>adenylate kinase</strong> (also termed <strong>myokinase</strong>):</p><p style=\"text-align:center;\"><strong>2 ADP &harr; ATP + AMP</strong> <em>(catalyzed by Adenylate Kinase)</em></p><p>The product <strong>adenosine monophosphate (AMP)</strong> is a powerful allosteric activator of glycolytic enzymes. The reactions of the phosphagen system are regulated by the <strong>law of mass action</strong> (mass action effect), which states that the concentrations of reactants or products in solution drive the direction of enzyme-mediated reactions. Accumulation of sarcoplasmic ADP and P<sub>i</sub> drives creatine kinase and adenylate kinase forward to restore ATP equilibrium.</p><div class=\"callout-box\"><div class=\"callout-title\">Coaching /Sport Application</div><p>High-power events lasting under 6 seconds (e.g., 100m sprint start, Olympic weightlifting) depend strictly on phosphagen capacity. Rest intervals between maximal resistance training sets must be structured long enough (2 to 5 minutes) to permit substantial CP repletion driven by mass action kinetics.</p></div><table class=\"data-table\"><thead><tr><th>Energy System Component</th><th>Subcellular Location</th><th>Substrate Required</th><th>Kinetic Rate vs Capacity</th></tr></thead><tbody><tr><td><strong>Phosphagen System</strong></td><td>Sarcoplasm</td><td>Creatine Phosphate (CP) / ADP</td><td>Highest Rate / Lowest Capacity</td></tr><tr><td><strong>Adenylate Kinase Reaction</strong></td><td>Sarcoplasm</td><td>ADP + ADP</td><td>Immediate Rate / Very Low Capacity</td></tr></tbody></table>"
+        },
+        {
+            "id": "p2",
+            "title": "Part 2: Glycolysis, Lactate Formation, and Metabolic Acidosis",
+            "sampleCounts": {
+                "mcq": 2,
+                "ms": 2,
+                "tf": 2,
+                "cloze": 2,
+                "sa": 1
+            },
+            "readingHtml": "<h2>Glycolysis, Lactate Formation, and Metabolic Acidosis</h2><p><strong>Glycolysis</strong> is the breakdown of carbohydrate—either muscle glycogen or blood glucose—to resynthesize ATP via a series of enzymatic reactions in the sarcoplasm. Because glycolysis involves multiple enzymatic steps, its rate of ATP resynthesis is slower than the single-step phosphagen system; however, its overall capacity is substantially greater due to larger intracellular glycogen stores.</p><h3>The Dual Fates of Pyruvate</h3><p>Pyruvate represents the ultimate end product of glycolysis. Its metabolic fate is governed primarily by cellular energy demand and oxygen availability within the mitochondria:</p><ul><li><strong>Anaerobic Glycolysis (Fast Glycolysis):</strong> When energy demand is high and must be transferred rapidly, pyruvate is converted to <strong>lactate</strong> in the sarcoplasm by <strong>lactate dehydrogenase</strong>. This path rapidly regenerates NAD<sup>+</sup> to maintain high glycolytic throughput, though duration is limited by accompanying intracellular proton accumulation.</li><li><strong>Aerobic Glycolysis (Slow Glycolysis):</strong> When energy demand is moderate and oxygen is sufficient, pyruvate is transported into the mitochondria along with NADH and converted to <strong>acetyl-CoA</strong> for entry into the <strong>Krebs cycle</strong>.</li></ul><h3>Debunking the Lactic Acid Myth & Metabolic Acidosis</h3><p>A common misnomer in exercise physiology is that glycolysis produces 'lactic acid' that dissociates into lactate and H<sup>+</sup>. At physiological pH (~7.0), the phosphoglycerate kinase step leaves a carboxylate group (COO<sup>-</sup>), producing <strong>lactate</strong> directly without a dissociable proton. Furthermore, the conversion of pyruvate to lactate actually consumes H<sup>+</sup> ions, acting as a temporary metabolic buffer rather than the cause of acidosis.</p><p>Intracellular proton accumulation—termed <strong>metabolic acidosis</strong>—stems primarily from ATP hydrolysis (ATP + H<sub>2</sub>O &rarr; ADP + P<sub>i</sub> + H<sup>+</sup>). Accumulating H<sup>+</sup> decreases cytosolic pH, inhibiting glycolytic enzyme activity, impairing crossbridge recycling, and interfering with excitation-contraction coupling by competing with Ca<sup>2+</sup> for troponin binding sites.</p><h3>Lactate Dynamics and the Cori Cycle</h3><p>Resting blood lactate concentration ranges between 0.5 to 2.2 mmol/L. Maximal lactate production rate is twice as high in Type II muscle fibers (0.5 mmol&middot;g<sup>-1</sup>&middot;s<sup>-1</sup>) compared to Type I fibers (0.25 mmol&middot;g<sup>-1</sup>&middot;s<sup>-1</sup>). Lactate cleared from skeletal muscle is oxidized locally or transported via the bloodstream to the liver, where it is converted to glucose via <strong>gluconeogenesis</strong> in the <strong>Cori cycle</strong>.</p><div class=\"callout-box\"><div class=\"callout-title\">Coaching /Sport Application</div><p>Active recovery (light low-intensity movement) significantly enhances post-exercise blood lactate clearance compared to passive rest by enhancing muscular lactate oxidation and hepatic Cori cycle flux.</p></div><table class=\"data-table\"><thead><tr><th>Glycolytic Pathway</th><th>Pyruvate End-Product</th><th>Rate of ATP Synthesis</th><th>Duration Potential</th></tr></thead><tbody><tr><td><strong>Fast (Anaerobic) Glycolysis</strong></td><td>Lactate (Sarcoplasm)</td><td>Rapid</td><td>Short to Medium (30–90 s)</td></tr><tr><td><strong>Slow (Aerobic) Glycolysis</strong></td><td>Acetyl-CoA (Mitochondria)</td><td>Slower</td><td>Extended (>2 min)</td></tr></tbody></table>"
+        },
+        {
+            "id": "p3",
+            "title": "Part 3: Glycolytic Bioenergetics, Energy Yield, Regulation, and Lactate Thresholds",
+            "sampleCounts": {
+                "mcq": 2,
+                "ms": 2,
+                "tf": 2,
+                "cloze": 2,
+                "sa": 1
+            },
+            "readingHtml": "<h2>Glycolytic Bioenergetics, Energy Yield, Regulation, and Lactate Thresholds</h2><p>The net chemical reaction for fast glycolysis converting glucose to lactate is expressed as:</p><p style=\"text-align:center;\"><strong>Glucose + 2 P<sub>i</sub> + 2 ADP &rarr; 2 Lactate + 2 ATP + H<sub>2</sub>O</strong></p><p>When pyruvate is shuttled into the mitochondria for aerobic processing, the net glycolytic reaction is:</p><p style=\"text-align:center;\"><strong>Glucose + 2 P<sub>i</sub> + 2 ADP + 2 NAD<sup>+</sup> &rarr; 2 Pyruvate + 2 ATP + 2 NADH + 2 H<sub>2</sub>O</strong></p><h3>Substrate-Level Phosphorylation and Net ATP Yield</h3><p>ATP resynthesis during metabolism occurs via <strong>substrate-level phosphorylation</strong> (direct transfer of phosphate from substrate to ADP) or <strong>oxidative phosphorylation</strong> (resynthesis in the mitochondrial electron transport chain). Glycolysis produces a gross total of 4 ATP via substrate-level phosphorylation (catalyzed by phosphoglycerate kinase and pyruvate kinase). However, net yield depends on the substrate origin:</p><ul><li><strong>Blood Glucose:</strong> Hexokinase hydrolyzes 1 ATP to phosphorylate glucose to glucose-6-phosphate; PFK hydrolyzes a 2nd ATP. Net yield = 4 - 2 = 2 ATP.</li><li><strong>Muscle Glycogen:</strong> Glycogenolysis catalyzed by <strong>glycogen phosphorylase</strong> yields pre-phosphorylated glucose. Only 1 ATP (PFK step) is hydrolyzed. Net yield = 4 - 1 = 3 ATP.</li></ul><h3>Allosteric Regulation of Key Enzymes</h3><p>Glycolysis is regulated by three key enzymes possessing <strong>allosteric</strong> binding sites:</p><ul><li><strong>Hexokinase:</strong> Allosterically inhibited by its product, glucose-6-phosphate.</li><li><strong>Phosphofructokinase (PFK):</strong> The primary <strong>rate-limiting step</strong> of glycolysis. Allosterically inhibited by high ATP, CP, citrate, and free fatty acids; allosterically activated by AMP, ADP, P<sub>i</sub>, and ammonia.</li><li><strong>Pyruvate Kinase:</strong> Inhibited by ATP and acetyl-CoA; activated by AMP and fructose-1,6-bisphosphate.</li></ul><h3>Lactate Threshold (LT) and OBLA</h3><p>The <strong>lactate threshold (LT)</strong> marks the exercise intensity at which blood lactate begins an abrupt increase above baseline, signaling increased reliance on anaerobic mechanisms. LT occurs at 50% to 60% of V&#775;O<sub>2</sub>max in untrained individuals and 70% to 80% in aerobically trained athletes. A second inflection point, the <strong>onset of blood lactate accumulation (OBLA)</strong>, occurs when blood lactate concentration reaches 4 mmol/L.</p><div class=\"callout-box\"><div class=\"callout-title\">Coaching /Sport Application</div><p>Training at or slightly above LT/OBLA induces physiological adaptations—such as increased mitochondrial density and reduced catecholamine secretion—that shift the lactate curve to the right, allowing athletes to sustain higher power outputs without premature acidosis.</p></div><table class=\"data-table\"><thead><tr><th>Carbohydrate Substrate</th><th>ATP Consumed</th><th>Gross Substrate ATP</th><th>Net Glycolytic ATP Yield</th></tr></thead><tbody><tr><td><strong>Blood Glucose</strong></td><td>2 ATP</td><td>4 ATP</td><td>2 ATP</td></tr><tr><td><strong>Muscle Glycogen</strong></td><td>1 ATP</td><td>4 ATP</td><td>3 ATP</td></tr></tbody></table>"
+        },
+        {
+            "id": "p4",
+            "title": "Part 4: The Oxidative System and Substrate Oxidation",
+            "sampleCounts": {
+                "mcq": 2,
+                "ms": 2,
+                "tf": 2,
+                "cloze": 2,
+                "sa": 1
+            },
+            "readingHtml": "<h2>The Oxidative System and Substrate Oxidation</h2><p>The <strong>oxidative system</strong> is the primary source of ATP at rest and during low-intensity steady-state exercise. At rest, approximately 70% of ATP is derived from fat oxidation and 30% from carbohydrate oxidation. As exercise intensity increases, substrate utilization shifts preferentially toward carbohydrates. During submaximal, prolonged exercise (>90 minutes), fuel selection gradually shifts back toward fat oxidation.</p><h3>Glucose and Glycogen Oxidation Pathways</h3><p>When oxygen is present, pyruvate enters the mitochondrial matrix and is converted to acetyl-CoA by the pyruvate dehydrogenase complex. Acetyl-CoA enters the <strong>Krebs cycle</strong> (citric acid cycle), where substrate-level phosphorylation produces 2 GTP (equivalent to 2 ATP) per glucose molecule. The oxidation of substrate also yields 6 NADH and 2 FADH<sub>2</sub> from the Krebs cycle (plus 2 NADH from glycolysis and 2 NADH from pyruvate conversion).</p><p>These reduced coenzymes transfer hydrogen protons and electrons to the <strong>electron transport chain (ETC)</strong> across cytochromes. Oxygen acts as the final electron acceptor, forming H<sub>2</sub>O. Each NADH yields 3 ATP, whereas each FADH<sub>2</sub> yields 2 ATP. Complete oxidative degradation of 1 molecule of blood glucose yields approximately 38 ATP (39 ATP from muscle glycogen). Oxidative phosphorylation accounts for >90% of total cellular ATP resynthesis.</p><h3>Fat Oxidation and Beta Oxidation</h3><p>Triglycerides in adipose tissue or intramuscular stores are hydrolyzed by <strong>hormone-sensitive lipase</strong> into glycerol and free fatty acids. Free fatty acids enter the mitochondria to undergo <strong>beta oxidation</strong>—a cyclic cascade breaking fatty acid chains into acetyl-CoA, NADH, and FADH<sub>2</sub>. Beta oxidation of a single triglyceride containing three 16-carbon palmitic acid chains yields over 300 ATP molecules, demonstrating fat oxidation's immense capacity.</p><h3>Protein Oxidation and Regulation</h3><p>Protein is a minor energy substrate (3% to 18% during prolonged exercise). Amino acids are converted via <strong>gluconeogenesis</strong> into glucose, pyruvate, or Krebs cycle intermediates. Skeletal muscle oxidizes mainly <strong>branched-chain amino acids (BCAAs)</strong>—leucine, isoleucine, and valine. Nitrogenous waste is eliminated as urea and toxic ammonia. The rate-limiting enzyme of the Krebs cycle is <strong>isocitrate dehydrogenase</strong>, inhibited by ATP and activated by ADP.</p><div class=\"callout-box\"><div class=\"callout-title\">Coaching /Sport Application</div><p>Aerobic endurance training increases mitochondrial volume and oxidative enzyme density, enhancing fat oxidation capacity at submaximal workloads and sparing limited muscle glycogen stores for high-intensity surges.</p></div><table class=\"data-table\"><thead><tr><th>Substrate Category</th><th>Primary Metabolic Pathway</th><th>ATP Rate</th><th>Total ATP Yield Capacity</th></tr></thead><tbody><tr><td><strong>Carbohydrate (Glucose)</strong></td><td>Glycolysis + Krebs + ETC</td><td>Moderate</td><td>38–39 ATP per molecule</td></tr><tr><td><strong>Fat (Triglyceride)</strong></td><td>Beta Oxidation + Krebs + ETC</td><td>Slowest</td><td>>300 ATP per molecule</td></tr><tr><td><strong>Protein (BCAAs)</strong></td><td>Deamination + Krebs / Gluconeogenesis</td><td>Slowest</td><td>Variable (3%–18% total energy)</td></tr></tbody></table>"
+        },
+        {
+            "id": "p5",
+            "title": "Part 5: Energy Production Rates, Capacity, and Exercise Specificity",
+            "sampleCounts": {
+                "mcq": 2,
+                "ms": 2,
+                "tf": 2,
+                "cloze": 2,
+                "sa": 1
+            },
+            "readingHtml": "<h2>Energy Production Rates, Capacity, and Exercise Specificity</h2><p>The three biological energy systems exhibit a fundamental inverse relationship between their <strong>maximum rate of ATP production</strong> (ATP resynthesized per unit time) and their total <strong>capacity</strong> (total ATP produced over time). High power output demands a rapid energy supply, relying on pathways with high rates and low capacities. Conversely, low-intensity, long-duration work relies on systems with immense capacities but slower production rates.</p><h3>Comparative Bioenergetic Characteristics</h3><table class=\"data-table\"><thead><tr><th>Energy System</th><th>Max Rate of ATP Production</th><th>Capacity of ATP Production</th></tr></thead><tbody><tr><td><strong>Phosphagen</strong></td><td>1 (Highest / Fastest)</td><td>5 (Lowest / Least)</td></tr><tr><td><strong>Fast Glycolysis</strong></td><td>2</td><td>4</td></tr><tr><td><strong>Slow Glycolysis</strong></td><td>3</td><td>3</td></tr><tr><td><strong>Oxidation of Carbs</strong></td><td>4</td><td>2</td></tr><tr><td><strong>Oxidation of Fats/Proteins</strong></td><td>5 (Slowest)</td><td>1 (Highest / Greatest)</td></tr></tbody></table><h3>Exercise Intensity and Duration Interactions</h3><p>The primary determinant of energy system selection is <strong>exercise intensity</strong> (quantified as power output or work per unit time), while <strong>exercise duration</strong> acts as a secondary modifier:</p><ul><li><strong>0 to 6 seconds (Extremely High Intensity):</strong> Phosphagen system dominant.</li><li><strong>6 to 30 seconds (Very High Intensity):</strong> Phosphagen and fast glycolysis.</li><li><strong>30 seconds to 2 minutes (High Intensity):</strong> Fast glycolysis dominant.</li><li><strong>2 to 3 minutes (Moderate Intensity):</strong> Fast glycolysis and oxidative system.</li><li><strong>>3 minutes (Low Intensity):</strong> Oxidative energy system dominant.</li></ul><div class=\"callout-box\"><div class=\"callout-title\">Coaching /Sport Application</div><p>At no time during rest or exercise does a single energy system provide 100% of cellular energy. Strength and conditioning coaches must prescribe work-to-rest ratios matching the targeted sport's dominant bioenergetic continuum to optimize performance adaptation.</p></div>"
+        }
+    ],
+    "glossary": [
+        {
+            "term": "Bioenergetics",
+            "def": "The flow of energy in a biological system; concerns primarily the conversion of macronutrients into biologically usable forms of energy."
+        },
+        {
+            "term": "Anaerobic",
+            "def": "Processes that do not require the presence of oxygen."
+        },
+        {
+            "term": "Aerobic",
+            "def": "Mechanisms that depend on oxygen as the terminal electron acceptor."
+        },
+        {
+            "term": "Phosphagen system",
+            "def": "An anaerobic energy system that relies on ATP hydrolysis and creatine phosphate breakdown to rapidly resynthesize ATP for short-term, high-intensity exercise."
+        },
+        {
+            "term": "Creatine phosphate (CP)",
+            "def": "A high-energy phosphate molecule used by the phosphagen system to rapidly rephosphorylate ADP to ATP; also called phosphocreatine (PCr)."
+        },
+        {
+            "term": "Creatine kinase",
+            "def": "The enzyme that catalyzes the synthesis of ATP from CP and ADP."
+        },
+        {
+            "term": "Adenylate kinase",
+            "def": "An enzyme that catalyzes the single-step reaction 2ADP <-> ATP + AMP to rapidly resynthesize ATP; also called myokinase."
+        },
+        {
+            "term": "Law of mass action",
+            "def": "The principle stating that the concentrations of reactants or products (or both) in solution will drive the direction of enzyme-mediated reactions."
+        },
+        {
+            "term": "Glycolysis",
+            "def": "The breakdown of carbohydrate—either glycogen stored in the muscle or glucose delivered in the blood—to resynthesize ATP."
+        },
+        {
+            "term": "Pyruvate",
+            "def": "The end product of glycolysis, which can either be converted to lactate in the sarcoplasm or shuttled into the mitochondria."
+        },
+        {
+            "term": "Lactate",
+            "def": "The anion resulting from the lactate dehydrogenase reaction during fast glycolysis; serves as a metabolic buffer and energy substrate."
+        },
+        {
+            "term": "Lactate dehydrogenase",
+            "def": "The enzyme that catalyzes the conversion of pyruvate to lactate in the sarcoplasm."
+        },
+        {
+            "term": "Metabolic acidosis",
+            "def": "An exercise-induced decrease in cytosolic pH caused primarily by proton accumulation from ATP hydrolysis."
+        },
+        {
+            "term": "Gluconeogenesis",
+            "def": "The formation of glucose from noncarbohydrate sources, such as lactate, glycerol, or amino acids."
+        },
+        {
+            "term": "Cori cycle",
+            "def": "The metabolic pathway in which lactate produced by anaerobic glycolysis in muscle is transported to the liver and converted back to glucose."
+        },
+        {
+            "term": "Substrate-level phosphorylation",
+            "def": "The direct resynthesis of ATP from ADP during a single reaction in metabolic pathways without requiring oxygen or electron transport."
+        },
+        {
+            "term": "Oxidative phosphorylation",
+            "def": "The resynthesis of ATP from ADP occurring in the electron transport chain using proton gradients generated by substrate oxidation."
+        },
+        {
+            "term": "Glycogenolysis",
+            "def": "The enzymatic breakdown of stored glycogen into glucose-1-phosphate by glycogen phosphorylase."
+        },
+        {
+            "term": "Phosphofructokinase (PFK)",
+            "def": "The key regulatory, rate-limiting enzyme of glycolysis that catalyzes the conversion of fructose-6-phosphate to fructose-1,6-bisphosphate."
+        },
+        {
+            "term": "Allosteric regulation",
+            "def": "Regulation of an enzyme's activity occurring when a regulatory molecule binds to an allosteric ('other site') on the enzyme."
+        },
+        {
+            "term": "Lactate threshold (LT)",
+            "def": "The exercise intensity at which blood lactate begins an abrupt increase above baseline concentration, indicating an increased reliance on anaerobic mechanisms."
+        },
+        {
+            "term": "Onset of blood lactate accumulation (OBLA)",
+            "def": "The point during exercise of increasing intensity at which blood lactate reaches a concentration of 4 mmol/L."
+        },
+        {
+            "term": "Oxidative system",
+            "def": "The primary aerobic source of ATP at rest and during low-intensity activities, using carbohydrates, fats, and proteins as substrates."
+        },
+        {
+            "term": "Krebs cycle",
+            "def": "A series of mitochondrial chemical reactions that continues the oxidation of acetyl-CoA and produces GTP, NADH, and FADH2."
+        },
+        {
+            "term": "Electron transport chain (ETC)",
+            "def": "A series of electron carrier proteins in the inner mitochondrial membrane that uses NADH and FADH2 to produce ATP via oxidative phosphorylation."
+        },
+        {
+            "term": "Beta oxidation",
+            "def": "A series of mitochondrial reactions in which free fatty acids are broken down into acetyl-CoA, NADH, and FADH2."
+        },
+        {
+            "term": "Hormone-sensitive lipase",
+            "def": "An enzyme that breaks down stored triglycerides into free fatty acids and glycerol."
+        },
+        {
+            "term": "Branched-chain amino acids (BCAAs)",
+            "def": "Essential amino acids (leucine, isoleucine, valine) oxidized primarily within skeletal muscle during exercise."
+        },
+        {
+            "term": "Isocitrate dehydrogenase",
+            "def": "The primary rate-limiting enzyme of the Krebs cycle, stimulated by ADP and inhibited by ATP."
+        }
+    ]
+}

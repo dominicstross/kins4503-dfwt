@@ -1,0 +1,76 @@
+{
+    "chapterId": "6.4",
+    "title": "6.4 External and Individual Factors Influencing Adaptations to Aerobic Endurance Training",
+    "cards": [
+        {
+            "id": "6.4-01",
+            "tag": "Altitude Exposure & Acute Adjustments",
+            "reference": "Section 6.4",
+            "front": "What acute physiological adjustments occur at elevations greater than <strong>3,900 feet (1,200 m)</strong> to compensate for lower atmospheric oxygen pressure?",
+            "back": "Immediate adjustments include <strong>hyperventilation</strong> (primarily via increased breathing frequency) and a <strong>30% to 50% surge in submaximal cardiac output</strong> driven entirely by elevated heart rate while stroke volume remains constant or slightly reduced."
+        },
+        {
+            "id": "6.4-02",
+            "tag": "Altitude Acclimatization & Chronic Adaptations",
+            "reference": "Section 6.4",
+            "front": "What chronic physiological and metabolic adaptations occur during prolonged altitude acclimatization (<strong>3 to 6 weeks at 2,200 to 3,000 m</strong>)?",
+            "back": "Longer-term acclimatization produces: <ul><li><strong>30% to 50% increase</strong> in red blood cell production</li><li><strong>5% to 15% increase</strong> in hemoglobin formation</li><li>Increased <strong>pulmonary oxygen diffusing capacity</strong> and capillarization</li><li>Renal excretion of <strong>HCO<sub>3</sub><sup>-</sup></strong> to maintain acid-base balance</li></ul>"
+        },
+        {
+            "id": "6.4-03",
+            "tag": "Hyperoxic Breathing Mechanics",
+            "reference": "Section 6.4",
+            "front": "Why does <strong>hyperoxic breathing</strong> during rest intervals offer limited ergogenic benefit for healthy individuals at sea level?",
+            "back": "At sea level, healthy individuals breathing ambient air already exhibit an arterial hemoglobin oxygen saturation of <strong>95% to 98%</strong>, leaving minimal headroom for additional oxygen transport."
+        },
+        {
+            "id": "6.4-04",
+            "tag": "Smoking & Airway Resistance",
+            "reference": "Section 6.4",
+            "front": "What immediate anatomical and physiological impairments in the respiratory tract are caused by <strong>cigarette smoking</strong>?",
+            "back": "Nicotine causes <strong>bronchiole constriction</strong> and <strong>paralyzes respiratory cilia</strong>, impairing fluid and particle removal and causing debris to accumulate, which increases airway resistance and respiratory strain."
+        },
+        {
+            "id": "6.4-05",
+            "tag": "Carbon Monoxide & Hemodynamics",
+            "reference": "Section 6.4",
+            "front": "How does <strong>carbon monoxide</strong> from cigarette smoke impair oxygen transport and cardiovascular function during exercise?",
+            "back": "Carbon monoxide has a much higher affinity for hemoglobin than oxygen, forming <strong>carboxyhemoglobin</strong>. This reduces arterial oxygen-carrying capacity and triggers elevated catecholamine release, raising resting and submaximal heart rate and blood pressure."
+        },
+        {
+            "id": "6.4-06",
+            "tag": "Blood Doping & EPO Mechanics",
+            "reference": "Section 6.4",
+            "front": "How do <strong>blood doping</strong> and <strong>erythropoietin (EPO)</strong> administration affect maximal oxygen uptake and submaximal exercise kinetics?",
+            "back": "Blood doping increases maximal oxygen uptake (VO<sub>2</sub>max) by <strong>up to 11%</strong> and lowers submaximal heart rate and blood lactate while elevating blood pH due to increased red blood cell oxygen-carrying capacity."
+        },
+        {
+            "id": "6.4-07",
+            "tag": "Blood Doping Health Risks",
+            "reference": "Section 6.4",
+            "front": "What severe medical risks are associated with artificial red blood cell elevation and high hematocrit from <strong>blood doping or EPO abuse</strong>?",
+            "back": "High hematocrit dramatically increases blood viscosity, elevating the risk of serious embolic events including <strong>stroke, myocardial infarction, deep vein thrombosis, and pulmonary embolism</strong>, alongside arterial hypertension."
+        },
+        {
+            "id": "6.4-08",
+            "tag": "Genetic Potential & Diminishing Returns",
+            "reference": "Section 6.4",
+            "front": "How does an individual's <strong>genetic potential</strong> affect the magnitude of training adaptations as an athlete advances?",
+            "back": "Each biological system has a genetic upper limit. As athletes approach their genetic ceiling, training gains follow a curve of <strong>diminishing returns</strong>, where even minute performance improvements (e.g., <strong>0.05%</strong>) require precise program design."
+        },
+        {
+            "id": "6.4-09",
+            "tag": "Age & Sarcopenia",
+            "reference": "Section 6.4",
+            "front": "What physiological changes account for the decline in <strong>maximal aerobic power</strong> with advancing age in adults?",
+            "back": "Age-related declines in aerobic power stem primarily from <strong>sarcopenia</strong> (loss of muscle mass and strength) alongside an increase in relative body fat mass."
+        },
+        {
+            "id": "6.4-10",
+            "tag": "Sex Differences in Aerobic Power",
+            "reference": "Section 6.4",
+            "front": "How do <strong>aerobic power values in women</strong> compare to age-matched men, and what physiological factors account for this difference?",
+            "back": "Aerobic power in age-matched women ranges from <strong>73% to 85%</strong> of male values. This difference is driven by women's lower blood hemoglobin levels (14 vs. 15&ndash;16 g/dL), higher body fat percentage, and smaller heart chamber size and blood volume."
+        }
+    ]
+}

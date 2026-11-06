@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "course": "DFWT - KINS 4503 Design of Fitness & WT",
+    "chapter": "17",
+    "section": "17.3",
+    "ch": "17",
+    "mod": "17.3",
+    "moduleTitle": "17.3 Step 3: Training Frequency"
+  },
+  "pages": [
+    {
+      "id": "p1",
+      "title": "Part 1: Training Status, Recovery Guidelines, and Split Routines",
+      "readingHtml": "<h2>Defining Resistance Training Frequency</h2>\n<p><strong>Training frequency</strong> refers to the number of training sessions completed in a given time period, with one week serving as the standard time frame for resistance training program design. Determining an athlete's optimal training frequency requires the strength and conditioning professional to evaluate five core parameters: the athlete's <strong>training status</strong>, the current <strong>sport season</strong>, projected <strong>exercise loads</strong>, the <strong>types of exercises</strong> prescribed, and the presence of <strong>concurrent training or occupational physical stress</strong>.</p>\n\n<h2>Training Status and Rest Day Guidelines</h2>\n<p>An athlete's level of preparedness (training status)\u2014established during Step 1 (Needs Analysis)\u2014is a primary determinant of training frequency because it dictates the amount of recovery time required between sessions. Traditionally, <strong>three workouts per week</strong> are recommended for beginner athletes, as intervening rest days allow sufficient physiological recovery between sessions.</p>\n<p>As an athlete adapts to training and achieves higher conditioning levels, frequency can systematically increase to four days per week, and eventually to five, six, or seven days per week for advanced lifters.</p>\n\n<h3>The Golden Rule of Recovery Spacing</h3>\n<p>The foundational guideline for scheduling resistance training sessions is to include <strong>at least one rest or recovery day\u2014but no more than three rest days\u2014between training sessions that stress the same muscle groups</strong>.</p>\n<ul>\n    <li><strong>Avoiding Overuse and Inadequate Recovery:</strong> Scheduling consecutive days of heavy resistance training for the same muscle group leads to excessive tissue damage, blunted protein synthesis, and elevated injury risk.</li>\n    <li><strong>Avoiding Detraining:</strong> Allowing more than three days of rest between similar stimuli (e.g., training only on Monday and Wednesday, leaving four complete days of rest until the following Monday) can lead to a regression or decrease in training status. However, in well-trained athletes, one session per week can temporarily maintain strength during brief travel or competition phases.</li>\n    <li><strong>Even Spacing for Beginners:</strong> For novice athletes performing total-body workouts twice per week, sessions should be spaced evenly across the week (e.g., Monday and Thursday, or Tuesday and Friday).</li>\n</ul>\n\n<h2>Training Status Frequency Recommendations</h2>\n<p>The table below summarizes recommended weekly resistance training frequencies based on the athlete's training background:</p>\n\n<table>\n    <thead>\n        <tr>\n            <th>Training Status</th>\n            <th>Training Experience</th>\n            <th>Recommended Frequency (Sessions/Week)</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td><strong>Beginner (Untrained)</strong></td>\n            <td>&lt; 2\u20136 months</td>\n            <td>2 to 3</td>\n        </tr>\n        <tr>\n            <td><strong>Intermediate (Moderately Trained)</strong></td>\n            <td>~ 2\u20136 months</td>\n            <td>3 to 4 (Total Body or Split Routine)</td>\n        </tr>\n        <tr>\n            <td><strong>Advanced (Trained)</strong></td>\n            <td>&ge; 1 year continuous</td>\n            <td>4 to 7 (Split Routines)</td>\n        </tr>\n    </tbody>\n</table>\n\n<h2>Split Routines for Advanced Athletes</h2>\n<p>Highly trained intermediate and advanced athletes can augment total training volume while respecting recovery guidelines by utilizing a <strong>split routine</strong>, in which different muscle groups or body segments are trained on different days.</p>\n<p>Although training four to six days per week may appear to violate recovery recommendations, grouping exercises by body region (e.g., upper body vs. lower body) or specific muscle groups (e.g., chest/shoulders/triceps vs. back/biceps vs. legs) provides each trained muscle area with 48 to 72 hours of dedicated recovery time between sessions.</p>\n\n<h3>Common Split Routine Models</h3>\n<ul>\n    <li><strong>4-Day Upper/Lower Split:</strong> Training lower body on Monday and Thursday, and upper body on Tuesday and Friday (or vice versa). This structure incorporates two consecutive training days twice per week while providing two to three days of rest for each body region between sessions.</li>\n    <li><strong>3-Day Body Part Split (6-Day Microcycle):</strong> Grouping into Push (chest, shoulders, triceps), Pull (back, biceps), and Legs/Core, repeated twice weekly with rotating rest days.</li>\n</ul>"
+    },
+    {
+      "id": "p2",
+      "title": "Part 2: Sport Season Priorities and Training Frequency Adjustments",
+      "readingHtml": "<h2>Influence of the Sport Season</h2>\n<p>An athlete's resistance training frequency is heavily dictated by the macrocycle stage of their annual sport season. As an athlete transitions into the <strong>in-season</strong> phase, the increased allocation of time and energy toward sport skill practice, tactical drills, and competition necessitates a proportional reduction in weight room time and frequency.</p>\n\n<p>The primary constraint during the in-season is finite daily energy and time. Strength and conditioning professionals must manage total fatigue so that weight room training maintains athletic performance without interfering with competitive execution.</p>\n\n<h2>Seasonal Resistance Training Frequency Guidelines</h2>\n<p>The table below outlines typical resistance training frequency guidelines across the annual athletic macrocycle:</p>\n\n<table>\n    <thead>\n        <tr>\n            <th>Sport Season</th>\n            <th>Primary Objective</th>\n            <th>Resistance Training Frequency</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td><strong>Off-Season</strong></td>\n            <td>Hypertrophy, Maximal Strength, and Power Development</td>\n            <td>4 to 6 sessions per week</td>\n        </tr>\n        <tr>\n            <td><strong>Preseason</strong></td>\n            <td>Sport-Specific Strength/Power &amp; Conditioning Transition</td>\n            <td>3 to 4 sessions per week</td>\n        </tr>\n        <tr>\n            <td><strong>In-Season</strong></td>\n            <td>Maintenance of Muscle Mass, Strength, and Power</td>\n            <td>1 to 3 sessions per week</td>\n        </tr>\n        <tr>\n            <td><strong>Active Rest (Post-Season)</strong></td>\n            <td>Physical and Mental Recovery &amp; General Recreational Activity</td>\n            <td>0 to 3 sessions per week (low intensity)</td>\n        </tr>\n    </tbody>\n</table>\n\n<h2>Balancing Weight Room Frequency with Sport Practice</h2>\n<p>During the off-season, when sport-specific practice is minimal, resistance training takes top priority, allowing advanced athletes to complete four to six intensive sessions per week. As the preseason approaches, sport practice volume increases, requiring resistance frequency to shift down to three or four days per week.</p>\n<p>During the in-season, resistance training shifts strictly to a <strong>maintenance role</strong> (one to three sessions per week). High-volume or high-frequency lifting during this phase induces unnecessary central nervous system fatigue and DOMS, compromising athletic performance during games and matches.</p>"
+    },
+    {
+      "id": "p3",
+      "title": "Part 3: Training Load, Exercise Type, and Concurrent Training Stress",
+      "readingHtml": "<h2>Impact of Projected Exercise Load</h2>\n<p>Training frequency is directly modulated by training load intensity. Workouts involving <strong>maximal or near-maximal loads (&ge;85\u201390% 1RM)</strong> induce greater mechanical strain, microtrauma, and central nervous system fatigue, requiring extended recovery windows prior to the next high-intensity session.</p>\n<ul>\n    <li><strong>Alternating Heavy and Light Days:</strong> To maintain a higher training frequency (e.g., 4 days/week) without precipitating overtraining, strength coaches frequently alternate heavy loading days with lighter recovery or speed-power days.</li>\n    <li><strong>Heavy Loading Recovery Disparities:</strong> Research demonstrates that powerlifters and weightlifters often schedule only one maximal deadlift or back squat training session per week due to the massive systemic recovery demands of heavy multijoint structural movements.</li>\n</ul>\n\n<h2>Exercise Type and Differential Muscle Recovery</h2>\n<p>Different muscle groups and exercise structures exhibit distinct recovery kinetics following intensive resistance exercise:</p>\n<ul>\n    <li><strong>Upper Body vs. Lower Body Recovery:</strong> Upper body musculature generally recovers faster from heavy loading sessions compared to lower body musculature, allowing higher relative training frequency for upper body push/pull patterns.</li>\n    <li><strong>Single-Joint vs. Multijoint Exercise Recovery:</strong> Athletes recover faster from single-joint assistance exercises (e.g., bicep curls, lateral raises) than from heavy multijoint structural lifts (e.g., cleans, squats, deadlifts). Multijoint structural lifts involve larger active muscle mass, greater axial loading, and higher metabolic and neural stress.</li>\n</ul>\n\n<h2>Concurrent Training and Total Physical Stress</h2>\n<p>Exercise frequency cannot be determined in isolation from the athlete's total daily and weekly physical stress load. The strength and conditioning professional must evaluate all external inputs:</p>\n<ul>\n    <li><strong>Non-Resistance Athletic Training:</strong> High volumes of concurrent aerobic endurance training, high-velocity anaerobic sprinting, agility drills, plyometrics, or sport practice demand substantial energy and recovery capacity. Resistance training frequency must be reduced accordingly to prevent nonfunctional overreaching.</li>\n    <li><strong>Occupational and Daily Physical Demands:</strong> Athletes engaged in physically demanding occupations (e.g., manual labor, construction, physical education instruction, or jobs requiring standing all day) experience significant continuous energy expenditure and structural stress. Their capacity for high resistance training frequency is lower than that of sedentary or less active peers outside of sport pursuits.</li>\n</ul>"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Training Frequency",
+      "def": "The number of training sessions completed in a given time period, typically expressed as sessions per week in resistance training."
+    },
+    {
+      "term": "Split Routine",
+      "def": "A workout structure in which different muscle groups or body segments are trained on different days, allowing higher overall weekly frequency while maintaining adequate recovery."
+    },
+    {
+      "term": "Rest Day",
+      "def": "A day allocated for physiological recovery between workouts, required to prevent overuse injuries, overtraining, and chronic fatigue."
+    },
+    {
+      "term": "Training Status",
+      "def": "An athlete's current level of physical preparedness and resistance training background (beginner, intermediate, or advanced)."
+    },
+    {
+      "term": "Off-Season Frequency",
+      "def": "The highest resistance training frequency of the macrocycle (4\u20136 sessions/week), scheduled when sport skill practice demands are low."
+    },
+    {
+      "term": "In-Season Frequency",
+      "def": "A reduced resistance training frequency (1\u20133 sessions/week) designed to maintain muscle strength and power without impairing competitive sport performance."
+    },
+    {
+      "term": "Preseason Frequency",
+      "def": "A moderate resistance training frequency (3\u20134 sessions/week) balancing strength/power maintenance with increasing sport skill practice."
+    },
+    {
+      "term": "Active Rest",
+      "def": "The post-season phase featuring low resistance training frequency (0\u20133 sessions/week) and light intensity to promote mental and physical recovery."
+    },
+    {
+      "term": "Heavy-Light Load Alternation",
+      "def": "A programming strategy that alternates heavy loading days with lighter days to facilitate recovery while maintaining higher training frequency."
+    },
+    {
+      "term": "Concurrent Training Stress",
+      "def": "The combined physiological load resulting from simultaneous resistance, aerobic, sprint/agility, and sport skill training."
+    }
+  ]
+}

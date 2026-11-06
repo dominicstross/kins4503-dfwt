@@ -1,0 +1,251 @@
+{
+    "p1": {
+        "mcq": [
+            {
+                "id": 1,
+                "q": "Why is an understanding of bioenergetic limiting factors required when designing effective athletic training programs?",
+                "opts": [
+                    "It allows strength and conditioning professionals to attempt to delay fatigue and enhance performance by targeting event-specific mechanisms",
+                    "It eliminates the need for rest intervals between high-intensity resistance training sets",
+                    "It enables athletes to completely prevent glycogen depletion regardless of training duration",
+                    "It permanently blocks the accumulation of hydrogen ions during maximal sprinting"
+                ],
+                "correct": 0,
+                "rationale": "Understanding the possible limiting factors associated with a particular athletic event is required when designing training programs attempting to delay fatigue and enhance performance."
+            },
+            {
+                "id": 2,
+                "q": "Glycogen depletion serves as a primary bioenergetic limiting factor for which types of physical exercise?",
+                "opts": [
+                    "Only short 5-second maximal isometric muscle actions",
+                    "Both long-duration, low-intensity exercise and repeated, high-intensity exercise",
+                    "Exclusively resting and light walking activities below 20% \\text{VO}_2\\text{max}",
+                    "Only high-intensity activities lasting less than 3 seconds"
+                ],
+                "correct": 1,
+                "rationale": "Glycogen depletion can be a limiting factor both for long-duration, low-intensity exercise supported primarily by aerobic metabolism and for repeated, high-intensity exercise supported primarily by anaerobic mechanisms."
+            },
+            {
+                "id": 3,
+                "q": "In high-intensity anaerobic activities such as sprinting and resistance training, what is the primary effect of metabolic acidosis on skeletal muscle?",
+                "opts": [
+                    "Limiting muscle contractile force",
+                    "Increasing sarcoplasmic calcium storage by 300%",
+                    "Accelerating glycogen synthesis rates during exercise",
+                    "Converting all Type II muscle fibers into Type I fibers"
+                ],
+                "correct": 0,
+                "rationale": "Of importance to resistance training, sprinting, and other primarily anaerobic activities is the effect of metabolic acidosis on limiting contractile force."
+            },
+            {
+                "id": 4,
+                "q": "How does increased intracellular inorganic phosphate (\\text{P}_i) accumulation contribute to muscular fatigue during exercise?",
+                "opts": [
+                    "It impairs calcium release from the sarcoplasmic reticulum",
+                    "It increases blood glucose levels above 15 mmol/L",
+                    "It inhibits the breakdown of stored adipose tissue",
+                    "It converts free fatty acids into glycogen units"
+                ],
+                "correct": 0,
+                "rationale": "Increased intracellular inorganic phosphate has been implicated in the development of muscle fatigue by impairing calcium release from the sarcoplasmic reticulum."
+            },
+            {
+                "id": 5,
+                "q": "Ammonia accumulation during high-intensity exercise is primarily associated with which physiological outcome?",
+                "opts": [
+                    "Enhanced oxidative phosphorylation in mitochondria",
+                    "Development of muscle fatigue and limiting exercise performance",
+                    "Increased synthesis of creatine phosphate",
+                    "Permanent suppression of lactate dehydrogenase"
+                ],
+                "correct": 1,
+                "rationale": "Ammonia accumulation is one of several secondary factors implicated in the development of muscle fatigue that may limit exercise performance."
+            },
+            {
+                "id": 6,
+                "q": "Which of the following cellular changes is directly implicated in impairing muscle excitation-contraction coupling during fatigue?",
+                "opts": [
+                    "Impaired calcium release from the sarcoplasmic reticulum",
+                    "Complete depletion of cellular water content",
+                    "Elevated rate of liver gluconeogenesis",
+                    "Decrease in intracellular inorganic phosphate"
+                ],
+                "correct": 0,
+                "rationale": "Impaired calcium release from the sarcoplasmic reticulum impairs excitation-contraction coupling and is a major factor limiting muscular performance during fatigue."
+            },
+            {
+                "id": 7,
+                "q": "An accumulation of intracellular ADP during heavy exertion limits exercise performance primarily by doing what?",
+                "opts": [
+                    "Contributing to the development of muscular fatigue",
+                    "Stimulating rapid glycogen storage in Type I fibers",
+                    "Preventing the breakdown of adenosine triphosphate",
+                    "Increasing sarcoplasmic pH above 8.0"
+                ],
+                "correct": 0,
+                "rationale": "Increased intracellular ADP is explicitly identified as a factor implicated in the development of muscle fatigue and performance limitation."
+            },
+            {
+                "id": 8,
+                "q": "Which two general categories of bioenergetic factors limit exercise performance according to Table 3.4 in the text?",
+                "opts": [
+                    "Depletion of energy sources and increases in muscle hydrogen ions",
+                    "Excessive water intake and decreased heart rate",
+                    "Elevated protein synthesis and increased oxygen availability",
+                    "Hypertrophy of Type I fibers and loss of motor units"
+                ],
+                "correct": 0,
+                "rationale": "Table 3.4 depicts examples of limiting factors based on depletion of energy sources (such as ATP, CP, glycogen) and increases in muscle hydrogen ions (metabolic acidosis)."
+            }
+        ],
+        "ms": [
+            {
+                "id": 1,
+                "q": "Which of the following factors are implicated in the development of muscle fatigue and performance limitations? (Select all that apply)",
+                "opts": [
+                    "Increased intracellular inorganic phosphate (\\text{P}_i)",
+                    "Ammonia accumulation",
+                    "Increased intracellular ADP",
+                    "Impaired calcium release from the sarcoplasmic reticulum"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "Several factors implicated in muscle fatigue include increased intracellular inorganic phosphate, ammonia accumulation, increased ADP, and impaired calcium release from the sarcoplasmic reticulum."
+            },
+            {
+                "id": 2,
+                "q": "Which types of exercise performance can be limited by glycogen depletion? (Select all that apply)",
+                "opts": [
+                    "Long-duration, low-intensity exercise supported primarily by aerobic metabolism",
+                    "Repeated, high-intensity exercise supported primarily by anaerobic mechanisms",
+                    "A single maximal 1-second vertical jump",
+                    "Submaximal endurance activities lasting several hours"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    3
+                ],
+                "rationale": "Glycogen depletion limits both long-duration low-intensity aerobic exercise and repeated high-intensity anaerobic exercise. A single 1-second vertical jump relies on phosphagens, not glycogen."
+            },
+            {
+                "id": 3,
+                "q": "Which of the following statements regarding metabolic acidosis during exercise are accurate? (Select all that apply)",
+                "opts": [
+                    "It involves an increase in muscle hydrogen ion concentration (\\text{H}^+)",
+                    "It limits contractile force during resistance training and sprinting",
+                    "It is particularly important in primarily anaerobic activities",
+                    "It enhances muscle contraction velocity by raising cytosolic pH"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Metabolic acidosis results from increased hydrogen ions, lowers cytosolic pH, and limits contractile force in anaerobic activities like resistance training and sprinting."
+            },
+            {
+                "id": 4,
+                "q": "Which mechanisms directly affect sarcoplasmic calcium dynamics or force generation during fatigue? (Select all that apply)",
+                "opts": [
+                    "Impaired calcium release from the sarcoplasmic reticulum",
+                    "Increased intracellular inorganic phosphate (\\text{P}_i) accumulation",
+                    "Metabolic acidosis (elevated \\text{H}^+) interfering with troponin binding",
+                    "Complete destruction of sarcolemmal sodium channels"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Impaired SR calcium release, inorganic phosphate accumulation, and hydrogen ion accumulation (acidosis) all interfere with calcium handling, troponin binding, and contractile force."
+            }
+        ],
+        "tf": [
+            {
+                "id": 1,
+                "q": "Glycogen depletion is a limiting factor ONLY for long-duration aerobic events, having no impact on anaerobic exercise.",
+                "ans": false,
+                "feedback": "Glycogen depletion can be a limiting factor both for long-duration, low-intensity aerobic exercise AND for repeated, high-intensity anaerobic exercise."
+            },
+            {
+                "id": 2,
+                "q": "Metabolic acidosis limits muscle contractile force during resistance training, sprinting, and other high-intensity anaerobic activities.",
+                "ans": true,
+                "feedback": "Metabolic acidosis caused by hydrogen ion accumulation directly limits contractile force in high-intensity anaerobic performance."
+            },
+            {
+                "id": 3,
+                "q": "Increased intracellular inorganic phosphate (P_i) helps increase muscular power during high-intensity exercise.",
+                "ans": false,
+                "feedback": "Increased intracellular inorganic phosphate is implicated in muscle fatigue and impairs calcium release from the sarcoplasmic reticulum."
+            },
+            {
+                "id": 4,
+                "q": "Ammonia accumulation and increased ADP levels are factors implicated in the development of muscular fatigue.",
+                "ans": true,
+                "feedback": "Both ammonia accumulation and elevated intracellular ADP are recognized factors involved in muscular fatigue development."
+            }
+        ],
+        "cloze": [
+            {
+                "id": 1,
+                "statement": "In anaerobic activities like sprinting, **metabolic acidosis** limits muscle contractile force, while **glycogen** depletion limits repeated high-intensity efforts.",
+                "targets": [
+                    "metabolic acidosis",
+                    "glycogen"
+                ],
+                "optionsBank": [
+                    "metabolic acidosis",
+                    "glycogen",
+                    "beta oxidation",
+                    "hypertrophy",
+                    "alkalosis"
+                ],
+                "hint": "Identify the byproduct condition limiting force and the primary stored carbohydrate substrate."
+            },
+            {
+                "id": 2,
+                "statement": "Muscle fatigue can be caused by increased intracellular **inorganic phosphate** and impaired **calcium** release from the sarcoplasmic reticulum.",
+                "targets": [
+                    "inorganic phosphate",
+                    "calcium"
+                ],
+                "optionsBank": [
+                    "inorganic phosphate",
+                    "calcium",
+                    "sodium",
+                    "creatine",
+                    "glucose"
+                ],
+                "hint": "Identify the byproduct phosphate molecule and the crucial ion released from the sarcoplasmic reticulum."
+            }
+        ],
+        "sa": [
+            {
+                "id": 1,
+                "prompt": "Explain how metabolic acidosis and glycogen depletion serve as bioenergetic limiting factors across different exercise modalities.",
+                "model": "Metabolic acidosis (increased hydrogen ion concentration) limits contractile force during high-intensity anaerobic activities such as sprinting and heavy resistance training by reducing cytosolic pH, inhibiting glycolytic enzymes, and disrupting crossbridge cycling. Glycogen depletion serves as a limiting factor during both long-duration, submaximal aerobic exercise (due to exhaustion of liver and muscle glycogen) and repeated bouts of high-intensity anaerobic exercise, restricting the rate of ATP resynthesis.",
+                "criteria": [
+                    "Explain that metabolic acidosis (H+ accumulation) limits contractile force in high-intensity anaerobic activities.",
+                    "Identify glycogen depletion as a limiting factor in both long-duration aerobic exercise and repeated anaerobic exercise.",
+                    "Relate substrate depletion and metabolite accumulation to impaired ATP resynthesis and contractile dysfunction."
+                ]
+            },
+            {
+                "id": 2,
+                "prompt": "Identify three secondary metabolic factors implicated in muscular fatigue and describe their physiological impacts on performance.",
+                "model": "1. Increased Intracellular Inorganic Phosphate (P_i): Accumulates from ATP hydrolysis and impairs calcium release from the sarcoplasmic reticulum, reducing force production.\n2. Ammonia Accumulation: Produced during AMP deamination and amino acid breakdown; exerts toxic neuro-metabolic effects contributing to fatigue.\n3. Impaired Sarcoplasmic Reticulum Calcium Release: Reduces cytosolic Ca^2+ availability for troponin binding, dampening excitation-contraction coupling.",
+                "criteria": [
+                    "Identify inorganic phosphate accumulation and its effect on sarcoplasmic reticulum calcium release.",
+                    "Identify ammonia accumulation as a byproduct of AMP deamination/amino acid breakdown causing fatigue.",
+                    "Identify impaired SR calcium release and its negative impact on excitation-contraction coupling."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "chapterId": "6.1",
+    "title": "6.1 Acute Responses to Aerobic Exercise",
+    "cards": [
+        {
+            "id": "6.1-01",
+            "tag": "Cardiac Output & Fick Equation",
+            "reference": "Section 6.1",
+            "front": "What is <strong>cardiac output (Q)</strong>, and how is it calculated using heart rate, stroke volume, and the <strong>Fick equation</strong>?",
+            "back": "Cardiac output (Q) is the volume of blood pumped by the heart per minute, calculated as <strong>Q = SV &times; HR</strong>. According to the Fick equation, oxygen uptake is expressed as <strong>VO<sub>2</sub> = Q &times; a-vO<sub>2</sub> difference</strong>."
+        },
+        {
+            "id": "6.1-02",
+            "tag": "Stroke Volume & Frank-Starling Mechanism",
+            "reference": "Section 6.1",
+            "front": "What physiological mechanism regulates the increase in <strong>stroke volume</strong> during acute aerobic exercise?",
+            "back": "The <strong>Frank-Starling mechanism</strong> regulates stroke volume: increased venous return expands end-diastolic volume (EDV), stretching myocardial fibers and increasing elastic recoil to pump a greater ejection fraction per beat."
+        },
+        {
+            "id": "6.1-03",
+            "tag": "Stroke Volume Plateau & Norms",
+            "reference": "Section 6.1",
+            "front": "At what exercise intensity does <strong>stroke volume plateau</strong>, and what are normative peak values for untrained vs. trained individuals?",
+            "back": "Stroke volume plateaus at <strong>40% to 50% of VO<sub>2</sub>max</strong>. Peak stroke volume averages <strong>100 to 120 ml/beat</strong> in untrained men and <strong>150 to 160 ml/beat</strong> in endurance-trained athletes (and is &sim;25% lower in women)."
+        },
+        {
+            "id": "6.1-04",
+            "tag": "Heart Rate Dynamics & Age-Predicted Max",
+            "reference": "Section 6.1",
+            "front": "How does <strong>heart rate (HR)</strong> respond to increasing aerobic exercise intensity, and how is <strong>maximum heart rate (HR<sub>max</sub>)</strong> estimated?",
+            "back": "Heart rate increases linearly with workload and oxygen consumption. Age-predicted HR<sub>max</sub> is estimated as <strong>220 - age</strong> (&plusmn;10 to 12 bpm) or via the Tanaka formula: <strong>208 - (0.7 &times; age)</strong>."
+        },
+        {
+            "id": "6.1-05",
+            "tag": "Blood Pressure & Rate-Pressure Product",
+            "reference": "Section 6.1",
+            "front": "How do <strong>systolic</strong> and <strong>diastolic blood pressure</strong> respond during acute aerobic exercise, and what is the <strong>Rate-Pressure Product (RPP)</strong>?",
+            "back": "<ul><li><strong>Systolic BP:</strong> Increases linearly from resting (110&ndash;139 mmHg) up to 220&ndash;260 mmHg at maximal exertion.</li><li><strong>Diastolic BP:</strong> Remains stable or slightly decreases (60&ndash;89 mmHg).</li><li><strong>Rate-Pressure Product (RPP):</strong> Calculated as <strong>HR &times; SBP</strong> to estimate myocardial workload.</li></ul>"
+        },
+        {
+            "id": "6.1-06",
+            "tag": "Blood Flow Redistribution",
+            "reference": "Section 6.1",
+            "front": "How is <strong>blood flow redistributed</strong> throughout the body from rest to maximal aerobic exercise?",
+            "back": "At rest, active skeletal muscle receives <strong>15% to 20%</strong> of total cardiac output. During maximal exercise, selective vasoconstriction of visceral organs and vasodilation of muscle vascular beds redistributes up to <strong>90%</strong> of cardiac output to working muscles."
+        },
+        {
+            "id": "6.1-07",
+            "tag": "Minute Ventilation & Breathing Mechanics",
+            "reference": "Section 6.1",
+            "front": "What components define <strong>minute ventilation (V<sub>E</sub>)</strong>, and how does it adjust during acute aerobic exertion?",
+            "back": "Minute ventilation is calculated as <strong>V<sub>E</sub> = Tidal Volume (TV) &times; Breathing Frequency (f<sub>b</sub>)</strong>. Resting V<sub>E</sub> (10&ndash;15 L/min) surges 15- to 25-fold up to <strong>90 to 150 L/min</strong> during maximal exercise."
+        },
+        {
+            "id": "6.1-08",
+            "tag": "Ventilatory Equivalent & Lactate Buffering",
+            "reference": "Section 6.1",
+            "front": "What is the <strong>ventilatory equivalent for oxygen (V<sub>E</sub> / VO<sub>2</sub>)</strong>, and why does it increase sharply at higher exercise intensities?",
+            "back": "V<sub>E</sub> / VO<sub>2</sub> is the ratio of air ventilated to oxygen consumed (normally 20&ndash;25 L air / L O<sub>2</sub>). At high intensities (&gt;45%&ndash;65% VO<sub>2</sub>max untrained, 70%&ndash;90% trained), it rises to <strong>35&ndash;40 L air / L O<sub>2</sub></strong> to exhale excess CO<sub>2</sub> produced from buffering metabolic lactic acid."
+        },
+        {
+            "id": "6.1-09",
+            "tag": "Pulmonary Gas Exchange & Partial Pressures",
+            "reference": "Section 6.1",
+            "front": "How do <strong>partial pressures of O<sub>2</sub> and CO<sub>2</sub></strong> in active muscle tissue change from rest to maximal exercise to drive diffusion?",
+            "back": "Driven by pressure gradients: <ul><li><strong>P<sub>O<sub>2</sub></sub>:</strong> Drops from 40 mmHg at rest down to <strong>3 mmHg</strong> during maximal exercise in working muscle cells.</li><li><strong>P<sub>CO<sub>2</sub></sub>:</strong> Rises from 46 mmHg at rest up to <strong>90 mmHg</strong> during maximal exercise.</li></ul>"
+        },
+        {
+            "id": "6.1-10",
+            "tag": "Oxygen Transport Mechanics",
+            "reference": "Section 6.1",
+            "front": "How is <strong>oxygen transported</strong> in the bloodstream during acute aerobic exercise?",
+            "back": "A small fraction (<strong>3 ml O<sub>2</sub>/L</strong>) is dissolved in plasma (establishing P<sub>O<sub>2</sub></sub>), while the vast majority is bound to <strong>hemoglobin</strong> (1.34 ml O<sub>2</sub> per gram of Hb), yielding &sim;20 ml O<sub>2</sub> per 100 ml of arterial blood in men."
+        },
+        {
+            "id": "6.1-11",
+            "tag": "Carbon Dioxide Transport & Bicarbonate Shift",
+            "reference": "Section 6.1",
+            "front": "What is the primary mechanism for <strong>carbon dioxide (CO<sub>2</sub>) transport</strong> in arterial blood?",
+            "back": "Approximately <strong>70% of CO<sub>2</sub></strong> is transported as <strong>bicarbonate (HCO<sub>3</sub><sup>-</sup>)</strong> via the carbonic anhydrase reaction: <strong>CO<sub>2</sub> + H<sub>2</sub>O &harr; H<sub>2</sub>CO<sub>3</sub> &harr; H<sup>+</sup> + HCO<sub>3</sub><sup>-</sup></strong>, accompanied by a chloride shift into red blood cells."
+        }
+    ]
+}

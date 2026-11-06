@@ -1,0 +1,76 @@
+{
+    "chapterId": "6.5",
+    "title": "6.5 Overtraining Definition, Prevalence, Diagnosis, and Potential Markers",
+    "cards": [
+        {
+            "id": "6.5-01",
+            "tag": "Overtraining Continuum & Terminology",
+            "reference": "Section 6.5",
+            "front": "What is the <strong>overtraining continuum</strong>, and how do <strong>functional overreaching (FOR)</strong>, <strong>nonfunctional overreaching (NFOR)</strong>, and <strong>overtraining syndrome (OTS)</strong> differ in recovery timeline?",
+            "back": "Overtraining exists on a continuum driven by intensified training without adequate rest: <ul><li><strong>Functional Overreaching (FOR):</strong> Short-term performance dip followed by supercompensation recovery in days to weeks.</li><li><strong>Nonfunctional Overreaching (NFOR):</strong> Performance stagnation or drop requiring weeks to months of recovery.</li><li><strong>Overtraining Syndrome (OTS):</strong> Severe neuroendocrine and performance collapse requiring months to over a year of recovery.</li></ul>"
+        },
+        {
+            "id": "6.5-02",
+            "tag": "OTS Prevalence & Primary Cause",
+            "reference": "Section 6.5",
+            "front": "What is the estimated <strong>prevalence of overtraining syndrome</strong> among endurance athletes, and what is its primary physiological cause?",
+            "back": "Approximately <strong>10% (7% to 21%)</strong> of collegiate swimmers and aerobic endurance athletes experience NFOR or OTS. The primary cause is an imbalance between heavy training loads and insufficient rest/recovery."
+        },
+        {
+            "id": "6.5-03",
+            "tag": "Cardiovascular Markers & HRV",
+            "reference": "Section 6.5",
+            "front": "How do <strong>heart rate variability (HRV)</strong>, resting heart rate, and maximal heart rate respond to <strong>overtraining syndrome</strong>?",
+            "back": "HRV decreases with onset of OTS (indicating reduced parasympathetic tone or excessive sympathetic stimulation). Exercise-induced <strong>maximal heart rate decreases</strong>, while resting heart rate can either increase or decrease."
+        },
+        {
+            "id": "6.5-04",
+            "tag": "Blood Pressure & Intensity Overtraining",
+            "reference": "Section 6.5",
+            "front": "How does increased <strong>training intensity</strong> vs. volume affect resting blood pressure during overreaching?",
+            "back": "Increased training volume generally does not affect resting blood pressure. However, increased <strong>training intensity</strong> can elevate <strong>resting diastolic blood pressure</strong> without altering resting systolic pressure."
+        },
+        {
+            "id": "6.5-05",
+            "tag": "Biochemical Markers & Glycogen",
+            "reference": "Section 6.5",
+            "front": "What alterations in <strong>serum creatine kinase (CK)</strong>, blood lactate, and muscle glycogen accompany high-volume overtraining?",
+            "back": "High training volume increases <strong>creatine kinase (CK)</strong> levels (indicating muscle tissue microtrauma). Muscle glycogen stores decrease, contributing to lowered submaximal blood lactate concentrations."
+        },
+        {
+            "id": "6.5-06",
+            "tag": "Endocrine Markers & Testosterone Ratio",
+            "reference": "Section 6.5",
+            "front": "How does the <strong>free testosterone-to-cortisol ratio</strong> change during volume overtraining, and what shift marks potential OTS?",
+            "back": "The free testosterone-to-cortisol ratio decreases or stays the same with increased volume. A decrease of <strong>30% or more</strong> in the free testosterone-to-cortisol ratio serves as a potential marker for OTS."
+        },
+        {
+            "id": "6.5-07",
+            "tag": "Hypothalamic Function & Pituitary Secretion",
+            "reference": "Section 6.5",
+            "front": "What endocrine dysfunction underlies decreased <strong>growth hormone secretion</strong> in overtrained athletes?",
+            "back": "Decreased growth hormone secretion and altered neuroendocrine responses during overtraining stem primarily from <strong>impaired hypothalamic function</strong>, rather than intrinsic pituitary gland failure."
+        },
+        {
+            "id": "6.5-08",
+            "tag": "Catecholamine Responses & Parasympathetic OTS",
+            "reference": "Section 6.5",
+            "front": "How do <strong>catecholamines (epinephrine, norepinephrine, dopamine)</strong> alter during volume overtraining, and what characterizes <strong>parasympathetic OTS</strong>?",
+            "back": "Severe volume overtraining reduces basal dopamine levels and drops <strong>nocturnal epinephrine levels</strong>. In advanced cases, endurance athletes exhibit <strong>parasympathetic OTS</strong>, characterized by blunted catecholamine sensitivity and autonomic fatigue."
+        },
+        {
+            "id": "6.5-09",
+            "tag": "Detraining Definition & Reversibility",
+            "reference": "Section 6.5",
+            "front": "How is <strong>detraining</strong> defined, and how does it differ from a pre-competition <strong>taper</strong>?",
+            "back": "<ul><li><strong>Detraining:</strong> Partial or complete loss of training adaptations due to insufficient training stimulus, governed by the principle of reversibility.</li><li><strong>Tapering:</strong> A planned, strategic reduction in training volume (duration/frequency) with maintained intensity designed to optimize performance.</li></ul>"
+        },
+        {
+            "id": "6.5-10",
+            "tag": "Detraining Mechanics & VO2max Decay",
+            "reference": "Section 6.5",
+            "front": "How much does <strong>maximal oxygen uptake (VO<sub>2</sub>max)</strong> decline during short-term vs. long-term detraining, and what drives this loss?",
+            "back": "Maximal oxygen uptake drops <strong>4% to 14%</strong> during short-term detraining (&le;4 weeks) and <strong>6% to 20%</strong> during long-term detraining (&gt;4 weeks). This decline is driven by plasma volume contraction, decreased stroke volume, lower maximal cardiac output, and loss of oxidative enzyme activity."
+        }
+    ]
+}

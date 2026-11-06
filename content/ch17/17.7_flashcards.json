@@ -1,0 +1,76 @@
+{
+    "chapterId": "17.7",
+    "title": "17.7 Step 7: Rest Periods",
+    "cards": [
+        {
+            "id": "17.7-01",
+            "tag": "Interset Rest Period Definition & Primary Determinants",
+            "reference": "Section 17.7",
+            "front": "What is an <strong>interset rest period</strong>, and what primary factors determine its length in program design?",
+            "back": "An <strong>interset rest period</strong> (or rest period) is the time allocated to recovery between sets and exercises. Its length depends primarily on the <strong>primary training goal</strong>, the <strong>relative load lifted (%1RM)</strong>, the <strong>amount of muscle mass involved</strong> in the exercise, and the <strong>athlete's training status</strong> (unconditioned athletes initially require longer rest periods)."
+        },
+        {
+            "id": "17.7-02",
+            "tag": "Exercise Specificity in Rest Period Allocation",
+            "reference": "Section 17.7",
+            "front": "Why should rest periods vary between exercises <em>within the same training session</em>, even under a single primary training goal?",
+            "back": "Rest allocation must be specific to the <strong>relative load lifted</strong> and the <strong>muscle mass involved</strong> in each specific exercise. For example, in a maximal strength program, a core lift like the bench press (4RM load) requires <strong>2 to 5 minutes</strong> of rest, whereas a single-joint assistance exercise like the lateral raise (12RM load) requires only <strong>1 minute</strong> of rest."
+        },
+        {
+            "id": "17.7-03",
+            "tag": "Rest Period Prescriptions for Strength & Power",
+            "reference": "Section 17.7",
+            "front": "What is the recommended rest period duration for <strong>Muscular Strength</strong> and <strong>Power</strong> programs?",
+            "back": "The recommended rest period duration for both maximal strength and power training is <strong>2 to 5 minutes</strong> (or 3 to 5 minutes). Long rest intervals are necessary to allow near-complete ATP-PCr resynthesis, central nervous system recovery, and maintenance of peak force/velocity output across subsequent heavy sets."
+        },
+        {
+            "id": "17.7-04",
+            "tag": "Research Evidence: Back Squat Rest Interval Study",
+            "reference": "Section 17.7",
+            "front": "What did research by Robinson and colleagues demonstrate regarding <strong>rest period length</strong> during heavy back squat training?",
+            "back": "Robinson et al. observed that assigning a <strong>3-minute interset rest period</strong> during heavy back squat training resulted in significantly greater strength gains compared to assigning a <strong>30-second rest period</strong>, proving that premature set initiation severely impairs maximal strength adaptations."
+        },
+        {
+            "id": "17.7-05",
+            "tag": "Rest Period Prescriptions for Muscular Hypertrophy",
+            "reference": "Section 17.7",
+            "front": "What is the standard rest period length for <strong>Hypertrophy</strong> training, and how should it be adjusted for large muscle group exercises?",
+            "back": "The standard rest period length for hypertrophy is <strong>30 seconds to 1.5 minutes</strong> (or 30 to 60 seconds). However, for multi-joint structural exercises involving massive muscle mass (e.g., heavy leg press or deadlifts), strength coaches should allow extra recovery time toward the 1.5-minute upper boundary due to high metabolic demands."
+        },
+        {
+            "id": "17.7-06",
+            "tag": "Physiological Mechanisms of Hypertrophy Rest Intervals",
+            "reference": "Section 17.7",
+            "front": "What is the physiological rationale for using <strong>short to moderate rest periods</strong> (30s to 1.5 min) in hypertrophy training?",
+            "back": "Short to moderate rest forces the athlete to initiate subsequent sets <strong>before full metabolic recovery occurs</strong>. This elevates intramuscular metabolic stress, blood lactate accumulation, localized cellular swelling, and acute anabolic hormone secretion, which collectively drive muscle hypertrophy pathways."
+        },
+        {
+            "id": "17.7-07",
+            "tag": "Rest Period Prescriptions for Muscular Endurance",
+            "reference": "Section 17.7",
+            "front": "What is the recommended rest period length for <strong>Muscular Endurance</strong> training programs?",
+            "back": "Muscular endurance training requires very short rest periods of <strong>30 seconds or less</strong>. Minimizing rest during high-repetition, light-load sets (&le;67% 1RM for &ge;12 reps) aligns with the SAID principle to enhance buffering capacity, lactate clearance, and oxidative enzyme efficiency."
+        },
+        {
+            "id": "17.7-08",
+            "tag": "Rest Period Rules in Circuit Training",
+            "reference": "Section 17.7",
+            "front": "How are rest intervals structured in <strong>circuit training protocols</strong> to foster muscular endurance?",
+            "back": "Circuit training protocols alternate exercises targeting different body regions while restricting interset rest to <strong>30 seconds or less</strong> (or moving immediately from one exercise station to the next). This maintains elevated heart rates and metabolic strain while allowing localized muscle group recovery."
+        },
+        {
+            "id": "17.7-09",
+            "tag": "Influence of Athlete Training Status on Recovery",
+            "reference": "Section 17.7",
+            "front": "How does an athlete's <strong>training status</strong> impact initial rest period assignments?",
+            "back": "Unconditioned or beginner athletes possess lower oxidative recovery rates and neuromuscular fatigue tolerance. Consequently, they may initially require <strong>longer rest periods than standard guidelines specify</strong> to safely perform subsequent sets with proper technique before adapting to normal recovery windows."
+        },
+        {
+            "id": "17.7-10",
+            "tag": "Step 7 Integration in the 7-Step Program Design Model",
+            "reference": "Section 17.7",
+            "front": "Where does rest period assignment fit into the <strong>7-step NSCA resistance training program design framework</strong>?",
+            "back": "Rest period assignment is <strong>Step 7—the final step</strong> of the program design process. It follows: <ul><li>1. Needs Analysis</li><li>2. Exercise Selection</li><li>3. Training Frequency</li><li>4. Exercise Order</li><li>5. Training Load & Repetitions</li><li>6. Volume</li></ul>Step 7 integrates all preceding variables to finalize a sport-specific periodized resistance routine."
+        }
+    ]
+}

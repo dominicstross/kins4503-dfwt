@@ -1,0 +1,76 @@
+{
+    "chapterId": "5.6",
+    "title": "5.6 Compatibility of Aerobic and Anaerobic Modes of Training",
+    "cards": [
+        {
+            "id": "5.6-01",
+            "tag": "The Interference Effect & Power vs. Strength",
+            "reference": "Section 5.6",
+            "front": "How does concurrent aerobic endurance and resistance training affect <strong>maximal power output</strong> compared to <strong>slow-velocity strength</strong>?",
+            "back": "<strong>Explosive power development and rate of force development (RFD)</strong> are significantly more compromised by concurrent training than slow-velocity maximal strength (1RM), due to opposing neural signaling and myofibrillar protein alterations."
+        },
+        {
+            "id": "5.6-02",
+            "tag": "Aerobic Capacity & Resistance Training",
+            "reference": "Section 5.6",
+            "front": "Does heavy resistance training negatively affect maximal oxygen consumption (<strong>V<sub>O2</sub>max</strong>) or endurance performance?",
+            "back": "No. Heavy resistance exercise generally has <strong>no adverse effects on V<sub>O2</sub>max or aerobic power</strong>, and instead serves to enhance endurance performance by improving movement economy and work capacity."
+        },
+        {
+            "id": "5.6-03",
+            "tag": "Aerobic Synergism in Females",
+            "reference": "Section 5.6",
+            "front": "What unique aerobic development outcome was reported by Kraemer et al. in <strong>female athletes</strong> performing concurrent training?",
+            "back": "Women who performed combined resistance and aerobic endurance training achieved <strong>greater aerobic development (V<sub>O2</sub>max gains)</strong> than those who performed aerobic endurance training alone."
+        },
+        {
+            "id": "5.6-04",
+            "tag": "Fast-Twitch Fiber Type Transitions",
+            "reference": "Section 5.6",
+            "front": "How do heavy resistance training and high-intensity aerobic interval training compare in driving <strong>Type IIx to Type IIa fiber transformation</strong>?",
+            "back": "Heavy resistance training drives a near-complete transformation of Type IIx fibers to Type IIa (e.g., <strong>19.1% down to 1.9%</strong>), whereas aerobic interval training results in a smaller reduction (e.g., <strong>19.2% down to 8.8%</strong>), proving that heavy lifting recruits a larger pool of high-threshold Type IIx fibers."
+        },
+        {
+            "id": "5.6-05",
+            "tag": "Antagonistic Fiber Hypertrophy",
+            "reference": "Section 5.6",
+            "front": "How does concurrent training alter <strong>fiber-specific hypertrophy</strong> compared to resistance training alone?",
+            "back": "Resistance training alone increases muscle fiber cross-sectional area across <strong>Type I, Type IIa, and Type IIc fibers</strong>. Concurrent training selectively restricts hypertrophy to <strong>Type IIa fibers only</strong>, blocking Type I fiber hypertrophy."
+        },
+        {
+            "id": "5.6-06",
+            "tag": "Endurance-Induced Fiber Atrophy",
+            "reference": "Section 5.6",
+            "front": "Why does aerobic endurance training alone induce atrophy in <strong>Type I and Type IIc muscle fibers</strong>?",
+            "back": "Aerobic endurance training elevates catabolic <strong>cortisol levels</strong> (while reducing testosterone) and creates a physiological demand for <strong>shorter capillary-to-cell diffusion distances</strong> to optimize oxygen kinetics."
+        },
+        {
+            "id": "5.6-07",
+            "tag": "Training Frequency & Overtraining",
+            "reference": "Section 5.6",
+            "front": "Why does high-frequency concurrent training (e.g., <strong>6 consecutive days/week</strong>) impair strength and power development?",
+            "back": "Training on 6 consecutive days per week triggers systemic <strong>overtraining mechanisms</strong> due to inadequate recovery between opposing neural and metabolic stress stimuli."
+        },
+        {
+            "id": "5.6-08",
+            "tag": "Scheduling & Session Separation",
+            "reference": "Section 5.6",
+            "front": "According to Sale et al., how does training on <strong>separated days</strong> (4 days/week) compare to <strong>same-day combined workouts</strong> (2 days/week) for leg press 1RM gains?",
+            "back": "Training on separated days (2 days strength, 2 days endurance) yielded a <strong>25% increase in leg press 1RM</strong>, compared to only <strong>13%</strong> when both modes were combined into the same workout sessions."
+        },
+        {
+            "id": "5.6-09",
+            "tag": "Intra-Session Sequence & Acute Fatigue",
+            "reference": "Section 5.6",
+            "front": "How does performing a 25-minute aerobic workout <strong>30 minutes prior to resistance training</strong> affect squatting performance?",
+            "back": "Prior aerobic exercise reduces squat repetition performance by <strong>13% to 36% across sets</strong> due to acute glycogen depletion and localized neuromuscular fatigue."
+        },
+        {
+            "id": "5.6-10",
+            "tag": "Rate of Force Development (RFD)",
+            "reference": "Section 5.6",
+            "front": "How does concurrent training affect the <strong>rate of force development (RFD)</strong> compared to resistance training alone?",
+            "back": "Resistance training alone significantly increases the rate of force development (RFD), whereas concurrent training <strong>blunts or completely prevents improvements in RFD</strong> and explosive muscle power."
+        }
+    ]
+}

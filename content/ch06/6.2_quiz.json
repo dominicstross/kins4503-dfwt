@@ -1,0 +1,762 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What is the primary mechanism responsible for the increase in maximal cardiac output (Q_max) following 6 to 12 months of chronic aerobic endurance training?",
+        "opts": [
+          "An increase in maximal heart rate (HR_max)",
+          "A significant increase in maximal stroke volume (SV_max)",
+          "A decrease in end-diastolic chamber volume",
+          "A reduction in myocardial contractility"
+        ],
+        "correct": 1,
+        "rationale": "According to the textbook, the most significant change in cardiovascular function with long-term (6-12 months) aerobic endurance training is the increase in maximal cardiac output, which results primarily from improved stroke volume. Maximal heart rate does not increase and may even decrease slightly."
+      },
+      {
+        "id": 2,
+        "q": "Which autonomic alteration primarily accounts for the resting bradycardia (resting heart rates of 40 to 60 beats/min) observed in highly conditioned aerobic athletes?",
+        "opts": [
+          "A decrease in parasympathetic tone",
+          "An increase in sympathetic tone",
+          "An increase in parasympathetic (vagal) tone",
+          "A complete inhibition of the sinoatrial node"
+        ],
+        "correct": 2,
+        "rationale": "Aerobic endurance training results in a significantly slower SA node discharge rate due to an increase in parasympathetic tone. Coupled with an increased resting stroke volume, this enables the heart to maintain resting cardiac output at a lower heart rate (40-60 beats/min)."
+      },
+      {
+        "id": 3,
+        "q": "How does chronic aerobic endurance training alter the cardiac structure of the left ventricle?",
+        "opts": [
+          "Concentric hypertrophy with decreased chamber volume",
+          "Eccentric hypertrophy with increased chamber volume and wall thickness",
+          "Thinning of the ventricular walls without volume changes",
+          "Fibrotic degradation of myocardial tissue"
+        ],
+        "correct": 1,
+        "rationale": "Left ventricular enlargement during chronic aerobic training involves eccentric hypertrophy\u2014both left ventricular chamber volume and myocardial wall thickness increase, enhancing end-diastolic volume filling and stroke volume."
+      },
+      {
+        "id": 4,
+        "q": "What effect does aerobic endurance training have on muscle fiber capillary density?",
+        "opts": [
+          "Capillary density decreases to increase blood velocity",
+          "Capillary density remains unaffected by aerobic exertion",
+          "Capillary density increases, decreasing the diffusion distance for oxygen and substrates",
+          "Capillaries revert into arterial shunts"
+        ],
+        "correct": 2,
+        "rationale": "Aerobic endurance training increases muscle fiber capillary density (angiogenesis). This structural adaptation decreases the diffusion distance for oxygen, nutrients, and metabolic substrates, enhancing gas exchange."
+      },
+      {
+        "id": 5,
+        "q": "How does heart rate respond to a standardized submaximal workload in a trained aerobic athlete compared to a sedentary individual?",
+        "opts": [
+          "Trained athletes exhibit a higher heart rate response at the same submaximal workload",
+          "Trained athletes exhibit a significantly lower heart rate and a slower rate of HR increase",
+          "Both populations exhibit identical heart rate acceleration profiles",
+          "Heart rate fluctuates erratically in trained athletes during submaximal work"
+        ],
+        "correct": 1,
+        "rationale": "A hallmark of aerobic endurance training is a significantly lower heart rate in response to a standardized submaximal level of work, as well as a slower rate of heart rate increase for a given workload."
+      },
+      {
+        "id": 6,
+        "q": "Which statement accurately describes respiratory ventilatory adaptations to aerobic endurance training?",
+        "opts": [
+          "Ventilatory adaptations are systemic and transfer equally to non-trained limbs",
+          "Ventilation heavily limits aerobic exercise performance in healthy athletes",
+          "Submaximal exercise features decreased tidal volume and increased breathing frequency",
+          "Ventilatory adaptations are highly specific to the trained muscle groups (e.g., lower vs. upper extremities)"
+        ],
+        "correct": 3,
+        "rationale": "Ventilatory adaptations are highly specific to the exercise modality and trained muscle groups (e.g., leg cycling vs. arm ergometry). Submaximal activity features a reduced breathing frequency and increased tidal volume."
+      },
+      {
+        "id": 7,
+        "q": "What happens to respiratory minute ventilation (V_E) parameters during maximal exercise after chronic aerobic training?",
+        "opts": [
+          "Both tidal volume and breathing frequency increase, elevating maximal V_E",
+          "Maximal V_E decreases due to airway constriction",
+          "Breathing frequency decreases while tidal volume drops to zero",
+          "Maximal V_E remains strictly locked at resting baseline levels"
+        ],
+        "correct": 0,
+        "rationale": "With maximal exercise, chronic aerobic training adaptations include increased tidal volume and increased breathing frequency, which together elevate peak minute ventilation."
+      },
+      {
+        "id": 8,
+        "q": "What happens to maximal heart rate (HR_max) following long-term, high-volume aerobic endurance training?",
+        "opts": [
+          "HR_max increases by 15-20 beats/min to compensate for cardiac enlargement",
+          "HR_max remains unchanged or may decrease slightly due to increased parasympathetic tone",
+          "HR_max doubles its age-predicted baseline",
+          "HR_max becomes completely unpredictable"
+        ],
+        "correct": 1,
+        "rationale": "Maximal heart rate does not increase with training and may actually decrease slightly with prolonged aerobic training, likely as a result of increased parasympathetic tone."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following cardiovascular adjustments contribute to elevated stroke volume at rest and during exercise in trained endurance athletes? (Select all that apply)",
+        "opts": [
+          "Increased left ventricular chamber volume",
+          "Increased left ventricular contractility and wall thickness",
+          "Increased parasympathetic tone delaying SA node discharge",
+          "Decreased end-diastolic volume (EDV)",
+          "Reduced total blood volume"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Stroke volume increases via eccentric cardiac hypertrophy (larger chamber volume and contractility/wall thickness) and enhanced filling time provided by lower resting heart rates (increased parasympathetic tone). EDV increases, not decreases."
+      },
+      {
+        "id": 2,
+        "q": "Which statements regarding respiratory adaptations to chronic aerobic training are correct according to the textbook? (Select all that apply)",
+        "opts": [
+          "Submaximal exercise exhibits reduced breathing frequency and increased tidal volume",
+          "Maximal exercise exhibits increased tidal volume and increased breathing frequency",
+          "Ventilatory adaptations trained in the legs readily transfer to arm arm-crank exercise",
+          "Ventilation is generally not the primary limiting factor in healthy aerobic exercise performance",
+          "Anatomical dead space is completely eliminated by aerobic training"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Submaximal ventilation is more efficient (lower frequency, higher tidal volume), maximal ventilation increases (higher frequency and volume), and ventilation rarely limits aerobic performance. Adaptations are muscle-group specific, not systemic."
+      },
+      {
+        "id": 3,
+        "q": "What physiological benefits stem from an increased muscle fiber capillary density following chronic aerobic endurance training? (Select all that apply)",
+        "opts": [
+          "Decreased diffusion distance for oxygen into muscle cells",
+          "Enhanced removal of metabolic substrates and carbon dioxide",
+          "Increased diffusion distance for metabolic heat dissipation",
+          "Prolonged transit time for optimal gas and nutrient exchange",
+          "Complete cessation of intramuscular blood flow during contraction"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Angiogenesis increases capillary density, decreasing diffusion distances for O2 and nutrients, facilitating byproduct/heat removal, and providing adequate transit time for capillary exchange."
+      },
+      {
+        "id": 4,
+        "q": "Which of the following occur during submaximal exercise after long-term aerobic conditioning? (Select all that apply)",
+        "opts": [
+          "Significantly lower heart rate at a standardized workload",
+          "Slower rate of heart rate increase for a given workload",
+          "Higher cardiac output requirement for the same absolute submaximal workload",
+          "Lower submaximal breathing frequency",
+          "Markedly reduced maximal oxygen uptake"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Submaximal exercise post-training features a lower heart rate, slower HR kinetics across workloads, and reduced breathing frequency. Submaximal Q for a given absolute workload remains similar, driven by higher SV and lower HR."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "True or False: The primary mechanism driving increases in maximal oxygen uptake (VO2max) after 6 to 12 months of aerobic training is an elevation in maximal heart rate.",
+        "ans": false,
+        "feedback": "False. Maximal heart rate does not increase and may slightly decrease. VO2max increases primarily due to improvements in maximal stroke volume and central cardiac output."
+      },
+      {
+        "id": 2,
+        "q": "True or False: Highly conditioned aerobic endurance athletes frequently exhibit resting bradycardia with resting heart rates ranging between 40 and 60 beats/min.",
+        "ans": true,
+        "feedback": "True. Enhanced parasympathetic (vagal) tone combined with larger stroke volume allows resting cardiac output to be maintained at a lower resting heart rate (40-60 beats/min)."
+      },
+      {
+        "id": 3,
+        "q": "True or False: Ventilatory adaptations resulting from lower extremity aerobic endurance training automatically transfer to upper extremity activities like arm ergometry.",
+        "ans": false,
+        "feedback": "False. Ventilatory adaptations are highly specific to the trained musculature and neural pathways; leg training does not induce ventilatory adaptations during arm exercise."
+      },
+      {
+        "id": 4,
+        "q": "True or False: Increased capillary density in aerobically trained skeletal muscle decreases the diffusion distance for oxygen and metabolic substrates.",
+        "ans": true,
+        "feedback": "True. Capillarity increases in proportion to training volume and intensity, shortening the physical distance oxygen and nutrients must travel to reach muscle mitochondria."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Aerobic endurance training increases maximal cardiac output primarily through an increase in **stroke volume**, while resting heart rate drops due to an increase in **parasympathetic tone**.",
+        "targets": [
+          "stroke volume",
+          "parasympathetic tone"
+        ],
+        "optionsBank": [
+          "stroke volume",
+          "parasympathetic tone",
+          "maximal heart rate",
+          "sympathetic drive",
+          "end-systolic volume"
+        ],
+        "hint": "Identify the primary volume-based driver of cardiac output and the autonomic mechanism behind resting bradycardia."
+      },
+      {
+        "id": 2,
+        "statement": "During submaximal exercise, trained athletes exhibit a reduced **breathing frequency** and an increased **tidal volume**, improving respiratory efficiency.",
+        "targets": [
+          "breathing frequency",
+          "tidal volume"
+        ],
+        "optionsBank": [
+          "breathing frequency",
+          "tidal volume",
+          "anatomical dead space",
+          "diffusing capacity",
+          "arterial stiffness"
+        ],
+        "hint": "Recall how respiratory mechanics shift during submaximal exercise after aerobic conditioning."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "An endurance runner presents with a resting heart rate of 46 beats/min. Explain the physiological mechanisms and cardiac structural adaptations responsible for this resting bradycardia.",
+        "model": "Resting bradycardia in endurance-trained athletes is driven by two key mechanisms: 1) Autonomic Neural Control: Chronic aerobic training increases parasympathetic (vagal) tone, which slows the discharge rate of the sinoatrial (SA) node. 2) Cardiac Structural Remodeling: Long-term training induces eccentric hypertrophy of the left ventricle, expanding chamber volume and contractility. This significantly increases stroke volume (more blood pumped per beat), allowing the heart to maintain normal resting cardiac output at a substantially lower heart rate.",
+        "criteria": [
+          "Identifies increased parasympathetic (vagal) tone slowing SA node firing rate",
+          "Explains left ventricular eccentric hypertrophy (increased chamber volume and stroke volume)",
+          "Connects stroke volume elevation to maintaining resting cardiac output at a lower heart rate"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Contrast the respiratory ventilatory responses (breathing frequency, tidal volume, minute ventilation) between submaximal and maximal exercise in an aerobically trained athlete.",
+        "model": "Submaximal Exercise: Breathing frequency is reduced while tidal volume is increased. This shift reduces the relative work of breathing and dead space ventilation, making submaximal respiration more efficient. Maximal Exercise: Both tidal volume and breathing frequency increase significantly, driving peak minute ventilation (V_E) to higher levels than in untrained individuals to support maximal oxygen intake and carbon dioxide exhalation.",
+        "criteria": [
+          "States submaximal response: lower breathing frequency paired with higher tidal volume",
+          "States maximal response: concurrent increases in both breathing frequency and tidal volume",
+          "Explains that ventilatory adaptations are specific to the trained musculature"
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Which neural adaptation occurs during early aerobic endurance training to delay contractile fatigue during steady-state locomotion?",
+        "opts": [
+          "Continuous simultaneous activation of all motor units",
+          "Rotation of neural activity among synergist muscles and motor units",
+          "Inhibition of muscle spindle reflex pathways",
+          "Desynchronization of corticospinal nerve conduction"
+        ],
+        "correct": 1,
+        "rationale": "Early neural adaptations include a rotation of neural activity among synergist muscles and among motor units within a muscle, allowing active units to rest while maintaining low-level force production with lower energy expenditure."
+      },
+      {
+        "id": 2,
+        "q": "What metabolic adaptation enables an aerobically trained athlete to maintain a higher relative exercise intensity (e.g., 80% vs 75% VO2max) during a marathon?",
+        "opts": [
+          "Accelerated muscle glycogen depletion",
+          "Glycogen sparing and enhanced intramuscular fat oxidation",
+          "Suppression of mitochondrial enzyme synthesis",
+          "Exclusive reliance on anaerobic glycolysis"
+        ],
+        "correct": 1,
+        "rationale": "Aerobic endurance training enhances intramuscular fat oxidation, producing a glycogen-sparing effect. This delays glycogen depletion and allows the athlete to sustain a higher relative percentage of maximal aerobic power."
+      },
+      {
+        "id": 3,
+        "q": "To what percentage range of aerobic capacity does the Onset of Blood Lactate Accumulation (OBLA) shift in highly trained endurance athletes?",
+        "opts": [
+          "50% to 60%",
+          "60% to 70%",
+          "80% to 90%",
+          "95% to 100%"
+        ],
+        "correct": 2,
+        "rationale": "In trained endurance athletes, specific local adaptations (reduced lactate production, enhanced lactate removal, glycogen sparing) shift OBLA to higher relative intensities, up to 80% to 90% of VO2max."
+      },
+      {
+        "id": 4,
+        "q": "Which muscle fiber type undergoes selective hypertrophy as a result of recruitment during chronic low-intensity aerobic training?",
+        "opts": [
+          "Type IIx fibers",
+          "Type IIa fibers",
+          "Type I fibers",
+          "Type IIb fibers"
+        ],
+        "correct": 2,
+        "rationale": "Chronic low-intensity aerobic training induces selective hypertrophy of Type I (slow-twitch) muscle fibers due to their constant recruitment during sustained submaximal activities."
+      },
+      {
+        "id": 5,
+        "q": "What fiber type conversion is supported by evidence following chronic aerobic endurance training?",
+        "opts": [
+          "Complete conversion of Type II fibers into Type I fibers",
+          "Gradual conversion of Type IIx fibers to Type IIa fibers",
+          "Conversion of Type I fibers into Type IIx fibers",
+          "Conversion of cardiac muscle fibers into Type IIa fibers"
+        ],
+        "correct": 1,
+        "rationale": "While there is little evidence that Type II fibers convert into Type I fibers, chronic aerobic training induces a gradual shift within the Type II subgroup from Type IIx to Type IIa fibers, which possess greater oxidative capacity."
+      },
+      {
+        "id": 6,
+        "q": "What is the primary intracellular role of myoglobin in aerobically adapted muscle cells?",
+        "opts": [
+          "Catalyzing anaerobic breakdown of phosphocreatine",
+          "Transporting oxygen within the cell from the cell membrane to mitochondria",
+          "Pumping calcium back into the sarcoplasmic reticulum",
+          "Synthesizing glycogen from blood glucose"
+        ],
+        "correct": 1,
+        "rationale": "Myoglobin is an iron-containing protein within muscle cells that binds and transports oxygen from the cell membrane to the mitochondria for aerobic ATP production."
+      },
+      {
+        "id": 7,
+        "q": "What structural and enzymatic organelle alterations occur within muscle fibers following chronic aerobic training?",
+        "opts": [
+          "Reduction in mitochondrial size and number",
+          "Increase in the size and number of mitochondria alongside elevated Krebs cycle enzymes",
+          "Complete loss of myoglobin content",
+          "Exclusive accumulation of glycolytic enzymes in Type I fibers"
+        ],
+        "correct": 1,
+        "rationale": "At the cellular level, aerobic endurance training increases the size and number of mitochondria, elevates myoglobin content, and increases oxidative enzyme activity (e.g., citrate synthase, succinate dehydrogenase)."
+      },
+      {
+        "id": 8,
+        "q": "How does repeated high-intensity interval training (e.g., 800 m running intervals) affect fast-twitch (Type II) muscle fibers?",
+        "opts": [
+          "Fast-twitch fibers are completely unrecruited during 800 m intervals",
+          "Fast-twitch fibers increase their aerobic capacity, but glycolytic enzyme concentration and fiber mass may decrease",
+          "Fast-twitch fibers undergo massive powerlifter-style hypertrophy",
+          "Fast-twitch fibers lose all oxidative potential"
+        ],
+        "correct": 1,
+        "rationale": "High-intensity aerobic intervals (e.g., repeated 800 m runs) recruit fast-twitch fibers, increasing their aerobic potential, but chronic endurance training reduces their glycolytic enzyme concentration and can reduce overall Type II fiber mass."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which factors contribute to the rightward shift of the OBLA threshold (up to 80-90% VO2max) in trained endurance athletes? (Select all that apply)",
+        "opts": [
+          "Glycogen sparing and enhanced intramuscular fat oxidation",
+          "Specific local muscular adaptations that reduce lactate production",
+          "Accelerated rate of lactic acid removal",
+          "Attenuated catecholamine release during high-intensity exercise",
+          "Complete destruction of fast-twitch muscle motor units"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "The shift in OBLA to 80-90% VO2max is driven by glycogen sparing, decreased muscle lactate production, enhanced hepatic and muscular clearance of lactate, and altered catecholamine release patterns."
+      },
+      {
+        "id": 2,
+        "q": "Which cellular and biochemical changes occur inside skeletal muscle fibers following chronic aerobic training? (Select all that apply)",
+        "opts": [
+          "Increased size and number of mitochondria",
+          "Increased myoglobin oxygen-transport content",
+          "Elevated activity of aerobic enzymes (e.g., citrate synthase)",
+          "Increased intramuscular glycogen and triglyceride stores",
+          "Decreased intramuscular triglyceride storage capacity"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Aerobic conditioning increases mitochondrial volume/density, myoglobin concentrations, oxidative enzyme activity, and intramuscular fuel stores (both glycogen and triglycerides)."
+      },
+      {
+        "id": 3,
+        "q": "Which statements regarding muscle fiber characteristics and adaptations to aerobic exercise are TRUE? (Select all that apply)",
+        "opts": [
+          "Type I fibers possess a higher initial aerobic capacity than Type II fibers both before and after training",
+          "Type IIx fibers gradually convert toward Type IIa fibers, gaining oxidative capacity",
+          "Selective hypertrophy of Type I fibers occurs, though less pronounced than resistance-induced Type II hypertrophy",
+          "Aerobic endurance training leads to widespread conversion of Type II fibers into Type I fibers",
+          "Type I fiber cross-sectional area expands beyond that of elite bodybuilders"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Type I fibers have higher initial and trained oxidative capacity and undergo selective modest hypertrophy. Type IIx fibers shift to Type IIa. True Type II to Type I fiber type conversion does not readily occur."
+      },
+      {
+        "id": 4,
+        "q": "What neural mechanisms enhance movement economy during early aerobic endurance training? (Select all that apply)",
+        "opts": [
+          "Synergistic muscle activation rotation",
+          "Motor unit activation rotation within active muscles",
+          "Reduced energy expenditure for a given submaximal speed",
+          "Complete suppression of motor unit recruitment in primary movers",
+          "Increased contractile fatigue rate in prime movers"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Neural adaptations increase movement economy by alternating activation among synergist muscles and among motor units within a muscle, lowering overall energy cost and delaying contractile fatigue."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "True or False: Chronic aerobic endurance training causes a direct, widespread conversion of Type II (fast-twitch) muscle fibers into Type I (slow-twitch) fibers.",
+        "ans": false,
+        "feedback": "False. There is little evidence showing direct conversion of Type II into Type I fibers; instead, a gradual transition occurs within the Type II subgroup from Type IIx to Type IIa fibers."
+      },
+      {
+        "id": 2,
+        "q": "True or False: Glycogen sparing refers to the increased utilization of intramuscular fats during exercise, which preserves muscle glycogen and delays fatigue.",
+        "ans": true,
+        "feedback": "True. Enhanced fat oxidation spares glycogen stores, allowing trained endurance athletes to sustain higher relative intensities for longer durations."
+      },
+      {
+        "id": 3,
+        "q": "True or False: Measuring an athlete's VO2max before and after training is the sole metric required to accurately predict competition performance improvements.",
+        "ans": false,
+        "feedback": "False. Performance improvements often occur without further increases in VO2max due to metabolic adaptations like glycogen sparing, OBLA shifts, and enhanced movement economy."
+      },
+      {
+        "id": 4,
+        "q": "True or False: Mitochondria are intracellular organelles responsible for aerobically producing ATP via the oxidation of glycogen and free fatty acids.",
+        "ans": true,
+        "feedback": "True. Mitochondria utilize oxygen delivered by myoglobin to generate ATP through aerobic metabolic pathways (Krebs cycle and electron transport chain)."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "The metabolic shift toward fat utilization spares muscle **glycogen** and shifts the **OBLA** to up to 80-90% of maximal aerobic power.",
+        "targets": [
+          "glycogen",
+          "OBLA"
+        ],
+        "optionsBank": [
+          "glycogen",
+          "OBLA",
+          "phosphocreatine",
+          "lactate threshold",
+          "myoglobin"
+        ],
+        "hint": "Identify the stored carbohydrate saved by fat oxidation and the lactate accumulation threshold."
+      },
+      {
+        "id": 2,
+        "statement": "Intracellular oxygen transport is facilitated by **myoglobin**, while aerobic ATP production occurs inside expanded **mitochondria**.",
+        "targets": [
+          "myoglobin",
+          "mitochondria"
+        ],
+        "optionsBank": [
+          "myoglobin",
+          "mitochondria",
+          "hemoglobin",
+          "sarcoplasmic reticulum",
+          "ribosomes"
+        ],
+        "hint": "Name the oxygen-binding protein and the energy-producing organelle."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain the concept of 'glycogen sparing' and detail how it contributes to performance improvements in marathon runners post-training.",
+        "model": "Glycogen Sparing: Aerobic training enhances the muscle's enzymatic capacity to oxidize free fatty acids at submaximal intensities. By utilizing fat as a primary fuel source, the body relies less on intramuscular glycogen during the early and middle stages of prolonged exercise. Performance Impact: Because glycogen depletion is a primary limiting factor in endurance events like the marathon, sparing glycogen delays metabolic fatigue and allows the athlete to maintain a higher relative percentage of their VO2max (e.g., running at 80% vs 75% VO2max) throughout the race.",
+        "criteria": [
+          "Defines glycogen sparing as increased fat oxidation reducing reliance on carbohydrate stores",
+          "Explains that glycogen depletion is a key bioenergetic limiting factor in long-duration exercise",
+          "Connects glycogen sparing to sustaining a higher relative exercise intensity (% VO2max) and delaying fatigue"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Describe the fiber type adjustments (Type I vs. Type II subgroups) that occur in skeletal muscle following long-term aerobic endurance training.",
+        "model": "Type I Fibers: Undergo selective hypertrophy due to high recruitment frequency during low-intensity steady-state activity. Their baseline high aerobic potential is further augmented. Type II Fibers: Do not readily convert into Type I fibers. Instead, a transition occurs within the Type II population from Type IIx to Type IIa fibers. Type IIa fibers possess greater oxidative capacity and functional properties closer to Type I fibers, increasing the pool of muscle fibers capable of contributing to endurance performance.",
+        "criteria": [
+          "Notes selective hypertrophy and oxidative enzyme expansion in Type I fibers",
+          "Clarifies that Type II to Type I full fiber conversion does not readily occur",
+          "Details the shift from Type IIx to Type IIa fibers and its oxidative benefit"
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What loading characteristic is essential for aerobic exercise to successfully stimulate bone mineral density growth?",
+        "opts": [
+          "Exercise must be non-weight-bearing to protect osteoblasts",
+          "Exercise intensity and strain rate must exceed normal daily activity thresholds in a weight-bearing manner",
+          "Exercise must be performed exclusively at rest heart rates",
+          "Exercise must involve isometric contractions lasting over 10 minutes"
+        ],
+        "correct": 1,
+        "rationale": "To stimulate bone growth, aerobic exercise must be weight-bearing, intense enough to exceed the minimum essential strain threshold, and involve a strain rate and frequency greater than daily activities."
+      },
+      {
+        "id": 2,
+        "q": "Which aerobic exercise modality provides the greatest osteogenic stimulus for increasing bone mineral density?",
+        "opts": [
+          "Deep-water pool swimming",
+          "Low-resistance stationary cycling",
+          "High-intensity running and high-impact aerobic intervals",
+          "Seated upper-body arm ergometry"
+        ],
+        "correct": 2,
+        "rationale": "High-impact, weight-bearing activities like running and high-intensity interval training provide substantial ground reaction forces and mechanical loading that exceed the osteogenic threshold, unlike non-weight-bearing swimming or cycling."
+      },
+      {
+        "id": 3,
+        "q": "How does chronic weight-bearing exercise influence articular joint cartilage in mature individuals?",
+        "opts": [
+          "Cartilage completely degenerates and disappears",
+          "Load-bearing surfaces of joints become thicker than non-weight-bearing surfaces",
+          "Synovial fluid secretion is permanently inhibited",
+          "Cartilage calcifies into rigid cortical bone"
+        ],
+        "correct": 1,
+        "rationale": "Weight-bearing activity causes positive structural remodeling: joint surfaces experiencing the greatest degree of weight bearing (e.g., knee joint contact points) become thicker than non-weight-bearing surfaces."
+      },
+      {
+        "id": 4,
+        "q": "What endocrine response pattern occurs in trained endurance athletes when performing submaximal exercise at the same absolute workload as an untrained person?",
+        "opts": [
+          "Trained athletes exhibit an exaggerated, hyper-active hormonal surge",
+          "Trained athletes exhibit an attenuated (blunted) hormonal response",
+          "Trained athletes show zero circulating hormones",
+          "Trained athletes convert cortisol into anabolic testosterone"
+        ],
+        "correct": 1,
+        "rationale": "Trained athletes exhibit an attenuated (blunted) hormonal response to a standardized absolute submaximal workload, as the relative physiological stress of that workload is significantly lower for the trained athlete."
+      },
+      {
+        "id": 5,
+        "q": "How do hormone secretion rates change during maximal exercise in highly trained endurance athletes?",
+        "opts": [
+          "Absolute secretion rates of anabolic and regulatory hormones are augmented during maximal exertion",
+          "Maximal hormone secretion is completely blunted and absent",
+          "Only insulin is secreted while all other hormones drop to zero",
+          "Cortisol secretion is eliminated entirely"
+        ],
+        "correct": 0,
+        "rationale": "High-intensity aerobic training augments the absolute secretion rates of anabolic and regulatory hormones (testosterone, GH, IGF-I, catecholamines) in response to maximal exercise, supporting performance at high aerobic intensities."
+      },
+      {
+        "id": 6,
+        "q": "What rapid endocrine response occurs during brief, ultra-high-intensity exercise bursts lasting only 5 to 10 seconds?",
+        "opts": [
+          "Significant surge in thyroid hormone and calcitonin",
+          "Immediate 'fight-or-flight' surge in catecholamines (epinephrine and norepinephrine)",
+          "Massive activation of parathyroid hormone",
+          "Complete cessation of adrenal gland secretion"
+        ],
+        "correct": 1,
+        "rationale": "When exercise intensity is very high and duration is very short (5-10 seconds), rapid 'fight-or-flight' increases in peripheral catecholamine concentrations (epinephrine and norepinephrine) occur."
+      },
+      {
+        "id": 7,
+        "q": "Although chronic running elevates stress-induced cortisol and net protein breakdown, how does skeletal muscle maintain net protein synthesis?",
+        "opts": [
+          "By increasing contractile myofibrillar protein synthesis",
+          "By elevating anabolic hormones (testosterone, IGF-I) to synthesize mitochondrial proteins",
+          "By converting blood glucose directly into actin and myosin",
+          "By suppressing all intracellular proteolytic enzymes permanently"
+        ],
+        "correct": 1,
+        "rationale": "The body offsets cortisol-mediated protein breakdown by increasing anabolic responses (testosterone, IGF-I). Net protein synthesis in endurance athletes occurs primarily in mitochondrial proteins rather than contractile proteins."
+      },
+      {
+        "id": 8,
+        "q": "What movement criteria is essential during weight-bearing activity to maintain joint cartilage viability and nutrient diffusion?",
+        "opts": [
+          "Partial range of motion under heavy static overload",
+          "Complete movement through a full range of motion",
+          "Complete immobilization of the joint in extension",
+          "Rapid, unweighted hyperextension flicks"
+        ],
+        "correct": 1,
+        "rationale": "Complete movement through a full range of motion during weight-bearing activity is essential to circulate synovial fluid and maintain articular cartilage tissue viability."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which characteristics are essential for an aerobic training program to effectively stimulate bone mineral density adaptations? (Select all that apply)",
+        "opts": [
+          "Must be weight-bearing (e.g., running vs. swimming)",
+          "Must exceed the minimum essential strain threshold of daily living",
+          "Must involve high strain rates and limb movement velocities",
+          "Must feature systematic progressive overload",
+          "Must be performed exclusively in a water-submerged environment"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Bone growth requires weight-bearing mechanical loading, intensity exceeding the minimum essential strain threshold, high strain rates (achieved via HIIT or sprinting), and progressive overload."
+      },
+      {
+        "id": 2,
+        "q": "Which statements regarding connective tissue and cartilage responses to aerobic exercise are supported by textbook evidence? (Select all that apply)",
+        "opts": [
+          "Weight-bearing joint surfaces develop thicker cartilage than non-weight-bearing surfaces",
+          "Full range of motion during weight-bearing activity is vital for cartilage nutrition",
+          "Moderate running in animal models increased cartilage thickness and bone remodeling",
+          "Strenuous marathon-distance running always causes degenerative joint disease in healthy joints",
+          "Non-weight-bearing cycling exerts a superior osteogenic stimulus compared to running"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Weight-bearing thickens load-bearing cartilage surfaces, full ROM circulates synovial fluid, and animal studies show moderate running increases cartilage thickness without causing degenerative joint disease."
+      },
+      {
+        "id": 3,
+        "q": "Which endocrine adjustments occur in response to chronic aerobic endurance training? (Select all that apply)",
+        "opts": [
+          "Attenuated (blunted) hormonal response to submaximal exercise at absolute workloads",
+          "Augmented absolute hormone secretion rates during maximal exercise",
+          "Receptor-level adaptations including changes in receptor number and turnover rate",
+          "Total elimination of cortisol secretion during high-intensity training",
+          "Rapid catecholamine release during short 5-10 second high-intensity bursts"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Trained athletes show blunted submaximal hormone responses, augmented maximal hormone secretion, receptor upregulation/turnover adjustments, and rapid catecholamine bursts during short high-intensity efforts. Cortisol is not eliminated."
+      },
+      {
+        "id": 4,
+        "q": "What factors influence net protein synthesis and muscular integrity in endurance-trained athletes? (Select all that apply)",
+        "opts": [
+          "Cortisol secretion promotes net protein breakdown during prolonged running",
+          "Anabolic hormones (testosterone, IGF-I) offset cortisol-induced catabolism",
+          "Net protein synthesis in endurance athletes primarily builds mitochondrial proteins",
+          "Contractile myofibrillar hypertrophy matches that of elite powerlifters",
+          "Thyroid hormones completely block amino acid transport into cells"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Running causes cortisol-mediated catabolism, which anabolic hormones (testosterone, IGF-1) counter. Net protein synthesis occurs, but it favors mitochondrial (aerobic) proteins over contractile myofibrils."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "True or False: Non-weight-bearing aerobic exercises like swimming and cycling provide an equal stimulus for bone mineral density growth as high-impact running.",
+        "ans": false,
+        "feedback": "False. Bone responds to weight-bearing impact and mechanical strain. Swimming and cycling are non-weight-bearing and exert minimal osteogenic effects compared to running."
+      },
+      {
+        "id": 2,
+        "q": "True or False: Submaximal exercise produces an attenuated (blunted) hormonal surge in aerobically trained athletes compared to untrained individuals at the same absolute workload.",
+        "ans": true,
+        "feedback": "True. Because the relative physiological stress of a standardized submaximal workload is lower for trained athletes, their acute hormonal surge is blunted."
+      },
+      {
+        "id": 3,
+        "q": "True or False: Net protein synthesis in endurance-trained athletes primarily increases myofibrillar contractile proteins, leading to powerlifter-style muscle hypertrophy.",
+        "ans": false,
+        "feedback": "False. Net protein synthesis in endurance athletes preferentially synthesizes mitochondrial proteins and oxidative enzymes rather than contractile myofibrils."
+      },
+      {
+        "id": 4,
+        "q": "True or False: Complete movement through a full range of motion during weight-bearing exercise is essential for maintaining articular cartilage viability.",
+        "ans": true,
+        "feedback": "True. Full range-of-motion weight-bearing movement facilitates synovial fluid circulation, delivering vital nutrients to non-vascularized chondrocytes."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "To stimulate bone growth, aerobic exercise must be **weight-bearing** and exceed the minimum essential **strain threshold**.",
+        "targets": [
+          "weight-bearing",
+          "strain threshold"
+        ],
+        "optionsBank": [
+          "weight-bearing",
+          "strain threshold",
+          "non-impact",
+          "resting heart rate",
+          "glycolytic limit"
+        ],
+        "hint": "Recall the structural loading type and minimum force required for osteogenesis."
+      },
+      {
+        "id": 2,
+        "statement": "In endurance athletes, net protein synthesis preferentially builds **mitochondrial** proteins rather than contractile **myofibrillar** proteins.",
+        "targets": [
+          "mitochondrial",
+          "myofibrillar"
+        ],
+        "optionsBank": [
+          "mitochondrial",
+          "myofibrillar",
+          "connective",
+          "tendinous",
+          "sarcoplasmic"
+        ],
+        "hint": "Distinguish between energy-producing organelle proteins and contractile muscle proteins."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Compare the osteogenic potential of high-intensity running versus deep-water swimming for a master athlete seeking to improve bone mineral density.",
+        "model": "High-Intensity Running: Highly osteogenic. Ground reaction forces and weight-bearing mechanical loads exceed the minimal essential strain threshold and generate high strain rates, stimulating osteoblast activity and bone remodeling. Deep-Water Swimming: Low/negligible osteogenic potential. Water buoyancy eliminates weight-bearing impact and ground reaction forces, failing to exceed the minimum strain threshold required for bone formation.",
+        "criteria": [
+          "Explains that running provides weight-bearing impact and ground reaction forces exceeding the minimal essential strain threshold",
+          "Explains that swimming is non-weight-bearing due to buoyancy and fails to stimulate osteogenesis",
+          "Recommends weight-bearing or high-intensity interval activities for bone density gains"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain how the endocrine system adapts to submaximal versus maximal exercise following chronic aerobic endurance training.",
+        "model": "Submaximal Exercise: Trained athletes exhibit an attenuated (blunted) hormonal response at a given absolute submaximal workload because the relative physiological strain is significantly lower. At the same relative submaximal intensity, hormone levels equal those of untrained individuals. Maximal Exercise: Chronic training augments absolute secretion rates of key hormones (testosterone, GH, IGF-I, catecholamines). This enhanced hormonal capacity supports sustained energy production and tolerance during high-intensity aerobic performance.",
+        "criteria": [
+          "States submaximal adaptation: blunted/attenuated hormone secretion at absolute workloads",
+          "States maximal adaptation: augmented absolute hormone secretion rates during peak exertion",
+          "Notes that anabolic hormones help counter cortisol-mediated protein breakdown"
+        ]
+      }
+    ]
+  }
+}

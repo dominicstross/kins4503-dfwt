@@ -1,0 +1,83 @@
+{
+    "chapterId": "3.6",
+    "title": "3.6 Metabolic Specificity of Training",
+    "cards": [
+        {
+            "id": "3.6-01",
+            "tag": "Metabolic Specificity",
+            "reference": "Section 3.6",
+            "front": "What is the principle of <strong>metabolic specificity of training</strong>, and why is it critical for athletic conditioning?",
+            "back": "The principle states that choosing appropriate exercise intensities and rest intervals allows for the selection of specific primary energy systems during training. This ensures training reflects the actual metabolic demands of the sport, resulting in more efficient and productive athletic regimens."
+        },
+        {
+            "id": "3.6-02",
+            "tag": "Interval Training",
+            "reference": "Section 3.6",
+            "front": "What is <strong>interval training</strong>, and what primary bioenergetic advantage does it offer over continuous training?",
+            "back": "<strong>Interval training</strong> uses predetermined intervals of exercise and rest periods (work-to-rest ratios) to optimize bioenergetic adaptations. It allows athletes to accomplish significantly more total work at higher exercise intensities with the same or less fatigue compared to continuous training."
+        },
+        {
+            "id": "3.6-03",
+            "tag": "Work-to-Rest Ratios",
+            "reference": "Section 3.6",
+            "front": "What are the recommended <strong>work-to-rest ratios</strong> and work durations for targeting the <strong>phosphagen</strong> vs. <strong>fast glycolysis</strong> energy systems?",
+            "back": "<ul><li><strong>Phosphagen System (5 to 10 s work):</strong> 1:12 to 1:20 work-to-rest ratio (allows aerobic CP resynthesis).</li><li><strong>Fast Glycolysis (15 to 30 s work):</strong> 1:3 to 1:5 work-to-rest ratio.</li></ul>"
+        },
+        {
+            "id": "3.6-04",
+            "tag": "Work-to-Rest Ratios",
+            "reference": "Section 3.6",
+            "front": "What are the recommended <strong>work-to-rest ratios</strong> and work durations for targeting <strong>fast glycolysis + oxidative</strong> vs. purely <strong>oxidative</strong> energy systems?",
+            "back": "<ul><li><strong>Fast Glycolysis & Oxidative (1 to 3 min work):</strong> 1:3 to 1:4 work-to-rest ratio.</li><li><strong>Oxidative System (>3 min work):</strong> 1:1 to 1:3 work-to-rest ratio.</li></ul>"
+        },
+        {
+            "id": "3.6-05",
+            "tag": "High-Intensity Interval Training",
+            "reference": "Section 3.6",
+            "front": "What is <strong>high-intensity interval training (HIIT)</strong>, and what target VO<sub>2</sub>max threshold should active duty cycles reach to optimize adaptation?",
+            "back": "<strong>HIIT</strong> involves brief repeated bouts of high-intensity exercise interspersed with lower-intensity recovery periods (duty cycles). To optimize adaptations, the cumulative duration and intensity of active duty cycles should equate to several minutes above <strong>90% of VO<sub>2</sub>max</strong>."
+        },
+        {
+            "id": "3.6-06",
+            "tag": "HIIT Programming",
+            "reference": "Section 3.6",
+            "front": "What are the <strong>nine variables</strong> that can be manipulated when designing a HIIT program?",
+            "back": "Variables include:<ul><li>Active portion intensity and duration</li><li>Recovery portion intensity and duration</li><li>Duty cycles per set and number of sets</li><li>Rest time and intensity between sets</li><li>Exercise mode</li></ul>Active and recovery intensities/durations are the most critical."
+        },
+        {
+            "id": "3.6-07",
+            "tag": "HIIT Physiological Adaptations",
+            "reference": "Section 3.6",
+            "front": "What dual physiological stimulus is provided by repeated HIIT duty cycles above <strong>90% VO<sub>2</sub>max</strong>?",
+            "back": "Eliciting a very high percentage of VO<sub>2</sub>max concurrently recruits <strong>large motor units</strong> (fast-twitch Type II fibers) and near-maximal <strong>cardiac output</strong>. This provides a simultaneous stimulus for oxidative muscle fiber adaptation and myocardial hypertrophy."
+        },
+        {
+            "id": "3.6-08",
+            "tag": "Combination Training",
+            "reference": "Section 3.6",
+            "front": "What is <strong>combination training</strong> (cross-training), and how can extensive aerobic training compromise anaerobic power performance?",
+            "back": "<strong>Combination training</strong> adds aerobic endurance training to an anaerobic athlete's routine. Extensive aerobic training can reduce anaerobic performance, muscle girth gains, maximum strength, and speed/power output—a phenomenon known as the <strong>interference effect</strong>."
+        },
+        {
+            "id": "3.6-09",
+            "tag": "Interference Mechanisms",
+            "reference": "Section 3.6",
+            "front": "What physiological mechanisms contribute to the <strong>interference effect</strong> when endurance training is combined with heavy strength training?",
+            "back": "Proposed mechanisms include:<ul><li>Increased overall training volume leading to overtraining and strength plateaus.</li><li>Decreased rapid voluntary muscle activation (reduced rate of force development).</li><li>Chronically lower muscle glycogen suppressing mTOR anabolic signaling.</li><li>Fiber type transition toward slower-twitch phenotypes (Type IIx to IIa/I).</li></ul>"
+        },
+        {
+            "id": "3.6-10",
+            "tag": "Concurrent Training in Endurance",
+            "reference": "Section 3.6",
+            "front": "How does adding <strong>resistance and plyometric training</strong> impact performance in highly trained endurance runners?",
+            "back": "Concurrent resistance and plyometric training improves <strong>maximal strength</strong>, <strong>peak running velocity</strong>, and <strong>time-trial performance</strong> without compromising aerobic parameters or reducing VO<sub>2</sub>max."
+        },
+        {
+            "id": "3.6-11",
+            "tag": "Aerobic Recovery Myth",
+            "reference": "Section 3.6",
+            "front": "Is extensive <strong>aerobic endurance training</strong> necessary to enhance recovery in pure strength and power athletes?",
+            "back": "<strong>No.</strong> While oxidative metabolism is involved in post-exercise PCr resynthesis and lactate clearance, specific anaerobic interval training alone stimulates sufficient aerobic power and recovery markers without the risk of counterproductive strength or power loss."
+        }
+    ]
+}

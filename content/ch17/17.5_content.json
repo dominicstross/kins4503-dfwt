@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "course": "DFWT - KINS 4503 Design of Fitness & WT",
+    "chapter": "17",
+    "section": "17.5",
+    "ch": "17",
+    "mod": "17.5",
+    "moduleTitle": "17.5 Step 5: Training Load and Repetitions"
+  },
+  "pages": [
+    {
+      "id": "p1",
+      "title": "Part 1: Load Terminology, Volume-Load, and Load-Repetition Relationships",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Mechanical Work, Volume-Load, and Load-Repetition Dynamics</h2><p><strong>Load</strong> refers to the amount of weight assigned to an exercise set and is widely recognized as the most critical variable in resistance training program design. To structure effective training programs and avoid the exhaustion stage of Selye's General Adaptation Syndrome (overtraining), strength and conditioning professionals must accurately quantify mechanical work and metabolic demand.</p><h3>Quantifying Resistance Training Work</h3><p>Mechanical work is defined as the product of force and displacement ($$\\text{Work} = \\text{Force} \\times \\text{Displacement}$$). In resistance training, total work is quantified using specific metrics:</p><ul><li><strong>Repetition-Volume (Rep-Volume):</strong> The total number of repetitions performed during a workout session.</li><li><strong>Volume-Load:</strong> Calculated by multiplying the weight lifted by the total number of repetitions completed ($$\\text{Volume-Load} = \\text{Weight} \\times \\text{Total Repetitions}$$). Volume-load correlates directly with mechanical work, metabolic energy expenditure, and physiological stress. Note that volume-load is independent of set/repetition configurations (e.g., $15 \\times 1$, $5 \\times 3$, $3 \\times 5$, and $1 \\times 15$ at $100\\text{ kg}$ all yield $1,500\\text{ kg}$).</li><li><strong>System Mass Volume-Load:</strong> Used when an athlete moves their own body mass in addition to external load (e.g., loaded jump squats). Calculated as: $$\\text{System Volume-Load} = (\\text{Athlete Body Mass} + \\text{External Load}) \\times \\text{Total Repetitions}$$. For example, an $80\\text{ kg}$ athlete performing jump squats with $40\\text{ kg}$ for 4 sets of 3 reps executes $(80 + 40) \\times 12 = 1,440\\text{ kg}$.</li><li><strong>Intensity Proxy:</strong> Dividing volume-load by rep-volume ($$\\frac{\\text{Volume-Load}}{\\text{Rep-Volume}}$$) yields the average weight lifted per repetition, serving as a proportional indicator of mechanical power output and session intensity.</li></ul><h3>The Load-Repetition Inverse Relationship</h3><p>The number of repetitions an athlete can perform is inversely related to the load lifted: as the load increases, achievable repetitions decrease. Load is expressed either as a percentage of a <strong>1-repetition maximum (1RM)</strong>\u2014the maximum weight lifted with proper technique for one repetition\u2014or as a <strong>repetition maximum (RM)</strong>, representing the heaviest load lifted for a specified number of repetitions (e.g., a $10\\text{RM}$ of $60\\text{ kg}$ in the back squat).</p><h3>%1RM to Repetition Associations and Limitations</h3><p>Standardized tables (Table 17.7) relate submaximal %1RM loads to maximum achievable repetitions ($100\\% = 1\\text{ rep}$, $95\\% = 2$, $90\\% = 4$, $85\\% = 6$, $80\\% = 8$, $75\\% = 10$, $70\\% = 12$, $65\\% = 15$). While valuable as guidelines, strength coaches must recognize several physiological limitations:</p><ul><li><strong>Non-Linearity:</strong> The relationship between load and repetitions is curvilinear rather than strictly linear.</li><li><strong>Muscle Group Disparity:</strong> Exercises recruiting large muscle areas (especially lower body core lifts like back squats) allow athletes to complete more repetitions at a given %1RM than listed, whereas small muscle assistance lifts allow fewer repetitions.</li><li><strong>Equipment Effects:</strong> Machine exercises allow more repetitions at a given %1RM than equivalent free weight exercises.</li><li><strong>Fatigue Across Multiple Sets:</strong> %1RM tables reflect a single maximal set; subsequent sets require load reductions to complete designated repetitions.</li><li><strong>Accuracy Range:</strong> %1RM-to-repetition relationships are most accurate for loads <strong>greater than $75\\%$ of 1RM and fewer than 10 repetitions</strong> ($> 75\\% \\text{ 1RM}$, $< 10\\text{ reps}$). As %1RM decreases below $75\\%$, repetition variability increases significantly.</li></ul><div class=\"callout-box\"><div class=\"callout-title\">Coaching / Sport Application</div><p>Always use %1RM tables as estimation guidelines rather than rigid rules. Trained athletes routinely perform more repetitions than table predictions on lower-body core lifts (e.g., leg press or squat at $75\\%$ 1RM). To maintain targeted repetition schemes across multiple working sets, coaches must account for fatigue by making conservative load adjustments.</p></div><table class=\"data-table\"><thead><tr><th>% of 1RM</th><th>Max Repetitions Allowed</th><th>Primary Training Outcome Focus</th></tr></thead><tbody><tr><td><strong>$100\\%$</strong></td><td>1</td><td>Maximal Strength</td></tr><tr><td><strong>$95\\%$</strong></td><td>2</td><td>Maximal Strength</td></tr><tr><td><strong>$90\\%$</strong></td><td>4</td><td>Strength / Power</td></tr><tr><td><strong>$85\\%$</strong></td><td>6</td><td>Strength / Hypertrophy Boundary</td></tr><tr><td><strong>$80\\%$</strong></td><td>8</td><td>Hypertrophy</td></tr><tr><td><strong>$75\\%$</strong></td><td>10</td><td>Hypertrophy</td></tr><tr><td><strong>$70\\%$</strong></td><td>12</td><td>Hypertrophy / Muscular Endurance</td></tr><tr><td><strong>$65\\%$</strong></td><td>15</td><td>Muscular Endurance</td></tr></tbody></table>"
+    },
+    {
+      "id": "p2",
+      "title": "Part 2: 1RM and Multiple-RM Testing Protocols",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>1RM and Multiple-RM Testing Protocols</h2><p>To establish precise training loads, strength and conditioning professionals can select from three primary testing options: (1) direct 1RM testing, (2) 1RM estimation from a multiple-RM test (e.g., 10RM), or (3) multiple-RM testing based on goal repetitions.</p><h3>Direct 1RM Testing Guidelines</h3><p>Direct 1RM testing places maximal mechanical stress on skeletal muscles, connective tissues, and joint capsules. Consequently, specific testing criteria apply:</p><ul><li><strong>Target Population:</strong> Reserved strictly for intermediate and advanced resistance-trained athletes with extensive exercise technique experience. Untrained, inexperienced, injured, or medically supervised individuals should not undergo 1RM testing (a $3\\text{RM}$ test serves as a safer alternative).</li><li><strong>Exercise Selection:</strong> Restricted to <strong>core exercises</strong> (e.g., back squat, bench press) because large muscle groups and multiple joints safely handle maximal loads. Core lifts where stabilizing muscles fatigue prematurely (e.g., bent-over row lower back breakdown) must be excluded.</li><li><strong>1RM Step-by-Step Protocol:</strong><ol><li>Warm up with a light load ($50\\% \\text{ estimated 1RM}$) for 5\u201310 reps; rest 1 minute.</li><li>Add load ($5\\text{--}10\\%$ upper body, $10\\text{--}20\\%$ lower body) for 3\u20135 reps; rest 2 minutes.</li><li>Add load ($5\\text{--}10\\%$ upper, $10\\text{--}20\\%$ lower) for a near-maximal 2\u20133 reps; rest 2\u20134 minutes.</li><li>Increase load ($5\\text{--}10\\%$ upper, $10\\text{--}20\\%$ lower); attempt 1RM.</li><li>If successful, rest 2\u20134 minutes and increase load until 1RM is found within 3\u20135 maximal attempts.</li></ol></li></ul><h3>Multiple-RM Testing & Estimation (10RM Protocol)</h3><p>When direct 1RM testing is unsafe or unwarranted, a $10\\text{RM}$ test provides a reliable alternative for nearly all athletes. Key principles include:</p><ul><li><strong>Protocol:</strong> Identical to 1RM warm-up steps, but each set requires 10 repetitions with smaller load increments. The $10\\text{RM}$ should be achieved within 3 to 5 testing sets.</li><li><strong>1RM Estimation:</strong> Consult standardized conversion charts (Table 17.8) or prediction equations ($10\\text{RM} = 75\\% \\text{ 1RM}$). Accuracy increases when tested loads are $\\le 10\\text{RM}$ and close to the actual 1RM.</li><li><strong>Power Exercise Restriction:</strong> Power exercises (e.g., power clean, snatch) <strong>must never be tested above 5 repetitions</strong> because technique deteriorates rapidly, increasing injury risk.</li></ul><h3>Goal Repetition Testing & Assistance Lift Limits</h3><p>Coaches can test a multiple-RM matching the exact goal repetitions planned for the program (e.g., testing a $6\\text{RM}$ if 6 reps are prescribed). However, to protect joint structures and connective tissues, <strong>assistance exercises must never be assigned loads heavier than an $8\\text{RM}$</strong>, even if core exercises in the same program utilize heavier $2\\text{RM}\\text{--}6\\text{RM}$ strength loads.</p><div class=\"callout-box\"><div class=\"callout-title\">Coaching / Sport Application</div><p>Never perform multiple-RM testing above 5 reps on explosive power lifts like the power clean or snatch. For assistance lifts (e.g., triceps pushdowns, lateral raises), enforce an 8RM loading cap ($8\\text{--}12\\text{RM}$) to prevent isolative connective tissue damage at single joints.</p></div><table class=\"data-table\"><thead><tr><th>Testing Method</th><th>Appropriate Athlete Status</th><th>Eligible Exercise Types</th><th>Key Loading Limits</th></tr></thead><tbody><tr><td><strong>Direct 1RM Test</strong></td><td>Intermediate / Advanced trained only</td><td>Core exercises only (Squat, Bench)</td><td>Maximal load within 3\u20135 attempts</td></tr><tr><td><strong>Multiple-RM (10RM) Test</strong></td><td>Beginner, Intermediate, Advanced</td><td>Core and Assistance exercises</td><td>Power lifts capped at $\\le 5\\text{RM}$</td></tr><tr><td><strong>Goal-Rep Testing</strong></td><td>All trained populations</td><td>Core and Assistance exercises</td><td>Assistance lifts capped at $\\ge 8\\text{RM}$</td></tr></tbody></table>"
+    },
+    {
+      "id": "p3",
+      "title": "Part 3: Assigning Loads by Training Goal, Power Loading, and Load Progression",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Assigning Loads by Goal, Power Mechanics, and Progression</h2><p>Once the primary resistance training goal is identified from the needs analysis, training loads and repetition limits are assigned according to the <strong>Repetition Maximum (RM) Continuum</strong> and %1RM prescription guidelines (Table 17.9).</p><h3>Load and Repetition Prescriptions by Training Goal</h3><ul><li><strong>Muscular Strength:</strong> Loads $\\ge 85\\%$ 1RM, $\\le 6$ repetitions, 2 to 6 sets.</li><li><strong>Single-Effort Power (e.g., Shot Put, High Jump):</strong> Loads $80\\text{--}90\\%$ 1RM, 1 to 2 repetitions, 3 to 5 sets.</li><li><strong>Multiple-Effort Power (e.g., Basketball, Volleyball):</strong> Loads $75\\text{--}85\\%$ 1RM, 3 to 5 repetitions, 3 to 5 sets.</li><li><strong>Hypertrophy:</strong> Loads $67\\text{--}85\\%$ 1RM, 6 to 12 repetitions, 3 to 6 sets.</li><li><strong>Muscular Endurance:</strong> Loads $\\le 67\\%$ 1RM, $\\ge 12$ repetitions, 2 to 3 sets.</li></ul><h3>Biomechanical Rationale for Power Loading</h3><p>Maximal power is produced at intermediate movement velocities with light-to-moderate loads ($75\\text{--}90\\%$ 1RM for weightlifting lifts; $0\\text{--}30\\%$ 1RM for non-weightlifting ballistic jumps/throws). Power lifts are <strong>never loaded to true repetition maximums</strong> (failure) because movement velocity and technical execution decline before fatigue occurs. Assigning $75\\text{--}85\\%$ 1RM for 3\u20135 reps provides maximal velocity without deceleration.</p><h3>Variation of Training Load (Heavy / Medium / Light Days)</h3><p>To prevent overtraining during heavy strength/power blocks, intermediate and advanced athletes should alternate session loads across the microcycle:</p><ul><li><strong>Heavy Day (e.g., Monday):</strong> 100% of prescribed full RM load for designated goal reps.</li><li><strong>Light Day (e.g., Wednesday):</strong> $80\\%$ of Heavy day load for the same goal reps.</li><li><strong>Medium Day (e.g., Friday):</strong> $90\\%$ of Heavy day load for the same goal reps.</li></ul><h3>Progression of Training Load: The 2-for-2 Rule</h3><p>The <strong>2-for-2 rule</strong> states that if an athlete can perform two or more repetitions over their assigned repetition goal in the last set for two consecutive workouts, weight should be added to that exercise for the next session.</p><h3>Load Increase Recommendations (Table 17.10)</h3><p>Absolute load increases depend on training status and body region, or can be assigned as a relative increase of $2.5\\% \\text{ to } 10\\%$:</p><ul><li><strong>Untrained / Weaker Athletes:</strong> Upper body: 2.5\u20135 lb ($1\\text{--}2\\text{ kg}$); Lower body: 5\u201310 lb ($2\\text{--}4\\text{ kg}$).</li><li><strong>Trained / Stronger Athletes:</strong> Upper body: 5\u201310+ lb ($2\\text{--}4+\\text{ kg}$); Lower body: 10\u201315+ lb ($4\\text{--}7+\\text{ kg}$).</li></ul><div class=\"callout-box\"><div class=\"callout-title\">Coaching / Sport Application</div><p>Apply the 2-for-2 rule conservatively. If a collegiate athlete assigned 3 sets of 10 in the bench press achieves 12 reps on set 3 on both Monday and Thursday, increase the upper body load by 5 to 10 lbs for the next session. Use 80% (Light) and 90% (Medium) load reductions on mid-week sessions to allow recovery while maintaining volume-load.</p></div><table class=\"data-table\"><thead><tr><th>Training Goal</th><th>Load (% 1RM)</th><th>Goal Repetitions</th><th>Target Sets</th></tr></thead><tbody><tr><td><strong>Strength</strong></td><td>$\\ge 85\\%$</td><td>$\\le 6$</td><td>2 \u2013 6</td></tr><tr><td><strong>Power (Single-Effort)</strong></td><td>$80\\text{--}90\\%$</td><td>1 \u2013 2</td><td>3 \u2013 5</td></tr><tr><td><strong>Power (Multiple-Effort)</strong></td><td>$75\\text{--}85\\%$</td><td>3 \u2013 5</td><td>3 \u2013 5</td></tr><tr><td><strong>Hypertrophy</strong></td><td>$67\\text{--}85\\%$</td><td>6 \u2013 12</td><td>3 \u2013 6</td></tr><tr><td><strong>Muscular Endurance</strong></td><td>$\\le 67\\%$</td><td>$\\ge 12$</td><td>2 \u2013 3</td></tr></tbody></table>"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Load",
+      "def": "The amount of weight assigned to an exercise set, characterized as the most critical variable in resistance training program design."
+    },
+    {
+      "term": "Volume-load",
+      "def": "A quantitative measure of resistance training work calculated by multiplying the weight lifted by the total number of repetitions completed across a training session."
+    },
+    {
+      "term": "Repetition-volume (Rep-volume)",
+      "def": "The total number of repetitions performed during a workout session or specific exercise block."
+    },
+    {
+      "term": "System mass volume-load",
+      "def": "Volume-load calculation incorporating the athlete's body mass when body mass is moved against gravity alongside external resistance (e.g., loaded jump squats)."
+    },
+    {
+      "term": "1-Repetition Maximum (1RM)",
+      "def": "The greatest amount of weight that can be lifted with proper exercise technique for only one repetition."
+    },
+    {
+      "term": "Repetition Maximum (RM)",
+      "def": "The maximal load that can be lifted for a specific number of repetitions with maximal effort."
+    },
+    {
+      "term": "Repetition Maximum Continuum",
+      "def": "The theoretical spectrum linking specific RM load ranges to primary physiological training outcomes (strength, power, hypertrophy, muscular endurance)."
+    },
+    {
+      "term": "2-for-2 rule",
+      "def": "A conservative load progression guideline stating that if an athlete completes two or more repetitions over their assigned goal rep target on the final set for two consecutive workouts, load should be increased for the next session."
+    },
+    {
+      "term": "Heavy day",
+      "def": "A microcycle session in which prescribed loads equal 100% of the target repetition maximum to drive maximal strength or power adaptation."
+    },
+    {
+      "term": "Light / Medium day",
+      "def": "Microcycle sessions where loads are intentionally reduced to 80% (light) or 90% (medium) of heavy day loads for the same target repetitions to facilitate neuromuscular recovery."
+    }
+  ]
+}

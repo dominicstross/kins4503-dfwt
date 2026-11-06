@@ -1,0 +1,76 @@
+{
+    "chapterId": "17.1",
+    "title": "17.1 Step 1: Needs Analysis",
+    "cards": [
+        {
+            "id": "17.1-01",
+            "tag": "Principles of Anaerobic Exercise Prescription",
+            "reference": "Section 17.1",
+            "front": "What are the three primary principles of <strong>anaerobic exercise prescription</strong> required when designing athletic resistance training programs?",
+            "back": "The three core principles are: <ul><li><strong>Specificity:</strong> Training an athlete in a specific manner to produce a specific training adaptation or outcome.</li><li><strong>Overload:</strong> Assigning a workout or training regimen of greater intensity than the athlete is accustomed to.</li><li><strong>Progression:</strong> Systematically and gradually increasing the training stimulus over time to promote long-term adaptations.</li></ul>"
+        },
+        {
+            "id": "17.1-02",
+            "tag": "Specificity & SAID Principle",
+            "reference": "Section 17.1",
+            "front": "What is the <strong>SAID principle</strong>, and how does <strong>specificity</strong> apply to athletic movement patterns without requiring exact skill duplication?",
+            "back": "<strong>SAID</strong> stands for <em>Specific Adaptation to Imposed Demands</em>. The underlying principle dictates that the type of demand placed on the body determines the adaptation. Specificity applies to muscle groups, movement patterns, and contraction velocity, but does <em>not</em> require mimicking all aspects of a sporting skill (e.g., heavy squats recruit the same muscles as vertical jumping, despite differing movement velocities)."
+        },
+        {
+            "id": "17.1-03",
+            "tag": "Overload Principle Strategies",
+            "reference": "Section 17.1",
+            "front": "What methods can a strength and conditioning professional use to apply the <strong>overload principle</strong> in resistance training?",
+            "back": "Overload can be achieved by: <ul><li>Increasing assigned exercise <strong>loads/resistance</strong></li><li>Increasing weekly or daily <strong>training frequency</strong></li><li>Adding <strong>exercises or sets</strong> to a workout</li><li>Emphasizing <strong>complex over simple exercises</strong></li><li>Decreasing <strong>rest period lengths</strong> between sets and exercises</li></ul>"
+        },
+        {
+            "id": "17.1-04",
+            "tag": "Progression Principle & Technical Progression",
+            "reference": "Section 17.1",
+            "front": "How should the <strong>progression principle</strong> be applied in program design, and what is an example of a technical exercise progression?",
+            "back": "Progression must be introduced <strong>systematically and gradually</strong> based on the athlete's training status. An example of a technical exercise progression is advancing an athlete from learning the <strong>front squat</strong> to the <strong>hang power clean</strong>, and eventually to the <strong>power clean</strong>."
+        },
+        {
+            "id": "17.1-05",
+            "tag": "Program Design Variables & Needs Analysis",
+            "reference": "Section 17.1",
+            "front": "What is a <strong>needs analysis</strong>, and what are the two main stages of this initial program design step?",
+            "back": "A <strong>needs analysis</strong> is Step 1 of resistance training program design. It is a two-stage process consisting of: <ul><li><strong>Evaluation of the Sport:</strong> Determining the biomechanical, physiological, and injury requirements of the sport.</li><li><strong>Assessment of the Athlete:</strong> Profiling training status, evaluating physical test results, and establishing primary resistance training goals.</li></ul>"
+        },
+        {
+            "id": "17.1-06",
+            "tag": "Evaluation of the Sport: Three Core Analyses",
+            "reference": "Section 17.1",
+            "front": "What three primary analyses must be conducted during the <strong>evaluation of the sport</strong> stage of a needs analysis?",
+            "back": "The evaluation of the sport includes: <ul><li><strong>Movement Analysis:</strong> Body and limb movement patterns and specific muscular involvement.</li><li><strong>Physiological Analysis:</strong> Priorities for strength, power, hypertrophy, and muscular endurance.</li><li><strong>Injury Analysis:</strong> Common sites for joint and muscle injury and their causative mechanisms.</li></ul>"
+        },
+        {
+            "id": "17.1-07",
+            "tag": "Shot-Put Biomechanical & Physiological Profile",
+            "reference": "Section 17.1",
+            "front": "What key muscles and physiological outcomes are identified in a <strong>needs analysis of the shot-put event</strong>?",
+            "back": "Shot-put is an all-body movement recruiting the <strong>triceps brachii</strong> (elbow extensors), <strong>deltoids</strong> (shoulder abductors), <strong>gluteals and hamstrings</strong> (hip extensors), <strong>quadriceps</strong> (knee extensors), and <strong>gastrocnemius and soleus</strong> (plantar flexors). It demands maximal <strong>strength and power</strong> alongside <strong>hypertrophy</strong> (to expand muscle cross-sectional area), with minimal muscular endurance demands."
+        },
+        {
+            "id": "17.1-08",
+            "tag": "Athlete Assessment & Training Background",
+            "reference": "Section 17.1",
+            "front": "What four key factors must be evaluated when examining an athlete's <strong>training background</strong> or exercise history?",
+            "back": "An assessment of training background includes examining: <ul><li><strong>Type of training program</strong> previously performed (sprint, plyometric, resistance)</li><li><strong>Length of recent regular participation</strong> in previous training programs</li><li><strong>Level of intensity</strong> involved in previous training</li><li><strong>Degree of exercise technique experience</strong> and movement skill</li></ul>"
+        },
+        {
+            "id": "17.1-09",
+            "tag": "Training Status Classifications (Table 17.1)",
+            "reference": "Section 17.1",
+            "front": "How are athletes classified across the <strong>training status continuum</strong> based on resistance training background (Table 17.1)?",
+            "back": "Athletes are classified into three stages along a continuous spectrum: <ul><li><strong>Beginner (Untrained):</strong> Current training &lt; 2&ndash;6 months; minimal or no technique experience.</li><li><strong>Intermediate (Moderately Trained):</strong> Current training &sim; 2&ndash;6 months; basic technique experience.</li><li><strong>Advanced (Trained):</strong> Current training &ge; 1 year continuous; high technique experience.</li></ul>"
+        },
+        {
+            "id": "17.1-10",
+            "tag": "Primary Resistance Training Goal & Seasonality",
+            "reference": "Section 17.1",
+            "front": "Why should strength and conditioning professionals focus on only <strong>one primary resistance training goal per season</strong> (Table 17.2)?",
+            "back": "Focusing on <strong>one primary outcome</strong> (strength, power, hypertrophy, or muscular endurance) per season avoids conflicting cellular signaling pathways. Typically, <strong>hypertrophy or muscular endurance</strong> is prioritized in the off-season, <strong>strength and power</strong> in the preseason, and <strong>maintenance</strong> during the in-season."
+        }
+    ]
+}

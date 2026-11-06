@@ -1,0 +1,72 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": "p1_mcq_1",
+        "q": "Which of the following best defines the academic discipline of Kinesiology?",
+        "opts": [
+          "The comprehensive study of human movement and physical activity",
+          "The exclusive study of competitive athletic conditioning",
+          "The surgical practice of musculoskeletal repair",
+          "The commercial management of health and fitness clubs"
+        ],
+        "correct": 0,
+        "rationale": "Kinesiology is the multidisciplinary field addressing human movement across biophysical, behavioral, and sociocultural perspectives."
+      }
+    ],
+    "ms": [
+      {
+        "id": "p1_ms_1",
+        "q": "Which of the following represent core knowledge spheres integrated within the discipline of Kinesiology? (Select all that apply)",
+        "opts": [
+          "Biophysical foundations (e.g., exercise physiology, biomechanics)",
+          "Behavioral foundations (e.g., motor behavior, sport psychology)",
+          "Socio-cultural foundations (e.g., history and sociology of physical activity)",
+          "Invasive surgical pharmacology"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Kinesiology integrates biophysical, behavioral, and socio-cultural foundations. Surgical pharmacology is outside the discipline's core scope."
+      }
+    ],
+    "tf": [
+      {
+        "id": "p1_tf_1",
+        "q": "Within kinesiology, physical activity is defined as any involuntary biological muscle twitch or reflex.",
+        "ans": false,
+        "feedback": "False. Physical activity is defined as intentional, voluntary movement directed toward an identifiable goal."
+      }
+    ],
+    "cloze": [
+      {
+        "id": "p1_clz_1",
+        "statement": "The academic discipline that investigates the science, art, and practice of human movement is known as **kinesiology**.",
+        "targets": [
+          "kinesiology"
+        ],
+        "optionsBank": [
+          "kinesiology",
+          "orthopedics",
+          "biomechanics",
+          "ergonomics"
+        ],
+        "hint": "Think of the overarching academic discipline rather than a specific sub-discipline."
+      }
+    ],
+    "sa": [
+      {
+        "id": "p1_sa_1",
+        "q": "How does the academic definition of physical activity distinguish itself from simple involuntary biological movement or reflexes?",
+        "model": "Physical activity requires voluntary, intentional muscular movement directed toward achieving an identifiable goal, whereas involuntary biological reflexes or twitches lack intentionality and goal orientation.",
+        "criteria": [
+          "Identifies that physical activity requires intentional and voluntary muscular action.",
+          "Notes that movement must be directed toward an identifiable goal.",
+          "Distinguishes physical activity from non-purposeful or involuntary biological reflexes."
+        ]
+      }
+    ]
+  }
+}

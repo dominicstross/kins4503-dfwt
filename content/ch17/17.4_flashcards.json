@@ -1,0 +1,76 @@
+{
+    "chapterId": "17.4",
+    "title": "17.4 Step 4: Exercise Order",
+    "cards": [
+        {
+            "id": "17.4-01",
+            "tag": "Exercise Order Definition & Core Objective",
+            "reference": "Section 17.4",
+            "front": "How is <strong>exercise order</strong> defined in resistance program design, and what is the primary objective guiding exercise sequencing decisions?",
+            "back": "<strong>Exercise order</strong> is the sequence of resistance exercises performed during one training session. Decisions are based on how one exercise affects the quality of effort or technique of another, ensuring an athlete's <strong>maximal force capabilities</strong> are available (via proper rest) to complete sets with proper form."
+        },
+        {
+            "id": "17.4-02",
+            "tag": "Primary Exercise Ordering Hierarchy",
+            "reference": "Section 17.4",
+            "front": "What is the recommended <strong>primary sequence for ordering resistance exercises</strong> when power movements are included?",
+            "back": "The primary recommended sequence is: <ul><li><strong>1st: Power Exercises</strong> (e.g., snatch, hang clean, power clean, push jerk)</li><li><strong>2nd: Nonpower Core Exercises</strong> (e.g., back squat, bench press, deadlift)</li><li><strong>3rd: Assistance Exercises</strong> (e.g., biceps curl, triceps pushdown, lateral raise)</li></ul>"
+        },
+        {
+            "id": "17.4-03",
+            "tag": "Rationale for Performing Power Exercises First",
+            "reference": "Section 17.4",
+            "front": "Why must <strong>power exercises</strong> be performed first in a training session before other core and assistance exercises?",
+            "back": "Power exercises require the <strong>highest level of skill and concentration</strong>, involve extensive muscle recruitment, and cause high energy expenditure. Fatigued athletes are prone to poor technique and higher injury risk, so power lifts must be executed while athletes are <strong>metabolically and neurally fresh</strong>."
+        },
+        {
+            "id": "17.4-04",
+            "tag": "Alternative Terminology for Exercise Ordering",
+            "reference": "Section 17.4",
+            "front": "What alternative terminology is commonly used in exercise science literature to describe the <strong>power &rarr; core &rarr; assistance</strong> ordering hierarchy?",
+            "back": "Exercise science literature frequently refers to this hierarchy as: <ul><li><strong>Multijoint exercises</strong> performed before <strong>single-joint exercises</strong></li><li><strong>Large muscle areas</strong> trained before <strong>small muscle areas</strong></li></ul>"
+        },
+        {
+            "id": "17.4-05",
+            "tag": "Benefits of Alternating Upper and Lower Body Exercises",
+            "reference": "Section 17.4",
+            "front": "What are the primary benefits of <strong>alternating upper body and lower body exercises</strong> during a training session?",
+            "back": "Alternating body regions: <ul><li>Allows one body region to rest while the opposing region works, maximizing recovery between body areas.</li><li>Decreases total session length by eliminating long rest waits between exercises.</li><li>Prevents excessive fatigue in <strong>untrained or beginner athletes</strong>.</li></ul>"
+        },
+        {
+            "id": "17.4-06",
+            "tag": "Upper/Lower Alternation and Circuit Training",
+            "reference": "Section 17.4",
+            "front": "How can alternating upper and lower body exercises be modified to function as <strong>circuit training</strong>?",
+            "back": "When upper and lower body exercises are performed sequentially with <strong>short rest periods (20 to 30 seconds)</strong>, the workout functions as <strong>circuit training</strong>, which can improve cardiorespiratory endurance (to a lesser extent than traditional aerobic training)."
+        },
+        {
+            "id": "17.4-07",
+            "tag": "Alternating Push and Pull Exercises",
+            "reference": "Section 17.4",
+            "front": "How does alternating <strong>pushing and pulling exercises</strong> prevent premature muscular fatigue during a workout?",
+            "back": "Push&ndash;pull alternation ensures that the <strong>same muscle group is not stressed in consecutive exercises</strong> (e.g., bench press alternated with bent-over row). This prevents cumulative synergistic fatigue in prime movers and stabilization muscles like the <em>triceps brachii</em> or <em>biceps brachii</em>."
+        },
+        {
+            "id": "17.4-08",
+            "tag": "Lower Body Push-Pull Classification",
+            "reference": "Section 17.4",
+            "front": "How are common lower body resistance exercises categorized within a <strong>push&ndash;pull arrangement</strong>?",
+            "back": "Lower body exercises are categorized as: <ul><li><strong>Lower Body Push:</strong> Leg press, back squat</li><li><strong>Lower Body Pull:</strong> Stiff-leg deadlift, leg (knee) curl</li></ul><em>(Note: Exercises like leg extensions have less clear push/pull classifications.)</em>"
+        },
+        {
+            "id": "17.4-09",
+            "tag": "Supersets Definition and Physiological Mechanics",
+            "reference": "Section 17.4",
+            "front": "What defines a <strong>superset</strong>, and how does it utilize opposing muscle groups?",
+            "back": "A <strong>superset</strong> involves sequentially performing two exercises for <strong>opposing muscle groups (an agonist and its antagonist)</strong> with little to no rest between them (e.g., barbell biceps curl followed immediately by triceps pushdown)."
+        },
+        {
+            "id": "17.4-10",
+            "tag": "Compound Sets vs. Supersets",
+            "reference": "Section 17.4",
+            "front": "What defines a <strong>compound set</strong>, and how does its muscular strain differ from a superset?",
+            "back": "A <strong>compound set</strong> involves sequentially performing two different exercises for the <strong>same muscle group</strong> (e.g., barbell biceps curl followed immediately by dumbbell hammer curl) with little to no rest. Unlike a superset, it <strong>compounds fatigue</strong> on identical muscle fibers and motor unit pools."
+        }
+    ]
+}

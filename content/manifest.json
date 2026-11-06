@@ -1,0 +1,34 @@
+{
+  "courseCode": "KINS 4503",
+  "courseTitle": "Design of Fitness and WT",
+  "institution": "SEU Kinesiology",
+  "description": "Interactive online learning modules (OLMs)",
+  "units": [
+    {
+      "unitTitle": "Unit 1: Foundations",
+      "unitTag": "Weeks 1-4",
+      "chapters": [
+        {
+          "num": "01",
+          "title": "Chapter 1: Foundational Principles",
+          "modules": [
+            {
+              "id": "1.1",
+              "title": "Core Mechanisms & Dynamics",
+              "href": "viewer.html?ch=01&mod=1.1"
+            },
+            {
+              "num": "03",
+              "title": "Chapter 3: Bioenergetics of Exercise and Training",
+              "modules": [
+                {
+                  "id": "3.1",
+                  "title": "Essential Terminology",
+                  "href": "viewer.html?ch=03&mod=3.1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

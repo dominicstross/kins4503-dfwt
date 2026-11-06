@@ -1,0 +1,499 @@
+{
+    "p1": {
+        "mcq": [
+            {
+                "id": 1,
+                "q": "Oxygen uptake (VO2) measures a person's physiological capacity to perform which of the following combined functions?",
+                "opts": [
+                    "Take in oxygen via the respiratory system, deliver it via the cardiovascular system, and use it in working tissues",
+                    "Convert anaerobic lactate into glucose in the liver via the Cori cycle",
+                    "Hydrolyze ATP without producing hydrogen ions in skeletal muscle sarcoplasm",
+                    "Synthesize glycogen directly from carbon dioxide during high-intensity sprinting"
+                ],
+                "correct": 0,
+                "rationale": "Oxygen uptake (or consumption) is a measure of a person's ability to take in oxygen via the respiratory system, deliver it to working tissues via the cardiovascular system, and the ability of working tissues (predominantly skeletal muscle) to use oxygen."
+            },
+            {
+                "id": 2,
+                "q": "During low-intensity exercise with a constant power output, what happens to oxygen uptake during the first few minutes of exertion?",
+                "opts": [
+                    "It decreases exponentially until reaching absolute zero",
+                    "It increases for the first few minutes until a steady state of uptake is reached",
+                    "It instantly spikes to VO2max within the first 3 seconds",
+                    "It fluctuates unpredictably without ever stabilizing"
+                ],
+                "correct": 1,
+                "rationale": "During low-intensity exercise with a constant power output, oxygen uptake increases for the first few minutes until a steady state of uptake (oxygen demand equals oxygen consumption) is reached."
+            },
+            {
+                "id": 3,
+                "q": "Why must energy be supplied through anaerobic mechanisms at the immediate start of an exercise bout?",
+                "opts": [
+                    "Because the aerobic system responds slowly to the initial increase in energy demand",
+                    "Because muscle cells contain no mitochondria at the start of exercise",
+                    "Because oxygen is toxic to skeletal muscle during the first 5 minutes of movement",
+                    "Because pyruvate cannot enter the mitochondria under any physiological condition"
+                ],
+                "correct": 0,
+                "rationale": "At the start of an exercise bout, energy must be supplied through anaerobic mechanisms because the aerobic system responds slowly to the initial increase in the demand for energy."
+            },
+            {
+                "id": 4,
+                "q": "What term defines the temporary anaerobic energy contribution required at the start of exercise before steady state is achieved?",
+                "opts": [
+                    "Oxygen debt",
+                    "Oxygen deficit",
+                    "Excess postexercise oxygen consumption",
+                    "Maximal aerobic capacity"
+                ],
+                "correct": 1,
+                "rationale": "The anaerobic contribution to the total energy cost of exercise at the start of an exercise bout is termed the oxygen deficit."
+            },
+            {
+                "id": 5,
+                "q": "What is excess postexercise oxygen consumption (EPOC)?",
+                "opts": [
+                    "The volume of oxygen consumed during steady-state rest prior to exercise",
+                    "The oxygen uptake above resting values used to restore the body to the preexercise condition",
+                    "The amount of oxygen converted into lactate during fast glycolysis",
+                    "The maximal oxygen uptake attained during an incremental treadmill test"
+                ],
+                "correct": 1,
+                "rationale": "EPOC is the oxygen uptake above resting values used to restore the body to the preexercise condition following an exercise bout."
+            },
+            {
+                "id": 6,
+                "q": "Which of the following historical or alternative terms has been used to describe postexercise oxygen consumption?",
+                "opts": [
+                    "Oxygen debt or recovery O2",
+                    "Anaerobic deficit",
+                    "Lactate threshold offset",
+                    "Substrate repletion index"
+                ],
+                "correct": 0,
+                "rationale": "Postexercise oxygen uptake has historically been termed the oxygen debt, recovery O2, or excess postexercise oxygen consumption (EPOC)."
+            },
+            {
+                "id": 7,
+                "q": "What relationship has been observed between the magnitude of the oxygen deficit and the resulting EPOC?",
+                "opts": [
+                    "Oxygen deficit and EPOC are mathematically identical and equal in size",
+                    "Only small to moderate relationships exist; oxygen deficit influences EPOC size, but they are not equal",
+                    "There is a perfect inverse linear relationship where high deficit yields zero EPOC",
+                    "EPOC occurs completely independent of exercise intensity or deficit"
+                ],
+                "correct": 1,
+                "rationale": "Only small to moderate relationships between the oxygen deficit and the EPOC have been observed; the oxygen deficit may influence the size of the EPOC, but the two are not equal."
+            },
+            {
+                "id": 8,
+                "q": "Which factor directly contributes to elevated oxygen consumption during EPOC?",
+                "opts": [
+                    "Resynthesis of ATP and creatine phosphate stores in muscle",
+                    "Complete cessation of circulation and thermoregulation",
+                    "Inhibition of mitochondrial electron transport chain cytochromes",
+                    "Elimination of all myoglobin molecules from skeletal muscle"
+                ],
+                "correct": 0,
+                "rationale": "Factors affecting EPOC include ATP and CP resynthesis, glycogen resynthesis from lactate, restoration of oxygen in blood and tissue, elevated body temperature, circulation, ventilation, and elevated hormone levels."
+            }
+        ],
+        "ms": [
+            {
+                "id": 1,
+                "q": "Which physiological processes account for the elevated oxygen uptake observed during EPOC? (Select all that apply)",
+                "opts": [
+                    "Resynthesis of intramuscular ATP and creatine phosphate stores",
+                    "Resynthesis of glycogen from accumulated lactate",
+                    "Restoration of oxygen levels in venous blood and muscle myoglobin",
+                    "Elevated body temperature, heart rate, and ventilation rates post-exercise"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "All listed factors contribute to EPOC: ATP/CP resynthesis, glycogen resynthesis from lactate, re-oxygenation of blood hemoglobin and muscle myoglobin, and sustained elevations in body temperature, circulation, and breathing rate."
+            },
+            {
+                "id": 2,
+                "q": "Which statements regarding steady-state oxygen uptake and oxygen deficit are true? (Select all that apply)",
+                "opts": [
+                    "Steady state occurs when physiological oxygen consumption equals oxygen demand",
+                    "Oxygen deficit represents the anaerobic energy contribution at exercise onset",
+                    "The aerobic system responds instantaneously without any lag at exercise onset",
+                    "During constant submaximal power output, VO2 increases for the first few minutes before stabilizing"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    3
+                ],
+                "rationale": "Steady state occurs when oxygen demand equals consumption; oxygen deficit is the initial anaerobic energy contribution due to the slow response of the aerobic system; VO2 increases over the first few minutes before reaching steady state."
+            },
+            {
+                "id": 3,
+                "q": "Which of the following terms describe postexercise oxygen consumption above resting levels? (Select all that apply)",
+                "opts": [
+                    "Excess postexercise oxygen consumption (EPOC)",
+                    "Oxygen debt",
+                    "Recovery O2",
+                    "Oxygen deficit"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Postexercise elevated oxygen uptake is termed EPOC, oxygen debt, or recovery O2. Oxygen deficit refers specifically to the initial anaerobic contribution at exercise onset."
+            },
+            {
+                "id": 4,
+                "q": "Which hormones remain elevated post-exercise and contribute to sustained cellular metabolic rates during EPOC? (Select all that apply)",
+                "opts": [
+                    "Epinephrine",
+                    "Norepinephrine",
+                    "Insulin-like growth factor (catecholamine actions)",
+                    "Estrogen alone"
+                ],
+                "correctArray": [
+                    0,
+                    1
+                ],
+                "rationale": "Elevated post-exercise catecholamines (epinephrine and norepinephrine) maintain elevated metabolic rates and contribute directly to EPOC."
+            }
+        ],
+        "tf": [
+            {
+                "id": 1,
+                "q": "Steady state is reached during exercise when oxygen consumption exactly equals oxygen demand.",
+                "ans": true,
+                "feedback": "During steady state submaximal exercise, oxygen demand equals oxygen consumption."
+            },
+            {
+                "id": 2,
+                "q": "The oxygen deficit incurred at the start of exercise is quantitatively identical to EPOC.",
+                "ans": false,
+                "feedback": "Only small to moderate relationships exist between oxygen deficit and EPOC; the oxygen deficit influences EPOC size, but the two are not equal."
+            },
+            {
+                "id": 3,
+                "q": "Anaerobic mechanisms provide energy at exercise onset because the aerobic system responds slowly to sudden increases in energy demand.",
+                "ans": true,
+                "feedback": "The initial delay in aerobic system activation mandates an anaerobic contribution (oxygen deficit) to meet ATP requirements at exercise onset."
+            },
+            {
+                "id": 4,
+                "q": "EPOC represents postexercise oxygen uptake below resting baseline levels.",
+                "ans": false,
+                "feedback": "EPOC is the elevated oxygen uptake ABOVE resting values used to restore the body to its preexercise state."
+            }
+        ],
+        "cloze": [
+            {
+                "id": 1,
+                "statement": "The anaerobic contribution to energy at exercise onset is called the oxygen **deficit**, whereas postexercise elevated oxygen consumption is termed **EPOC**.",
+                "targets": [
+                    "deficit",
+                    "EPOC"
+                ],
+                "optionsBank": [
+                    "deficit",
+                    "EPOC",
+                    "debt",
+                    "glycolysis",
+                    "steady state"
+                ],
+                "hint": "Identify the onset energy deficit term and the modern acronym for postexercise elevated VO2."
+            },
+            {
+                "id": 2,
+                "statement": "At constant low-intensity power output, VO2 increases for the first few minutes until reaching **steady state**, where demand equals **consumption**.",
+                "targets": [
+                    "steady state",
+                    "consumption"
+                ],
+                "optionsBank": [
+                    "steady state",
+                    "consumption",
+                    "deficit",
+                    "threshold",
+                    "acidosis"
+                ],
+                "hint": "Recall the term for oxygen balance and what matches oxygen demand."
+            }
+        ],
+        "sa": [
+            {
+                "id": 1,
+                "prompt": "Define oxygen deficit and EPOC, and explain why these two physiological parameters are not quantitatively equal.",
+                "model": "Oxygen deficit is the anaerobic energy contribution supplied by the phosphagen system and fast glycolysis at exercise onset due to the slow initial response of the aerobic system. EPOC (excess postexercise oxygen consumption) is the elevated oxygen uptake above resting levels following exercise required to restore preexercise homeostasis. They are not quantitatively equal because EPOC is driven by additional recovery processes—including thermoregulation, elevated heart/respiratory rates, lingering catecholamines, and tissue repair—that extend beyond merely clearing the initial anaerobic deficit.",
+                "criteria": [
+                    "Define oxygen deficit as the initial anaerobic energy contribution at exercise onset.",
+                    "Define EPOC as postexercise elevated VO2 restoring the body to baseline.",
+                    "Explain that EPOC exceeds oxygen deficit due to physiological recovery demands (temperature, circulation, hormones, ATP/CP/glycogen resynthesis)."
+                ]
+            },
+            {
+                "id": 2,
+                "prompt": "Identify four distinct physiological factors that contribute to elevated oxygen consumption during EPOC.",
+                "model": "1. Resynthesis of intramuscular ATP and creatine phosphate stores via mitochondrial oxidative phosphorylation.\n2. Conversion of circulating lactate to glucose (gluconeogenesis) in the liver and muscle oxidation.\n3. Restoration of oxygen bound to hemoglobin in blood and myoglobin in muscle.\n4. Sustained elevations in core body temperature, heart rate, ventilation, and circulating catecholamines (epinephrine/norepinephrine).",
+                "criteria": [
+                    "List ATP/CP phosphagen resynthesis.",
+                    "List glycogen resynthesis and lactate clearance.",
+                    "List blood (hemoglobin) and muscle (myoglobin) re-oxygenation.",
+                    "List elevated body temperature, circulation, ventilation, or hormones."
+                ]
+            }
+        ]
+    },
+    "p2": {
+        "mcq": [
+            {
+                "id": 1,
+                "q": "What happens to maximal exercise duration as the relative contribution of anaerobic mechanisms supporting the exercise increases?",
+                "opts": [
+                    "Exercise duration increases exponentially",
+                    "Exercise duration decreases",
+                    "Exercise duration remains completely unchanged",
+                    "Exercise duration becomes infinite"
+                ],
+                "correct": 1,
+                "rationale": "Generally, as the contribution of anaerobic mechanisms supporting the exercise increases, the exercise duration decreases."
+            },
+            {
+                "id": 2,
+                "q": "At what duration of maximal sustained exercise effort on a cycle ergometer do anaerobic and aerobic mechanisms contribute equally (50% each)?",
+                "opts": [
+                    "10 seconds",
+                    "30 seconds",
+                    "60 seconds",
+                    "120 seconds"
+                ],
+                "correct": 2,
+                "rationale": "Table 3.5 shows that at 60 seconds of maximal sustained effort, the energy contribution is 50% anaerobic and 50% aerobic, representing the crossover point."
+            },
+            {
+                "id": 3,
+                "q": "Up to what duration of maximal sustained exertion do anaerobic mechanisms serve as the primary energy provider?",
+                "opts": [
+                    "Up to 10 seconds only",
+                    "Up to 60 seconds",
+                    "Up to 5 minutes",
+                    "Up to 30 minutes"
+                ],
+                "correct": 1,
+                "rationale": "Contributions from anaerobic mechanisms are primary up to 60 seconds, after which aerobic metabolism becomes the primary energy-supplying mechanism."
+            },
+            {
+                "id": 4,
+                "q": "What are the approximate anaerobic vs. aerobic energy contributions during a 10-second maximal sustained cycle ergometer effort?",
+                "opts": [
+                    "90% anaerobic / 10% aerobic",
+                    "50% anaerobic / 50% aerobic",
+                    "10% anaerobic / 90% aerobic",
+                    "30% anaerobic / 70% aerobic"
+                ],
+                "correct": 0,
+                "rationale": "Table 3.5 outlines that for a 10-second maximal sustained effort, anaerobic contribution is ~90% and aerobic contribution is ~10%."
+            },
+            {
+                "id": 5,
+                "q": "During a 30-second maximal sustained effort, what is the approximate percentage contribution from anaerobic energy mechanisms?",
+                "opts": [
+                    "90%",
+                    "80%",
+                    "50%",
+                    "20%"
+                ],
+                "correct": 1,
+                "rationale": "Table 3.5 states that a 30-second maximal effort derives approximately 80% of its energy from anaerobic mechanisms and 20% from aerobic mechanisms."
+            },
+            {
+                "id": 6,
+                "q": "What is the approximate aerobic energy contribution during a 90-second maximal sustained effort?",
+                "opts": [
+                    "10%",
+                    "30%",
+                    "70%",
+                    "90%"
+                ],
+                "correct": 2,
+                "rationale": "Table 3.5 shows that for a 90-second maximal effort, the aerobic energy contribution increases to approximately 70% (30% anaerobic)."
+            },
+            {
+                "id": 7,
+                "q": "For maximal sustained efforts lasting 120 to 180 seconds, what percentage of total energy is supplied by aerobic metabolism?",
+                "opts": [
+                    "10% to 20%",
+                    "30% to 40%",
+                    "50% to 60%",
+                    "80% to 90%"
+                ],
+                "correct": 3,
+                "rationale": "Table 3.5 indicates that for 120 to 180 seconds of maximal effort, aerobic metabolism supplies 80% to 90% of total energy (10% to 20% anaerobic)."
+            },
+            {
+                "id": 8,
+                "q": "What does the maximal contribution of anaerobic mechanisms during short-duration, high-intensity maximal exercise represent?",
+                "opts": [
+                    "Maximal aerobic capacity",
+                    "Maximal anaerobic capacity",
+                    "Lactate clearance capacity",
+                    "Basal metabolic rate"
+                ],
+                "correct": 1,
+                "rationale": "The contribution of anaerobic mechanisms to maximal sustained effort represents the maximal anaerobic capacity."
+            }
+        ],
+        "ms": [
+            {
+                "id": 1,
+                "q": "Which of the following correct energy system contribution pairs are reported for maximal sustained cycle ergometer efforts? (Select all that apply)",
+                "opts": [
+                    "10 seconds: 90% Anaerobic / 10% Aerobic",
+                    "30 seconds: 80% Anaerobic / 20% Aerobic",
+                    "60 seconds: 50% Anaerobic / 50% Aerobic",
+                    "120-180 seconds: 10-20% Anaerobic / 80-90% Aerobic"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "All listed pairs accurately reflect textbook Table 3.5 data for maximal sustained efforts."
+            },
+            {
+                "id": 2,
+                "q": "Which statements regarding energy contributions during maximal exercise are correct? (Select all that apply)",
+                "opts": [
+                    "Anaerobic energy contribution is primary up to 60 seconds",
+                    "Aerobic energy contribution becomes primary after 60 seconds",
+                    "Higher anaerobic reliance allows exercise to be sustained for longer durations",
+                    "Maximal anaerobic capacity is represented by the maximal anaerobic energy contribution"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    3
+                ],
+                "rationale": "Anaerobic energy is primary up to 60s; aerobic is primary after 60s; maximal anaerobic contribution defines maximal anaerobic capacity. Higher anaerobic reliance DECREASES (not increases) exercise duration."
+            },
+            {
+                "id": 3,
+                "q": "Which timepoints rely on aerobic metabolism for 70% or more of total energy during maximal sustained exertion? (Select all that apply)",
+                "opts": [
+                    "10 seconds",
+                    "30 seconds",
+                    "90 seconds",
+                    "120 to 180 seconds"
+                ],
+                "correctArray": [
+                    2,
+                    3
+                ],
+                "rationale": "Aerobic metabolism supplies ~70% at 90s and 80-90% at 120-180s. 10s is 10% aerobic and 30s is 20% aerobic."
+            },
+            {
+                "id": 4,
+                "q": "Which factors dictate the relative contribution of anaerobic versus aerobic energy pathways during exercise? (Select all that apply)",
+                "opts": [
+                    "Exercise intensity relative to VO2max",
+                    "Exercise duration during maximal effort",
+                    "Eye color of the athlete",
+                    "The maximal anaerobic capacity of the individual"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    3
+                ],
+                "rationale": "Energy system selection is governed by exercise intensity, duration, and individual anaerobic capacity."
+            }
+        ],
+        "tf": [
+            {
+                "id": 1,
+                "q": "Anaerobic energy mechanisms provide the primary energy for maximal sustained exercise up to 60 seconds.",
+                "ans": true,
+                "feedback": "Contributions from anaerobic mechanisms are primary up to 60 seconds, after which aerobic metabolism dominates."
+            },
+            {
+                "id": 2,
+                "q": "During a 10-second maximal effort sprint, aerobic metabolism supplies 90% of the total energy required.",
+                "ans": false,
+                "feedback": "During a 10-second maximal effort, anaerobic mechanisms supply ~90% of the energy, while aerobic metabolism supplies only ~10%."
+            },
+            {
+                "id": 3,
+                "q": "As the contribution of anaerobic mechanisms supporting exercise increases, total exercise duration decreases.",
+                "ans": true,
+                "feedback": "Because anaerobic energy stores (phosphagens, glycogen) are limited, higher anaerobic reliance shortens maximal exercise duration."
+            },
+            {
+                "id": 4,
+                "q": "At 90 seconds of maximal exertion, anaerobic energy mechanisms still provide 70% of total energy.",
+                "ans": false,
+                "feedback": "At 90 seconds, aerobic metabolism provides ~70% of energy, while anaerobic mechanisms provide only ~30%."
+            }
+        ],
+        "cloze": [
+            {
+                "id": 1,
+                "statement": "At **60** seconds of maximal exertion, anaerobic and aerobic mechanisms contribute equally (50% each), defining the bioenergetic **crossover** point.",
+                "targets": [
+                    "60",
+                    "crossover"
+                ],
+                "optionsBank": [
+                    "60",
+                    "crossover",
+                    "10",
+                    "threshold",
+                    "300"
+                ],
+                "hint": "Identify the time in seconds for equal energy contribution and the term for metabolic transition."
+            },
+            {
+                "id": 2,
+                "statement": "The maximal contribution of anaerobic energy during short-duration maximal exercise defines an athlete's maximal anaerobic **capacity**, which dominates efforts up to **60** seconds.",
+                "targets": [
+                    "capacity",
+                    "60"
+                ],
+                "optionsBank": [
+                    "capacity",
+                    "60",
+                    "deficit",
+                    "180",
+                    "power"
+                ],
+                "hint": "Recall the term for total anaerobic energy contribution and the cutoff time in seconds."
+            }
+        ],
+        "sa": [
+            {
+                "id": 1,
+                "prompt": "Detail the shift in relative anaerobic vs. aerobic energy contributions across maximal sustained efforts lasting 10s, 30s, 60s, 90s, and 120-180s.",
+                "model": "For maximal sustained efforts on a cycle ergometer:\n- 10 seconds: 90% Anaerobic / 10% Aerobic (Phosphagen dominant)\n- 30 seconds: 80% Anaerobic / 20% Aerobic (Fast glycolysis dominant)\n- 60 seconds: 50% Anaerobic / 50% Aerobic (Equal 50/50 crossover point)\n- 90 seconds: 30% Anaerobic / 70% Aerobic (Aerobic system becomes primary)\n- 120-180 seconds: 10-20% Anaerobic / 80-90% Aerobic (Mitochondrial oxidation dominant).",
+                "criteria": [
+                    "State 10s (90% anaerobic / 10% aerobic) and 30s (80% anaerobic / 20% aerobic).",
+                    "State 60s as the 50/50 crossover point.",
+                    "State 90s (30% anaerobic / 70% aerobic) and 120-180s (10-20% anaerobic / 80-90% aerobic)."
+                ]
+            },
+            {
+                "id": 2,
+                "prompt": "Define maximal anaerobic capacity and explain how exercise intensity above VO2max impacts exercise duration.",
+                "model": "Maximal anaerobic capacity represents the maximal total energy derived from anaerobic mechanisms (phosphagen system and fast glycolysis) during short-duration, high-intensity maximal sustained exertion. When exercise intensity exceeds VO2max, anaerobic mechanisms must supply the majority of ATP. Because anaerobic substrate stores (creatine phosphate and muscle glycogen) are limited and byproduct accumulation (protons) induces acidosis, relying heavily on anaerobic energy causes maximal exercise duration to decrease rapidly.",
+                "criteria": [
+                    "Define maximal anaerobic capacity as the maximal energy contribution from anaerobic pathways.",
+                    "Explain that exercise above VO2max forces heavy reliance on anaerobic ATP synthesis.",
+                    "Connect anaerobic reliance to rapid substrate depletion, acidosis, and decreased exercise duration."
+                ]
+            }
+        ]
+    }
+}

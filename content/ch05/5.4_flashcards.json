@@ -1,0 +1,90 @@
+{
+    "chapterId": "5.4",
+    "title": "5.4 Endocrine Responses and Adaptations to Anaerobic Training",
+    "cards": [
+        {
+            "id": "5.4-01",
+            "tag": "Acute Anabolic Hormonal Response",
+            "reference": "Section 5.4",
+            "front": "Which acute anabolic hormones undergo significant elevation for up to 30 minutes following an acute resistance training workout in men?",
+            "back": "<strong>Testosterone</strong>, molecular variants of <strong>growth hormone (GH)</strong>, and <strong>cortisol</strong> elevate rapidly and remain heightened for up to 30 minutes post-exercise before returning to baseline."
+        },
+        {
+            "id": "5.4-02",
+            "tag": "Exercise Variables & Acute Endocrine Surges",
+            "reference": "Section 5.4",
+            "front": "Which workout design variables produce the greatest magnitude of acute anabolic hormone elevation following anaerobic exercise?",
+            "back": "Acute hormonal surges are maximized when performing <strong>large muscle mass exercises</strong> or workouts incorporating <strong>moderate to high intensity and volume</strong> combined with <strong>shorter rest intervals</strong> (30 to 90 seconds)."
+        },
+        {
+            "id": "5.4-03",
+            "tag": "Metabolic Triggers of GH & Cortisol",
+            "reference": "Section 5.4",
+            "front": "What specific metabolic byproduct accumulation is strongly correlated with acute spikes in <strong>growth hormone</strong> and <strong>cortisol</strong> during anaerobic exercise?",
+            "back": "<strong>Hydrogen ion (H<sup>+</sup>) accumulation</strong> (reflected by elevated blood lactate levels) is a primary metabolic trigger influencing acute growth hormone and cortisol secretion."
+        },
+        {
+            "id": "5.4-04",
+            "tag": "IGF-I vs. Mechano Growth Factors",
+            "reference": "Section 5.4",
+            "front": "How do <strong>Insulin-like Growth Factor I (IGF-I)</strong> and <strong>Mechano Growth Factors (MGF)</strong> differ in their stimulation and kinetics following exercise?",
+            "back": "<ul><li><strong>IGF-I:</strong> A primary systemic mediator of growth hormone with a delayed response dependent on acute GH secretion.</li><li><strong>MGF:</strong> Alternative local growth factors synthesized directly within skeletal muscle in response to mechanical loading, acting independently of systemic GH.</li></ul>"
+        },
+        {
+            "id": "5.4-05",
+            "tag": "Catecholamines & Force Augmentation",
+            "reference": "Section 5.4",
+            "front": "What physiological roles do <strong>catecholamines</strong> (epinephrine, norepinephrine, dopamine) play during acute anaerobic exertion?",
+            "back": "Catecholamines increase rapidly to regulate <strong>muscular force production</strong>, muscle contraction rate, energy substrate availability, and the augmentation of other anabolic hormones such as testosterone."
+        },
+        {
+            "id": "5.4-06",
+            "tag": "Insulin Regulation & Supplementation",
+            "reference": "Section 5.4",
+            "front": "How does <strong>insulin</strong> secretion respond to anaerobic exercise versus peri-workout nutrition?",
+            "back": "Insulin secretion is <strong>not directly stimulated by the anaerobic exercise stimulus</strong> itself; rather, it parallels blood glucose and amino acid concentrations and is primarily regulated by <strong>nutrient supplementation</strong> before, during, or after exercise."
+        },
+        {
+            "id": "5.4-07",
+            "tag": "Chronic Changes in Acute Hormonal Response",
+            "reference": "Section 5.4",
+            "front": "What long-term adaptation occurs to the <strong>acute growth hormone response</strong> as an athlete adapts to higher training loads over time?",
+            "back": "Longitudinal resistance training increases the capacity to tolerate higher workloads, resulting in an <strong>augmented acute growth hormone response</strong> during workouts, which helps sustain higher exercise intensities."
+        },
+        {
+            "id": "5.4-08",
+            "tag": "Chronic Resting Hormone Concentrations",
+            "reference": "Section 5.4",
+            "front": "Why are chronic increases in <strong>resting baseline hormone concentrations</strong> (e.g., testosterone, GH) unlikely following long-term anaerobic training?",
+            "back": "Acute hormone surges during workouts provide sufficient stimulation for tissue remodeling without needing higher basal levels. Resting concentrations primarily reflect current training volume, intensity, and nutritional status."
+        },
+        {
+            "id": "5.4-09",
+            "tag": "Receptor Downregulation Risk",
+            "reference": "Section 5.4",
+            "front": "Why could permanent chronic elevations in resting anabolic hormone concentrations be counterproductive over the long term?",
+            "back": "Consistently high hormone exposure leads to <strong>hormone receptor downregulation</strong> (reduced receptor sensitivity), analogous to insulin resistance in Type 2 diabetes or the receptor desensitization seen in anabolic steroid users who do not cycle."
+        },
+        {
+            "id": "5.4-10",
+            "tag": "Androgen Receptor Upregulation Kinetics",
+            "reference": "Section 5.4",
+            "front": "What factors influence <strong>Androgen Receptor (AR)</strong> content, and what is the typical timeframe for AR upregulation following resistance exercise?",
+            "back": "AR content depends on muscle fiber type, contractile activity, and testosterone levels. Resistance training upregulates AR content within <strong>48 to 72 hours</strong> post-workout to mediate muscle hypertrophy."
+        },
+        {
+            "id": "5.4-11",
+            "tag": "Biphasic Volume Kinetics of Androgen Receptors",
+            "reference": "Section 5.4",
+            "front": "According to Ratamess et al., how does workout volume (1 set vs. 6 sets of squats) affect <strong>Androgen Receptor (AR)</strong> content 1 hour post-exercise?",
+            "back": "While a single set caused no change in AR content, a high-volume protocol (6 sets of 10 reps) elicited significant <strong>downregulation of AR content 1 hour post-workout</strong> before subsequent upregulation occurred at 48 to 72 hours."
+        },
+        {
+            "id": "5.4-12",
+            "tag": "Nutritional Attenuation of AR Downregulation",
+            "reference": "Section 5.4",
+            "front": "How does pre- and post-workout <strong>protein-carbohydrate supplementation</strong> modify acute Androgen Receptor (AR) downregulation following high-volume resistance training?",
+            "back": "Kraemer et al. demonstrated that consuming a <strong>protein-carbohydrate supplement immediately before and after exercise attenuates initial post-workout AR downregulation</strong>, optimizing anabolic signaling."
+        }
+    ]
+}

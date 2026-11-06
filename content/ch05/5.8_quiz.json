@@ -1,0 +1,764 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What fundamental exercise physiology principle dictates that training-induced neural, muscular, and metabolic adaptations will regress when the exercise stimulus is reduced or halted?",
+        "opts": [
+          "Principle of reversibility",
+          "Principle of progressive overload",
+          "Principle of SAID (Specific Adaptations to Imposed Demands)",
+          "Principle of accommodation"
+        ],
+        "correct": 0,
+        "rationale": "The principle of reversibility states that exercise-induced adaptations are transient and will diminish or disappear when training frequency, volume, or intensity is substantially reduced or removed completely."
+      },
+      {
+        "id": 2,
+        "q": "According to research on trained weightlifters (Hortob\u00e1gyi et al., 1993), what performance change was observed in vertical jump height following 14 days of complete inactivity?",
+        "opts": [
+          "Vertical jump height increased slightly by +1.2%",
+          "Vertical jump height decreased by -15.5%",
+          "Vertical jump height decreased by -8.0%",
+          "Vertical jump height dropped to 0 cm due to fast-twitch atrophy"
+        ],
+        "correct": 0,
+        "rationale": "Following 14 days of detraining in competitive weightlifters, vertical jump performance actually improved by +1.2%, likely reflecting the dissipation of accumulated central nervous system fatigue (supercompensation)."
+      },
+      {
+        "id": 3,
+        "q": "What is the typical magnitude of strength loss observed in strength-trained athletes following 8 to 12 weeks of complete inactivity?",
+        "opts": [
+          "Between 7% and 12%",
+          "Between 40% and 50%",
+          "Exactly 0% strength loss",
+          "Over 75% strength loss"
+        ],
+        "correct": 0,
+        "rationale": "Longer periods of training cessation (8 to 12 weeks) result in progressive declines in strength performance; however, total strength loss remains relatively limited, ranging between 7% and 12%."
+      },
+      {
+        "id": 4,
+        "q": "What primary physiological mechanism accounts for strength declines during early detraining (<4 to 8 weeks)?",
+        "opts": [
+          "Neural mechanisms, including reduced motor unit recruitment and lower discharge rates",
+          "Massive structural breakdown of collagen in tendons",
+          "Complete loss of muscle cell nuclei (myonuclear domain destruction)",
+          "Profound loss of bone mineral density in cortical bone"
+        ],
+        "correct": 0,
+        "rationale": "Early reductions in maximal voluntary force output (<4 to 8 weeks of detraining) are primarily driven by neural mechanisms\u2014specifically reduced motor unit recruitment, diminished firing discharge rates, and altered synchronization\u2014rather than structural muscle atrophy."
+      },
+      {
+        "id": 5,
+        "q": "In the study by Hortob\u00e1gyi et al. (1993), how much did 1RM squat strength decrease in trained weightlifters after 14 days of no training?",
+        "opts": [
+          "-0.9%",
+          "-12.5%",
+          "-25.0%",
+          "-4.5%"
+        ],
+        "correct": 0,
+        "rationale": "After 14 days of complete training cessation in trained weightlifters, 1RM squat strength decreased by a non-significant -0.9% (and 1RM bench press by -1.7%), demonstrating high short-term strength stability."
+      },
+      {
+        "id": 6,
+        "q": "What phenomenon describes the rapid re-attainment of muscular strength and fiber cross-sectional area when an athlete resumes training after detraining?",
+        "opts": [
+          "Muscle memory",
+          "Myofibrillar interference",
+          "Antagonistic coactivation",
+          "Overtraining syndrome"
+        ],
+        "correct": 0,
+        "rationale": "Muscle memory is the physiological concept describing how previously trained individuals re-acquire muscle size, neural activation, and force capacity at a significantly faster rate than during initial unconditioned training."
+      },
+      {
+        "id": 7,
+        "q": "How does detraining affect maximal force output in recreationally trained individuals over the first 6 weeks of inactivity?",
+        "opts": [
+          "Maximal voluntary strength shows minimal or negligible changes",
+          "Maximal voluntary strength declines by >50%",
+          "Maximal voluntary strength completely disappears",
+          "Maximal voluntary strength doubles due to involuntary rest"
+        ],
+        "correct": 0,
+        "rationale": "Recreationally trained individuals experience negligible or minimal strength losses during the initial 6 weeks of detraining, as neural adaptations remain relatively stable in non-elite populations."
+      },
+      {
+        "id": 8,
+        "q": "Which electromyographic (EMG) change is characteristic of early detraining in strength-trained athletes?",
+        "opts": [
+          "Decreased maximal bilateral and unilateral EMG activity",
+          "Doubled muscle spindle firing rate",
+          "Increased discharge synchronization during submaximal efforts",
+          "Complete loss of resting membrane potential in motor neurons"
+        ],
+        "correct": 0,
+        "rationale": "Initial strength losses during detraining are accompanied by reduced maximal EMG activity, indicating a drop in central nervous system motor drive and lower voluntary motor unit recruitment."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following statements regarding short-term detraining (14 days) in trained weightlifters are supported by Hortob\u00e1gyi et al. (1993)? (Select all that apply)",
+        "opts": [
+          "1RM bench press decreased by a non-significant -1.7%",
+          "1RM squat strength decreased by a non-significant -0.9%",
+          "Vertical jump height increased by +1.2%",
+          "Slow-twitch fiber cross-sectional area decreased by -50%",
+          "Isometric knee extension force decreased by -7.0%"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Hortob\u00e1gyi et al. reported minimal non-significant changes in 1RM bench (-1.7%), squat (-0.9%), isometric force (-7.0%), and a +1.2% rise in jump height. Slow-twitch fiber CSA did NOT decrease significantly."
+      },
+      {
+        "id": 2,
+        "q": "Which neural alterations contribute to the reduction in maximal voluntary force during early detraining? (Select all that apply)",
+        "opts": [
+          "Decreased motor unit recruitment",
+          "Diminished motor neuron discharge firing rates",
+          "Altered motor unit synchronization",
+          "Decreased maximal intramuscular EMG activity",
+          "Irreversible destruction of alpha motor neurons"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Early strength loss is mediated by neural drive reductions: decreased motor unit recruitment, reduced discharge rates, altered synchronization, and lower maximal EMG. Alpha motor neurons are not destroyed."
+      },
+      {
+        "id": 3,
+        "q": "Which statements correctly contrast short-term detraining (<4 weeks) with long-term detraining (>8 to 12 weeks)? (Select all that apply)",
+        "opts": [
+          "Short-term detraining strength loss is primarily driven by neural mechanisms",
+          "Long-term detraining strength loss is primarily driven by structural muscle fiber atrophy",
+          "Total strength loss after 8-12 weeks remains limited to ~7-12%",
+          "Short-term detraining causes 100% loss of all muscular hypertrophic gains",
+          "Retained strength after 12 weeks remains above original pretraining baselines"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Short-term loss is neural; long-term loss is structural atrophy (7-12% after 8-12 weeks). Hypertrophic gains are not 100% lost short-term, and residual strength stays above pretraining baseline."
+      },
+      {
+        "id": 4,
+        "q": "What practical takeaways should strength and conditioning coaches apply regarding short involuntary training breaks (1 to 2 weeks)? (Select all that apply)",
+        "opts": [
+          "Short breaks of 1-2 weeks do not cause meaningful strength or power losses",
+          "Fatigue dissipation during a 14-day break can improve explosive jump performance",
+          "Athletes must be forced to train through acute illness to prevent 50% strength decay",
+          "Re-armement of neural drive allows swift restoration of strength post-break"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Short breaks (1-2 weeks) preserve strength/power, clear fatigue (supercompensation), and enable rapid re-attainment via muscle memory. Forcing training through illness is unscientific and counterproductive."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "The principle of reversibility indicates that training-induced physiological adaptations are permanent once established.",
+        "ans": false,
+        "feedback": "The principle of reversibility states that training adaptations are transient and will regress when the training stimulus is reduced or removed."
+      },
+      {
+        "id": 2,
+        "q": "Following 14 days of complete training cessation in competitive weightlifters, vertical jump performance improved by +1.2%.",
+        "ans": true,
+        "feedback": "Hortob\u00e1gyi et al. demonstrated a +1.2% rise in vertical jump height after 14 days of rest, driven by central nervous system fatigue dissipation."
+      },
+      {
+        "id": 3,
+        "q": "Early strength reductions during the first 4 weeks of detraining are caused primarily by rapid bone mineral dissolution.",
+        "ans": false,
+        "feedback": "Early strength drops (<4 to 8 weeks) are caused primarily by neural mechanisms (decreased recruitment, firing rates, and EMG), not bone mineral loss."
+      },
+      {
+        "id": 4,
+        "q": "Even after 8 to 12 weeks of total inactivity, strength-trained athletes retain a level of strength that is higher than their pretraining baseline.",
+        "ans": true,
+        "feedback": "Long-term strength loss after 8 to 12 weeks is modest (7% to 12%), leaving athletes with significant residual strength above their unconditioned baseline."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "According to the principle of **reversibility**, training adaptations regress when the exercise stimulus is removed, but residual adaptations allow rapid strength re-attainment via **muscle memory**.",
+        "targets": [
+          "reversibility",
+          "muscle memory"
+        ],
+        "optionsBank": [
+          "reversibility",
+          "muscle memory",
+          "supercompensation",
+          "hyperplasia",
+          "accommodation"
+        ],
+        "hint": "Physiological principle of adaptation loss and the re-acquisition paradigm."
+      },
+      {
+        "id": 2,
+        "statement": "Early detraining strength losses (<4 weeks) are mediated primarily by **neural** mechanisms and reduced maximal **EMG** activity.",
+        "targets": [
+          "neural",
+          "EMG"
+        ],
+        "optionsBank": [
+          "neural",
+          "EMG",
+          "structural",
+          "connective tissue",
+          "cortisol"
+        ],
+        "hint": "Central nervous system factors vs. electromyographic output."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain why a 14-day planned taper or short involuntary break (e.g., travel or minor illness) does not compromise maximal strength or explosive power in competitive athletes.",
+        "model": "Research by Hortob\u00e1gyi et al. (1993) demonstrates that 14 days of total training cessation in competitive weightlifters produces minimal, non-significant changes in 1RM bench press (-1.7%), 1RM squat (-0.9%), and isometric strength (-7.0%). Neural motor unit recruitment and high-threshold firing rates remain largely intact over this short window. Furthermore, vertical jump performance actually improved by +1.2%, because 14 days of rest dissipates cumulative central nervous system and metabolic fatigue, allowing full expression of explosive power (supercompensation).",
+        "criteria": [
+          "Cite Hortob\u00e1gyi et al. (1993) findings showing non-significant 1RM changes (-1.7% bench, -0.9% squat).",
+          "Explain that neural recruitment and motor unit firing rates are preserved during short breaks (<4 weeks).",
+          "Identify fatigue dissipation (supercompensation) as the mechanism for preserved or improved vertical jump performance (+1.2%)."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Differentiate between the primary physiological drivers of early strength loss (<4 to 8 weeks) versus long-term strength loss (>8 to 12 weeks) during detraining.",
+        "model": "Early strength loss during short-term detraining (<4 to 8 weeks) is driven primarily by neural mechanisms, including reduced maximal voluntary motor unit recruitment, decreased neuronal firing discharge rates, altered motor unit synchronization, and attenuated maximal EMG signal magnitude. Muscle cross-sectional area remains largely preserved initially. In contrast, long-term strength loss (>8 to 12 weeks of inactivity) is driven primarily by structural muscle fiber atrophy\u2014specifically the shrinkage of fast-twitch (Type II) and slow-twitch (Type I) muscle fiber cross-sectional area.",
+        "criteria": [
+          "Identify neural drive reductions (decreased recruitment, firing rates, EMG) as the main driver of early strength loss (<4\u20138 weeks).",
+          "Identify structural muscle fiber atrophy (reduced fiber CSA) as the main driver of long-term strength loss (>8\u201312 weeks).",
+          "State that total strength loss after 8\u201312 weeks remains limited to 7%\u201312%."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Which skeletal muscle fiber population exhibits preferential and rapid cross-sectional area (CSA) reduction during the initial 14 days of detraining?",
+        "opts": [
+          "Fast-twitch (Type II) muscle fibers",
+          "Slow-twitch (Type I) muscle fibers",
+          "Cardiac muscle fibers",
+          "Smooth vascular muscle fibers"
+        ],
+        "correct": 0,
+        "rationale": "Fast-twitch (Type II) muscle fibers undergo preferential and rapid atrophy during early detraining, exhibiting a -6.4% reduction in CSA after 14 days of inactivity (Hortob\u00e1gyi et al., 1993), whereas slow-twitch (Type I) fibers show no significant change."
+      },
+      {
+        "id": 2,
+        "q": "In the study by Hortob\u00e1gyi et al. (1993), what percentage reduction in fast-twitch (Type II) fiber cross-sectional area occurred after 14 days of detraining in competitive weightlifters?",
+        "opts": [
+          "-6.4%",
+          "-25.0%",
+          "-0.9%",
+          "-37.1%"
+        ],
+        "correct": 0,
+        "rationale": "Trained weightlifters experienced a significant -6.4% decline in fast-twitch (Type II) fiber cross-sectional area after 14 days of complete training cessation."
+      },
+      {
+        "id": 3,
+        "q": "How did a 6-week detraining period affect the muscle fiber CSA differential between fast-twitch and slow-twitch fibers in professional rugby league players (Argus et al., 2010)?",
+        "opts": [
+          "The FT vs. ST CSA advantage dropped from +23% post-season down to +9% after 6 weeks",
+          "The FT vs. ST CSA advantage increased from +9% to +50%",
+          "Fast-twitch fibers completely converted into slow-twitch fibers within 24 hours",
+          "Slow-twitch fibers shrank by 90% while fast-twitch fibers grew"
+        ],
+        "correct": 0,
+        "rationale": "At the end of the competitive season, fast-twitch fibers were 23% larger than slow-twitch fibers. After 6 weeks of detraining, this advantage dropped to only 9% larger due to selective fast-twitch fiber shrinkage."
+      },
+      {
+        "id": 4,
+        "q": "What average percentage of muscle fiber atrophy was reported by Staron et al. (1991) in an elite powerlifter after 7 months of complete detraining?",
+        "opts": [
+          "37.1% average fiber atrophy",
+          "5.0% average fiber atrophy",
+          "100.0% complete fiber destruction",
+          "1.2% average fiber atrophy"
+        ],
+        "correct": 0,
+        "rationale": "Staron et al. (1991) documented severe muscle fiber atrophy averaging 37.1% across all fiber types in an elite powerlifter following 7 months of total inactivity."
+      },
+      {
+        "id": 5,
+        "q": "In elite bodybuilders evaluated by MacDougall et al. (1977) after 13.5 months of detraining, what morphological change occurred to fat-free mass?",
+        "opts": [
+          "-9.3% reduction in fat-free mass",
+          "+15.0% increase in fat-free mass",
+          "-50.0% reduction in fat-free mass",
+          "0.0% change in fat-free mass"
+        ],
+        "correct": 0,
+        "rationale": "MacDougall et al. (1977) reported a -9.3% reduction in fat-free mass, an 11.5% reduction in arm girth, and an 8.3% reduction in mean muscle fiber CSA after 13.5 months of inactivity in bodybuilders."
+      },
+      {
+        "id": 6,
+        "q": "What cellular signaling mechanism triggers fast-twitch muscle fiber atrophy when mechanical loading is removed during detraining?",
+        "opts": [
+          "Downregulation of myofibrillar protein synthesis via reduced mTORC1 signaling",
+          "Massive stimulation of satellite cell proliferation",
+          "Upregulation of glycogen synthase enzyme activity",
+          "Blockade of myostatin expression"
+        ],
+        "correct": 0,
+        "rationale": "Removing mechanical loading during detraining suppresses the mTORC1 anabolic pathway, causing myofibrillar protein synthesis to drop below basal protein breakdown rates, leading to fiber shrinkage."
+      },
+      {
+        "id": 7,
+        "q": "What happens to relative muscle fiber type proportions (% Type I vs. % Type II) during the initial 14 days of detraining?",
+        "opts": [
+          "Relative fiber type proportions remain stable with no significant shifts",
+          "Type I fibers completely disappear within 7 days",
+          "Type IIx fibers convert entirely into Type I fibers within 48 hours",
+          "Fiber type proportions change randomly every 24 hours"
+        ],
+        "correct": 0,
+        "rationale": "Short-term detraining (14 days) does not alter relative fiber type proportions, even though fast-twitch fiber cross-sectional area begins to shrink."
+      },
+      {
+        "id": 8,
+        "q": "What minimum training frequency is recommended during off-seasons or travel to preserve fast-twitch fiber CSA and explosive power?",
+        "opts": [
+          "At least 1 high-intensity resistance session per week",
+          "7 low-intensity aerobic sessions per week",
+          "10 high-volume lifting sessions per day",
+          "Zero sessions; complete rest is superior for fast-twitch retention"
+        ],
+        "correct": 0,
+        "rationale": "Because fast-twitch fibers atrophy rapidly (-6.4% in 14 days), incorporating at least 1 high-intensity session per week maintains mechanical loading on high-threshold motor units and preserves fast-twitch CSA."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which morphological shifts occur during short-to-subacute detraining (14 days to 6 weeks)? (Select all that apply)",
+        "opts": [
+          "Preferential cross-sectional area reduction of fast-twitch (Type II) fibers (-6.4% at 14 days)",
+          "Preservation of slow-twitch (Type I) fiber cross-sectional area short-term",
+          "Shrinkage of the FT vs. ST CSA differential (from +23% down to +9% at 6 weeks)",
+          "Complete disappearance of all skeletal muscle tissue after 14 days",
+          "Stability of relative fiber type proportions (% distribution) short-term"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Short-term detraining features selective FT fiber CSA loss (-6.4% at 14 days; FT/ST differential drops from +23% to +9% at 6 weeks), stable ST CSA, and stable % fiber distribution. Skeletal muscle does not disappear."
+      },
+      {
+        "id": 2,
+        "q": "Which long-term morphological decrements were observed in strength athletes after >7 months of detraining? (Select all that apply)",
+        "opts": [
+          "37.1% average muscle fiber atrophy after 7 months (Staron et al.)",
+          "-9.3% decline in fat-free mass after 13.5 months (MacDougall et al.)",
+          "-11.5% decrease in arm circumference in elite bodybuilders",
+          "-8.3% decrease in mean muscle fiber CSA after 13.5 months",
+          "+25% increase in Type IIx fiber diameter due to rest"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Long-term detraining (>7-13.5 months) causes profound structural losses: 37.1% average fiber atrophy, -9.3% fat-free mass, -11.5% arm girth, and -8.3% fiber CSA. Fiber diameter does not increase."
+      },
+      {
+        "id": 3,
+        "q": "Why do fast-twitch muscle fibers atrophy faster than slow-twitch muscle fibers during detraining? (Select all that apply)",
+        "opts": [
+          "Fast-twitch motor units require high-intensity voluntary effort for recruitment",
+          "Removal of heavy lifting eliminates mechanical tension needed for mTORC1 signaling",
+          "Myofibrillar protein synthesis in fast-twitch fibers drops below baseline degradation rates",
+          "Slow-twitch fibers remain recruited during daily low-intensity posture and ambulation",
+          "Fast-twitch fibers contain zero protein and dissolve instantly in water"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Fast-twitch fibers require high mechanical loading to trigger mTORC1 signaling. Detraining removes this stimulus, dropping protein synthesis below breakdown. Slow-twitch fibers maintain loading via daily posture/walking."
+      },
+      {
+        "id": 4,
+        "q": "Which programming strategies effectively mitigate fast-twitch muscle fiber atrophy during off-seasons or extended travel? (Select all that apply)",
+        "opts": [
+          "Perform low-volume, high-intensity maintenance sessions (e.g., 1 day/week)",
+          "Maintain heavy loading (\u226580-85% 1RM) on primary multijoint exercises",
+          "Completely eliminate all physical activity for 3 consecutive months",
+          "Preserve high-threshold motor unit recruitment to stimulate mTORC1"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Performing at least 1 high-intensity maintenance session per week (\u226580-85% 1RM) preserves high-threshold motor unit recruitment, mechanical tension, and mTORC1 signaling to prevent FT atrophy."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "During the first 14 days of detraining, fast-twitch muscle fibers undergo rapid cross-sectional area shrinkage while slow-twitch fibers remain unchanged.",
+        "ans": true,
+        "feedback": "Hortob\u00e1gyi et al. showed a -6.4% reduction in fast-twitch fiber CSA after 14 days, whereas slow-twitch fiber CSA showed no significant change."
+      },
+      {
+        "id": 2,
+        "q": "Short-term detraining (14 days) causes a complete reversal of muscle fiber type distribution back to pretraining levels.",
+        "ans": false,
+        "feedback": "Relative muscle fiber type distribution (% Type I vs % Type II) remains stable during short-term detraining."
+      },
+      {
+        "id": 3,
+        "q": "After 7 months of complete detraining, an elite powerlifter exhibited an average muscle fiber atrophy of 37.1%.",
+        "ans": true,
+        "feedback": "Staron et al. (1991) documented 37.1% average muscle fiber atrophy across all fiber types in a powerlifter after 7 months of inactivity."
+      },
+      {
+        "id": 4,
+        "q": "Off-season maintenance training requires 6 days per week of high-volume lifting to prevent fast-twitch fiber atrophy.",
+        "ans": false,
+        "feedback": "Research shows that low-volume maintenance (e.g., 1 high-intensity session per week) is sufficient to preserve fast-twitch fiber CSA."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Following 14 days of detraining, **fast-twitch** muscle fibers exhibit a -6.4% reduction in cross-sectional area, whereas **slow-twitch** fibers remain stable.",
+        "targets": [
+          "fast-twitch",
+          "slow-twitch"
+        ],
+        "optionsBank": [
+          "fast-twitch",
+          "slow-twitch",
+          "smooth",
+          "cardiac",
+          "tendon"
+        ],
+        "hint": "Specific fiber type atrophy kinetics during short-term inactivity."
+      },
+      {
+        "id": 2,
+        "statement": "Removing mechanical loading during detraining suppresses **mTORC1** pathway signaling, dropping protein synthesis below baseline **degradation** rates.",
+        "targets": [
+          "mTORC1",
+          "degradation"
+        ],
+        "optionsBank": [
+          "mTORC1",
+          "degradation",
+          "AMPK",
+          "transcription",
+          "myostatin"
+        ],
+        "hint": "Anabolic cellular signaling pathway and protein turnover equilibrium."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Contrast the atrophy kinetics of fast-twitch (Type II) versus slow-twitch (Type I) muscle fibers during the initial 6 weeks of detraining, citing key experimental evidence.",
+        "model": "Fast-twitch (Type II) muscle fibers undergo preferential and rapid structural atrophy during early detraining compared to slow-twitch (Type I) fibers. Hortob\u00e1gyi et al. (1993) demonstrated that 14 days of complete inactivity in competitive weightlifters induced a significant -6.4% decrease in fast-twitch fiber cross-sectional area (CSA), while slow-twitch fiber CSA showed no significant change. Extending detraining to 6 weeks in rugby league players (Argus et al., 2010) caused the fast-twitch vs. slow-twitch CSA advantage to shrink from +23% post-season down to +9%. Fast-twitch fibers shrink faster because they require high-threshold mechanical tension for recruitment and mTORC1 stimulation, whereas slow-twitch fibers maintain low-level recruitment during daily ambulatory activities.",
+        "criteria": [
+          "State that fast-twitch fibers atrophy rapidly (-6.4% at 14 days) while slow-twitch fibers remain stable short-term.",
+          "Cite Hortob\u00e1gyi et al. (1993) and Argus et al. (2010) findings (FT vs ST advantage dropping from +23% to +9% at 6 weeks).",
+          "Explain that fast-twitch fibers require high mechanical loading for mTORC1 stimulation, whereas slow-twitch fibers are recruited during daily walking/posture."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Design an evidence-based off-season maintenance program for an athlete traveling for 4 weeks, explaining how it prevents fast-twitch fiber atrophy.",
+        "model": "To prevent fast-twitch muscle fiber atrophy and neural drive attenuation during a 4-week travel period, the athlete should perform a low-volume, high-intensity maintenance resistance routine 1 to 2 days per week. The program should focus on 2 to 3 core multijoint exercises (e.g., trap bar deadlifts, overhead presses, bodyweight split squats) utilizing heavy loads (\u226580-85% 1RM or high mechanical tension) for 3 sets of 4 to 6 repetitions. Maintaining heavy loading preserves high-threshold fast-twitch motor unit recruitment and mechanical tension, which sustains mTORC1 anabolic pathway signaling and prevents the -6.4% fast-twitch CSA drop observed with total inactivity.",
+        "criteria": [
+          "Prescribe low-volume, high-intensity training (1\u20132 days/week, heavy loads \u226580\u201385% 1RM).",
+          "Select core multijoint exercises to recruit high-threshold motor units efficiently.",
+          "Explain that mechanical loading sustains mTORC1 signaling and prevents preferential fast-twitch fiber CSA shrinkage."
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "How do integrated physiological systems (neuromuscular, musculoskeletal, endocrine, cardiovascular) respond during prolonged detraining?",
+        "opts": [
+          "They adapt in unison during training and regress in unison during detraining",
+          "Neuromuscular drive doubles while muscle mass completely dissolves",
+          "Cardiovascular adaptations become permanent while bone mineral density drops to zero in 24 hours",
+          "Endocrine hormones surge infinitely while muscles atrophy"
+        ],
+        "correct": 0,
+        "rationale": "Anaerobic adaptations across neuromuscular, musculoskeletal, endocrine, and cardiovascular systems occur in a coordinated, integrated fashion during training and regress in unison toward baseline during detraining."
+      },
+      {
+        "id": 2,
+        "q": "How does an athlete's initial training status and training history impact the retention of adaptations during short-term detraining?",
+        "opts": [
+          "Long-term competitive athletes retain a greater buffer of baseline adaptations than novice lifters",
+          "Novice lifters retain 100% of strength while elite athletes lose 100% in 24 hours",
+          "Training history has zero impact on detraining rate",
+          "Novices experience supercompensation while elite athletes suffer severe cardiac failure"
+        ],
+        "correct": 0,
+        "rationale": "Athletes with years of continuous high-level training possess deeper structural, neural, and connective tissue adaptations, providing a larger physiological buffer against performance decay during short-term detraining."
+      },
+      {
+        "id": 3,
+        "q": "What effect does adequate dietary protein intake have on skeletal muscle mass during periods of detraining?",
+        "opts": [
+          "It attenuates muscle mass loss by mitigating basal muscle protein breakdown",
+          "It completely stops all detraining losses, making exercise unnecessary",
+          "It causes instant muscle fiber hyperplasia without training",
+          "It accelerates muscle atrophy by suppressing mTORC1"
+        ],
+        "correct": 0,
+        "rationale": "Consuming adequate dietary protein during detraining helps maintain hyperaminoacidemia and muscle protein synthesis, attenuating the net muscle protein breakdown caused by mechanical non-loading."
+      },
+      {
+        "id": 4,
+        "q": "What happens to chronic left ventricular wall thickness adaptations established through high-volume resistance training during prolonged detraining?",
+        "opts": [
+          "Left ventricular wall thickness gradually regresses toward unconditioned baseline dimensions",
+          "Left ventricular wall thickness doubles in size",
+          "Left ventricular wall thickness ruptures immediately",
+          "Left ventricular wall thickness converts into skeletal fast-twitch tissue"
+        ],
+        "correct": 0,
+        "rationale": "Concentric cardiac remodeling (increased left ventricular wall thickness) induced by heavy resistance training gradually regresses toward normal resting baseline dimensions when training ceases."
+      },
+      {
+        "id": 5,
+        "q": "How does aging impact the rate of muscle fiber atrophy during detraining in master athletes compared to young athletes?",
+        "opts": [
+          "Master athletes experience an accelerated rate of muscle fiber atrophy and bone loss during inactivity",
+          "Master athletes experience zero muscle fiber atrophy due to age-related immunity",
+          "Young athletes atrophy 10 times faster than master athletes",
+          "Aging completely prevents the principle of reversibility"
+        ],
+        "correct": 0,
+        "rationale": "Aging is associated with baseline sarcopenia and reduced anabolic hormone concentrations; consequently, older or master athletes undergo more rapid muscle fiber atrophy and bone loss during detraining."
+      },
+      {
+        "id": 6,
+        "q": "What happens to connective tissue adaptations (bone mineral density and collagen cross-linking) during extended detraining?",
+        "opts": [
+          "They regress slowly over months of non-loading as osteoblast activity decreases",
+          "They dissolve completely within 48 hours of missing a workout",
+          "They undergo rapid calcification and double in mass",
+          "They remain permanently elevated for 100 years without loading"
+        ],
+        "correct": 0,
+        "rationale": "Connective tissue adaptations (bone density, collagen fibril cross-linking, tendon stiffness) are slow to develop and slow to regress, gradually declining over months of non-loading as osteoblast and fibroblast activity decreases."
+      },
+      {
+        "id": 7,
+        "q": "Which program design principle establishes deeper structural and neural adaptations, providing a larger buffer against detraining decay?",
+        "opts": [
+          "Structured progressive overload and variation",
+          "Monotonous unvarying daily 1RM lifting without rest",
+          "Random light workouts performed once per year",
+          "Complete avoidance of high-threshold motor unit recruitment"
+        ],
+        "correct": 0,
+        "rationale": "Periodized programs utilizing progressive overload and structured variation maximize neural recruitment, myofibrillar hypertrophy, and connective tissue density, creating a robust buffer against detraining."
+      },
+      {
+        "id": 8,
+        "q": "What happens to post-set ventilatory efficiency (VE/VO2) adaptations during detraining?",
+        "opts": [
+          "Ventilatory efficiency gradually regresses back toward unconditioned baseline levels",
+          "Ventilatory efficiency becomes permanently infinite",
+          "Ventilatory efficiency improves by 500% during inactivity",
+          "Ventilatory efficiency drops to zero, stopping pulmonary respiration"
+        ],
+        "correct": 0,
+        "rationale": "Respiratory adaptations, such as improved ventilatory equivalent for oxygen (VE/VO2), gradually regress toward baseline unconditioned values as anaerobic training is discontinued."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which factors modulate the rate of performance decay and adaptation loss during detraining? (Select all that apply)",
+        "opts": [
+          "Initial training status and years of training history",
+          "Chronological age (master athletes vs. young athletes)",
+          "Dietary protein and energy intake during inactivity",
+          "Duration of the detraining period",
+          "Eye color and hair length"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Detraining decay is modulated by training history/status, age, nutritional status (protein intake), and inactivity duration. Eye color and hair length have no physiological impact."
+      },
+      {
+        "id": 2,
+        "q": "Which physiological systems undergo unified regression during prolonged detraining (>12 weeks)? (Select all that apply)",
+        "opts": [
+          "Neuromuscular (decreased motor unit recruitment and EMG activity)",
+          "Muscular (myofibrillar atrophy and loss of fast-twitch CSA)",
+          "Connective Tissue (slow regression of bone mineral density and tendon stiffness)",
+          "Cardiovascular (regression of left ventricular wall thickness toward baseline)",
+          "Endocrine (attenuation of exercise-induced anabolic hormone surge potential)"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "rationale": "All listed body systems (neuromuscular, muscular, connective tissue, cardiovascular, endocrine) adapt together during training and regress in unison toward pretraining baseline levels during detraining."
+      },
+      {
+        "id": 3,
+        "q": "Which nutritional and programming strategies help preserve lean body mass and strength during involuntary injury immobilization? (Select all that apply)",
+        "opts": [
+          "Maintain high protein intake (~1.6 to 2.2 g/kg/day) to attenuate muscle protein breakdown",
+          "Perform cross-education resistance training on the healthy uninjured contralateral limb",
+          "Completely starve the athlete to accelerate healing",
+          "Perform isometric contractions of accessible adjacent muscle groups if cleared"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "High protein intake maintains amino acid availability, cross-education on the uninjured limb preserves contralateral neural drive (~8-22% strength gain retention), and isometric contractions maintain motor unit signaling. Starvation accelerates muscle wasting."
+      },
+      {
+        "id": 4,
+        "q": "How do connective tissue adaptations compare to neural adaptations in their development and reversibility timelines? (Select all that apply)",
+        "opts": [
+          "Neural adaptations occur rapidly early in training and regress rapidly during early detraining (<4-8 weeks)",
+          "Connective tissue adaptations (bone density, tendon stiffness) develop slowly over months",
+          "Connective tissue adaptations regress slowly over extended months of non-loading",
+          "Neural adaptations require 10 years to change while tendons change in 5 minutes",
+          "Both neural and connective tissue adaptations disappear completely after 24 hours of rest"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Neural adaptations change rapidly (both in acquisition and early detraining regression). Connective tissue (bone/tendons) remodels slowly over months and regresses slowly over extended non-loading."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Neuromuscular, musculoskeletal, endocrine, and cardiovascular adaptations adapt in unison during training and regress in unison during detraining.",
+        "ans": true,
+        "feedback": "All physiological systems respond cohesively to anaerobic stress stimuli and gradually regress toward unconditioned baseline states during extended detraining."
+      },
+      {
+        "id": 2,
+        "q": "Master athletes experience a slower rate of detraining-induced muscle atrophy compared to 20-year-old athletes.",
+        "ans": false,
+        "feedback": "Older and master athletes undergo MORE rapid muscle fiber atrophy and bone loss during detraining due to baseline sarcopenia and lower resting anabolic hormones."
+      },
+      {
+        "id": 3,
+        "q": "High dietary protein intake during a period of detraining helps attenuate muscle mass loss.",
+        "ans": true,
+        "feedback": "Protein intake sustains muscle protein synthesis and mitigates net muscle protein breakdown during mechanical non-loading."
+      },
+      {
+        "id": 4,
+        "q": "Concentric left ventricular wall thickening established via heavy resistance training is permanent and never regresses during detraining.",
+        "ans": false,
+        "feedback": "Left ventricular wall thickness regresses back toward baseline dimensions over extended weeks to months of detraining."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Long-term athletes retain a greater physiological **buffer** against detraining decay, and consuming adequate dietary **protein** attenuates muscle mass loss during inactivity.",
+        "targets": [
+          "buffer",
+          "protein"
+        ],
+        "optionsBank": [
+          "buffer",
+          "protein",
+          "deficit",
+          "carbohydrate",
+          "atrophy"
+        ],
+        "hint": "Training status protective factor and nutritional mitigation."
+      },
+      {
+        "id": 2,
+        "statement": "Connective tissue adaptations regress **slowly** over months of non-loading, whereas neural drive alterations occur **rapidly** during early detraining.",
+        "targets": [
+          "slowly",
+          "rapidly"
+        ],
+        "optionsBank": [
+          "slowly",
+          "rapidly",
+          "instantly",
+          "never",
+          "equally"
+        ],
+        "hint": "Comparative reversibility timeframes of tendons/bones vs. nervous system."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain how an athlete's initial training status and history modulate the rate of detraining decay, and explain why residual strength remains above pretraining baseline levels.",
+        "model": "An athlete's initial training status and multi-year training history provide a substantial physiological buffer against detraining decay. Elite strength athletes with years of progressive overload possess deeper structural hypertrophy, higher myonuclear density, greater bone mineral density, and highly refined motor unit recruitment pathways. During short-to-moderate detraining (4 to 12 weeks), strength drops by only 7% to 12%. Because structural adaptations and myonuclei are retained long-term, the absolute strength and muscle mass remaining after detraining stay significantly higher than pretraining baseline values (residual training effect), enabling rapid re-attainment via muscle memory upon returning to training.",
+        "criteria": [
+          "Explain that multi-year training history establishes a structural, myonuclear, and neural buffer against detraining.",
+          "State that strength loss after 8\u201312 weeks is limited to 7%\u201312%.",
+          "Define the residual training effect (retained strength/mass remaining above pretraining baseline enabling rapid muscle memory re-attainment)."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Synthesize the systemic reversibility of anaerobic adaptations across the neuromuscular, muscular, connective tissue, and cardiovascular systems during extended detraining (>12 weeks).",
+        "model": "During extended detraining (>12 weeks), all body systems undergo unified regression toward unconditioned baseline states. In the neuromuscular system, maximal voluntary motor unit recruitment, firing discharge rates, and EMG signal magnitude decrease. In the muscular system, fast-twitch (Type II) and slow-twitch (Type I) fibers undergo progressive structural atrophy (e.g., up to 37.1% fiber shrinkage at 7 months), driven by suppressed mTORC1 signaling and decreased protein synthesis. In connective tissue, reduced mechanical strain decreases osteoblast activity and collagen cross-linking, causing gradual reductions in bone mineral density and tendon stiffness over months. In the cardiovascular system, resistance-induced left ventricular wall thickening and submaximal blood pressure blunting gradually regress toward resting baseline dimensions.",
+        "criteria": [
+          "Describe neuromuscular regression (decreased motor unit recruitment, firing rates, EMG).",
+          "Describe muscular regression (progressive fast- and slow-twitch fiber atrophy via suppressed mTORC1 signaling).",
+          "Describe connective tissue (bone density/tendon stiffness loss) and cardiovascular regression (LV wall thickness regression)."
+        ]
+      }
+    ]
+  }
+}

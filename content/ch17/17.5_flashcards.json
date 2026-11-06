@@ -1,0 +1,76 @@
+{
+    "chapterId": "17.5",
+    "title": "17.5 Step 5: Training Load and Repetitions",
+    "cards": [
+        {
+            "id": "17.5-01",
+            "tag": "Mechanical Work vs. Volume-Load",
+            "reference": "Section 17.5",
+            "front": "How is <strong>volume-load</strong> calculated in resistance training, and how does it differ from repetition-volume and mechanical work?",
+            "back": "<strong>Volume-load</strong> is calculated by multiplying the weight assigned by the number of repetitions performed and summing these values over a training session (<em>Weight &times; Repetitions</em>). It reflects total mechanical work and metabolic stress. Unlike repetition-volume (total reps), volume-load quantifies overall resistance workload, though it omits vertical displacement distance. For body-moving movements (e.g., loaded jump squats), <strong>system mass volume-load</strong> must be calculated: <code>[Body Mass + Load] &times; Repetitions</code>."
+        },
+        {
+            "id": "17.5-02",
+            "tag": "Inverse Load-Repetition Relationship & %1RM Limitations",
+            "reference": "Section 17.5",
+            "front": "What is the fundamental relationship between <strong>load and repetitions</strong>, and what are the key limitations of relying strictly on %1RM tables?",
+            "back": "Load and repetitions share an <strong>inverse relationship</strong>: heavier loads allow fewer repetitions. Major limitations of %1RM tables (Table 17.7) include: <ul><li>The load-rep relationship is <strong>curvilinear</strong>, not strictly linear.</li><li>Trained athletes complete more reps at a given %1RM on lower body core exercises and machine lifts compared to upper body or free weight lifts.</li><li>Table values reflect a single set; multiple sets cause cumulative fatigue.</li><li>The table is most accurate for heavy loads (<strong>&gt;75% 1RM and &lt;10 repetitions</strong>).</li></ul>"
+        },
+        {
+            "id": "17.5-03",
+            "tag": "Direct 1RM Testing Prerequisites & Protocol",
+            "reference": "Section 17.5",
+            "front": "What athlete prerequisites, exercise selection rules, and protocols govern <strong>direct 1-repetition maximum (1RM) testing</strong>?",
+            "back": "Direct 1RM testing is reserved for <strong>intermediate and advanced resistance-trained athletes</strong> with proper technique experience. It must be conducted only on <strong>core multijoint exercises</strong> (e.g., back squat, bench press). Exercises where stabilizing muscles fatigue prematurely (e.g., bent-over row) are excluded. Protocols include warm-up sets and load increments of 5–10% (upper body) or 10–20% (lower body) to determine 1RM within 3 to 5 attempts with 2–4 minutes rest."
+        },
+        {
+            "id": "17.5-04",
+            "tag": "Multiple-RM Testing & Assistance Load Caps",
+            "reference": "Section 17.5",
+            "front": "What rules govern <strong>multiple-RM testing</strong> for estimating 1RM, and why are assistance exercises restricted to an 8RM cap?",
+            "back": "When 1RM testing is inappropriate, a 10RM test can project 1RM (most accurate for loads &le;10RM and &gt;75% 1RM). However, <strong>power exercises must never be tested above 5 repetitions</strong> due to rapid technique deterioration. Additionally, multiple-RM testing and load assignments for <strong>assistance exercises must be capped at or above an 8RM (&le;8RM load)</strong> to minimize isolative joint and connective tissue stress."
+        },
+        {
+            "id": "17.5-05",
+            "tag": "Load and Repetition Prescriptions by Goal",
+            "reference": "Section 17.5",
+            "front": "What are the specific <strong>load (%1RM), repetition, and set assignments</strong> for Strength, Power, Hypertrophy, and Muscular Endurance?",
+            "back": "Prescriptions according to Table 17.9: <ul><li><strong>Strength:</strong> &ge;85% 1RM, &le;6 reps, 2–6 sets.</li><li><strong>Single-Effort Power:</strong> 80&ndash;90% 1RM, 1–2 reps, 3–5 sets.</li><li><strong>Multiple-Effort Power:</strong> 75&ndash;85% 1RM, 3–5 reps, 3–5 sets.</li><li><strong>Hypertrophy:</strong> 67&ndash;85% 1RM, 6–12 reps, 3–6 sets.</li><li><strong>Muscular Endurance:</strong> &le;67% 1RM, &ge;12 reps, 2–3 sets.</li></ul>"
+        },
+        {
+            "id": "17.5-06",
+            "tag": "Force-Velocity Curve & Power Loading Kinetics",
+            "reference": "Section 17.5",
+            "front": "How does the <strong>force-velocity curve</strong> explain why maximal power output occurs at submaximal loads rather than 1RM loads?",
+            "back": "Maximal force occurs at slow contraction velocities (1RM), yielding lower power output (<em>Power = Force &times; Velocity</em>). Peak power output occurs at <strong>intermediate movement velocities</strong> with submaximal loads. For Olympic weightlifting movements (snatch, clean), power output peaks at <strong>75% to 90% 1RM</strong>. Reducing load from 100% to 90% 1RM in squats/deadlifts can double power output due to drastically reduced movement duration."
+        },
+        {
+            "id": "17.5-07",
+            "tag": "Submaximal Loading Rule for Power Lifts",
+            "reference": "Section 17.5",
+            "front": "Why are <strong>power exercises</strong> assigned submaximal %1RM loads (75&ndash;90%) for low reps (1&ndash;5 reps) rather than true repetition maximums?",
+            "back": "Power exercises cannot be loaded to true momentary muscle failure (true RMs) because <strong>explosive movement velocity and technique deteriorate before muscular failure occurs</strong>. Assigning submaximal loads (e.g., 75–85% 1RM for 3–5 reps) ensures maximal movement speed and explosive motor unit execution without technical breakdown or deceleration."
+        },
+        {
+            "id": "17.5-08",
+            "tag": "Microcycle Load Variation (Heavy, Light, Medium Days)",
+            "reference": "Section 17.5",
+            "front": "How does alternating <strong>Heavy, Light, and Medium loading days</strong> across a microcycle prevent overtraining while preserving frequency?",
+            "back": "To avoid systemic overtraining during high-load phases: <ul><li><strong>Heavy Day:</strong> Assigned 100% of target RM load for goal repetitions.</li><li><strong>Light Day:</strong> Assigned <strong>80% of Heavy Day load</strong> for the exact same goal repetition count.</li><li><strong>Medium Day:</strong> Assigned <strong>90% of Heavy Day load</strong> for the exact same goal repetition count.</li></ul>Athletes complete only the goal reps on light/medium days even if capable of more."
+        },
+        {
+            "id": "17.5-09",
+            "tag": "Progression of Training Load: The 2-for-2 Rule",
+            "reference": "Section 17.5",
+            "front": "What is the <strong>2-for-2 rule</strong> for progressing resistance training loads, and how is it operationally applied?",
+            "back": "The <strong>2-for-2 rule</strong> is a conservative progression strategy: If an athlete can perform <strong>two or more repetitions over their assigned repetition goal in the last set of an exercise for two consecutive workouts</strong>, weight should be added to that exercise for the next training session."
+        },
+        {
+            "id": "17.5-10",
+            "tag": "Quantity of Load Increases Guidelines",
+            "reference": "Section 17.5",
+            "front": "What are the standard recommended <strong>absolute and relative load increments</strong> when progressing training loads under the 2-for-2 rule?",
+            "back": "Recommended absolute load increments (Table 17.10): <ul><li><strong>Smaller/Weaker Athletes:</strong> Upper body +2.5 to 5 lb (1–2 kg); Lower body +5 to 10 lb (2–4 kg).</li><li><strong>Larger/Stronger Athletes:</strong> Upper body +5 to 10+ lb (2–4+ kg); Lower body +10 to 15+ lb (4–7+ kg).</li></ul>Alternatively, <strong>relative load increases of 2.5% to 10%</strong> can be applied to account for individual status and exercise muscle mass."
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "chapterId": "5.2",
+    "title": "5.2 Muscular Adaptations to Anaerobic Training",
+    "cards": [
+        {
+            "id": "5.2-01",
+            "tag": "Muscular Growth & Protein Accretion",
+            "reference": "Section 5.2",
+            "front": "What is skeletal muscle <strong>hypertrophy</strong>, and what primary net protein condition is required for its occurrence?",
+            "back": "<strong>Hypertrophy</strong> refers to the enlargement of muscle fiber cross-sectional area (CSA). It requires a <strong>net positive protein balance</strong> where muscle protein synthesis exceeds muscle protein degradation, resulting in the accretion of actin and myosin myofibrils."
+        },
+        {
+            "id": "5.2-02",
+            "tag": "Intracellular Anabolic Signaling",
+            "reference": "Section 5.2",
+            "front": "Which intracellular signaling pathway is activated by mechanical strain to directly stimulate muscle protein synthesis, and how does <strong>myostatin</strong> interact with muscle growth?",
+            "back": "Mechanical strain activates the <strong>Akt / mTOR pathway</strong>, which increases mRNA translation for contractile protein assembly. Concurrently, resistance exercise down-regulates <strong>myostatin</strong> (an inhibitory protein), removing molecular restraints on muscle growth."
+        },
+        {
+            "id": "5.2-03",
+            "tag": "Hypertrophy Time Course",
+            "reference": "Section 5.2",
+            "front": "What is the typical time course for muscle protein synthesis elevation post-exercise, and how many workouts are required before structural hypertrophy is measurable?",
+            "back": "Muscle protein synthesis remains significantly elevated for up to <strong>48 hours</strong> post-exercise. While early strength gains (weeks 1 to 4) stem from neural drive, structural hypertrophy requires a minimum of <strong>>16 consistent workouts</strong> before measurable increases in CSA occur."
+        },
+        {
+            "id": "5.2-04",
+            "tag": "Mechanical vs. Metabolic Hypertrophy",
+            "reference": "Section 5.2",
+            "front": "Contrast the primary loading variables used to maximize <strong>mechanical stress</strong> versus <strong>metabolic stress</strong> for muscle hypertrophy.",
+            "back": "<ul><li><strong>Mechanical Stress:</strong> Heavy loads (>85% 1RM), high tension, eccentric focus, and long rest (2 to 5 minutes) to maximize high-threshold motor unit recruitment and Akt/mTOR activation.</li><li><strong>Metabolic Stress:</strong> Moderate loads (60% to 75% 1RM), high volume (3–6 sets of 8–12 reps), and short rest (30 to 90 seconds) to drive metabolite accumulation (H<sup>+</sup>, lactate) and cell swelling.</li></ul>"
+        },
+        {
+            "id": "5.2-05",
+            "tag": "Hyperplasia in Humans",
+            "reference": "Section 5.2",
+            "front": "What is muscle fiber <strong>hyperplasia</strong>, and what is its contribution to total muscle enlargement in humans?",
+            "back": "<strong>Hyperplasia</strong> is an increase in total muscle fiber number via longitudinal fiber splitting. While verified in extreme animal overload models, hyperplasia contributes minimally (<strong><10%</strong>) to total human muscle enlargement, with hypertrophy remaining the primary mechanism."
+        },
+        {
+            "id": "5.2-06",
+            "tag": "Fiber Size Adaptations",
+            "reference": "Section 5.2",
+            "front": "Why do <strong>Type II fast-twitch muscle fibers</strong> manifest significantly greater cross-sectional area expansion than <strong>Type I slow-twitch fibers</strong>?",
+            "back": "Type II fibers possess higher myofibrillar protein packing density and exhibit significantly greater sensitivity to <strong>Akt/mTOR anabolic signaling</strong> under mechanical tension. Type I fiber growth is constrained by its endurance-oriented oxidative metabolic machinery."
+        },
+        {
+            "id": "5.2-07",
+            "tag": "Fiber Type Continuum & Transitions",
+            "reference": "Section 5.2",
+            "front": "What is the main <strong>fast-twitch fiber type transition</strong> observed during chronic anaerobic training, and how rapidly does it occur?",
+            "back": "Pure <strong>Type IIx fibers shift toward Type IIa fibers</strong> along the myosin heavy chain (MHC) continuum (MHC IIx &rarr; MHC IIax &rarr; MHC IIa). Staron et al. (1990) showed significant Type IIx reductions after just <strong>2 weeks (4 workouts) in females</strong> and <strong>4 weeks (8 workouts) in males</strong>."
+        },
+        {
+            "id": "5.2-08",
+            "tag": "Detraining & Fiber Overshoot",
+            "reference": "Section 5.2",
+            "front": "What happens to fast-twitch fiber subtype proportions during periods of complete <strong>detraining</strong> or strategic competitive tapering?",
+            "back": "During detraining or tapering, Type IIa fibers revert back to Type IIx fibers, producing a temporary <strong>'overshoot'</strong> where the percentage of pure, highly explosive Type IIx fibers temporarily exceeds pre-training baseline levels."
+        },
+        {
+            "id": "5.2-09",
+            "tag": "Muscle Architecture & Pennation Angle",
+            "reference": "Section 5.2",
+            "front": "How does an increased <strong>pennation angle</strong> following heavy resistance training affect muscle force production?",
+            "back": "An increased pennation angle allows a greater quantity of sarcomeres and myofibrils to be packed in <strong>parallel</strong> along the tendon. Although it slightly reduces the direct force vector per fiber, the massive gain in parallel contractile protein packing results in a net increase in maximal force and CSA."
+        },
+        {
+            "id": "5.2-10",
+            "tag": "Fascicle Length & Sprint Kinetics",
+            "reference": "Section 5.2",
+            "front": "How does high-velocity sprint and plyometric training alter <strong>fascicle length</strong>, and what functional athletic advantage does this provide?",
+            "back": "Sprint and plyometric training increase muscle fascicle length by adding <strong>sarcomeres in series</strong>. This structural adaptation increases maximal muscle shortening velocity (V<sub>max</sub>), boosting explosive sprinting speed and rate of force development."
+        },
+        {
+            "id": "5.2-11",
+            "tag": "Organelle Density & Dilutional Effects",
+            "reference": "Section 5.2",
+            "front": "Why do heavy-load powerlifters exhibit a decrease in <strong>mitochondrial and capillary density</strong> per unit muscle area?",
+            "back": "Heavy resistance hypertrophy causes a <strong>dilutional reduction</strong>: contractile protein accretion expands muscle fiber cross-sectional area disproportionately without a matching increase in organelle number, decreasing mitochondrial and capillary density per unit volume."
+        },
+        {
+            "id": "5.2-12",
+            "tag": "Metabolic Substrate Supercompensation",
+            "reference": "Section 5.2",
+            "front": "What magnitude of <strong>phosphagen and glycogen supercompensation</strong> occurs in skeletal muscle following chronic resistance training?",
+            "back": "MacDougall et al. documented a <strong>28% increase in resting creatine phosphate (CP)</strong> and an <strong>18% increase in resting ATP</strong> after 5 months of resistance training. High-volume glycolytic training can increase resting muscle glycogen by up to <strong>112%</strong>."
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "course": "DFWT - KINS 4503 Design of Fitness & WT",
+    "chapter": "6",
+    "section": "6.5",
+    "ch": "6",
+    "mod": "6.5",
+    "moduleTitle": "6.5 Overtraining Definition, Prevalence, Diagnosis, and Potential Markers"
+  },
+  "pages": [
+    {
+      "id": "p1",
+      "title": "Part 1: Overtraining Continuum, Prevalence, and Cardiovascular Responses",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>The Overtraining Continuum and Terminology Consensus</h2>\n<p>Improving athletic performance requires systematically planned, progressive training loads coupled with adequate recovery. When an imbalance persists between training stress and recovery, athletes enter a continuum of maladaptation ranging from short-term fatigue to severe systemic dysfunction known as <strong>overtraining syndrome (OTS)</strong>. According to the joint consensus statement by the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM), consistent terminology is essential to evaluate and diagnose these states accurately:</p>\n<ul>\n  <li><strong>Overtraining:</strong> A dynamic process (expressed as a verb) of intensified training without adequate rest that can lead to overreaching or overtraining syndrome.</li>\n  <li><strong>Functional Overreaching (FOR):</strong> A short-term intensification of training that induces a temporary performance decrement. When followed by a planned taper or recovery period lasting a few days to weeks, it results in a supercompensative improvement in athletic performance (e.g., a maximal training overload block scheduled several weeks prior to major competition).</li>\n  <li><strong>Nonfunctional Overreaching (NFOR):</strong> An extreme overreaching state characterized by prolonged performance stagnation or decrement. Full recovery requires several weeks to months of reduced training and rest for the athlete to return to baseline performance levels.</li>\n  <li><strong>Overtraining Syndrome (OTS):</strong> A severe, long-term neuroendocrine and metabolic maladaptation resulting in marked, persistent performance decrements. Recovery from OTS requires several months to over a year of complete rest and multidisciplinary clinical intervention.</li>\n</ul>\n\n<div class=\"callout-box\">\n  <div class=\"callout-title\">Coaching / Sport Application</div>\n  <p>The primary trigger driving an athlete from functional overreaching (FOR) into nonfunctional overreaching (NFOR) and ultimately overtraining syndrome (OTS) is continuous intensified training volume or intensity combined with insufficient rest. Epidemiological data indicate that approximately $10\\%$ ($7\\%$ to $21\\%$) of collegiate swimmers and competitive aerobic endurance athletes experience NFOR or OTS during a competitive season.</p>\n</div>\n\n<h2>Cardiovascular Indicators of Overtraining</h2>\n<p>Extensive training loads associated with overtraining alter autonomic cardiac regulation and hemodynamic parameters:</p>\n<ul>\n  <li><strong>Resting Heart Rate:</strong> Resting heart rate may paradoxically decrease (reflecting parasympathetic dominance) or increase (reflecting sympathetic excitation) in overtrained states.</li>\n  <li><strong>Heart Rate Variability (HRV):</strong> A decrease in overall heart rate variability accompanies the onset of OTS, signaling impaired autonomic cardiac modulation due to reduced vagal (parasympathetic) tone or excessive sympathetic stimulation.</li>\n  <li><strong>Exercise Heart Rates:</strong> Maximal exercise heart rate ($HR_{\\text{max}}$) decreases in overtrained athletes. Likewise, heart rates at absolute submaximal workloads decrease due to altered autonomic signaling and reduced beta-adrenergic receptor sensitivity.</li>\n  <li><strong>Resting Blood Pressure:</strong> High training volumes alone do not alter resting systolic or diastolic blood pressure. However, sudden surges in training intensity can elevate resting diastolic blood pressure without affecting resting systolic pressure.</li>\n</ul>\n\n<table class=\"data-table\">\n  <thead>\n    <tr>\n      <th>Overtraining Stage</th>\n      <th>Performance Shift</th>\n      <th>Recovery Timeline</th>\n      <th>Physiological Outcome</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Functional Overreaching (FOR)</strong></td>\n      <td>Temporary decrease</td>\n      <td>Days to weeks</td>\n      <td>Supercompensation</td>\n    </tr>\n    <tr>\n      <td><strong>Nonfunctional Overreaching (NFOR)</strong></td>\n      <td>Stagnation or decrease</td>\n      <td>Weeks to months</td>\n      <td>Return to baseline</td>\n    </tr>\n    <tr>\n      <td><strong>Overtraining Syndrome (OTS)</strong></td>\n      <td>Severe decrement</td>\n      <td>Months to >1 year</td>\n      <td>Long-term systemic exhaustion</td>\n    </tr>\n  </tbody>\n</table>"
+    },
+    {
+      "id": "p2",
+      "title": "Part 2: Biochemical, Endocrine, and Autonomic Markers of Overtraining",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Biochemical and Metabolic Profile</h2>\n<p>Volume- and intensity-driven overtraining disturb skeletal muscle integrity, substrate storage, and enzymatic kinetics:</p>\n<ul>\n  <li><strong>Creatine Kinase (CK):</strong> High training volumes cause sarcolemmal microtrauma, elevating systemic serum creatine kinase concentrations as a direct marker of muscle cell damage.</li>\n  <li><strong>Blood Lactate Kinetics:</strong> Submaximal and maximal blood lactate concentrations remain unchanged or decrease during volume overtraining. This blunted lactate response is driven by glycogen depletion and reduced sympathetic stimulation.</li>\n  <li><strong>Muscle Glycogen:</strong> Prolonged overtraining depletes intramuscular glycogen stores, particularly when paired with inadequate dietary carbohydrate intake.</li>\n  <li><strong>Blood Lipids:</strong> Serum lipids and lipoprotein profiles remain unaffected by volume-based overtraining.</li>\n</ul>\n\n<h2>Endocrine Disruptions and Autonomic Subtypes</h2>\n<p>Endocrine markers reflect the balance between anabolic tissue building and catabolic breakdown under chronic training stress:</p>\n<ul>\n  <li><strong>Testosterone Dynamics:</strong> Total serum testosterone decreases in men following an initial stress response. Free testosterone also declines. Because luteinizing hormone (LH) and sex hormone\u2013binding globulin (SHBG) levels remain unaffected, reductions in the total testosterone-to-SHBG ratio stem directly from reduced testicular androgen production rather than pituitary or binding protein alterations.</li>\n  <li><strong>Testosterone-to-Cortisol Ratio:</strong> The ratio of total or free testosterone to cortisol quantifies an athlete's anabolic-catabolic state. Volume overtraining can reduce the free testosterone-to-cortisol ratio by $5\\%$ to $50\\%$. A threshold drop of $\\ge 30\\%$ in this ratio serves as a key physiological marker of potential OTS.</li>\n  <li><strong>Hypothalamic-Pituitary Impairment:</strong> Overtraining blunts pituitary growth hormone (GH) secretion. This endocrine dysfunction originates primarily from central hypothalamic impairment rather than intrinsic pituitary damage.</li>\n  <li><strong>Catecholamines & Autonomic OTS Subtypes:</strong> Basal catecholamines (epinephrine, norepinephrine, dopamine) correlate strongly with somatic complaints in overtrained endurance runners. Severely high volume overtraining depresses nocturnal epinephrine concentrations (reflecting lowered basal tone). At absolute submaximal exercise loads, epinephrine and norepinephrine surge significantly higher than baseline. Severe volume overtraining in aerobic endurance athletes produces <strong>parasympathetic OTS</strong>, characterized by nocturnal catecholamine depletion, fatigue, and blunted target-tissue adrenergic sensitivity.</li>\n</ul>\n\n<div class=\"callout-box\">\n  <div class=\"callout-title\">Coaching / Sport Application</div>\n  <p>To prevent OTS, coaches and practitioners should monitor training volume and intensity variations, ensure adequate carbohydrate repletion and sleep, track heart rate and mood state trends, and provide athletes with access to a multidisciplinary health team (coach, physician, sports dietitian, and psychologist).</p>\n</div>\n\n<table class=\"data-table\">\n  <thead>\n    <tr>\n      <th>Biochemical / Endocrine Marker</th>\n      <th>Response to Volume Overtraining</th>\n      <th>Physiological Mechanism</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Serum Creatine Kinase (CK)</strong></td>\n      <td>Elevated</td>\n      <td>Sarcolemmal microtrauma and muscle membrane disruption</td>\n    </tr>\n    <tr>\n      <td><strong>Blood Lactate Concentration</strong></td>\n      <td>Decreased or unchanged</td>\n      <td>Intramuscular glycogen depletion and sympathetic blunting</td>\n    </tr>\n    <tr>\n      <td><strong>Free Testosterone / Cortisol Ratio</strong></td>\n      <td>Decreased ($\\ge 30\\%$)</td>\n      <td>Catabolic state dominance and suppressed androgen synthesis</td>\n    </tr>\n    <tr>\n      <td><strong>Nocturnal Epinephrine Excretion</strong></td>\n      <td>Decreased</td>\n      <td>Hypothalamic exhaustion and parasympathetic OTS onset</td>\n    </tr>\n  </tbody>\n</table>"
+    },
+    {
+      "id": "p3",
+      "title": "Part 3: Detraining Mechanics and Physiological Reversibility",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>The Principle of Training Reversibility</h2>\n<p>Physiological adaptations induced by exercise training require a continuous training stimulus. <strong>Detraining</strong> is defined as the partial or complete loss of training-induced anatomical, physiological, and performance adaptations in response to an insufficient training stimulus. Detraining is governed by the <strong>principle of training reversibility</strong>, which dictates that cessation or marked reduction of exercise reverses conditioning gains. In contrast, <strong>tapering</strong> represents a deliberate, systematic reduction in training volume (duration and frequency, while maintaining intensity) designed to reduce physiological strain, promote supercompensation, and optimize performance before competition.</p>\n\n<h2>Cardiovascular and Metabolic Decay Kinetics</h2>\n<p>Aerobic endurance adaptations are exceptionally sensitive to inactivity due to their high reliance on oxidative enzyme systems and plasma volume regulation:</p>\n<ul>\n  <li><strong>Short-Term Detraining ($\\le 4\\text{ weeks}$):</strong> Highly trained endurance athletes experience a $4\\%$ to $14\\%$ reduction in maximal oxygen uptake ($\\dot{V}\\text{O}_2\\text{max}$). This decline is primarily triggered by rapid drops in blood plasma volume ($5\\%$ to $12\\%$), reduced maximal stroke volume ($SV_{\\text{max}}$), reduced maximal cardiac output ($Q_{\\text{max}}$), and elevated submaximal heart rates.</li>\n  <li><strong>Long-Term Detraining ($>4\\text{ weeks}$):</strong> Extended training cessation leads to a $6\\%$ to $20\\%$ loss of $\\dot{V}\\text{O}_2\\text{max}$. Beyond cardiovascular decay, muscle capillarization regresses, oxidative enzyme activities (citrate synthase, succinate dehydrogenase) decline rapidly, glycogen storage capacity drops, and submaximal blood lactate shifts upward at lower absolute exercise intensities.</li>\n</ul>\n\n<div class=\"callout-box\">\n  <div class=\"callout-title\">Coaching / Sport Application</div>\n  <p>To mitigate detraining during off-seasons or active recovery phases, strength and conditioning professionals should implement low-volume, high-intensity maintenance programs. Maintaining high training intensity while reducing frequency and volume by up to $50\\%$ to $70\\%$ preserves $\\dot{V}\\text{O}_2\\text{max}$, stroke volume, and muscular metabolic capacity over prolonged break periods.</p>\n</div>\n\n<table class=\"data-table\">\n  <thead>\n    <tr>\n      <th>Detraining Timeline</th>\n      <th>$\\dot{V}\\text{O}_2\\text{max}$ Loss</th>\n      <th>Primary Cardiovascular Mechanism</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Short-Term ($\\le 4\\text{ weeks}$)</strong></td>\n      <td>$4\\%$ to $14\\%$</td>\n      <td>Plasma volume contraction & stroke volume drop</td>\n    </tr>\n    <tr>\n      <td><strong>Long-Term ($>4\\text{ weeks}$)</strong></td>\n      <td>$6\\%$ to $20\\%$</td>\n      <td>Reduced $Q_{\\text{max}}$, oxidative enzyme decay, and muscle capillary loss</td>\n    </tr>\n  </tbody>\n</table>"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Overtraining",
+      "def": "The process of intensified training without adequate recovery that can lead to short-term overreaching (functional or nonfunctional) or long-term overtraining syndrome."
+    },
+    {
+      "term": "Overtraining Syndrome (OTS)",
+      "def": "A severe, long-term state of neuroendocrine and metabolic exhaustion caused by continuous intensified training and insufficient rest, requiring months of recovery to restore baseline athletic performance."
+    },
+    {
+      "term": "Overreaching",
+      "def": "A short-term accumulation of training load that causes a transient performance decrement, which can be functional (leading to supercompensation) or nonfunctional."
+    },
+    {
+      "term": "Functional Overreaching (FOR)",
+      "def": "A planned short-term intensification of training that temporarily reduces performance, followed by a period of recovery and supercompensation in performance."
+    },
+    {
+      "term": "Nonfunctional Overreaching (NFOR)",
+      "def": "An extreme state of overreaching characterized by prolonged performance stagnation or decrement requiring weeks to months of recovery to return to baseline levels."
+    },
+    {
+      "term": "Testosterone-to-Cortisol Ratio",
+      "def": "A physiological index quantifying the anabolic-catabolic balance of an athlete; a decrease of 30% or more in free testosterone to cortisol serves as a marker of overtraining stress."
+    },
+    {
+      "term": "Parasympathetic Overtraining Syndrome",
+      "def": "A form of OTS typical in aerobic endurance athletes characterized by nocturnal catecholamine depletion, fatigue, reduced autonomic responsiveness, and blunted adrenergic receptor sensitivity."
+    },
+    {
+      "term": "Detraining",
+      "def": "The partial or complete loss of training-induced physiological and anatomical adaptations in response to an insufficient training stimulus or complete exercise cessation."
+    },
+    {
+      "term": "Principle of Training Reversibility",
+      "def": "The exercise science principle stating that physical training adaptations regress or reverse when training is stopped or markedly reduced below maintenance levels."
+    },
+    {
+      "term": "Tapering",
+      "def": "A planned, systematic reduction in training volume (duration and frequency, maintaining intensity) before competition to reduce fatigue and optimize performance."
+    }
+  ]
+}

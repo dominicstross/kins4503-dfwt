@@ -1,0 +1,76 @@
+{
+  "chapterId": "17.2",
+  "title": "17.2 Step 2: Exercise Selection",
+  "cards": [
+    {
+      "id": "17.2-01",
+      "tag": "Core vs. Assistance Exercise Classification",
+      "reference": "Section 17.2",
+      "front": "How do <strong>core exercises</strong> and <strong>assistance exercises</strong> differ in terms of muscle mass involvement and joint articulations?",
+      "back": "<ul><li><strong>Core Exercises:</strong> Recruit one or more large muscle areas (chest, shoulder, back, hip, thigh), involve two or more primary joints (multijoint), and receive priority due to direct sport transfer.</li><li><strong>Assistance Exercises:</strong> Recruit smaller muscle areas (upper arm, abdomen, calf, neck, forearm, lower back), involve only one primary joint (single-joint), and serve secondary performance roles.</li></ul>"
+    },
+    {
+      "id": "17.2-02",
+      "tag": "Anatomical Conventions for Primary Joints",
+      "reference": "Section 17.2",
+      "front": "What anatomical conventions govern how the <strong>shoulder complex</strong> and <strong>spine</strong> are counted as primary joints during exercise classification?",
+      "back": "All articulations at the shoulder (glenohumeral and shoulder girdle) are classified as a <strong>single primary joint</strong> (e.g., lateral shoulder raise = single-joint assistance exercise). Similarly, the entire spinal column is treated as a <strong>single primary joint</strong> (e.g., abdominal crunch or back extension)."
+    },
+    {
+      "id": "17.2-03",
+      "tag": "Assistance Exercises in Prehab and Rehab",
+      "reference": "Section 17.2",
+      "front": "What role do assistance exercises play in <strong>injury prevention (prehabilitation)</strong> and <strong>rehabilitation</strong>?",
+      "back": "Assistance exercises isolate specific muscle groups prone to repetitive stress injury from sport skills (e.g., conditioning shoulder external rotators for overhand pitching) or recondition injured tissue during post-injury rehabilitation (e.g., targeting a quadriceps contusion)."
+    },
+    {
+      "id": "17.2-04",
+      "tag": "Structural and Power Exercises",
+      "reference": "Section 17.2",
+      "front": "What distinguishes a <strong>structural exercise</strong> from a general core exercise, and what defines a <strong>power exercise</strong>?",
+      "back": "A <strong>structural exercise</strong> directly (e.g., back squat) or indirectly (e.g., power clean) loads the spine, requiring active muscular posture stabilization (rigid torso, neutral spine). A <strong>power exercise</strong> is a structural lift performed explosively to maximize the rate of force development (RFD) and power output."
+    },
+    {
+      "id": "17.2-05",
+      "tag": "Sport Specificity & SAID Principle",
+      "reference": "Section 17.2",
+      "front": "How does the <strong>SAID principle</strong> dictate exercise selection for specific athletic movement patterns?",
+      "back": "The <strong>Specific Adaptation to Imposed Demands (SAID)</strong> principle dictates that exercises must closely match the sport skill in limb movement patterns, joint ranges of motion, and muscle recruitment to achieve maximal positive transfer to athletic performance."
+    },
+    {
+      "id": "17.2-06",
+      "tag": "Back Squat vs. Leg Press for Vertical Jumping",
+      "reference": "Section 17.2",
+      "front": "Why is the <strong>back squat preferred over the machine leg press</strong> for improving vertical jump performance in basketball players?",
+      "back": "Although both exercises strengthen hip and knee extensors, the <strong>back squat</strong> is performed from an erect, standing, weight-bearing position requiring active balance and core stabilization, making it far more relevant to the biomechanical demands of vertical jumping than the seated leg press."
+    },
+    {
+      "id": "17.2-07",
+      "tag": "Muscle Balance & Agonist-Antagonist Ratios",
+      "reference": "Section 17.2",
+      "front": "What is the difference between an <strong>agonist</strong> and an <strong>antagonist</strong> muscle, and what does <strong>muscle balance</strong> mean in resistance training?",
+      "back": "An <strong>agonist</strong> is the muscle actively producing movement (e.g., quadriceps in knee extension), while the <strong>antagonist</strong> is the opposing muscle (e.g., hamstrings). <strong>Muscle balance</strong> does not require equal 1:1 strength, but rather a proper physiological strength ratio across a joint to prevent injury."
+    },
+    {
+      "id": "17.2-08",
+      "tag": "Exercises to Promote Recovery",
+      "reference": "Section 17.2",
+      "front": "What are <strong>recovery exercises</strong>, when are they prescribed, and what physiological benefits do they provide?",
+      "back": "Recovery exercises consist of lightly loaded resistance or low-intensity aerobic movements performed at the end of a workout or in a separate microcycle session. They involve low muscular and neurological stress, promoting blood flow, waste product (H<sup>+</sup>) clearance, and tissue repair."
+    },
+    {
+      "id": "17.2-09",
+      "tag": "Exercise Technique Experience & Novices",
+      "reference": "Section 17.2",
+      "front": "Why are <strong>novice or unskilled athletes</strong> often introduced to machine and free weight assistance exercises before complex core lifts?",
+      "back": "Machine and free weight assistance exercises have <strong>lower balance and coordination requirements</strong>, making them easier to perform safely while developing foundational movement competency before advancing to complex structural and power exercises."
+    },
+    {
+      "id": "17.2-10",
+      "tag": "Equipment and Session Time Constraints",
+      "reference": "Section 17.2",
+      "front": "How do <strong>equipment availability</strong> and <strong>session time limits</strong> impact exercise selection trade-offs?",
+      "back": "Lack of revolving-sleeve barbells precludes Olympic lifts like power cleans, and plate shortages may replace back squats with front squats. When session time is restricted, rapid-setup exercises (e.g., machine leg press) may replace time-intensive lifts (e.g., weighted lunges) to allow sufficient volume across the workout."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+    "chapterId": "5.5",
+    "title": "5.5 Cardiovascular and Respiratory Responses to Anaerobic Exercise",
+    "cards": [
+        {
+            "id": "5.5-01",
+            "tag": "Acute Hemodynamic Surges",
+            "reference": "Section 5.5",
+            "front": "What peak <strong>blood pressure</strong> and <strong>heart rate</strong> values can occur during high-intensity anaerobic exercise such as a heavy leg press?",
+            "back": "Peak blood pressure can reach extreme surges of up to <strong>320/250 mmHg</strong> (particularly during the concentric sticking point), accompanied by heart rates approaching <strong>170 beats/min</strong>."
+        },
+        {
+            "id": "5.5-02",
+            "tag": "Valsalva Maneuver & Hemodynamic Delay",
+            "reference": "Section 5.5",
+            "front": "How does the <strong>Valsalva maneuver</strong> alter intrathoracic pressure and stroke volume kinetics during heavy lifting?",
+            "back": "Expiring against a closed glottis increases intrathoracic pressure, compressing the vena cava and temporarily reducing venous return and end-diastolic volume. As a result, <strong>stroke volume and cardiac output peak during the eccentric phase or immediate rest period</strong>, and heart rate peaks within <strong>5 seconds post-set</strong>."
+        },
+        {
+            "id": "5.5-03",
+            "tag": "Plasma Volume & Capillary Occlusion",
+            "reference": "Section 5.5",
+            "front": "What acute changes occur to <strong>plasma volume</strong> and muscular blood flow during and immediately after high-intensity resistance contractions?",
+            "back": "Muscular contractions exceeding <strong>20% of maximal voluntary contraction (MVC)</strong> compress capillaries, creating transient vascular occlusion and acute <strong>plasma volume reductions of up to 22%</strong>. Muscular relaxation post-set triggers a surge in blood flow known as <strong>reactive hyperemia</strong>."
+        },
+        {
+            "id": "5.5-04",
+            "tag": "Resting Heart Rate & Blood Pressure",
+            "reference": "Section 5.5",
+            "front": "What chronic reductions occur to <strong>resting heart rate</strong> and <strong>resting blood pressure</strong> following long-term anaerobic training?",
+            "back": "Long-term anaerobic training reduces resting heart rate by <strong>4% to 13%</strong> (yielding resting values of 60 to 78 beats/min) and reduces resting systolic and diastolic blood pressure by <strong>2% to 4%</strong>, primarily by decreasing peripheral vascular resistance."
+        },
+        {
+            "id": "5.5-05",
+            "tag": "Rate-Pressure Product (RPP)",
+            "reference": "Section 5.5",
+            "front": "What is the <strong>Rate-Pressure Product (RPP)</strong>, and how does chronic resistance training affect this clinical metric at rest?",
+            "back": "Rate-Pressure Product is calculated as <strong>RPP = HR x SBP</strong> and measures myocardial oxygen consumption. Chronic resistance training maintains or significantly decreases resting RPP, reflecting enhanced myocardial efficiency and lower resting cardiac workload."
+        },
+        {
+            "id": "5.5-06",
+            "tag": "Left Ventricular Wall Remodeling",
+            "reference": "Section 5.5",
+            "front": "What structural changes occur to the <strong>left ventricular walls</strong> in chronically resistance-trained athletes?",
+            "back": "Heavy resistance training induces concentric cardiac remodeling, characterized by an increased absolute <strong>posterior left ventricular wall thickness</strong> and <strong>interventricular septum wall thickness</strong>. When expressed relative to lean body mass, wall thickness remains within normal physiological limits."
+        },
+        {
+            "id": "5.5-07",
+            "tag": "LV Chamber Volume Adaptations",
+            "reference": "Section 5.5",
+            "front": "How do chronic adaptations in <strong>left ventricular chamber volume</strong> differ between heavy powerlifters and bodybuilders?",
+            "back": "Heavy low-volume powerlifting produces <strong>little to no change in left ventricular chamber volume</strong>. In contrast, bodybuilders exhibit expanded left ventricular and atrial chamber volumes due to high-volume, short-rest training protocols and aerobic conditioning."
+        },
+        {
+            "id": "5.5-08",
+            "tag": "Submaximal Cardiovascular Blunting",
+            "reference": "Section 5.5",
+            "front": "How does chronic resistance training modify the acute <strong>hemodynamic response</strong> to a given absolute submaximal workload?",
+            "back": "Chronic training blunts acute surges in <strong>heart rate, blood pressure, and rate-pressure product</strong> during submaximal lifting, reducing sympathetic drive and protecting the myocardium during exercise."
+        },
+        {
+            "id": "5.5-09",
+            "tag": "Left Ventricular Afterload Reduction",
+            "reference": "Section 5.5",
+            "front": "What is <strong>afterload</strong>, and how does its chronic reduction improve cardiac output during resistance exercise?",
+            "back": "<strong>Afterload</strong> is the peripheral arterial resistance against which the left ventricle must pump blood. Chronic training reduces arterial resistance and afterload, allowing the heart to achieve a significantly <strong>higher peak stroke volume and peak cardiac output (Q)</strong> during exertion."
+        },
+        {
+            "id": "5.5-10",
+            "tag": "Ventilatory Recovery Overshoot",
+            "reference": "Section 5.5",
+            "front": "When does peak <strong>pulmonary ventilation (VE)</strong> occur relative to a set of heavy resistance exercise, and what factors maximize it?",
+            "back": "Pulmonary ventilation reaches its peak (exceeding <strong>60 L/min</strong>) during the <strong>first minute of recovery</strong> following set completion (recovery overshoot). Short rest intervals (30 to 60 seconds) produce the highest peak ventilatory rates due to metabolic H<sup>+</sup> and CO<sub>2</sub> accumulation."
+        },
+        {
+            "id": "5.5-11",
+            "tag": "Breathing Mechanics Adaptation",
+            "reference": "Section 5.5",
+            "front": "How does chronic anaerobic training adapt <strong>breathing frequency (f)</strong> and <strong>tidal volume (VT)</strong> during submaximal versus maximal exercise?",
+            "back": "<ul><li><strong>Submaximal Exercise:</strong> Decreases breathing frequency while increasing tidal volume (deeper, slower respiration), optimizing alveolar ventilation.</li><li><strong>Maximal Exercise:</strong> Increases both tidal volume and breathing frequency to maximize peak gas exchange.</li></ul>"
+        },
+        {
+            "id": "5.5-12",
+            "tag": "Ventilatory Efficiency (VE/VO2)",
+            "reference": "Section 5.5",
+            "front": "What change occurs to the <strong>ventilatory equivalent for oxygen (VE/VO2)</strong> following chronic anaerobic training, and what does this signify?",
+            "back": "Chronic training <strong>lowers the VE/VO2 ratio</strong> during exercise, signifying improved ventilatory efficiency where less minute ventilation is required per unit of oxygen consumed by active skeletal muscle."
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "meta": {
+        "course": "DFWT - KINS 4503 Design of Fitness & WT",
+        "chapter": "3",
+        "section": "3.1",
+        "ch": "3",
+        "mod": "3.1",
+        "moduleTitle": "3.1 Essential Terminology"
+    },
+    "pages": [
+        {
+            "id": "p1",
+            "title": "Part 1: Bioenergetics and Metabolic Foundations",
+            "sampleCounts": {
+                "mcq": 2,
+                "ms": 2,
+                "tf": 2,
+                "cloze": 2,
+                "sa": 1
+            },
+            "readingHtml": "<h2>Bioenergetics and Metabolic Foundations</h2><p>The metabolic specificity of exercise and training rests upon a foundational understanding of energy transfer in biological systems. Designing efficient, productive strength and conditioning programs requires clear insight into how chemical energy is converted into mechanical work and how targeted training regimens modify these energy transfer pathways. Bioenergetics, defined as the flow of energy in a biological system, primarily concerns the conversion of macronutrients—carbohydrates, proteins, and fats—into biologically usable energy forms. These macronutrients contain chemical energy trapped within their molecular bonds; the systematic breakdown of these chemical bonds liberates the energy required to drive biological work.</p><h3>Metabolism, Catabolism, and Anabolism</h3><p>Metabolism represents the sum total of all chemical reactions occurring within a biological system, encompassing both energy-releasing (catabolic/exergonic) and energy-requiring (anabolic/endergonic) processes.</p><ul><li><strong>Catabolism:</strong> The breakdown of large, complex molecules into smaller, simpler molecules, inherently associated with the release of energy. A prime physiological example of catabolism is the breakdown of dietary or structural protein into constituent amino acids.</li><li><strong>Anabolism:</strong> The building-up process involving the synthesis of larger, complex molecules from smaller precursor molecules, powered by energy liberated from catabolic reactions. An example is the synthesis of structural muscle protein from circulating amino acids.</li><li><strong>Exergonic Reactions:</strong> Chemical reactions that release energy to their surroundings, typically catabolic in nature.</li><li><strong>Endergonic Reactions:</strong> Chemical reactions that absorb or require energy, encompassing anabolic processes as well as the mechanical contraction of skeletal muscle.</li></ul><div class=\"callout-box\"><div class=\"callout-title\">Coaching /Sport Application</div><p>Strength and conditioning professionals must design resistance and conditioning protocols with a clear understanding of metabolic demand. Because muscle contraction is an endergonic process reliant on continuous catabolic energy release, training load, rest intervals, and volume must be structured to match the bioenergetic capabilities of the athlete.</p></div><table class=\"data-table\"><thead><tr><th>Metabolic Process</th><th>Energy Dynamics</th><th>Reaction Type</th><th>Physiological Example</th></tr></thead><tbody><tr><td><strong>Catabolism</strong></td><td>Energy Releasing</td><td>Exergonic</td><td>Breakdown of protein into amino acids</td></tr><tr><td><strong>Anabolism</strong></td><td>Energy Requiring</td><td>Endergonic</td><td>Synthesis of muscle tissue from amino acids</td></tr><tr><td><strong>Muscular Contraction</strong></td><td>Energy Requiring</td><td>Endergonic</td><td>Crossbridge cycling during resistance training</td></tr></tbody></table>"
+        },
+        {
+            "id": "p2",
+            "title": "Part 2: Adenosine Triphosphate (ATP) Structure and Hydrolysis",
+            "sampleCounts": {
+                "mcq": 2,
+                "ms": 2,
+                "tf": 2,
+                "cloze": 2,
+                "sa": 1
+            },
+            "readingHtml": "<h2>Adenosine Triphosphate (ATP) Structure and Hydrolysis</h2><p>Energy derived from exergonic (catabolic) reactions is transferred to endergonic (anabolic and contractile) reactions through an essential intermediate storage molecule: <strong>adenosine triphosphate (ATP)</strong>. Without an adequate, continuous supply of ATP, muscular activity and muscle growth would be physically impossible. ATP is classified as a high-energy molecule because its two terminal phosphate bonds store substantial amounts of chemical energy.</p><h3>Molecular Structure of ATP</h3><p>The ATP molecule consists of adenosine bound to three inorganic phosphate groups (\\(\text{P}_i\\)). Adenosine itself represents a structural combination of:</p><ul><li><strong>Adenine:</strong> A nitrogen-containing base.</li><li><strong>Ribose:</strong> A five-carbon sugar.</li></ul><h3>The Mechanics of ATP Hydrolysis</h3><p>The chemical breakdown of one molecule of ATP to yield energy is termed <strong>hydrolysis</strong> because the reaction requires one molecule of water (\\(\text{H}_2\text{O}\\)). Hydrolysis is catalyzed by specific enzymes known as adenosine triphosphatases (ATPases). The standard chemical reaction equation for ATP hydrolysis is expressed as:</p>\\[\\text{ATP} + \\text{H}_2\\text{O} \\xrightarrow{\\text{ATPase}} \\text{ADP} + \\text{P}_i + \\text{H}^+\\]<p>In this equation, \\(\\text{ADP}\\) represents adenosine diphosphate (containing two phosphate groups), \\(\\text{P}_i\\) is an inorganic phosphate molecule, and \\(\\text{H}^+\\) is a hydrogen ion (proton). Further enzymatic cleavage of ADP removes the second phosphate group, yielding adenosine monophosphate (\\(\\text{AMP}\\)).</p><h3>Site-Specific ATPase Enzymes</h3><p>Distinct ATPase enzymes catalyze ATP hydrolysis at specific anatomical and physiological sites within skeletal muscle:</p><ul><li><strong>Myosin ATPase:</strong> Catalyzes ATP hydrolysis to provide energy for crossbridge recycling during muscle contraction.</li><li><strong>Calcium ATPase (\\(\text{Ca}^{2+}\\text{-ATPase}\\)):</strong> Hydrolyzes ATP to actively pump calcium ions back into the sarcoplasmic reticulum during muscle relaxation.</li><li><strong>Sodium-Potassium ATPase (\\(\text{Na}^+/\\text{K}^+\\text{-ATPase}\\)):</strong> Hydrolyzes ATP to maintain the sarcolemmal concentration gradient following cell membrane depolarization.</li></ul><div class=\"callout-box\"><div class=\"callout-title\">Coaching /Sport Application</div><p>Because muscle cells store ATP in extremely limited quantities (\\(4-6 \\text{ mmol/kg}\\) of wet muscle), high-intensity exercise rapidly exhausts immediate cellular ATP stores within seconds. Continuous athletic performance mandates that muscle cells continuously resynthesize ATP through intracellular metabolic pathways.</p></div>"
+        }
+    ],
+    "glossary": [
+        {
+            "term": "Bioenergetics",
+            "def": "The flow of energy in a biological system, concerning primarily the conversion of macronutrients into biologically usable forms of energy."
+        },
+        {
+            "term": "Catabolism",
+            "def": "The breakdown of large molecules into smaller molecules, associated with the release of energy."
+        },
+        {
+            "term": "Anabolism",
+            "def": "The synthesis of larger molecules from smaller molecules using the energy released from catabolic reactions."
+        },
+        {
+            "term": "Exergonic reactions",
+            "def": "Energy-releasing reactions that are generally catabolic."
+        },
+        {
+            "term": "Endergonic reactions",
+            "def": "Reactions that require energy, including anabolic processes and the contraction of muscle."
+        },
+        {
+            "term": "Metabolism",
+            "def": "The total of all the catabolic or exergonic and anabolic or endergonic reactions in a biological system."
+        },
+        {
+            "term": "Adenosine Triphosphate (ATP)",
+            "def": "An intermediate molecule composed of adenosine and three phosphate groups that allows the transfer of energy from exergonic to endergonic reactions."
+        },
+        {
+            "term": "Hydrolysis",
+            "def": "The breakdown of one molecule of ATP to yield energy, requiring one molecule of water."
+        },
+        {
+            "term": "Adenosine Triphosphatase (ATPase)",
+            "def": "An enzyme that catalyzes the breakdown of ATP into ADP, inorganic phosphate, and a hydrogen ion."
+        },
+        {
+            "term": "Myosin ATPase",
+            "def": "The specific enzyme that catalyzes ATP hydrolysis for crossbridge recycling during muscular contraction."
+        },
+        {
+            "term": "Calcium ATPase",
+            "def": "The enzyme that catalyzes ATP hydrolysis for pumping calcium back into the sarcoplasmic reticulum."
+        },
+        {
+            "term": "Sodium-Potassium ATPase",
+            "def": "The enzyme that catalyzes ATP hydrolysis for maintaining the sarcolemmal concentration gradient after depolarization."
+        }
+    ]
+}

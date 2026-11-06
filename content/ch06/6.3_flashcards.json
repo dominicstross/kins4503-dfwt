@@ -1,0 +1,62 @@
+{
+    "chapterId": "6.3",
+    "title": "6.3 Adaptations to Aerobic Endurance Training",
+    "cards": [
+        {
+            "id": "6.3-01",
+            "tag": "Aerobic Metabolism & Multi-Sprint Demands",
+            "reference": "Section 6.3",
+            "front": "What central metabolic pathways produce ATP during aerobic endurance training, and why is aerobic conditioning vital in <strong>intermittent multi-sprint sports</strong>?",
+            "back": "Aerobic metabolism relies on the <strong>Krebs cycle</strong> and <strong>electron transport chain</strong> to generate ATP from fats, carbohydrates, and proteins. In intermittent sports (e.g., soccer, basketball, hockey, lacrosse), an aerobic base is vital to sustain continuous movement and accelerate recovery between sprint and power bursts."
+        },
+        {
+            "id": "6.3-02",
+            "tag": "Maximal Oxygen Uptake & Cardiac Output",
+            "reference": "Section 6.3",
+            "front": "What is the primary cardiovascular driver of increased <strong>maximal oxygen uptake (VO<sub>2</sub>max)</strong>, and what percentage improvements are typical following aerobic training?",
+            "back": "An increase in VO<sub>2</sub>max is primarily driven by an increase in <strong>maximal cardiac output (Q<sub>max</sub>)</strong>. Aerobic endurance training typically improves VO<sub>2</sub>max by <strong>5% to 30%</strong>, depending on starting fitness level and genetic potential."
+        },
+        {
+            "id": "6.3-03",
+            "tag": "Adaptation Timeline & Submaximal Drivers",
+            "reference": "Section 6.3",
+            "front": "What is the typical time frame for achieving peak <strong>VO<sub>2</sub>max adaptations</strong>, and how do elite endurance athletes continue to improve performance after VO<sub>2</sub>max plateaus?",
+            "back": "Most adaptations in VO<sub>2</sub>max occur within a <strong>6- to 12-month training period</strong>. Once VO<sub>2</sub>max plateaus, further performance improvements in experienced athletes are driven by enhanced <strong>running economy</strong> and an elevated <strong>lactate threshold</strong>."
+        },
+        {
+            "id": "6.3-04",
+            "tag": "Metabolic & Cellular Adaptations",
+            "reference": "Section 6.3",
+            "front": "What key <strong>metabolic and cellular adaptations</strong> occur within skeletal muscle following chronic aerobic endurance training?",
+            "back": "Muscular adaptations include: <ul><li>Increased <strong>mitochondrial and capillary densities</strong></li><li>Elevated <strong>oxidative enzyme activity</strong></li><li>Increased <strong>respiratory capacity</strong></li><li>Lower <strong>blood lactate concentrations</strong> at submaximal workloads</li></ul>"
+        },
+        {
+            "id": "6.3-05",
+            "tag": "Interval Training & Rest Period Mechanics",
+            "reference": "Section 6.3",
+            "front": "How does the duration of the <strong>interim rest period</strong> during high-intensity interval sprints dictate aerobic vs. anaerobic performance gains?",
+            "back": "Short rest periods between high-intensity sprints enhance <strong>VO<sub>2</sub>max, aerobic capacity, and skeletal muscle metabolic processes</strong>. Conversely, long rest periods improve top sprint speed without producing significant gains in maximal aerobic power."
+        },
+        {
+            "id": "6.3-06",
+            "tag": "Body Composition & Anabolic-Catabolic Balance",
+            "reference": "Section 6.3",
+            "front": "How does chronic aerobic endurance training affect <strong>body composition</strong>, and what is the risk of excessive training volume?",
+            "back": "Aerobic endurance training decreases the <strong>relative percentage of body fat</strong> while having little to no significant effect on <strong>fat-free mass</strong>. However, excessive volume can trigger a predominance of catabolic activity, disturbing the anabolic-catabolic balance."
+        },
+        {
+            "id": "6.3-07",
+            "tag": "Submaximal Blood Lactate Kinetics",
+            "reference": "Section 6.3",
+            "front": "Why do trained athletes demonstrate <strong>lower blood lactate concentrations</strong> during submaximal exercise compared to untrained individuals?",
+            "back": "Trained athletes exhibit greater mitochondrial density, enhanced capillary density, and increased oxidative enzyme capacity, allowing greater lipid oxidation, improved lactate clearance, and a higher <strong>lactate threshold</strong>."
+        },
+        {
+            "id": "6.3-08",
+            "tag": "Short-Term Adaptation Norms (Table 6.2)",
+            "reference": "Section 6.3",
+            "front": "What physiological adaptations occur during <strong>short-term (3- to 6-month) aerobic endurance training</strong>, and how do response magnitudes differ between untrained individuals and elite athletes?",
+            "back": "Short-term training produces rapid increases in VO<sub>2</sub>max, cardiac output, mitochondrial density, capillary density, and submaximal lactate threshold in previously untrained individuals, whereas elite endurance athletes exhibit smaller percentage changes due to near-ceiling baseline adaptations."
+        }
+    ]
+}

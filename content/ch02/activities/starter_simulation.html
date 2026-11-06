@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sub-Discipline Continuum Explorer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    :root { --primary: #0284c7; --bg: #f8fafc; --card: #ffffff; --text: #0f172a; --border: #e2e8f0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 24px; }
+    .card { max-width: 800px; margin: 0 auto; background: var(--card); border-radius: 12px; padding: 24px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid var(--border); }
+    h2 { margin-top: 0; color: #0369a1; }
+    .scenario { background: #f0f9ff; border-left: 4px solid var(--primary); padding: 16px; margin: 16px 0; border-radius: 4px; font-size: 1.05rem; }
+    .btn-group { display: flex; flex-wrap: wrap; gap: 10px; margin: 16px 0; }
+    button { background: #f1f5f9; border: 1px solid #cbd5e1; padding: 10px 16px; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 0.95rem; transition: all 0.2s; }
+    button:hover { background: #e2e8f0; }
+    .feedback { padding: 16px; border-radius: 8px; margin-top: 16px; display: none; }
+    .feedback.correct { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+    .feedback.wrong { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+    .score-banner { font-size: 0.9rem; font-weight: 700; color: #64748b; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h2>Sub-Discipline Continuum Explorer</h2>
+    <p>Analyze the athlete or clinical scenario below. Select which primary kinesiology sub-discipline possesses the theoretical frameworks required to address the client's needs.</p>
+    <div id="quiz-area">
+      <div class="scenario" id="scenario-text">Loading scenario...</div>
+      <div class="btn-group" id="btn-group"></div>
+      <div class="feedback" id="feedback"></div>
+      <button id="next-btn" style="display:none; background:var(--primary); color:white; border:none; margin-top:12px;" onclick="loadNextScenario()">Next Scenario &rarr;</button>
+    </div>
+    <div class="score-banner" id="score-text">Score: 0 / 0</div>
+  </div>
+
+  <script>
+    const scenarios = [
+      {
+        text: "A collegiate soccer midfielder experiences recurring ankle sprains during cutting drills. Analysis reveals excessive joint inversion velocities and inadequate calcaneofibular ligament stability upon foot strike.",
+        discipline: "Biomechanics",
+        explanation: "Biomechanics applies mechanical physics, kinetics, and kinematics to examine joint forces, angles, and loading mechanics."
+      },
+      {
+        text: "A master's marathon runner hits 'the wall' at mile 20. Blood testing shows depleted intramuscular glycogen stores, elevated serum cortisol, and shifts toward fat oxidation pathways.",
+        discipline: "Exercise Physiology",
+        explanation: "Exercise physiology evaluates bioenergetics, acute metabolic demands, and chronic organ system adaptations to exercise load."
+      },
+      {
+        text: "A high-school basketball athlete demonstrates high free-throw shooting accuracy during practice but experiences severe autonomic nervous system arousal and shooting breakdown in the final seconds of championship games.",
+        discipline: "Sport & Exercise Psychology",
+        explanation: "Sport psychology examines the cognitive, emotional, and self-efficacy factors influencing motor execution under pressure."
+      },
+      {
+        text: "A physical therapy clinician structures variable, contextual-interference practice schedules to facilitate long-term neuroplastic retention of gait mechanics following an ACL reconstruction.",
+        discipline: "Motor Learning",
+        explanation: "Motor learning focuses on practice structure, feedback schedules, and neural retention of motor skill acquisition."
+      }
+    ];
+
+    const disciplines = ["Biomechanics", "Exercise Physiology", "Sport & Exercise Psychology", "Motor Learning"];
+    let curIdx = 0;
+    let score = 0;
+
+    function renderScenario() {
+      const s = scenarios[curIdx];
+      document.getElementById('scenario-text').textContent = s.text;
+      const grp = document.getElementById('btn-group');
+      grp.innerHTML = '';
+      disciplines.forEach(d => {
+        const btn = document.createElement('button');
+        btn.textContent = d;
+        btn.onclick = () => checkAnswer(d);
+        grp.appendChild(btn);
+      });
+      document.getElementById('feedback').style.display = 'none';
+      document.getElementById('next-btn').style.display = 'none';
+      document.getElementById('score-text').textContent = `Scenario ${curIdx + 1} of ${scenarios.length} | Score: ${score}`;
+    }
+
+    function checkAnswer(selected) {
+      const s = scenarios[curIdx];
+      const fb = document.getElementById('feedback');
+      fb.style.display = 'block';
+      if (selected === s.discipline) {
+        score++;
+        fb.className = 'feedback correct';
+        fb.innerHTML = `<strong>Correct:</strong> ${selected} is the primary sub-discipline. ${s.explanation}`;
+      } else {
+        fb.className = 'feedback wrong';
+        fb.innerHTML = `<strong>Incorrect:</strong> You selected ${selected}. The correct domain is <strong>${s.discipline}</strong>. ${s.explanation}`;
+      }
+      document.querySelectorAll('#btn-group button').forEach(b => b.disabled = true);
+      document.getElementById('next-btn').style.display = 'inline-block';
+      document.getElementById('score-text').textContent = `Scenario ${curIdx + 1} of ${scenarios.length} | Score: ${score}`;
+    }
+
+    function loadNextScenario() {
+      curIdx = (curIdx + 1) % scenarios.length;
+      renderScenario();
+    }
+
+    renderScenario();
+  </script>
+</body>
+</html>

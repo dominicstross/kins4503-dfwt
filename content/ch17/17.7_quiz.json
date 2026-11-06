@@ -1,0 +1,821 @@
+{
+  "p1": {
+    "title": "Part 1: Interset Rest Period Definitions, Influencing Factors, and Exercise Specificity",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What is the fundamental definition of a rest period (interset rest) in resistance training program design?",
+        "opts": [
+          "The recovery time allocated between individual repetitions within a single set",
+          "The time dedicated to recovery between sets and exercises during a training session",
+          "The number of rest days scheduled between consecutive workout sessions in a microcycle",
+          "The duration of active cool-down stretching performed after completing a workout"
+        ],
+        "correct": 1,
+        "rationale": "The rest period or interset rest is defined as the time dedicated to recovery between sets and exercises during a workout session."
+      },
+      {
+        "id": 2,
+        "q": "Which three primary factors dictate the required length of an interset rest period?",
+        "opts": [
+          "Barbell diameter, grip width, and ambient room temperature",
+          "Goal of training, relative load lifted, and athlete's training status",
+          "Time of day, athlete's body weight, and season of the year",
+          "Stretching duration, eccentric tempo, and warm-up set volume"
+        ],
+        "correct": 1,
+        "rationale": "The length of the rest period between sets and exercises is highly dependent on the goal of training, the relative load lifted, and the athlete's training status."
+      },
+      {
+        "id": 3,
+        "q": "How does an athlete's physical training status initially influence rest period assignments?",
+        "opts": [
+          "Unconditioned athletes require shorter rest periods to accelerate cardiovascular conditioning",
+          "Unconditioned athletes initially require longer rest periods than typically assigned to safely complete subsequent sets",
+          "Training status has zero impact on rest period recovery kinetics",
+          "Advanced athletes require double the rest period of beginner athletes for light assistance lifts"
+        ],
+        "correct": 1,
+        "rationale": "If an athlete is not in good physical condition (unconditioned), rest periods initially may need to be longer than typically assigned to allow safe completion of subsequent sets."
+      },
+      {
+        "id": 4,
+        "q": "What is the physiological relationship between the load lifted and the required interset rest period length?",
+        "opts": [
+          "Inverse relationship; heavier loads require shorter rest periods to preserve muscular arousal",
+          "Direct relationship; the heavier the load lifted, the longer the rest period required to safely complete subsequent sets",
+          "Independent relationship; load magnitude does not influence interset fatigue recovery",
+          "Curvilinear relationship; loads above 85% 1RM require less rest than loads at 65% 1RM"
+        ],
+        "correct": 1,
+        "rationale": "The amount of rest between sets is strongly related to load: the heavier the loads lifted, the longer the rest periods the athlete will need to safely and successfully complete subsequent sets."
+      },
+      {
+        "id": 5,
+        "q": "Why should rest periods vary between different exercises performed within the exact same training session?",
+        "opts": [
+          "To prevent cognitive boredom by changing timers on every station",
+          "Because rest periods must be allocated based on relative load lifted and muscle mass involved in each exercise",
+          "Because core exercises always require less rest than single-joint assistance exercises",
+          "To match the equipment availability in commercial weight room facilities"
+        ],
+        "correct": 1,
+        "rationale": "Not all exercises in a resistance program should be assigned identical rest periods; strength coaches must allocate rest based on the relative load lifted and the amount of muscle mass involved in each exercise."
+      },
+      {
+        "id": 6,
+        "q": "In a maximal strength training session, how should rest allocation differ between a 4RM Bench Press and a 12RM Lateral Shoulder Raise?",
+        "opts": [
+          "Both exercises must use 4-minute rest periods because the overall session goal is strength",
+          "The Bench Press requires ~4 minutes of rest, while the Lateral Raise requires only ~1 minute due to lighter load and smaller muscle mass",
+          "The Lateral Raise requires 4 minutes of rest while the Bench Press requires 1 minute",
+          "Both exercises should be performed with 30 seconds of rest to maximize acute metabolic stress"
+        ],
+        "correct": 1,
+        "rationale": "Even within a strength program, a core lift like the bench press (4RM load) requires ~4 minutes of rest, whereas a single-joint assistance exercise like the lateral raise (12RM load) requires only ~1 minute of rest."
+      },
+      {
+        "id": 7,
+        "q": "Which exercise type typically demands the longest interset rest recovery window due to central nervous system fatigue and mechanical work?",
+        "opts": [
+          "Single-joint isolation exercises performed on selectorized machines",
+          "Core multijoint exercises and explosive power lifts using heavy loads and large muscle mass",
+          "Bodyweight core stability exercises performed for high repetitions",
+          "Flexibility and mobility drills performed between active working sets"
+        ],
+        "correct": 1,
+        "rationale": "Heavy core multijoint exercises and explosive power lifts involve substantial muscle mass and maximal neural recruitment, requiring the longest rest intervals (2\u20135 minutes)."
+      },
+      {
+        "id": 8,
+        "q": "If a strength coach assigns a uniform 60-second rest period across all exercises in a heavy 3RM strength session, what is the primary risk?",
+        "opts": [
+          "Excessive hypertrophy of small stabilizing muscles",
+          "Premature fatigue, impaired lifting technique, and inability to complete prescribed repetitions on heavy core lifts",
+          "Over-replenishment of muscle glycogen stores",
+          "Reduction in acute growth hormone secretion during assistance exercises"
+        ],
+        "correct": 1,
+        "rationale": "Truncating rest periods during heavy load sessions causes incomplete neuromuscular recovery, leading to performance drops, technical failure, and safety risks on subsequent sets."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which factors directly influence the determination of interset rest period duration? (Select all that apply)",
+        "opts": [
+          "Primary training goal (e.g., Strength, Power, Hypertrophy, Muscular Endurance)",
+          "Relative load lifted (%1RM or RM assignment)",
+          "Athlete's physical training status and conditioning level",
+          "Amount of muscle mass involved in the specific exercise",
+          "Brand of barbell plate collar used during the set"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Rest duration depends on training goal, relative load lifted, athlete training status, and the muscle mass engaged in the exercise."
+      },
+      {
+        "id": 2,
+        "q": "Which statements regarding exercise-specific rest period allocation within a single workout are accurate? (Select all that apply)",
+        "opts": [
+          "Heavy core exercises (e.g., 4RM Back Squat) require longer rest than assistance exercises (e.g., 12RM Triceps Pushdown).",
+          "Assistance exercises involving small muscle groups recover faster and require shorter rest intervals.",
+          "All exercises in a session must strictly use the exact same rest timer regardless of movement type.",
+          "Allocating rest by load and muscle mass ensures optimal safety and quality of effort across all lifts.",
+          "A 12RM assistance lift in a strength session can be assigned a 1-minute rest interval."
+        ],
+        "correctArray": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "rationale": "Rest allocation varies by exercise based on load and muscle mass. Heavy core lifts require long rest (2-5 min), while lighter assistance lifts recover faster (1 min)."
+      },
+      {
+        "id": 3,
+        "q": "Why do unconditioned athletes require initial modifications to standard rest period guidelines? (Select all that apply)",
+        "opts": [
+          "They exhibit slower ATP-PCr resynthesis and lactate clearance kinetics.",
+          "Longer rest allows them to preserve proper execution technique across sets.",
+          "They possess higher high-threshold motor unit density than elite lifters.",
+          "Extra rest minimizes excessive metabolic distress and early technical breakdown.",
+          "They require zero rest because light loads do not induce fatigue."
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Unconditioned athletes have lower recovery capacities; longer initial rest preserves technique and safety."
+      },
+      {
+        "id": 4,
+        "q": "Which characteristics distinguish heavy core exercise rest requirements from assistance exercise rest requirements? (Select all that apply)",
+        "opts": [
+          "Core lifts involve structural axial loading and multijoint mechanics.",
+          "Assistance lifts isolate smaller muscle groups with lower total mechanical work.",
+          "Core lifts demand greater neural recruitment, requiring 2 to 5 minutes of rest.",
+          "Assistance lifts always require 5 minutes of rest regardless of load.",
+          "Lighter assistance loads allow complete recovery within 1 minute."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Core structural lifts engage large muscle mass and high neural drive (2-5 min rest), whereas assistance lifts use smaller muscle mass and lighter loads (1 min rest)."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "An interset rest period is defined as the recovery interval between sets and exercises during a training session.",
+        "ans": true,
+        "feedback": "Correct. Rest period or interset rest refers specifically to the time dedicated to recovery between sets and exercises."
+      },
+      {
+        "id": 2,
+        "q": "All exercises performed within a single resistance training session must be assigned identical rest period lengths.",
+        "ans": false,
+        "feedback": "False. Strength coaches must allocate rest based on the relative load lifted and muscle mass involved in each specific exercise."
+      },
+      {
+        "id": 3,
+        "q": "Heavier training loads require longer interset rest periods to enable safe and successful completion of subsequent sets.",
+        "ans": true,
+        "feedback": "Correct. Load and rest length share a direct relationship; heavier loads demand longer recovery."
+      },
+      {
+        "id": 4,
+        "q": "Unconditioned athletes initially require shorter rest periods than advanced athletes because they lift lighter loads.",
+        "ans": false,
+        "feedback": "False. Unconditioned athletes initially require longer rest periods than standard guidelines to recover safely between sets."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "The length of the **rest period** depends primarily on the training goal, relative load, muscle mass involved, and athlete **training status**.",
+        "targets": [
+          "rest period",
+          "training status"
+        ],
+        "optionsBank": [
+          "rest period",
+          "training status",
+          "barbell speed",
+          "season length",
+          "flexibility"
+        ],
+        "hint": "Identify the interset recovery variable and the athlete's physical conditioning factor."
+      },
+      {
+        "id": 2,
+        "statement": "A core exercise like the bench press with a 4RM load requires **4 minutes** of rest, whereas a 12RM assistance exercise requires **1 minute**.",
+        "targets": [
+          "4 minutes",
+          "1 minute"
+        ],
+        "optionsBank": [
+          "4 minutes",
+          "1 minute",
+          "30 seconds",
+          "10 minutes",
+          "0 seconds"
+        ],
+        "hint": "Recall the text's specific rest example contrasting core vs. assistance lifts."
+      },
+      {
+        "id": 3,
+        "statement": "Rest allocation must reflect exercise specificity, balancing relative **load lifted** with the total **muscle mass** engaged.",
+        "targets": [
+          "load lifted",
+          "muscle mass"
+        ],
+        "optionsBank": [
+          "load lifted",
+          "muscle mass",
+          "room temp",
+          "grip type",
+          "set duration"
+        ],
+        "hint": "Recall the two exercise-specific parameters guiding interset recovery."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain why a strength coach should prescribe different rest periods for a heavy core squat (4RM) versus a standing calf raise (12RM) within the same workout.",
+        "model": "Rest period allocation must be specific to the relative load lifted and the amount of muscle mass involved in each exercise. The heavy back squat uses a 4RM load involving massive multijoint muscle mass and structural axial loading, which imposes high neural drive and metabolic fatigue requiring 2 to 5 minutes of rest. In contrast, the calf raise uses a lighter 12RM load isolating a small muscle group, allowing full recovery within 1 minute. Assigning identical rest would either under-recover the squat or waste time on the calf raise.",
+        "criteria": [
+          "Identify that rest depends on relative load lifted and muscle mass involved.",
+          "Explain that heavy core squats (4RM) engage massive muscle mass and high neural drive requiring 2 to 5 minutes rest.",
+          "Explain that assistance calf raises (12RM) isolate small muscle mass allowing full recovery in ~1 minute."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "How does an athlete's physical training status influence interset rest period programming during initial training phases?",
+        "model": "An unconditioned or novice athlete possesses lower oxidative recovery capacity, slower ATP-PCr resynthesis, and reduced buffering capabilities compared to a trained athlete. Consequently, when initiating a resistance training program, unconditioned athletes initially require longer rest periods than standard guidelines specify. Extra recovery ensures they can maintain technical mastery, prevent excessive metabolic distress, and safely complete prescribed repetitions across subsequent sets.",
+        "criteria": [
+          "State that unconditioned athletes have lower metabolic and neuromuscular recovery capacities.",
+          "Explain that rest periods initially must be longer than standard guidelines.",
+          "Detail that extra rest preserves exercise technique and ensures safety across subsequent sets."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "title": "Part 2: Rest Period Prescriptions by Primary Training Goal (Table 17.12)",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "According to NSCA guidelines (Table 17.12), what is the recommended rest period range for Muscular Strength training?",
+        "opts": [
+          "30 seconds to 1 minute",
+          "2 to 5 minutes (or 3 to 5 minutes)",
+          "10 to 30 seconds",
+          "6 to 10 minutes"
+        ],
+        "correct": 1,
+        "rationale": "Table 17.12 specifies a rest period range of 2 to 5 minutes (or 3 to 5 minutes) for maximal muscular strength training."
+      },
+      {
+        "id": 2,
+        "q": "What is the recommended rest period range for Single-Effort and Multiple-Effort Power exercises?",
+        "opts": [
+          "30 seconds or less",
+          "2 to 5 minutes",
+          "30 seconds to 1.5 minutes",
+          "1 to 2 minutes"
+        ],
+        "correct": 1,
+        "rationale": "Power training requires the same 2 to 5 minute rest period range as maximal strength to preserve peak explosive velocity and rate of force development."
+      },
+      {
+        "id": 3,
+        "q": "What significant finding did Robinson and colleagues (1995) observe regarding rest periods during heavy back squat training?",
+        "opts": [
+          "30 seconds of rest produced greater strength gains than 3 minutes of rest",
+          "3 minutes of interset rest resulted in significantly greater strength gains than a 30-second rest period",
+          "Rest period length had zero effect on 1RM squat performance",
+          "10 minutes of rest caused muscular cooling and reduced strength gains"
+        ],
+        "correct": 1,
+        "rationale": "Robinson et al. demonstrated that 3 minutes of interset rest during heavy back squatting yielded significantly greater strength gains than a 30-second rest period."
+      },
+      {
+        "id": 4,
+        "q": "According to Table 17.12, what is the standard rest period length for Hypertrophy training programs?",
+        "opts": [
+          "2 to 5 minutes",
+          "30 seconds to 1.5 minutes (or 30 to 60 seconds)",
+          "Less than 10 seconds",
+          "3 to 5 minutes"
+        ],
+        "correct": 1,
+        "rationale": "Table 17.12 prescribes rest periods of 30 seconds to 1.5 minutes (or 30 seconds to 1 minute) for hypertrophy training."
+      },
+      {
+        "id": 5,
+        "q": "Why do hypertrophy programs utilize short to moderate rest periods (30s to 1.5 min)?",
+        "opts": [
+          "To ensure complete ATP-PCr resynthesis before starting the next set",
+          "To force the athlete to begin the next set before full metabolic recovery occurs, elevating metabolic stress",
+          "To prevent sweating and maintain low heart rates",
+          "To reduce total workout volume by causing rapid muscular failure"
+        ],
+        "correct": 1,
+        "rationale": "Hypertrophy training uses short-to-moderate rest so athletes start sets before full recovery, inducing high intra-muscular metabolic stress and anabolic hormone release."
+      },
+      {
+        "id": 6,
+        "q": "When programming hypertrophy core exercises involving massive muscle mass (e.g., heavy leg press), how should rest length be adjusted?",
+        "opts": [
+          "Reduce rest to under 15 seconds to maximize pain tolerance",
+          "Grant extra recovery time toward the upper boundary of 1.5 minutes due to high metabolic demand",
+          "Increase rest to 10 minutes to transform the set into a power lift",
+          "Eliminate rest entirely between multi-joint exercises"
+        ],
+        "correct": 1,
+        "rationale": "The high metabolic demand of exercises involving large muscle groups merits extra recovery time, leaning toward the upper boundary (1.5 min) in hypertrophy programs."
+      },
+      {
+        "id": 7,
+        "q": "What is the recommended rest period length for Muscular Endurance training programs (Table 17.12)?",
+        "opts": [
+          "2 to 5 minutes",
+          "30 seconds or less (<= 30 seconds)",
+          "1.5 to 3 minutes",
+          "5 to 7 minutes"
+        ],
+        "correct": 1,
+        "rationale": "Table 17.12 specifies rest periods of 30 seconds or less (<= 30 s) for muscular endurance training."
+      },
+      {
+        "id": 8,
+        "q": "What is the primary characteristic of interset rest intervals in circuit training protocols?",
+        "opts": [
+          "Long rest intervals of 3 to 5 minutes between stations",
+          "Rest periods restricted to 30 seconds or less while alternating exercises",
+          "Unlimited rest allowed whenever the athlete feels fatigued",
+          "Rest periods equal to three times the set execution time"
+        ],
+        "correct": 1,
+        "rationale": "Circuit training protocols typically alternate exercises targeting different body parts while strictly limiting rest period length to 30 seconds or less."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "According to Table 17.12, which rest period ranges correctly match their respective primary training goals? (Select all that apply)",
+        "opts": [
+          "Strength: 2 to 5 minutes",
+          "Power: 2 to 5 minutes",
+          "Hypertrophy: 30 seconds to 1.5 minutes",
+          "Muscular Endurance: <= 30 seconds",
+          "Strength: <= 30 seconds"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Table 17.12 prescribes 2-5 min for Strength and Power, 30s-1.5 min for Hypertrophy, and <=30s for Muscular Endurance."
+      },
+      {
+        "id": 2,
+        "q": "Which physiological responses are targeted by short rest periods (30s to 1.5 min) during hypertrophy training? (Select all that apply)",
+        "opts": [
+          "Elevated intra-muscular metabolic stress and byproduct accumulation",
+          "Increased acute growth hormone and anabolic signaling release",
+          "Initiation of subsequent sets prior to complete bioenergetic recovery",
+          "Complete 100% resynthesis of phosphocreatine stores",
+          "Localized cellular swelling and muscle fiber strain"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Short rest in hypertrophy training elevates metabolic stress, growth hormone, and cellular swelling by starting sets before full PCr resynthesis."
+      },
+      {
+        "id": 3,
+        "q": "Which features characterize rest intervals in muscular endurance and circuit training programs? (Select all that apply)",
+        "opts": [
+          "Rest periods strictly limited to 30 seconds or less",
+          "Designed to meet the SAID principle for submaximal fatigue resistance",
+          "Frequent alternating of body parts across adjacent exercise stations",
+          "Minimal rest paired with light loads (<=67% 1RM) and high reps (>=12)",
+          "Mandatory 5-minute passive recovery windows between sets"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Muscular endurance/circuit training uses rest <=30s, light loads (<=67% 1RM), high reps (>=12), and alternating stations to build fatigue resistance."
+      },
+      {
+        "id": 4,
+        "q": "Why do maximal strength and power training require long rest intervals (2 to 5 minutes)? (Select all that apply)",
+        "opts": [
+          "To allow near-complete ATP and phosphocreatine (PCr) resynthesis",
+          "To recover central nervous system motor unit recruitment capacity",
+          "To preserve peak movement velocity and rate of force development (RFD)",
+          "To maximize intra-muscular lactate accumulation and H+ ion acidity",
+          "To ensure safe execution and proper form on heavy core sets"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Long rest (2-5 min) restores ATP-PCr stores, recovers CNS motor drive, maintains peak velocity/RFD, and ensures set safety."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "According to Table 17.12, the recommended rest period for maximal strength training is 2 to 5 minutes.",
+        "ans": true,
+        "feedback": "Correct. Maximal strength requires 2 to 5 minutes (or 3 to 5 minutes) of rest."
+      },
+      {
+        "id": 2,
+        "q": "Robinson et al. found that a 30-second rest period produced greater back squat strength gains than a 3-minute rest period.",
+        "ans": false,
+        "feedback": "False. Robinson et al. found that 3 minutes of rest yielded significantly greater strength gains than 30 seconds."
+      },
+      {
+        "id": 3,
+        "q": "Hypertrophy training guidelines recommend rest periods of 30 seconds to 1.5 minutes.",
+        "ans": true,
+        "feedback": "Correct. Hypertrophy rest intervals range from 30 seconds to 1.5 minutes."
+      },
+      {
+        "id": 4,
+        "q": "Muscular endurance programs require rest periods of 3 to 5 minutes between high-repetition sets.",
+        "ans": false,
+        "feedback": "False. Muscular endurance programs utilize very short rest periods of 30 seconds or less."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Maximal strength and power training require rest periods of **2 to 5 minutes**, while hypertrophy requires **30s to 1.5 minutes**.",
+        "targets": [
+          "2 to 5 minutes",
+          "30s to 1.5 minutes"
+        ],
+        "optionsBank": [
+          "2 to 5 minutes",
+          "30s to 1.5 minutes",
+          "10 minutes",
+          "0 seconds",
+          "15 minutes"
+        ],
+        "hint": "Recall the Table 17.12 rest ranges for Strength vs. Hypertrophy."
+      },
+      {
+        "id": 2,
+        "statement": "Robinson et al. proved that **3 minutes** of interset rest during back squats produced superior strength gains compared to **30 seconds**.",
+        "targets": [
+          "3 minutes",
+          "30 seconds"
+        ],
+        "optionsBank": [
+          "3 minutes",
+          "30 seconds",
+          "10 minutes",
+          "5 seconds",
+          "1 hour"
+        ],
+        "hint": "Recall the exact rest times compared in the back squat research study."
+      },
+      {
+        "id": 3,
+        "statement": "Muscular endurance and circuit training restrict rest intervals to **30 seconds or less** paired with loads of **<=67% 1RM**.",
+        "targets": [
+          "30 seconds or less",
+          "<=67% 1RM"
+        ],
+        "optionsBank": [
+          "30 seconds or less",
+          "<=67% 1RM",
+          "5 minutes",
+          ">=85% 1RM",
+          "10 minutes"
+        ],
+        "hint": "Identify the rest interval cap and load intensity for endurance training."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Compare the rest period guidelines and physiological objectives of a Maximal Strength program versus a Muscular Endurance program.",
+        "model": "A Maximal Strength program prescribes long rest periods of 2 to 5 minutes. The physiological objective is to allow near-complete ATP-PCr resynthesis and central nervous system recovery, enabling peak force production and safe execution on heavy sets (>=85% 1RM). Conversely, a Muscular Endurance program prescribes short rest periods of 30 seconds or less with light loads (<=67% 1RM). The objective is to purposefully limit recovery, subjecting muscles to metabolic strain to enhance buffering capacity, lactate clearance, and oxidative efficiency.",
+        "criteria": [
+          "State Strength rest is 2 to 5 minutes, aimed at ATP-PCr/CNS recovery and peak force.",
+          "State Muscular Endurance rest is <=30 seconds, aimed at metabolic stress and buffering capacity.",
+          "Contrast heavy load requirement (>=85% 1RM) vs. light load requirement (<=67% 1RM)."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Discuss the physiological rationale behind assigning 30 seconds to 1.5 minutes of rest in Hypertrophy training, including considerations for large muscle group exercises.",
+        "model": "Short to moderate rest (30s to 1.5 min) forces athletes to start subsequent sets before full bioenergetic recovery occurs. This elevates intra-muscular metabolic stress, blood lactate, cellular swelling, and acute anabolic hormone secretion (growth hormone), which collectively stimulate muscle protein synthesis pathways. However, multijoint exercises engaging large muscle mass (e.g., heavy leg press or deadlifts) impose extreme cardiorespiratory and metabolic demands; strength coaches should lean toward the upper recovery boundary (1.5 min) for these movements to maintain work quality.",
+        "criteria": [
+          "Explain that short rest elevates metabolic stress, lactate, cellular swelling, and growth hormone.",
+          "State that sets begin before complete metabolic recovery.",
+          "Explain why large muscle mass lifts require leaning toward the 1.5-minute upper recovery boundary."
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "title": "Part 3: Bioenergetic Recovery Kinetics and Comprehensive Program Design Integration",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What are the passive bioenergetic recovery kinetics for full ATP resynthesis and phosphocreatine (PCr) replenishment?",
+        "opts": [
+          "ATP resynthesis requires 10 seconds; PCr replenishment requires 30 seconds",
+          "ATP resynthesis requires 3 to 5 minutes; PCr replenishment requires 2 to 5 minutes",
+          "ATP resynthesis requires 15 minutes; PCr replenishment requires 1 hour",
+          "Both ATP and PCr resynthesize completely within 5 seconds of set completion"
+        ],
+        "correct": 1,
+        "rationale": "Bioenergetically, complete ATP resynthesis requires 3 to 5 minutes, while phosphocreatine (PCr) replenishment requires 2 to 5 minutes of passive rest."
+      },
+      {
+        "id": 2,
+        "q": "What bioenergetic shift occurs if interset rest is truncated below 2 minutes during heavy maximal strength lifting?",
+        "opts": [
+          "Energy production shifts predominantly to fast glycolysis, resulting in H+ accumulation and reduced force capacity",
+          "Energy production shifts entirely to beta-oxidation of free fatty acids",
+          "Phosphocreatine stores increase above baseline levels",
+          "Aerobic mitochondrial respiration becomes completely inhibited"
+        ],
+        "correct": 0,
+        "rationale": "Truncating rest below 2 minutes prevents full PCr restoration, forcing dependence on fast glycolysis which accumulates hydrogen ions (H+) and decreases force output."
+      },
+      {
+        "id": 3,
+        "q": "Which step in the NSCA 7-step resistance training program design framework is rest period assignment?",
+        "opts": [
+          "Step 1 (First Step)",
+          "Step 4 (Middle Step)",
+          "Step 7 (Final Step)",
+          "Step 2 (Exercise Selection Step)"
+        ],
+        "correct": 2,
+        "rationale": "Rest period assignment is Step 7\u2014the final step\u2014in the NSCA resistance training program design process."
+      },
+      {
+        "id": 4,
+        "q": "What is the correct sequential order of the 7 steps in the NSCA program design framework?",
+        "opts": [
+          "1. Rest, 2. Load, 3. Volume, 4. Frequency, 5. Order, 6. Selection, 7. Needs Analysis",
+          "1. Needs Analysis, 2. Exercise Selection, 3. Training Frequency, 4. Exercise Order, 5. Training Load & Repetitions, 6. Volume, 7. Rest Periods",
+          "1. Volume, 2. Load, 3. Frequency, 4. Needs Analysis, 5. Order, 6. Selection, 7. Rest",
+          "1. Selection, 2. Order, 3. Needs Analysis, 4. Frequency, 5. Rest, 6. Load, 7. Volume"
+        ],
+        "correct": 1,
+        "rationale": "The official 7 steps are: 1. Needs Analysis, 2. Exercise Selection, 3. Training Frequency, 4. Exercise Order, 5. Training Load & Repetitions, 6. Volume, 7. Rest Periods."
+      },
+      {
+        "id": 5,
+        "q": "Why must rest period decisions (Step 7) be made AFTER load (Step 5) and volume (Step 6) choices are established?",
+        "opts": [
+          "Because rest duration is dependent on the assigned %1RM load, repetition count, and set volume",
+          "Because rest periods are calculated independently of load and volume",
+          "Because load and volume are determined by how long the athlete rests",
+          "Because Step 7 is optional and rarely implemented in sport programs"
+        ],
+        "correct": 0,
+        "rationale": "Deciding rest period length is the final step because recovery needs directly depend on the assigned loading intensity (%1RM) and total set-repetition volume."
+      },
+      {
+        "id": 6,
+        "q": "How does integrating all 7 steps ensure a program is periodized and sport-specific?",
+        "opts": [
+          "It guarantees that all athletes perform identical workouts regardless of sport",
+          "It systematically aligns physiological demands, movement patterns, load intensity, and rest to achieve specific athletic outcomes",
+          "It eliminates the need for seasonal training variation",
+          "It focuses exclusively on acute cardiovascular conditioning"
+        ],
+        "correct": 1,
+        "rationale": "The 7-step process integrates needs analysis, exercise selection, frequency, order, load, volume, and rest to build a coherent, sport-specific periodized routine."
+      },
+      {
+        "id": 7,
+        "q": "In an off-season Football Lineman strength phase, how do load (Step 5), volume (Step 6), and rest (Step 7) synthesize?",
+        "opts": [
+          "Load <=67% 1RM, Volume 2 sets of 15 reps, Rest 30 seconds",
+          "Load >=85% 1RM, Volume 3 to 6 sets of <=6 reps, Rest 2 to 5 minutes",
+          "Load 75% 1RM, Volume 1 set of 30 reps, Rest 10 minutes",
+          "Load 50% 1RM, Volume 5 sets of 20 reps, Rest 15 seconds"
+        ],
+        "correct": 1,
+        "rationale": "A maximal strength phase pairs heavy loads (>=85% 1RM), low reps (<=6), moderate-high sets (2-6), and long rest periods (2-5 minutes)."
+      },
+      {
+        "id": 8,
+        "q": "If an athlete presents with elevated resting heart rate and chronic performance decline, how might improper Step 7 programming be a contributing factor?",
+        "opts": [
+          "Excessively long rest periods caused muscular atrophy",
+          "Chronically short rest periods during heavy load phases caused systemic overreaching and incomplete neural/metabolic recovery",
+          "Step 7 has no connection to athlete recovery status",
+          "Resting 3 minutes on squats caused glycogen depletion"
+        ],
+        "correct": 1,
+        "rationale": "Consistently truncating rest intervals during high-intensity training prevents ATP-PCr restoration and neural recovery, driving systemic fatigue and overreaching."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which statements regarding phosphagen system bioenergetic recovery kinetics are correct? (Select all that apply)",
+        "opts": [
+          "Complete ATP resynthesis requires 3 to 5 minutes of passive rest.",
+          "Phosphocreatine (PCr) replenishment requires 2 to 5 minutes of passive rest.",
+          "PCr stores are 100% replenished within 10 seconds of set cessation.",
+          "Truncating rest below 2 minutes forces reliance on fast glycolysis.",
+          "Short rest periods increase muscular acidity (H+ concentration)."
+        ],
+        "correctArray": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "rationale": "ATP resynthesis takes 3-5 min and PCr replenishment takes 2-5 min. Rest <2 min shifts bioenergetics to fast glycolysis and increases H+ acidity."
+      },
+      {
+        "id": 2,
+        "q": "Which steps belong to the official NSCA 7-step resistance training program design framework? (Select all that apply)",
+        "opts": [
+          "Step 1: Needs Analysis",
+          "Step 2: Exercise Selection",
+          "Step 4: Exercise Order",
+          "Step 5: Training Load and Repetitions",
+          "Step 7: Rest Periods"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "rationale": "All listed steps are part of the NSCA 7-step model: Needs Analysis, Exercise Selection, Training Frequency, Exercise Order, Load/Reps, Volume, and Rest Periods."
+      },
+      {
+        "id": 3,
+        "q": "Why is rest period assignment designated as the final step (Step 7) in program design? (Select all that apply)",
+        "opts": [
+          "Recovery requirements depend directly on the assigned load intensity (%1RM).",
+          "Rest intervals must account for total volume-load and set density.",
+          "Exercise order (core vs. assistance) dictates specific recovery windows.",
+          "Rest period decisions cannot be made until the primary training goal is established.",
+          "Step 7 is completed first before conducting a needs analysis."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Rest assignment comes last because it synthesizes training goal, exercise selection, order, load, and volume choices made in Steps 1\u20136."
+      },
+      {
+        "id": 4,
+        "q": "How do programming variables align in a Muscular Endurance phase for a Basketball player? (Select all that apply)",
+        "opts": [
+          "Step 5 Load: <= 67% 1RM",
+          "Step 5 Repetitions: >= 12 reps",
+          "Step 6 Volume: 2 to 3 sets",
+          "Step 7 Rest: <= 30 seconds",
+          "Step 7 Rest: 3 to 5 minutes"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Muscular endurance aligns light load (<=67% 1RM), high reps (>=12), 2-3 sets, and short rest (<=30 s)."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Complete resynthesis of ATP requires 3 to 5 minutes, while phosphocreatine (PCr) replenishment requires 2 to 5 minutes.",
+        "ans": true,
+        "feedback": "Correct. ATP resynthesis takes 3-5 minutes and PCr resynthesis takes 2-5 minutes."
+      },
+      {
+        "id": 2,
+        "q": "Rest period assignment is Step 1 of the NSCA resistance training program design process.",
+        "ans": false,
+        "feedback": "False. Rest period assignment is Step 7\u2014the final step of the program design process."
+      },
+      {
+        "id": 3,
+        "q": "Truncating interset rest below 2 minutes during heavy lifting shifts energy production toward fast glycolysis, elevating H+ accumulation.",
+        "ans": true,
+        "feedback": "Correct. Incomplete PCr recovery forces dependence on fast glycolysis, accumulating metabolic byproducts."
+      },
+      {
+        "id": 4,
+        "q": "The official 7 steps of program design place Exercise Order (Step 4) after Rest Periods (Step 7).",
+        "ans": false,
+        "feedback": "False. Exercise Order is Step 4, while Rest Periods is Step 7."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Complete ATP resynthesis requires **3 to 5 minutes**, while PCr replenishment requires **2 to 5 minutes** of passive rest.",
+        "targets": [
+          "3 to 5 minutes",
+          "2 to 5 minutes"
+        ],
+        "optionsBank": [
+          "3 to 5 minutes",
+          "2 to 5 minutes",
+          "10 seconds",
+          "1 hour",
+          "30 seconds"
+        ],
+        "hint": "Recall the exact bioenergetic recovery timelines for ATP and PCr."
+      },
+      {
+        "id": 2,
+        "statement": "Rest period assignment is **Step 7**, the final step of the NSCA **program design** process.",
+        "targets": [
+          "Step 7",
+          "program design"
+        ],
+        "optionsBank": [
+          "Step 7",
+          "program design",
+          "Step 1",
+          "needs analysis",
+          "Step 3"
+        ],
+        "hint": "Identify the step number and framework name for rest interval programming."
+      },
+      {
+        "id": 3,
+        "statement": "Incomplete rest during heavy loading forces bioenergetic dependence on **fast glycolysis**, increasing **H+ ions**.",
+        "targets": [
+          "fast glycolysis",
+          "H+ ions"
+        ],
+        "optionsBank": [
+          "fast glycolysis",
+          "H+ ions",
+          "beta-oxidation",
+          "oxygen",
+          "myoglobin"
+        ],
+        "hint": "Recall the metabolic pathway and acidic byproduct involved when rest is truncated."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain the bioenergetic recovery kinetics of ATP and phosphocreatine (PCr), and describe the physiological consequences of truncating rest periods during a 3RM heavy strength session.",
+        "model": "Bioenergetically, complete ATP resynthesis requires 3 to 5 minutes, while phosphocreatine (PCr) replenishment requires 2 to 5 minutes of passive rest. During a heavy 3RM strength session, high-threshold motor units rely almost entirely on the phosphagen system. Truncating rest below 2 minutes prevents full PCr restoration, forcing the muscle to rely on fast glycolysis. This leads to rapid hydrogen ion (H+) accumulation, metabolic acidosis, early fatigue, and reduced force production, compromising lifting technique and safety on subsequent sets.",
+        "criteria": [
+          "State ATP resynthesis requires 3 to 5 minutes and PCr replenishment requires 2 to 5 minutes.",
+          "Explain that truncating rest prevents full PCr restoration, shifting energy reliance to fast glycolysis.",
+          "Detail that fast glycolysis increases H+ ions and metabolic acidity, decreasing force output and safety."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "List the official 7 steps of the NSCA resistance training program design framework in sequential order, and explain why Rest Periods is designated as Step 7.",
+        "model": "The 7 steps in sequential order are: 1. Needs Analysis, 2. Exercise Selection, 3. Training Frequency, 4. Exercise Order, 5. Training Load and Repetitions, 6. Volume, and 7. Rest Periods. Rest Periods is designated as Step 7 because interset recovery requirements directly depend on all preceding decisions. Recovery duration cannot be accurately assigned until the strength coach has established the primary training goal (Step 1), movement types (Step 2), exercise sequencing (Step 4), intensity/load (Step 5), and set volume (Step 6). Step 7 integrates these variables to complete the periodized program.",
+        "criteria": [
+          "List all 7 steps correctly in sequential order (Needs Analysis through Rest Periods).",
+          "Explain that Step 7 depends on choices made in Steps 1 through 6.",
+          "State that rest assignment synthesizes training goal, exercise selection, load, and volume."
+        ]
+      }
+    ]
+  }
+}

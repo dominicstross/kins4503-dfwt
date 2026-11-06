@@ -1,0 +1,767 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "At what elevation do acute physiological adjustments begin to compensate for reduced atmospheric oxygen partial pressure?",
+        "opts": [
+          "Greater than 3,900 feet (1,200 m)",
+          "Greater than 1,500 feet (450 m)",
+          "Greater than 8,000 feet (2,400 m)",
+          "Greater than 10,000 feet (3,050 m)"
+        ],
+        "correct": 0,
+        "rationale": "According to Section 6.4.1, acute physiological adjustments begin to occur at elevations greater than 3,900 feet (1,200 m) to compensate for reduced atmospheric partial pressure of oxygen."
+      },
+      {
+        "id": 2,
+        "q": "What primary mechanism drives the immediate increase in pulmonary ventilation upon acute altitude exposure?",
+        "opts": [
+          "Increased breathing frequency",
+          "Decreased tidal volume",
+          "Decreased breathing frequency",
+          "Expanded anatomical dead space"
+        ],
+        "correct": 0,
+        "rationale": "The immediate increase in pulmonary ventilation (hyperventilation) at altitude is primarily the result of increased breathing frequency. With longer stays, increased tidal volume also contributes."
+      },
+      {
+        "id": 3,
+        "q": "During acute exposure to altitude, what happens to cardiac output at rest and during submaximal exercise?",
+        "opts": [
+          "It surges 30% to 50% above sea level values via elevated heart rate",
+          "It decreases by 20% due to severe vagal stimulation",
+          "It remains unchanged while stroke volume doubles",
+          "It surges 30% to 50% driven entirely by increased stroke volume"
+        ],
+        "correct": 0,
+        "rationale": "In the early stages of altitude exposure, cardiac output at rest and during submaximal exercise increases 30% to 50% above sea level values, driven primarily by elevated heart rate while stroke volume remains constant or slightly reduced."
+      },
+      {
+        "id": 4,
+        "q": "Why does submaximal cardiac output increase during acute altitude exposure?",
+        "opts": [
+          "To maintain adequate tissue oxygen delivery when arterial blood oxygen content is reduced",
+          "To lower systemic arterial blood pressure",
+          "To clear excess plasma bicarbonate from the blood",
+          "To counteract an increase in blood hemoglobin concentration"
+        ],
+        "correct": 0,
+        "rationale": "Increased submaximal cardiac output reflects the physiological need for greater blood flow to maintain adequate tissue oxygen delivery at a time when arterial blood oxygen content is reduced due to low atmospheric oxygen pressure."
+      },
+      {
+        "id": 5,
+        "q": "How long does it take for submaximal heart rate and cardiac output to begin returning to normal sea-level values at a given altitude?",
+        "opts": [
+          "Within 10 to 14 days",
+          "Within 24 to 48 hours",
+          "Within 3 to 6 months",
+          "They never return to normal values until returning to sea level"
+        ],
+        "correct": 0,
+        "rationale": "Within 10 to 14 days at a given altitude, heart rate and cardiac output begin returning to normal sea-level values as long-term acclimatization mechanisms (specifically increased red blood cell production) take effect."
+      },
+      {
+        "id": 6,
+        "q": "What is the recommended minimum duration required to achieve full physiological adaptation at moderate altitude (2,200 to 3,000 m)?",
+        "opts": [
+          "3 to 6 weeks",
+          "1 to 3 days",
+          "10 to 14 days",
+          "6 to 12 months"
+        ],
+        "correct": 0,
+        "rationale": "Section 6.4.1 specifies that a minimum of three to six weeks is required to fully adapt and acclimatize at moderate altitudes (2,200 to 3,000 m)."
+      },
+      {
+        "id": 7,
+        "q": "How does the body maintain acid-base balance during prolonged hyperventilation at high altitude?",
+        "opts": [
+          "Renal excretion of bicarbonate ions (HCO3-)",
+          "Hepatic excretion of lactic acid",
+          "Renal reabsorption of carbonic acid",
+          "Pancreatic secretion of digestive enzymes"
+        ],
+        "correct": 0,
+        "rationale": "Prolonged hyperventilation causes respiratory alkalosis. The kidneys maintain acid-base balance of body fluids through the renal excretion of bicarbonate (HCO3-)."
+      },
+      {
+        "id": 8,
+        "q": "How quickly do chronic acclimatization changes revert upon returning to sea level?",
+        "opts": [
+          "In about one month",
+          "Within 24 to 48 hours",
+          "After 6 to 12 months",
+          "Acclimatization changes are permanent"
+        ],
+        "correct": 0,
+        "rationale": "Textbook Section 6.4.1 confirms that acclimatization changes revert in about one month after returning to sea level."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following acute cardiorespiratory adjustments occur during early exposure to altitudes greater than 3,900 feet (1,200 m)? (Select all that apply)",
+        "opts": [
+          "Increased breathing frequency driving hyperventilation",
+          "30% to 50% increase in submaximal cardiac output",
+          "Elevation in submaximal heart rate",
+          "Significant increase in resting stroke volume",
+          "Decreased arterial oxygen saturation"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Acute altitude adjustments include hyperventilation via increased breathing frequency, a 30% to 50% increase in submaximal cardiac output driven by heart rate, and decreased arterial oxygen saturation. Stroke volume remains constant or slightly reduced, not increased."
+      },
+      {
+        "id": 2,
+        "q": "Which of the following chronic physiological and metabolic adaptations occur during prolonged altitude acclimatization (3 to 6 weeks at 2,200 to 3,000 m)? (Select all that apply)",
+        "opts": [
+          "5% to 15% increase in hemoglobin formation",
+          "30% to 50% increase in red blood cell production",
+          "Increased diffusing capacity of oxygen through pulmonary membranes",
+          "Renal excretion of HCO3- to maintain acid-base balance",
+          "Permanent loss of capillary density in working muscles"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Long-term altitude adaptations include a 5% to 15% increase in hemoglobin, 30% to 50% increase in RBCs, increased pulmonary oxygen diffusing capacity, increased capillary density, and renal excretion of HCO3-."
+      },
+      {
+        "id": 3,
+        "q": "Which factors explain why submaximal cardiac output decreases back toward baseline after 10 to 14 days at altitude? (Select all that apply)",
+        "opts": [
+          "Increased red blood cell production enhancing arterial oxygen-carrying capacity",
+          "Elevated total hemoglobin mass delivering more oxygen per unit volume",
+          "Complete cessation of pulmonary ventilation",
+          "Improved oxygen delivery allowing heart rate to decrease toward normal"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "After 10 to 14 days, increased RBC mass and hemoglobin formation restore arterial oxygen content, allowing cardiac output and heart rate to return toward baseline values without stopping ventilation."
+      },
+      {
+        "id": 4,
+        "q": "Which statements regarding performance at altitude are supported by the textbook? (Select all that apply)",
+        "opts": [
+          "Aerobic performance decreases at altitudes above 3,900 feet (1,200 m) during acute exposure",
+          "Full acclimatization produces exercise capacities near sea-level values",
+          "Reduced performance compared to sea level is generally expected regardless of acclimatization duration",
+          "Acclimatization adaptations persist permanently after returning to sea level"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Aerobic performance drops acutely above 3,900 feet; acclimatization can restore exercise capacity near sea level, but reduced performance compared to sea level is still generally expected. Adaptations revert in about one month after returning to sea level."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Acute exposure to altitude above 3,900 feet causes an immediate increase in resting stroke volume to compensate for hypoxia.",
+        "ans": false,
+        "feedback": "False. Acute altitude exposure increases submaximal cardiac output via elevated heart rate, while stroke volume remains constant or slightly reduced."
+      },
+      {
+        "id": 2,
+        "q": "Long-term altitude acclimatization results in a 30% to 50% increase in red blood cell production.",
+        "ans": true,
+        "feedback": "True. Prolonged altitude exposure stimulates erythropoiesis, resulting in a 30% to 50% increase in red blood cell production."
+      },
+      {
+        "id": 3,
+        "q": "Renal excretion of bicarbonate (HCO3-) helps offset respiratory alkalosis caused by hyperventilation at altitude.",
+        "ans": true,
+        "feedback": "True. Hyperventilation blows off CO2, creating respiratory alkalosis; the kidneys excrete HCO3- to maintain fluid acid-base balance."
+      },
+      {
+        "id": 4,
+        "q": "Acclimatization adaptations achieved at high altitude persist indefinitely after an athlete returns to sea level.",
+        "ans": false,
+        "feedback": "False. Physiological acclimatization changes revert back to sea-level baselines in about one month."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Acute altitude exposure above 3,900 feet triggers **hyperventilation** primarily through increased **breathing frequency**.",
+        "targets": [
+          "hyperventilation",
+          "breathing frequency"
+        ],
+        "optionsBank": [
+          "hyperventilation",
+          "breathing frequency",
+          "bradycardia",
+          "tidal volume",
+          "bronchodilation"
+        ],
+        "hint": "Respiratory compensation involves rapid shallow breathing initially."
+      },
+      {
+        "id": 2,
+        "statement": "Chronic altitude acclimatization leads to a 30% to 50% increase in **red blood cell** mass and renal excretion of **bicarbonate**.",
+        "targets": [
+          "red blood cell",
+          "bicarbonate"
+        ],
+        "optionsBank": [
+          "red blood cell",
+          "bicarbonate",
+          "white blood cell",
+          "glucose",
+          "myoglobin"
+        ],
+        "hint": "Erythropoiesis boosts oxygen transport while kidney filtration balances blood pH."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "An endurance runner travels from sea level to a training camp located at 7,500 feet (2,300 m). Describe the acute cardiorespiratory adjustments occurring within the first 48 hours and the chronic acclimatization timeline required for full adaptation.",
+        "model": "Acutely, the runner will experience hyperventilation driven by increased breathing frequency and a 30% to 50% surge in submaximal cardiac output via elevated heart rate (with stroke volume constant or slightly reduced) to compensate for lower arterial oxygen saturation. Within 10 to 14 days, cardiac output and HR begin returning toward baseline as red blood cell mass expands. Full chronic acclimatization requires 3 to 6 weeks at this altitude, resulting in a 30% to 50% surge in RBCs, 5% to 15% increase in hemoglobin, enhanced pulmonary oxygen diffusion, increased capillarization, and renal excretion of HCO3-.",
+        "criteria": [
+          "Identifies acute hyperventilation via increased breathing frequency and 30%-50% submaximal Q surge via HR",
+          "Notes that stroke volume remains constant or slightly reduced acutely",
+          "Outlines the 10-14 day HR/Q stabilization window and 3-6 week full acclimatization timeline",
+          "Lists chronic adaptations: 30%-50% RBC increase, 5%-15% Hb increase, capillary density, and renal HCO3- excretion"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain the physiological mechanisms through which the human body maintains acid-base balance during chronic high-altitude hyperventilation.",
+        "model": "Hyperventilation at high altitude lowers arterial partial pressure of carbon dioxide (PCO2) by blowing off excess CO2, shifting blood pH upward into respiratory alkalosis. To restore normal acid-base balance in body fluids, the kidneys excrete bicarbonate ions (HCO3-) in urine. This renal compensation, combined with sustained hyperventilation, stabilizes arterial blood pH during prolonged altitude exposure.",
+        "criteria": [
+          "Explains that hyperventilation reduces PCO2 and induces respiratory alkalosis",
+          "Identifies renal excretion of HCO3- as the primary buffer mechanism",
+          "Connects renal compensation to acid-base stabilization during chronic altitude stay"
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Why does hyperoxic breathing during rest periods at sea level offer limited physiological headroom in healthy individuals?",
+        "opts": [
+          "Arterial hemoglobin oxygen saturation is already 95% to 98% when breathing sea-level ambient air",
+          "Oxygen-enriched gas causes immediate severe bronchial spasm",
+          "Hemoglobin cannot bind oxygen molecules above 50% saturation",
+          "Hyperoxic gas reduces plasma oxygen solubility to zero"
+        ],
+        "correct": 0,
+        "rationale": "At sea level, healthy individuals breathing ambient air already achieve an arterial hemoglobin oxygen saturation between 95% and 98%, leaving very little physiological headroom for hyperoxic gas mixtures to increase oxygen delivery."
+      },
+      {
+        "id": 2,
+        "q": "What effect does nicotine in cigarette smoke have on airway resistance in the respiratory tract?",
+        "opts": [
+          "It causes bronchiole constriction and paralyzes respiratory cilia",
+          "It dilates the bronchioles and accelerates ciliary clearance",
+          "It destroys alveolar capillary membranes instantly",
+          "It increases pulmonary compliance and reduces fluid secretion"
+        ],
+        "correct": 0,
+        "rationale": "Nicotine causes bronchiole constriction, increased fluid secretion, and swelling in the bronchial tree, while paralyzing respiratory cilia on the respiratory surfaces. This prevents fluid/particle removal and increases airway resistance."
+      },
+      {
+        "id": 3,
+        "q": "How does carbon monoxide from cigarette smoke impair blood oxygen-carrying capacity?",
+        "opts": [
+          "It binds to hemoglobin with higher affinity than oxygen to form carboxyhemoglobin",
+          "It destroys red blood cells upon contact in the pulmonary capillaries",
+          "It inhibits renal erythropoietin secretion",
+          "It converts arterial hemoglobin directly into plasma bicarbonate"
+        ],
+        "correct": 0,
+        "rationale": "Carbon monoxide has a higher affinity for hemoglobin than oxygen, readily forming carboxyhemoglobin. This displaces oxygen and severely reduces the blood's oxygen-carrying capacity."
+      },
+      {
+        "id": 4,
+        "q": "What cardiovascular response is triggered by carbon monoxide-induced carboxyhemoglobin formation during exercise?",
+        "opts": [
+          "Increased catecholamine release elevating heart rate and blood pressure",
+          "Severe bradycardia and systemic vasodilation",
+          "Decreased submaximal cardiac output and low blood pressure",
+          "Complete inhibition of sympathetic nervous system activity"
+        ],
+        "correct": 0,
+        "rationale": "Reduced oxygen content from carboxyhemoglobin stimulates increased catecholamine release, which elevates resting and exercise heart rate and blood pressure to maintain tissue oxygenation."
+      },
+      {
+        "id": 5,
+        "q": "By how much can blood doping (RBC infusion or EPO) increase maximal oxygen uptake (VO2max)?",
+        "opts": [
+          "Up to 11%",
+          "Up to 35%",
+          "Up to 50%",
+          "No measurable change in VO2max occurs"
+        ],
+        "correct": 0,
+        "rationale": "Textbook Section 6.4.4 notes that maximal oxygen uptake (VO2max) has been demonstrated to increase by up to 11% with either red blood cell infusion or EPO administration."
+      },
+      {
+        "id": 6,
+        "q": "What submaximal hemodynamic and metabolic changes are associated with blood doping at standardized workloads?",
+        "opts": [
+          "Decreased heart rate, decreased blood lactate, and higher blood pH",
+          "Increased heart rate, elevated blood lactate, and severe acidosis",
+          "Elevated heart rate, low blood pH, and reduced stroke volume",
+          "Unchanged heart rate and quadrupled blood lactate accumulation"
+        ],
+        "correct": 0,
+        "rationale": "At standardized submaximal workloads, blood doping is associated with decreased heart rate and blood lactate levels, as well as higher blood pH due to increased oxygen availability."
+      },
+      {
+        "id": 7,
+        "q": "How does blood doping aid thermoregulation during exercise in heat-acclimatized athletes?",
+        "opts": [
+          "Expanded blood volume allows more blood to be shunted to the skin while maintaining muscle oxygen delivery",
+          "Higher hematocrit stops all sweating and prevents fluid loss",
+          "It lowers body temperature by freezing plasma proteins",
+          "It redirects all cutaneous blood flow exclusively to visceral organs"
+        ],
+        "correct": 0,
+        "rationale": "The increased red blood cell mass and blood volume allow the body to shunt more blood to the skin for evaporative heat dissipation while still providing sufficient cardiac output to transport oxygen to working muscles."
+      },
+      {
+        "id": 8,
+        "q": "What severe embolic medical risks are associated with high hematocrit from blood doping or EPO abuse?",
+        "opts": [
+          "Stroke, myocardial infarction, deep vein thrombosis, and pulmonary embolism",
+          "Osteoporosis, sarcopenia, and muscle atrophy",
+          "Hypoglycemia, type 1 diabetes, and liver cirrhosis",
+          "Chronic bronchitis and emphysema"
+        ],
+        "correct": 0,
+        "rationale": "High hematocrit dramatically increases blood viscosity, elevating the risk for embolic health events including stroke, myocardial infarction, deep vein thrombosis, and pulmonary embolism."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following harmful effects on the respiratory system are directly caused by cigarette smoking? (Select all that apply)",
+        "opts": [
+          "Nicotine-related bronchiole constriction",
+          "Increased fluid secretion and swelling in the bronchial tree",
+          "Paralysis of respiratory tract cilia",
+          "Accumulation of fluid and foreign debris in passageways",
+          "Surge in pulmonary alveolar surface area"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Cigarette smoke causes bronchiole constriction, swelling/fluid secretion, cilia paralysis, and accumulation of foreign debris, increasing airway resistance."
+      },
+      {
+        "id": 2,
+        "q": "Which of the following statements correctly describe the physiological effects of carbon monoxide from smoke? (Select all that apply)",
+        "opts": [
+          "Higher affinity for hemoglobin than oxygen",
+          "Forms carboxyhemoglobin, reducing oxygen-carrying capacity",
+          "Triggers increased catecholamine release",
+          "Elevates heart rate and blood pressure during submaximal exercise",
+          "Increases arterial oxygen content above sea-level values"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Carbon monoxide binds preferentially to hemoglobin forming carboxyhemoglobin, reduces oxygen content, and stimulates catecholamine release, raising HR and BP."
+      },
+      {
+        "id": 3,
+        "q": "Which physiological performance improvements result from artificial blood doping or EPO administration? (Select all that apply)",
+        "opts": [
+          "Up to 11% increase in VO2max",
+          "Decreased submaximal heart rate at standardized workloads",
+          "Lower blood lactate levels during submaximal exercise",
+          "Higher blood pH during standardized exercise stress",
+          "Complete immunity to heat illness in un-acclimatized athletes"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Blood doping boosts VO2max up to 11%, lowers submaximal HR and blood lactate, and increases blood pH. It confers thermal benefits primarily to heat-acclimatized athletes, not un-acclimatized ones."
+      },
+      {
+        "id": 4,
+        "q": "Which medical risks and adverse side effects are associated with EPO abuse or excessive blood doping? (Select all that apply)",
+        "opts": [
+          "Deep vein thrombosis and pulmonary embolism",
+          "Stroke and myocardial infarction",
+          "Increased arterial blood pressure",
+          "Increased plasma potassium levels and flu-like symptoms",
+          "Permanent reduction in blood viscosity"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "High hematocrit and blood viscosity from EPO or RBC infusion increase risks of stroke, MI, DVT, pulmonary embolism, arterial hypertension, elevated plasma potassium, and flu-like symptoms."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Hyperoxic breathing during recovery intervals at sea level significantly increases arterial oxygen saturation above 98%.",
+        "ans": false,
+        "feedback": "False. Normal sea-level ambient air breathing already achieves 95% to 98% arterial hemoglobin oxygen saturation, leaving negligible room for additional oxygen binding."
+      },
+      {
+        "id": 2,
+        "q": "Nicotine in cigarette smoke paralyzes respiratory cilia, leading to debris accumulation and increased airway resistance.",
+        "ans": true,
+        "feedback": "True. Nicotine paralyzes respiratory tract cilia, impairing the removal of excess fluids and foreign particles."
+      },
+      {
+        "id": 3,
+        "q": "Erythropoietin (EPO) administration increases red blood cell mass rapidly within hours, but its effects disappear within 48 hours.",
+        "ans": false,
+        "feedback": "False. RBC infusion increases RBC mass rapidly for a few weeks, whereas EPO stimulates RBC production over weeks and lasts as long as EPO is administered."
+      },
+      {
+        "id": 4,
+        "q": "Blood doping provides significant thermal performance aid to athletes who are not acclimatized to heat.",
+        "ans": false,
+        "feedback": "False. Section 6.4.4 notes that blood doping confers thermoregulatory benefits primarily to individuals who are already acclimatized to heat."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Carbon monoxide binds to hemoglobin to form **carboxyhemoglobin**, reducing blood oxygen capacity and triggering **catecholamine** release.",
+        "targets": [
+          "carboxyhemoglobin",
+          "catecholamine"
+        ],
+        "optionsBank": [
+          "carboxyhemoglobin",
+          "catecholamine",
+          "oxyhemoglobin",
+          "insulin",
+          "bicarbonate"
+        ],
+        "hint": "Cigarette smoke component displaces oxygen and triggers sympathetic fight-or-flight hormones."
+      },
+      {
+        "id": 2,
+        "statement": "Blood doping increases VO2max by up to **11%** but increases blood viscosity, raising risks for **deep vein thrombosis**.",
+        "targets": [
+          "11%",
+          "deep vein thrombosis"
+        ],
+        "optionsBank": [
+          "11%",
+          "deep vein thrombosis",
+          "50%",
+          "bronchitis",
+          "sarcopenia"
+        ],
+        "hint": "Erythrocyte elevation expands aerobic ceiling but thickens blood dangerously."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain the dual respiratory and cardiorespiratory mechanisms through which cigarette smoking impairs athletic endurance performance.",
+        "model": "Cigarette smoking impairs performance via two main pathways: First, in the airways, nicotine causes bronchiole constriction, fluid swelling, and cilia paralysis, preventing debris removal and elevating airway resistance and respiratory strain. Second, in the blood, carbon monoxide binds preferentially to hemoglobin forming carboxyhemoglobin, displacing oxygen and lowering arterial oxygen content. To compensate, sympathetic catecholamine release surges, increasing resting and exercise heart rate and blood pressure, leading to early fatigue.",
+        "criteria": [
+          "Identifies nicotine mechanisms: bronchiole constriction, fluid swelling, and cilia paralysis",
+          "Explains carbon monoxide binding to form carboxyhemoglobin and reduce O2-carrying capacity",
+          "Links carboxyhemoglobin to elevated catecholamines, HR, BP, and premature fatigue"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "An endurance cyclist considers using erythropoietin (EPO) to improve performance. Outline the physiological performance changes expected, as well as the severe medical risks associated with elevated hematocrit.",
+        "model": "EPO stimulates red blood cell production over weeks, increasing RBC mass and expanding VO2max by up to 11%. At submaximal workloads, it lowers heart rate and blood lactate while elevating blood pH. It also aids thermoregulation in heat-acclimatized athletes by expanding blood volume. However, high hematocrit dramatically thickens blood viscosity, severely raising risks for life-threatening embolic events such as stroke, myocardial infarction, deep vein thrombosis, and pulmonary embolism, alongside hypertension, elevated plasma potassium, and flu-like symptoms.",
+        "criteria": [
+          "Identifies performance gains: up to 11% VO2max increase, lowered submaximal HR and blood lactate, elevated pH",
+          "Explains thermoregulatory skin blood flow benefit in heat-acclimatized athletes",
+          "Outlines severe hematocrit/viscosity health risks: stroke, MI, DVT, pulmonary embolism, and hypertension"
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What principle describes why training gains become smaller as an athlete approaches their upper limit of biological adaptation?",
+        "opts": [
+          "Law of diminishing returns",
+          "Overload principle",
+          "All-or-none principle",
+          "Frank-Starling law"
+        ],
+        "correct": 0,
+        "rationale": "As an athlete gets closer to their upper limit of genetic potential, biological adaptations follow the law of diminishing returns, where smaller and smaller gains are observed for equivalent or greater training input."
+      },
+      {
+        "id": 2,
+        "q": "Why is precise micro-periodization and program monitoring particularly critical for elite endurance athletes near their genetic ceiling?",
+        "opts": [
+          "Minute improvements (e.g., 0.05%) represent the difference between winning a medal and missing a final",
+          "Elite athletes lose muscle mass 10 times faster than untrained individuals",
+          "Genetic limits prevent any physiological adaptation from occurring without drugs",
+          "Elite athletes do not produce catecholamines during exercise"
+        ],
+        "correct": 0,
+        "rationale": "In elite competition, hundredths of a second or minute improvements (e.g., 0.05%) determine medal outcomes. Because potential gains are so small near genetic ceilings, precise program design is essential."
+      },
+      {
+        "id": 3,
+        "q": "What physiological condition characterized by age-related loss of muscle mass and strength contributes to declining maximal aerobic power in older adults?",
+        "opts": [
+          "Sarcopenia",
+          "Osteomalacia",
+          "Hypertrophy",
+          "Respiratory alkalosis"
+        ],
+        "correct": 0,
+        "rationale": "Sarcopenia is the age-related loss of muscle mass and strength. Along with increased fat mass, it is a primary physiological factor causing decreased maximal aerobic power in aging adults."
+      },
+      {
+        "id": 4,
+        "q": "When age-matched, how do the maximal aerobic power values of adult women compare to those of men?",
+        "opts": [
+          "Women average 73% to 85% of male values",
+          "Women average 50% lower than male values",
+          "Women average 110% to 125% of male values",
+          "Women and men have identical absolute aerobic power values"
+        ],
+        "correct": 0,
+        "rationale": "Textbook Section 6.4.6 states that when women and men are matched by age, the aerobic power values of women range from 73% to 85% of male values."
+      },
+      {
+        "id": 5,
+        "q": "Which physiological factors account for the lower baseline aerobic power observed in women compared to age-matched men?",
+        "opts": [
+          "Higher body fat percentage, lower blood hemoglobin, and smaller heart size/blood volume",
+          "Complete absence of Type I slow-twitch muscle fibers",
+          "Lower resting breathing frequency and smaller anatomical dead space",
+          "Inability to increase cardiac output during exercise"
+        ],
+        "correct": 0,
+        "rationale": "Aerobic power differences between sexes stem from women having a higher percentage of body fat, lower blood hemoglobin concentrations (14 vs. 15-16 g/dL), and smaller heart chamber size and blood volume."
+      },
+      {
+        "id": 6,
+        "q": "How does the general physiological response to aerobic training compare between men and women?",
+        "opts": [
+          "The relative physiological response and adaptation mechanisms are similar in men and women",
+          "Women experience no muscular enzymatic adaptations from aerobic training",
+          "Men exhibit no cardiac structural hypertrophy from endurance training",
+          "Women adapt exclusively through bone remodeling while men adapt through cardiac changes"
+        ],
+        "correct": 0,
+        "rationale": "Section 6.4.6 explicitly notes that despite absolute baseline differences, the general physiological response to training is similar in men and women."
+      },
+      {
+        "id": 7,
+        "q": "What happens to relative body fat mass in adults as age advances without structured exercise intervention?",
+        "opts": [
+          "It increases, contributing to declines in relative VO2max",
+          "It decreases to zero due to sarcopenia",
+          "It remains perfectly constant from age 20 to 80",
+          "It converts spontaneously into active mitochondrial enzyme protein"
+        ],
+        "correct": 0,
+        "rationale": "Aging in adults is typically accompanied by an increase in relative body fat mass, which along with sarcopenia reduces maximal aerobic power."
+      },
+      {
+        "id": 8,
+        "q": "What blood hemoglobin value is typical for healthy adult women compared to men (15-16 g/dL)?",
+        "opts": [
+          "Approximately 14 g/dL",
+          "Approximately 8 g/dL",
+          "Approximately 20 g/dL",
+          "Hemoglobin levels do not differ between sexes"
+        ],
+        "correct": 0,
+        "rationale": "Textbook sources note that average blood hemoglobin levels are approximately 14 g/dL in women compared to 15 to 16 g/dL in men, contributing to sex differences in oxygen-carrying capacity."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which factors influence the absolute magnitude of chronic aerobic training adaptations in an individual? (Select all that apply)",
+        "opts": [
+          "An individual's upper limit of genetic potential",
+          "Current training status of the individual",
+          "Proximity of biological systems to their ceiling limits",
+          "Age and sex of the individual",
+          "Eye color and dominant hand preference"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Genetic potential ceiling, current training status, proximity to biological upper limits, age, and sex all dictate the magnitude of training adaptations."
+      },
+      {
+        "id": 2,
+        "q": "Which anatomical and physiological factors contribute to lower baseline VO2max values in adult women compared to age-matched men? (Select all that apply)",
+        "opts": [
+          "Higher relative percentage of body fat",
+          "Lower circulating blood hemoglobin concentration",
+          "Smaller left ventricular heart chamber size",
+          "Smaller total blood volume",
+          "Inability of female mitochondria to synthesize ATP"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Sex differences in baseline VO2max are driven by higher body fat, lower hemoglobin (14 vs 15-16 g/dL), smaller heart size, and lower total blood volume in women."
+      },
+      {
+        "id": 3,
+        "q": "Which physiological changes account for age-related declines in maximal aerobic power in adults? (Select all that apply)",
+        "opts": [
+          "Sarcopenia (loss of muscle mass and strength)",
+          "Increase in relative body fat mass",
+          "Decreases in maximal heart rate and cardiac output",
+          "Loss of muscular capillarization and oxidative capacity",
+          "Permanent loss of pulmonary lung tissue"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Age-related drops in aerobic power stem from sarcopenia, increased relative body fat mass, and reductions in maximal heart rate, cardiac output, and peripheral oxidative capacity."
+      },
+      {
+        "id": 4,
+        "q": "Which statements regarding genetic potential and elite athletic training are correct? (Select all that apply)",
+        "opts": [
+          "Training gains follow a curve of diminishing returns near genetic ceilings",
+          "Small improvements (e.g., 0.05%) can determine medal outcomes in elite sports",
+          "Precise program design and monitoring become more critical as athletes advance",
+          "Untrained individuals make smaller percentage gains than elite athletes",
+          "Genetic ceilings apply to cardiovascular systems as well as muscular systems"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "As athletes near genetic ceilings, gains diminish, making precise programming vital for minute fractional improvements (0.05%). Untrained individuals actually experience larger percentage gains than elite athletes."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "As an athlete approaches their upper limit of genetic potential, further training produces increasingly smaller performance gains.",
+        "ans": true,
+        "feedback": "True. Biological adaptations follow diminishing returns; as upper limits are approached, performance gains become smaller."
+      },
+      {
+        "id": 2,
+        "q": "Sarcopenia refers to the age-related gain in relative body fat mass in sedentary adults.",
+        "ans": false,
+        "feedback": "False. Sarcopenia specifically refers to the age-related loss of muscle mass and muscle strength."
+      },
+      {
+        "id": 3,
+        "q": "Adult women average 73% to 85% of the maximal aerobic power values of age-matched men.",
+        "ans": true,
+        "feedback": "True. Matched by age, female VO2max values range from 73% to 85% of male values due to body composition, hemoglobin, and heart size differences."
+      },
+      {
+        "id": 4,
+        "q": "Men and women exhibit fundamentally different qualitative physiological mechanisms of adaptation to aerobic training.",
+        "ans": false,
+        "feedback": "False. Section 6.4.6 specifies that the general physiological response and adaptation mechanisms to aerobic training are similar in men and women."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "As athletes approach their genetic ceiling, adaptations follow the law of **diminishing returns**, making precise **micro-periodization** essential.",
+        "targets": [
+          "diminishing returns",
+          "micro-periodization"
+        ],
+        "optionsBank": [
+          "diminishing returns",
+          "micro-periodization",
+          "linear progression",
+          "sarcopenia",
+          "hypertrophy"
+        ],
+        "hint": "Biological headroom shrinks, requiring careful program design for tiny gains."
+      },
+      {
+        "id": 2,
+        "statement": "Maximal aerobic power declines with age due to **sarcopenia** and lower hemoglobin in women averages **73% to 85%** of male VO2max.",
+        "targets": [
+          "sarcopenia",
+          "73% to 85%"
+        ],
+        "optionsBank": [
+          "sarcopenia",
+          "73% to 85%",
+          "alkalosis",
+          "100%",
+          "50%"
+        ],
+        "hint": "Age-related muscle loss and female baseline aerobic power range."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Compare the physiological factors responsible for baseline aerobic power differences between adult men and women, and clarify whether their relative adaptation responses to aerobic training differ.",
+        "model": "Baseline aerobic power (VO2max) in adult women averages 73% to 85% of age-matched male values. This gap is driven by anatomical and physiological differences: women have a higher percentage of body fat, lower blood hemoglobin concentration (~14 g/dL vs. 15-16 g/dL in men), and smaller heart chamber size and blood volume. However, the general qualitative physiological responses and adaptation mechanisms to aerobic training (e.g., stroke volume increases, mitochondrial density, capillary growth, enzyme activity) are similar in men and women.",
+        "criteria": [
+          "Cites female VO2max as 73% to 85% of male values when age-matched",
+          "Lists physiological drivers: higher body fat, lower Hb (14 vs 15-16 g/dL), smaller heart size/blood volume",
+          "Confirms that relative qualitative adaptation responses to training are similar between sexes"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "An elite swimmer is within 1% of their theoretical genetic ceiling for aerobic capacity. Explain how the law of diminishing returns applies to their training and why program design becomes more critical.",
+        "model": "The law of diminishing returns dictates that as biological systems approach their genetic upper limit, equivalent or greater training volume yields progressively smaller physiological adaptations. For an elite swimmer near their ceiling, performance gains may be limited to fraction of a percent (e.g., 0.05%). In elite competition where hundredths of a second separate gold medals from missing finals, gaining that 0.05% is crucial. Therefore, precise micro-periodization, fatigue monitoring, and individual program design become paramount to elicit tiny performance increments without overtraining.",
+        "criteria": [
+          "Defines the law of diminishing returns relative to genetic ceiling limits",
+          "Explains that fractional gains (e.g., 0.05%) can determine competitive outcomes in elite sports",
+          "Emphasizes the necessity of precise program design, monitoring, and periodization near genetic ceilings"
+        ]
+      }
+    ]
+  }
+}

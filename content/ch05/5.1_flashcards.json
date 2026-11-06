@@ -1,0 +1,83 @@
+{
+    "chapterId": "5.1",
+    "title": "5.1 Neural Adaptations",
+    "cards": [
+        {
+            "id": "5.1-01",
+            "tag": "Central Adaptations",
+            "reference": "Section 5.1",
+            "front": "What is <strong>neural drive</strong>, and through what central mechanisms is it augmented during anaerobic training?",
+            "back": "<strong>Neural drive</strong> refers to the magnitude and velocity of electrical impulses transmitted from the central nervous system to agonist muscle fibers. It is augmented via:<ul><li>Increased agonist muscle recruitment</li><li>Improved neuronal discharge firing rates</li><li>Greater motor unit firing synchronization</li><li>Reduction in central inhibitory mechanisms (e.g., Golgi tendon organs)</li></ul>"
+        },
+        {
+            "id": "5.1-02",
+            "tag": "Central Adaptations",
+            "reference": "Section 5.1",
+            "front": "What proportion of muscle tissue can be voluntarily activated during maximal efforts in <strong>untrained populations</strong>?",
+            "back": "Untrained individuals voluntarily activate only approximately <strong>71%</strong> of available muscle tissue during maximal voluntary efforts, demonstrating a substantial baseline neural activation deficit."
+        },
+        {
+            "id": "5.1-03",
+            "tag": "Motor Unit Recruitment",
+            "reference": "Section 5.1",
+            "front": "What is <strong>summation</strong>, and how do increased motor unit firing rates enhance muscle force development?",
+            "back": "<strong>Summation</strong> occurs when increased motor unit firing rates cause successive action potentials to overlap before muscle fibers can completely relax from prior twitch contractions, resulting in augmented cumulative contractile force."
+        },
+        {
+            "id": "5.1-04",
+            "tag": "Size Principle",
+            "reference": "Section 5.1",
+            "front": "Explain <strong>Henneman's size principle</strong> and how it dictates motor unit recruitment during heavy resistance training.",
+            "back": "<strong>Henneman's size principle</strong> states that motor units are recruited in an ascending order based on their recruitment thresholds and firing rates. Low-threshold Type I slow-twitch motor units are recruited first, followed sequentially by high-threshold Type II fast-twitch motor units as force demands increase (>85% 1RM)."
+        },
+        {
+            "id": "5.1-05",
+            "tag": "Selective Recruitment",
+            "reference": "Section 5.1",
+            "front": "What is <strong>selective recruitment</strong>, and under what training conditions does it occur?",
+            "back": "<strong>Selective recruitment</strong> is an exception to the size principle where the central nervous system inhibits low-threshold slow-twitch motor units and preferentially activates high-threshold fast-twitch motor units. It occurs during high-velocity, ballistic movements (e.g., Olympic weightlifting, plyometrics, sprinting) where time constraints (<0.4 seconds) prevent sequential recruitment."
+        },
+        {
+            "id": "5.1-06",
+            "tag": "Neuromuscular Junction",
+            "reference": "Section 5.1",
+            "front": "What key <strong>structural and morphological adaptations</strong> occur at the neuromuscular junction (NMJ) following high-intensity anaerobic training?",
+            "back": "High-intensity anaerobic training induces beneficial NMJ structural remodeling, including:<ul><li>Increased total end-plate perimeter length and area</li><li>Greater presynaptic nerve terminal branching length and complexity</li><li>More dispersed, irregular-shaped synapses</li><li>Greater dispersion and total density of postsynaptic acetylcholine (ACh) receptors</li></ul>"
+        },
+        {
+            "id": "5.1-07",
+            "tag": "Reflex Potentiation",
+            "reference": "Section 5.1",
+            "front": "How does anaerobic training enhance the <strong>myotatic (stretch) reflex</strong>, and by what percentage can reflex potentiation increase?",
+            "back": "Resistance and anaerobic training increase <strong>reflex potentiation</strong> by <strong>19% to 55%</strong> in muscle spindles. This amplifies involuntary elastic force production during stretch-shortening cycle (SSC) movements without additional metabolic energy expenditure."
+        },
+        {
+            "id": "5.1-08",
+            "tag": "Electromyography & Training Status",
+            "reference": "Section 5.1",
+            "front": "What is the typical <strong>time course</strong> for neural versus hypertrophic adaptations during longitudinal resistance training?",
+            "back": "During early-phase resistance training (6 to 10 weeks), rapid strength gains are driven primarily by central neural adaptations (accompanied by marked EMG increases). Beyond 10 weeks, structural muscle hypertrophy becomes the dominant contributor to strength gains."
+        },
+        {
+            "id": "5.1-09",
+            "tag": "Cross-Education",
+            "reference": "Section 5.1",
+            "front": "What is <strong>cross-education</strong>, and what magnitude of strength gain can be achieved in the untrained limb?",
+            "back": "<strong>Cross-education</strong> is the phenomenon where unilateral resistance training produces increased strength and neural drive (EMG activity) in the untrained contralateral limb. Strength in the untrained limb increases by an average of <strong>~8%</strong> (and up to <strong>22%</strong>)."
+        },
+        {
+            "id": "5.1-10",
+            "tag": "Bilateral Deficit & Facilitation",
+            "reference": "Section 5.1",
+            "front": "Contrast the <strong>bilateral deficit</strong> in untrained individuals with <strong>bilateral facilitation</strong> in trained athletes.",
+            "back": "<ul><li><strong>Bilateral Deficit:</strong> In untrained individuals, the force produced when both limbs contract simultaneously is lower than the sum of forces produced unilaterally due to neural activation inhibition.</li><li><strong>Bilateral Facilitation:</strong> Longitudinal bilateral training reduces the deficit and enhances simultaneous two-limb voluntary agonist motor unit activation.</li></ul>"
+        },
+        {
+            "id": "5.1-11",
+            "tag": "Antagonist Cocontraction",
+            "reference": "Section 5.1",
+            "front": "How does resistance training alter <strong>antagonist cocontraction</strong>, and what effect does this have on force expression?",
+            "back": "Resistance training reduces excessive antagonist muscle cocontraction during agonist movements. Decreasing opposing muscle resistance increases net force production and movement velocity without requiring additional agonist motor unit recruitment."
+        }
+    ]
+}

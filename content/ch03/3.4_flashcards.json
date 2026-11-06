@@ -1,0 +1,76 @@
+{
+    "chapterId": "3.4",
+    "title": "3.4 Bioenergetic Limiting Factors in Exercise Performance",
+    "cards": [
+        {
+            "id": "3.4-01",
+            "tag": "Bioenergetic Limiting Factors",
+            "reference": "Section 3.4",
+            "front": "Why is understanding <strong>bioenergetic limiting factors</strong> necessary when designing athletic training programs?",
+            "back": "Identifying the specific limiting factors associated with a particular athletic event is required to design targeted training programs that delay fatigue, mitigate substrate depletion, and enhance exercise performance."
+        },
+        {
+            "id": "3.4-02",
+            "tag": "Substrate Depletion",
+            "reference": "Section 3.4",
+            "front": "For which types of exercise is <strong>glycogen depletion</strong> a major bioenergetic limiting factor?",
+            "back": "<strong>Glycogen depletion</strong> limits performance during both:<ul><li><strong>Long-duration, low-intensity exercise</strong> supported primarily by aerobic metabolism.</li><li><strong>Repeated, high-intensity exercise</strong> supported primarily by anaerobic mechanisms.</li></ul>"
+        },
+        {
+            "id": "3.4-03",
+            "tag": "Metabolic Acidosis",
+            "reference": "Section 3.4",
+            "front": "How does <strong>metabolic acidosis</strong> (H<sup>+</sup> accumulation) limit exercise performance in anaerobic activities?",
+            "back": "Accumulation of hydrogen ions (H<sup>+</sup>) reduces intracellular pH, directly limiting <strong>contractile force</strong> during sprinting, resistance training, and other anaerobic activities by inhibiting glycolytic enzymes and disrupting crossbridge recycling."
+        },
+        {
+            "id": "3.4-04",
+            "tag": "Secondary Metabolites",
+            "reference": "Section 3.4",
+            "front": "How does increased intracellular <strong>inorganic phosphate (P<sub>i</sub>)</strong> contribute to muscle fatigue?",
+            "back": "Elevated intracellular <strong>inorganic phosphate (P<sub>i</sub>)</strong> from rapid ATP hydrolysis directly impairs calcium (Ca<sup>2+</sup>) release from the sarcoplasmic reticulum and reduces myofilament force production."
+        },
+        {
+            "id": "3.4-05",
+            "tag": "Secondary Metabolites",
+            "reference": "Section 3.4",
+            "front": "What metabolic process causes <strong>ammonia accumulation</strong>, and how does it affect fatigue?",
+            "back": "<strong>Ammonia</strong> accumulates as a result of AMP deamination (via the adenylate kinase reaction) and amino acid degradation during intense exercise. Accumulating ammonia exerts toxic effects that contribute to peripheral and central muscular fatigue."
+        },
+        {
+            "id": "3.4-06",
+            "tag": "Phosphagen System",
+            "reference": "Section 3.4",
+            "front": "How does <strong>creatine phosphate (CP) depletion</strong> limit maximal high-intensity exercise?",
+            "back": "Rapid depletion of intramuscular <strong>creatine phosphate (CP)</strong> severely restricts the rate of ATP resynthesis, limiting maximal power output during short-duration, high-intensity explosive activities (0 to 30 seconds)."
+        },
+        {
+            "id": "3.4-07",
+            "tag": "Excitation-Contraction Coupling",
+            "reference": "Section 3.4",
+            "front": "How does impaired <strong>calcium (Ca<sup>2+</sup>) release</strong> from the sarcoplasmic reticulum cause fatigue?",
+            "back": "Impaired <strong>sarcoplasmic reticulum Ca<sup>2+</sup> release</strong> reduces cytosolic calcium availability, directly dampening troponin binding, crossbridge activation, and muscle contractile force."
+        },
+        {
+            "id": "3.4-08",
+            "tag": "Adenine Nucleotides",
+            "reference": "Section 3.4",
+            "front": "What effect does increased intracellular <strong>ADP concentration</strong> have on muscle contraction kinetics?",
+            "back": "High intracellular <strong>ADP</strong> concentrations reduce the free energy change available from ATP hydrolysis and slow crossbridge detachment rates, contributing to muscular fatigue."
+        },
+        {
+            "id": "3.4-09",
+            "tag": "Fatigue Mechanisms",
+            "reference": "Section 3.4",
+            "front": "What are the two main categories of <strong>bioenergetic factors</strong> that limit exercise performance?",
+            "back": "<ul><li><strong>Energy Source Depletion:</strong> Depletion of phosphagens (ATP/CP) and muscle/liver glycogen.</li><li><strong>Metabolic Byproduct Accumulation:</strong> Accumulation of hydrogen ions (H<sup>+</sup>), inorganic phosphate (P<sub>i</sub>), ammonia, and ADP.</li></ul>"
+        },
+        {
+            "id": "3.4-10",
+            "tag": "Exercise Physiology Application",
+            "reference": "Section 3.4",
+            "front": "How do bioenergetic limiting factors differ between a <strong>maximal sprint</strong> and a <strong>marathon</strong>?",
+            "back": "<ul><li><strong>Maximal Sprint:</strong> Limited primarily by phosphagen depletion and metabolic acidosis (H<sup>+</sup> accumulation).</li><li><strong>Marathon:</strong> Limited primarily by muscle and liver glycogen depletion and dehydration/thermoregulatory stress.</li></ul>"
+        }
+    ]
+}

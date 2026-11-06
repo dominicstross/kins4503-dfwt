@@ -1,0 +1,996 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What peak blood pressure value can be reached during high-intensity leg press exercise at 95% of 1RM?",
+        "opts": [
+          "Up to 320/250 mmHg",
+          "120/80 mmHg",
+          "180/100 mmHg",
+          "450/350 mmHg"
+        ],
+        "correct": 0,
+        "rationale": "Landmark research demonstrates that peak blood pressure values during heavy leg press exercise at 95% 1RM can reach extreme surges of up to 320/250 mmHg."
+      },
+      {
+        "id": 2,
+        "q": "During which phase of a repetition is the acute blood pressure response highest?",
+        "opts": [
+          "Concentric phase, particularly at the mechanical sticking point",
+          "Eccentric phase during initial muscle lengthening",
+          "Isometric rest period between sets",
+          "Pre-exercise anticipation phase"
+        ],
+        "correct": 0,
+        "rationale": "Hemodynamic surges are consistently higher during the concentric phase of each repetition\u2014especially at the sticking point\u2014than during the eccentric phase."
+      },
+      {
+        "id": 3,
+        "q": "How does the Valsalva maneuver alter intrathoracic pressure and venous return during heavy lifting?",
+        "opts": [
+          "Increases intrathoracic pressure, compressing the vena cava and temporarily reducing venous return",
+          "Decreases intrathoracic pressure, expanding the vena cava and doubling venous return",
+          "Eliminates intrathoracic pressure completely",
+          "Increases pulmonary capillary blood flow tenfold"
+        ],
+        "correct": 0,
+        "rationale": "Expiring against a closed glottis (Valsalva maneuver) raises intrathoracic pressure to stabilize the spine, but compresses the vena cava and temporarily diminishes venous return and end-diastolic volume."
+      },
+      {
+        "id": 4,
+        "q": "When does heart rate reach its absolute peak value following an acute high-intensity resistance set?",
+        "opts": [
+          "Within the first 5 seconds post-set completion",
+          "During the initial un-racking of the weight",
+          "At the exact midpoint of the concentric phase",
+          "Exactly 30 minutes after exercise cessation"
+        ],
+        "correct": 0,
+        "rationale": "Due to intrathoracic pressure release and hemodynamic lag, heart rate reaches its maximum peak during the first 5 seconds post-set completion rather than during active lifting."
+      },
+      {
+        "id": 5,
+        "q": "What magnitude of acute plasma volume reduction can occur during high-intensity resistance exercise?",
+        "opts": [
+          "Up to 22% reduction",
+          "0% change",
+          "50% increase",
+          "Exactly 2% reduction"
+        ],
+        "correct": 0,
+        "rationale": "High-intensity resistance exercise forces fluid out of the intravascular space into active skeletal muscle tissue, producing acute plasma volume reductions of up to 22%."
+      },
+      {
+        "id": 6,
+        "q": "At what percentage of maximal voluntary contraction (MVC) does intramuscular pressure compress capillaries, causing localized vascular occlusion?",
+        "opts": [
+          "Greater than 20% MVC",
+          "Greater than 95% MVC only",
+          "Exactly 1% MVC",
+          "100% MVC isometric holds only"
+        ],
+        "correct": 0,
+        "rationale": "Muscular contractions exceeding 20% of maximal voluntary contraction (MVC) mechanically compress peripheral capillaries, creating localized vascular occlusion during the set."
+      },
+      {
+        "id": 7,
+        "q": "What physiological phenomenon describes the dramatic surge in muscular blood flow following post-set muscle relaxation?",
+        "opts": [
+          "Reactive hyperemia",
+          "Vascular atrophy",
+          "Venous pooling",
+          "Capillary rarefaction"
+        ],
+        "correct": 0,
+        "rationale": "Following set completion and muscular relaxation, blood flow surges dramatically into previously ischemic muscle tissue\u2014a process termed reactive hyperemia."
+      },
+      {
+        "id": 8,
+        "q": "Which metabolic byproducts accumulate during localized vascular occlusion to provide a potent metabolic stimulus for muscle hypertrophy?",
+        "opts": [
+          "Hydrogen ions (H+) and inorganic phosphate",
+          "Glycogen and glucose-6-phosphate",
+          "Sodium and potassium ions",
+          "Hemoglobin and myoglobin"
+        ],
+        "correct": 0,
+        "rationale": "Localized ischemia during heavy contractions accumulates metabolic waste products such as hydrogen ions (H+) and inorganic phosphate while lowering intramuscular pH, stimulating muscle hypertrophy."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which acute hemodynamic changes occur during high-intensity anaerobic exercise? (Select all that apply)",
+        "opts": [
+          "Surges in systolic and diastolic blood pressure",
+          "Elevated heart rate approaching 170 bpm",
+          "Acute plasma volume reductions up to 22%",
+          "Immediate decrease in cardiac output to zero"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Anaerobic exercise causes acute surges in SBP/DBP, elevated heart rate (up to 170 bpm), and plasma volume drops up to 22%. Cardiac output increases post-set."
+      },
+      {
+        "id": 2,
+        "q": "Which physiological events result from performing the Valsalva maneuver during heavy resistance training? (Select all that apply)",
+        "opts": [
+          "Increased intrathoracic and intra-abdominal pressure to stabilize the torso",
+          "Compression of the vena cava and reduced venous return",
+          "Temporary decrease in end-diastolic volume (EDV) during active lifting",
+          "Delayed peak stroke volume and cardiac output occurring during eccentric/rest phases"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "The Valsalva maneuver increases intrathoracic pressure, compresses the vena cava, reduces venous return/EDV during lifting, and shifts peak SV/cardiac output to the eccentric/rest phase."
+      },
+      {
+        "id": 3,
+        "q": "Which factors influence the degree of peripheral blood flow restriction during resistance exercise? (Select all that apply)",
+        "opts": [
+          "Percentage of maximal voluntary contraction (exceeding 20% MVC)",
+          "Contraction duration and repetition count",
+          "Active muscle mass recruited during exercise",
+          "Hair color of the athlete"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Muscular blood flow restriction depends directly on contraction intensity (>20% MVC), duration/rep count, and total active muscle mass."
+      },
+      {
+        "id": 4,
+        "q": "Which characteristics define reactive hyperemia post-exercise? (Select all that apply)",
+        "opts": [
+          "A dramatic surge in muscle blood flow following muscular relaxation",
+          "Delivery of oxygen and nutrients to previously ischemic tissue",
+          "Clearance of accumulated metabolic waste products (H+ and inorganic phosphate)",
+          "Permanent cessation of capillary perfusion"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Reactive hyperemia involves post-relaxation blood flow surges, nutrient delivery to ischemic muscle, and metabolic byproduct clearance."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Peak blood pressure values during heavy resistance exercise are consistently higher during the concentric phase than during the eccentric phase.",
+        "ans": true,
+        "feedback": "Concentric contraction\u2014especially at the mechanical sticking point\u2014generates peak intramuscular force and maximal blood pressure surges."
+      },
+      {
+        "id": 2,
+        "q": "Executing the Valsalva maneuver increases end-diastolic volume and venous return during the active lifting phase.",
+        "ans": false,
+        "feedback": "The elevated intrathoracic pressure from the Valsalva maneuver compresses the vena cava, reducing venous return and EDV during lifting."
+      },
+      {
+        "id": 3,
+        "q": "High-intensity resistance exercise can cause acute plasma volume reductions of up to 22%.",
+        "ans": true,
+        "feedback": "Fluid shifts out of the vascular space into active skeletal muscle tissue, reducing plasma volume by up to 22% during heavy resistance sets."
+      },
+      {
+        "id": 4,
+        "q": "Intramuscular capillary compression and vascular occlusion occur at muscle contraction intensities exceeding 20% MVC.",
+        "ans": true,
+        "feedback": "Contractions above 20% MVC compress peripheral capillaries, restricting blood flow until muscle relaxation allows reactive hyperemia."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Peak blood pressure during heavy leg pressing can reach **320/250 mmHg**, while fluid shifts cause plasma volume reductions up to **22%**.",
+        "targets": [
+          "320/250 mmHg",
+          "22%"
+        ],
+        "optionsBank": [
+          "320/250 mmHg",
+          "22%",
+          "120/80 mmHg",
+          "50%",
+          "5%"
+        ],
+        "hint": "Recall the peak blood pressure and plasma volume reduction percentages."
+      },
+      {
+        "id": 2,
+        "statement": "Muscular contractions above **20% MVC** compress capillaries, and muscle relaxation post-set induces **reactive hyperemia**.",
+        "targets": [
+          "20% MVC",
+          "reactive hyperemia"
+        ],
+        "optionsBank": [
+          "20% MVC",
+          "reactive hyperemia",
+          "95% MVC",
+          "arterial atrophy",
+          "venous pooling"
+        ],
+        "hint": "Identify the occlusion threshold percentage and the post-set blood flow surge term."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Analyze the hemodynamic delay caused by the Valsalva maneuver during a heavy back squat, detailing its effects on venous return, end-diastolic volume, and post-set heart rate kinetics.",
+        "model": "During a heavy back squat, performing the Valsalva maneuver (expiring against a closed glottis) dramatically elevates intrathoracic and intra-abdominal pressures to stabilize the spinal column. However, high intrathoracic pressure compresses the vena cava, impeding venous return to the heart and temporarily reducing end-diastolic volume (EDV) during active lifting. Consequently, stroke volume and cardiac output are constrained during the concentric phase and peak primarily during the eccentric phase or during the rest window immediately following set completion when intrathoracic pressure drops. Heart rate reaches its maximum peak within the first 5 seconds post-set completion rather than during the lift itself.",
+        "criteria": [
+          "Explain that the Valsalva maneuver elevates intrathoracic pressure, compressing the vena cava and reducing venous return/EDV during lifting.",
+          "State that stroke volume and cardiac output peak during the eccentric phase or post-set rest window when pressure drops.",
+          "Identify that heart rate reaches its absolute peak during the first 5 seconds post-set completion."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain how localized capillary occlusion and subsequent reactive hyperemia act as physiological drivers for muscle hypertrophy during resistance training.",
+        "model": "When muscular force production exceeds 20% of maximal voluntary contraction (MVC), contracting muscle fibers mechanically compress peripheral capillaries, creating localized vascular occlusion and ischemia during the set. This localized ischemia starves active fibers of oxygen and accelerates the intramuscular accumulation of metabolic byproducts, including hydrogen ions (H+) and inorganic phosphate, while lowering cellular pH. Upon set completion, muscular relaxation releases capillary compression, triggering reactive hyperemia\u2014a dramatic surge in blood flow that flushes the ischemic bed. The combination of intense metabolic stress during occlusion and nutrient delivery during reactive hyperemia serves as a powerful stimulus for muscle hypertrophy.",
+        "criteria": [
+          "Identify that contractions >20% MVC compress capillaries, causing local ischemia during the set.",
+          "Describe the metabolic stress created by H+ and inorganic phosphate accumulation during occlusion.",
+          "Define reactive hyperemia as the post-set blood flow surge that flushes metabolites and delivers nutrients to drive hypertrophy."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What magnitude of chronic reduction in resting heart rate occurs following long-term anaerobic training?",
+        "opts": [
+          "4% to 13% reduction (yielding resting HR of 60 to 78 bpm)",
+          "50% reduction (yielding resting HR of 20 bpm)",
+          "Zero change in resting heart rate",
+          "100% increase in resting heart rate"
+        ],
+        "correct": 0,
+        "rationale": "Longitudinal studies in resistance-trained athletes document low-to-normal resting heart rates between 60 and 78 bpm, reflecting chronic reductions of 4% to 13%."
+      },
+      {
+        "id": 2,
+        "q": "What average chronic reductions in resting systolic and diastolic blood pressure result from long-term resistance training?",
+        "opts": [
+          "2% to 4% reduction",
+          "20% to 30% reduction",
+          "Zero change",
+          "15% elevation in resting blood pressure"
+        ],
+        "correct": 0,
+        "rationale": "Meta-analyses show that chronic resistance training reduces resting systolic and diastolic blood pressure by 2% to 4%, with the largest benefits occurring in pre-hypertensive or hypertensive individuals."
+      },
+      {
+        "id": 3,
+        "q": "How is the Rate-Pressure Product (RPP) calculated, and what does it measure at rest?",
+        "opts": [
+          "RPP = HR x SBP; measures myocardial oxygen consumption and cardiac workload",
+          "RPP = DBP / HR; measures peripheral nerve conduction velocity",
+          "RPP = SV x EDV; measures skeletal muscle fiber diameter",
+          "RPP = VO2 / SBP; measures lung vital capacity"
+        ],
+        "correct": 0,
+        "rationale": "Rate-Pressure Product is calculated as HR x SBP and serves as a direct clinical index of myocardial oxygen consumption and cardiac workload at rest."
+      },
+      {
+        "id": 4,
+        "q": "How does chronic resistance training alter absolute versus relative resting stroke volume?",
+        "opts": [
+          "Absolute stroke volume increases with lean mass, but relative stroke volume remains unchanged",
+          "Relative stroke volume increases 10-fold while absolute stroke volume drops to zero",
+          "Both absolute and relative stroke volume decrease by 50%",
+          "Stroke volume remains completely unaffected by lean mass gains"
+        ],
+        "correct": 0,
+        "rationale": "Absolute resting stroke volume increases in proportion to gains in lean body mass, but when expressed relative to body surface area or lean mass, relative stroke volume remains unchanged."
+      },
+      {
+        "id": 5,
+        "q": "What morphological cardiac wall adaptation is characteristic of chronically resistance-trained powerlifters and weightlifters?",
+        "opts": [
+          "Increased absolute posterior left ventricular wall thickness and interventricular septum thickness",
+          "Severe thinning and dilation of the left ventricular wall",
+          "Complete atrophy of the right atrium",
+          "Conversion of myocardial tissue into skeletal muscle"
+        ],
+        "correct": 0,
+        "rationale": "Chronic pressure loading during heavy lifting induces concentric cardiac remodeling, characterized by increased absolute thickness of the posterior left ventricular wall and interventricular septum."
+      },
+      {
+        "id": 6,
+        "q": "How do left ventricular chamber volume adaptations differ between heavy powerlifters and high-volume bodybuilders?",
+        "opts": [
+          "Powerlifters show little/no change in LV chamber volume, whereas bodybuilders show expanded LV chamber volumes",
+          "Powerlifters double their LV chamber volume while bodybuilders experience chamber shrinkage",
+          "Both groups experience complete chamber obliteration",
+          "Bodybuilders show zero LV wall thickening or chamber adaptation"
+        ],
+        "correct": 0,
+        "rationale": "Heavy low-volume lifting (powerlifting) induces little to no change in LV chamber volume. Bodybuilders display expanded LV chamber dimensions due to high-volume short-rest protocols and aerobic conditioning."
+      },
+      {
+        "id": 7,
+        "q": "What shifts in serum lipid profiles are typically observed following chronic anaerobic training?",
+        "opts": [
+          "Slight reductions in total cholesterol and LDL, alongside modest increases in HDL",
+          "Massive increases in LDL and complete destruction of HDL",
+          "Zero effect on any blood lipids",
+          "Conversion of all cholesterol into glucose"
+        ],
+        "correct": 0,
+        "rationale": "Chronic resistance training induces favorable or neutral modifications in serum lipids, yielding slight reductions in total cholesterol and LDL alongside modest increases in HDL."
+      },
+      {
+        "id": 8,
+        "q": "Why does left ventricular wall thickness remain within normal physiological boundaries when normalized relative to body dimensions in trained athletes?",
+        "opts": [
+          "Because wall thickness scales proportionally with increases in lean body mass and body surface area",
+          "Because heart walls shrink when lean body mass increases",
+          "Because resistance training destroys cardiac proteins",
+          "Because normal boundaries do not apply to athletes"
+        ],
+        "correct": 0,
+        "rationale": "Although absolute wall thickness increases, when normalized relative to lean body mass or total body surface area, left ventricular wall thickness remains within normal physiological limits."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which resting cardiovascular parameter reductions occur chronically following structured resistance training? (Select all that apply)",
+        "opts": [
+          "4% to 13% reduction in resting heart rate",
+          "2% to 4% reduction in resting systolic and diastolic blood pressure",
+          "Maintained or decreased Rate-Pressure Product (RPP)",
+          "50% decrease in total blood volume"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Long-term resistance training reduces resting HR (4-13%), lowers resting BP (2-4%), and maintains or decreases resting RPP."
+      },
+      {
+        "id": 2,
+        "q": "Which cardiac structural adaptations are observed in chronically resistance-trained athletes? (Select all that apply)",
+        "opts": [
+          "Concentric hypertrophy of the left ventricle",
+          "Increased posterior left ventricular wall thickness",
+          "Increased interventricular septum wall thickness",
+          "Severe pathologically thin cardiac walls"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Chronic heavy lifting causes concentric cardiac remodeling with thicker posterior LV walls and interventricular septum, preserving healthy wall integrity."
+      },
+      {
+        "id": 3,
+        "q": "Which factors contribute to expanded left ventricular chamber volumes in bodybuilders compared to powerlifters? (Select all that apply)",
+        "opts": [
+          "High-volume workout protocols with short rest intervals",
+          "Inclusion of routine aerobic conditioning",
+          "Sustained moderate cardiac output demands during high-rep sets",
+          "Exclusive use of 1RM maximal lifts with 10-minute rest"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Bodybuilders display expanded LV chamber volumes due to high set volume, short rest intervals, and aerobic exercise integration, unlike low-volume powerlifters."
+      },
+      {
+        "id": 4,
+        "q": "Which statements regarding resting stroke volume adaptations are correct? (Select all that apply)",
+        "opts": [
+          "Absolute resting stroke volume increases in proportion to gains in lean body mass",
+          "Relative resting stroke volume (per lean mass) remains unchanged",
+          "Gains in skeletal muscle mass support higher absolute resting stroke volume",
+          "Absolute stroke volume drops by 50% as muscle hypertrophy occurs"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Absolute stroke volume increases alongside lean mass gains, but relative stroke volume stays stable when normalized to body size."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Long-term resistance training produces 2% to 4% reductions in resting systolic and diastolic blood pressure.",
+        "ans": true,
+        "feedback": "Meta-analyses confirm 2% to 4% reductions in resting blood pressure following chronic resistance training."
+      },
+      {
+        "id": 2,
+        "q": "Rate-Pressure Product (RPP) is calculated as Heart Rate divided by Diastolic Blood Pressure.",
+        "ans": false,
+        "feedback": "Rate-Pressure Product is calculated as Heart Rate multiplied by Systolic Blood Pressure (RPP = HR x SBP)."
+      },
+      {
+        "id": 3,
+        "q": "Heavy low-volume powerlifting induces substantial expansion of left ventricular chamber volume.",
+        "ans": false,
+        "feedback": "Heavy low-volume powerlifting causes concentric wall thickening with little to no change in left ventricular chamber volume."
+      },
+      {
+        "id": 4,
+        "q": "When normalized relative to lean body mass, left ventricular wall thickness in resistance-trained athletes remains within normal physiological limits.",
+        "ans": true,
+        "feedback": "Concentric wall thickening scales proportionally with lean mass increases, remaining physiologically normal."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Resting blood pressure decreases by **2% to 4%**, while Rate-Pressure Product is calculated as **HR x SBP**.",
+        "targets": [
+          "2% to 4%",
+          "HR x SBP"
+        ],
+        "optionsBank": [
+          "2% to 4%",
+          "HR x SBP",
+          "50%",
+          "HR / DBP",
+          "SV x EDV"
+        ],
+        "hint": "Recall the blood pressure reduction range and the RPP mathematical formula."
+      },
+      {
+        "id": 2,
+        "statement": "Heavy lifting causes **concentric** left ventricular wall thickening, while bodybuilders expand LV **chamber volume**.",
+        "targets": [
+          "concentric",
+          "chamber volume"
+        ],
+        "optionsBank": [
+          "concentric",
+          "chamber volume",
+          "eccentric",
+          "valve area",
+          "atrophy"
+        ],
+        "hint": "Identify the type of cardiac wall hypertrophy and the chamber adaptation in bodybuilders."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Compare the cardiac morphological adaptations (left ventricular wall thickness vs. chamber volume) observed in competitive powerlifters versus high-volume bodybuilders.",
+        "model": "Competitive powerlifters undergo concentric cardiac remodeling characterized by increased absolute thickness of the posterior left ventricular wall and interventricular septum in response to acute transient pressure overloads during heavy, low-repetition lifts. However, powerlifters exhibit little to no change in left ventricular chamber volume or end-diastolic volume. In contrast, competitive bodybuilders display both concentric wall thickening and expanded left and right ventricular chamber volumes (as well as larger left atrial dimensions). This chamber expansion in bodybuilders is driven by high-volume training protocols utilizing short rest periods (generating sustained cardiac output demands) and the frequent inclusion of aerobic conditioning.",
+        "criteria": [
+          "Describe powerlifters as exhibiting concentric wall thickening (posterior wall and septum) with little/no change in LV chamber volume.",
+          "Describe bodybuilders as displaying both concentric wall thickening and expanded LV/RV chamber volumes.",
+          "Attribute chamber volume differences in bodybuilders to high volume, short rest intervals, and aerobic conditioning."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Define Rate-Pressure Product (RPP), explain its clinical significance, and describe how chronic resistance training alters resting RPP.",
+        "model": "Rate-Pressure Product (RPP), also known as double product, is mathematically calculated as the product of heart rate and systolic blood pressure (RPP = HR x SBP). Clinically, RPP serves as a direct, non-invasive estimate of myocardial oxygen consumption and total workload placed on the heart. Chronic resistance training maintains or significantly decreases resting RPP. This reduction occurs because long-term training lowers resting heart rate (by 4% to 13%) and resting systolic blood pressure (by 2% to 4%), resulting in improved resting myocardial efficiency and reduced cardiac work.",
+        "criteria": [
+          "State the formula for RPP (RPP = HR x SBP) and define it as a measure of myocardial oxygen consumption/cardiac workload.",
+          "Explain that chronic resistance training maintains or significantly decreases resting RPP.",
+          "Link RPP reductions directly to decreases in resting heart rate and resting systolic blood pressure."
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "How does chronic resistance training modify the acute hemodynamic response (HR and BP) to a given absolute submaximal workload?",
+        "opts": [
+          "Significantly blunts acute spikes in heart rate and blood pressure",
+          "Doubles acute heart rate and blood pressure spikes",
+          "Causes acute blood pressure to drop to zero",
+          "Has zero effect on submaximal hemodynamic responses"
+        ],
+        "correct": 0,
+        "rationale": "Chronic resistance training attenuates acute cardiovascular strain, resulting in significantly lower heart rate and blood pressure responses when performing a set at a given absolute submaximal load."
+      },
+      {
+        "id": 2,
+        "q": "What primary mechanism explains the blunted submaximal cardiovascular response in chronically trained athletes?",
+        "opts": [
+          "Decreased left ventricular afterload due to reduced peripheral arterial resistance",
+          "Increased arterial stiffness and peripheral vascular blockage",
+          "Complete loss of sympathetic nervous system innervation",
+          "Destruction of red blood cells during heavy lifting"
+        ],
+        "correct": 0,
+        "rationale": "Chronic training reduces peripheral arterial resistance and blunts the pressor response during exercise, lowering left ventricular afterload (the resistance against which the heart pumps)."
+      },
+      {
+        "id": 3,
+        "q": "What effect does reduced left ventricular afterload have on peak stroke volume and cardiac output during exercise?",
+        "opts": [
+          "Allows the heart to achieve significantly higher peak stroke volume and cardiac output per absolute workload",
+          "Forces stroke volume to drop to zero",
+          "Prevents cardiac output from exceeding resting values",
+          "Causes cardiac arrest during submaximal lifting"
+        ],
+        "correct": 0,
+        "rationale": "Lowering left ventricular afterload reduces cardiac resistance, enabling the heart to achieve greater peak stroke volume and cardiac output during submaximal and maximal exercise."
+      },
+      {
+        "id": 4,
+        "q": "How do peak stroke volume and peak cardiac output during exercise compare between competitive bodybuilders and powerlifters?",
+        "opts": [
+          "Bodybuilders attain higher peak stroke volume and cardiac output than powerlifters during exercise",
+          "Powerlifters attain 10-fold higher stroke volume than bodybuilders",
+          "Both groups show lower stroke volume than bedridden controls",
+          "Bodybuilders cannot increase cardiac output above rest"
+        ],
+        "correct": 0,
+        "rationale": "Research indicates that competitive bodybuilders attain greater peak stroke volume and peak cardiac output during exercise than powerlifters due to high-volume short-rest conditioning."
+      },
+      {
+        "id": 5,
+        "q": "What happens to myocardial oxygen consumption during submaximal lifting following chronic resistance training?",
+        "opts": [
+          "Decreases due to lower rate-pressure product and reduced afterload",
+          "Increases by 500%",
+          "Remains completely unchanged",
+          "Fluctuates unpredictably every second"
+        ],
+        "correct": 0,
+        "rationale": "Reduced afterload and blunted submaximal rate-pressure product lower myocardial oxygen consumption, protecting the heart muscle during physical exertion."
+      },
+      {
+        "id": 6,
+        "q": "How does heavy low-volume resistance training affect systemic muscle tissue oxygen extraction (a-vO2 diff)?",
+        "opts": [
+          "Does not significantly enhance systemic a-vO2 diff",
+          "Increases a-vO2 diff by 1,000%",
+          "Eliminates oxygen extraction entirely",
+          "Converts a-vO2 diff into blood pressure"
+        ],
+        "correct": 0,
+        "rationale": "Unlike aerobic endurance training, heavy low-volume resistance training does not significantly enhance systemic muscle tissue oxygen extraction (arteriovenous oxygen difference)."
+      },
+      {
+        "id": 7,
+        "q": "What type of resistance training protocol CAN induce modest increases in tissue oxygen extraction (a-vO2 diff)?",
+        "opts": [
+          "High-volume resistance programs with short rest intervals",
+          "Low-volume 1RM lifting with 15-minute rest intervals",
+          "Single-repetition heavy isometric holds",
+          "Passive stretching while lying down"
+        ],
+        "correct": 0,
+        "rationale": "High-volume resistance protocols utilizing short rest periods generate high metabolic demand, driving modest increases in tissue oxygen extraction capacity."
+      },
+      {
+        "id": 8,
+        "q": "How do male bodybuilders performing sets to muscular failure respond hemodynamically compared to untrained controls?",
+        "opts": [
+          "Exhibit significantly lower peak SBP, DBP, and heart rate at given relative intensities",
+          "Exhibit double the peak SBP and HR of untrained controls",
+          "Experience immediate fainting due to low pressure",
+          "Show identical hemodynamic surges to untrained controls"
+        ],
+        "correct": 0,
+        "rationale": "Studies demonstrate that bodybuilders performing sets to muscular failure (at 50% to 100% 1RM) exhibit significantly blunted peak SBP, DBP, and HR responses compared to untrained individuals."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which submaximal hemodynamic responses are blunted following chronic resistance training? (Select all that apply)",
+        "opts": [
+          "Submaximal heart rate spikes",
+          "Submaximal systolic blood pressure surges",
+          "Submaximal diastolic blood pressure surges",
+          "Submaximal Rate-Pressure Product (RPP)"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Chronic training attenuates acute submaximal HR, SBP, DBP, and RPP spikes for any given absolute resistance workload."
+      },
+      {
+        "id": 2,
+        "q": "Which physiological mechanisms account for enhanced peak cardiac output in trained lifters? (Select all that apply)",
+        "opts": [
+          "Decreased left ventricular afterload",
+          "Reduced peripheral arterial resistance during exertion",
+          "Elevated peak stroke volume capacity",
+          "Complete arterial vasoconstriction"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Decreased afterload and reduced peripheral resistance allow higher stroke volume and elevated peak cardiac output during exertion."
+      },
+      {
+        "id": 3,
+        "q": "Which statements regarding tissue oxygen extraction (a-vO2 diff) in strength athletes are accurate? (Select all that apply)",
+        "opts": [
+          "Heavy low-volume lifting produces minimal changes in systemic a-vO2 diff",
+          "High-volume short-rest protocols can elicit modest increases in a-vO2 diff",
+          "Continuous aerobic endurance training is the primary driver of major a-vO2 diff gains",
+          "Resistance training completely destroys tissue oxygen extraction capacity"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Heavy lifting yields little a-vO2 diff gain; high-volume short-rest lifting induces modest gains; aerobic training is the main driver."
+      },
+      {
+        "id": 4,
+        "q": "Why is a reduction in left ventricular afterload protective for the myocardium? (Select all that apply)",
+        "opts": [
+          "It reduces the resistive force against which the left ventricle must pump",
+          "It lowers rate-pressure product and myocardial oxygen demand",
+          "It improves circulatory efficiency during physical exertion",
+          "It forces the heart muscle to work 5 times harder"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Decreased afterload reduces cardiac pumping resistance, lowers myocardial oxygen demand, and protects the heart."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Chronic resistance training blunts acute heart rate and blood pressure surges during submaximal exercise at a given absolute workload.",
+        "ans": true,
+        "feedback": "Long-term training reduces sympathetic drive and peripheral resistance, blunting submaximal HR and BP spikes."
+      },
+      {
+        "id": 2,
+        "q": "Left ventricular afterload refers to the end-diastolic volume filling the left atrium.",
+        "ans": false,
+        "feedback": "Afterload is the peripheral arterial pressure/resistance against which the left ventricle must contract to eject blood."
+      },
+      {
+        "id": 3,
+        "q": "Bodybuilders achieve higher peak stroke volume and peak cardiac output during exercise than powerlifters.",
+        "ans": true,
+        "feedback": "Bodybuilders' high-volume short-rest training reduces afterload and expands stroke volume capacity during exertion."
+      },
+      {
+        "id": 4,
+        "q": "Heavy low-volume powerlifting substantially increases systemic arteriovenous oxygen difference (a-vO2 diff).",
+        "ans": false,
+        "feedback": "Heavy low-volume lifting produces minimal changes in a-vO2 diff; aerobic exercise is required for major a-vO2 diff increases."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Chronic training blunts submaximal **blood pressure** spikes by reducing left ventricular **afterload**.",
+        "targets": [
+          "blood pressure",
+          "afterload"
+        ],
+        "optionsBank": [
+          "blood pressure",
+          "afterload",
+          "preload",
+          "lung capacity",
+          "bone mass"
+        ],
+        "hint": "Recall the hemodynamic variable that is blunted and the cardiac resistance term."
+      },
+      {
+        "id": 2,
+        "statement": "Decreased afterload elevates peak **stroke volume**, while heavy low-volume lifting produces little change in **a-vO2 diff**.",
+        "targets": [
+          "stroke volume",
+          "a-vO2 diff"
+        ],
+        "optionsBank": [
+          "stroke volume",
+          "a-vO2 diff",
+          "heart rate",
+          "plasma volume",
+          "lactic acid"
+        ],
+        "hint": "Identify the cardiac output component that increases and the oxygen extraction metric."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain how chronic resistance training reduces left ventricular afterload during exercise, and describe the resulting benefits for cardiac function and myocardial oxygen demand.",
+        "model": "Left ventricular afterload is the peripheral arterial pressure and vascular resistance against which the left ventricle must contract to eject blood into systemic circulation. Chronic resistance training lowers afterload during submaximal exercise by reducing peripheral vascular resistance and blunting the acute pressor response. Decreasing afterload provides two primary cardiac benefits: first, it enables the heart to achieve significantly higher peak stroke volume and peak cardiac output during exertion; second, it reduces the rate-pressure product (RPP) and myocardial oxygen demand, protecting the heart muscle from excessive metabolic stress during intense physical exertion.",
+        "criteria": [
+          "Define left ventricular afterload as peripheral arterial resistance against cardiac ejection.",
+          "Explain that chronic training lowers afterload by reducing peripheral vascular resistance and blunting pressor responses.",
+          "State that lower afterload elevates peak stroke volume/cardiac output and reduces myocardial oxygen demand."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Contrast the submaximal hemodynamic adaptations (HR and BP) resulting from chronic resistance training with systemic oxygen extraction (a-vO2 diff) adaptations.",
+        "model": "Chronic resistance training produces profound adaptations in submaximal hemodynamic responses: at any given absolute workload (e.g., lifting 100 kg), trained athletes exhibit blunted spikes in heart rate, systolic blood pressure, diastolic blood pressure, and rate-pressure product due to reduced sympathetic drive and lower afterload. However, heavy low-volume resistance training does NOT significantly enhance systemic muscle tissue oxygen extraction (arteriovenous oxygen difference, a-vO2 diff). Unlike continuous aerobic endurance training (which drives major capillary and mitochondrial adaptations to elevate a-vO2 diff), strength training improves performance primarily through mechanical force efficiency and reduced afterload rather than systemic oxygen extraction.",
+        "criteria": [
+          "Describe submaximal hemodynamic adaptations as blunted HR, SBP, DBP, and RPP spikes at given absolute workloads.",
+          "State that heavy low-volume lifting produces minimal changes in systemic a-vO2 diff.",
+          "Contrast with aerobic training, which relies on elevated a-vO2 diff via capillary/mitochondrial proliferation."
+        ]
+      }
+    ]
+  },
+  "p4": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "When does pulmonary minute ventilation (VE) reach its absolute peak value relative to a set of heavy resistance exercise?",
+        "opts": [
+          "During the first minute of recovery following set completion (recovery overshoot)",
+          "At the exact midpoint of the concentric lifting phase",
+          "10 minutes prior to beginning the workout",
+          "Only during deep sleep 8 hours later"
+        ],
+        "correct": 0,
+        "rationale": "Pulmonary ventilation reaches its peak during the first minute of recovery following set completion\u2014a phenomenon known as ventilatory recovery overshoot."
+      },
+      {
+        "id": 2,
+        "q": "What peak ventilatory rates are routinely observed during the immediate post-set recovery window following heavy resistance lifting?",
+        "opts": [
+          "Rates exceeding 60 L/min",
+          "Exactly 5 L/min",
+          "Zero ventilation",
+          "500 L/min"
+        ],
+        "correct": 0,
+        "rationale": "Ventilatory rates exceeding 60 L/min are routinely recorded during the first minute of recovery following heavy resistance exercise sets."
+      },
+      {
+        "id": 3,
+        "q": "Which workout design factor produces the highest peak ventilatory rates during post-set recovery?",
+        "opts": [
+          "Short rest intervals (30 seconds to 1 minute)",
+          "Long rest intervals of 15 minutes",
+          "Light weights with 0% effort",
+          "Single-repetition isometric holds with zero movement"
+        ],
+        "correct": 0,
+        "rationale": "Short rest intervals (30 s to 1 min) create high metabolic accumulation of hydrogen ions (H+) and carbon dioxide (CO2), driving the highest peak post-set ventilatory rates."
+      },
+      {
+        "id": 4,
+        "q": "How does chronic anaerobic training alter breathing patterns during submaximal exercise?",
+        "opts": [
+          "Reduces breathing frequency while increasing tidal volume (deeper, slower respiration)",
+          "Increases breathing frequency while reducing tidal volume to rapid shallow breaths",
+          "Stops breathing completely during submaximal lifting",
+          "Causes breathing frequency to exceed 200 breaths per minute"
+        ],
+        "correct": 0,
+        "rationale": "During submaximal exercise, chronic training adapts breathing mechanics by reducing breathing frequency (f) and increasing tidal volume (VT), establishing a deeper, slower, more efficient pattern."
+      },
+      {
+        "id": 5,
+        "q": "How does chronic anaerobic training adapt breathing mechanics during maximal exercise?",
+        "opts": [
+          "Increases both tidal volume and breathing frequency to maximize peak gas exchange",
+          "Reduces tidal volume to zero",
+          "Eliminates breathing frequency completely",
+          "Halves maximal ventilatory capacity"
+        ],
+        "correct": 0,
+        "rationale": "During maximal exertion, chronic training increases both tidal volume (VT) and breathing frequency (f), expanding total maximal ventilatory capacity."
+      },
+      {
+        "id": 6,
+        "q": "What is the ventilatory equivalent for oxygen (VE/VO2), and how does chronic training alter it?",
+        "opts": [
+          "Ratio of minute ventilation to oxygen consumed; chronic training lowers (improves) VE/VO2",
+          "Ratio of heart rate to blood pressure; chronic training doubles VE/VO2",
+          "Ratio of stroke volume to body weight; remains unchanged",
+          "Ratio of CO2 produced to glucose consumed; increases 100-fold"
+        ],
+        "correct": 0,
+        "rationale": "Ventilatory equivalent for oxygen (VE/VO2) is the ratio of ventilation to oxygen consumption; chronic training lowers VE/VO2, indicating improved ventilatory efficiency."
+      },
+      {
+        "id": 7,
+        "q": "Why is a lower ventilatory equivalent for oxygen (VE/VO2) advantageous for an athlete during exercise?",
+        "opts": [
+          "Indicates greater ventilatory efficiency, requiring less minute ventilation per unit of oxygen consumed",
+          "Indicates that the lungs have stopped working",
+          "Means oxygen is no longer required for muscle contraction",
+          "Prevents carbon dioxide from leaving the body"
+        ],
+        "correct": 0,
+        "rationale": "A lower VE/VO2 ratio signifies that the respiratory system breathes less total air volume to supply a given quantity of oxygen to working muscle tissue, conserving respiratory muscle energy."
+      },
+      {
+        "id": 8,
+        "q": "What localized physiological mechanisms drive improvements in ventilatory efficiency following anaerobic training?",
+        "opts": [
+          "Neural and chemical adaptations within the specific active skeletal muscle groups trained",
+          "Expansion of lung anatomical volume by 500%",
+          "Growth of new air sacs inside the heart",
+          "Loss of capillary density in the alveoli"
+        ],
+        "correct": 0,
+        "rationale": "Ventilatory efficiency gains stem from localized neural afferent and chemical metabolic adaptations within the specific active skeletal muscle groups engaged during exercise."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which factors contribute to the recovery ventilatory overshoot observed post-set? (Select all that apply)",
+        "opts": [
+          "Rapid accumulation of intramuscular hydrogen ions (H+)",
+          "Elevated arterial carbon dioxide (CO2) concentrations",
+          "Short rest interval duration (30 seconds to 1 minute)",
+          "Complete clearance of all metabolic byproducts during the lift"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Post-set ventilatory overshoot is driven by metabolic H+ and CO2 accumulation, accentuated by short rest intervals."
+      },
+      {
+        "id": 2,
+        "q": "Which breathing pattern adaptations occur during submaximal exercise in trained lifters? (Select all that apply)",
+        "opts": [
+          "Decreased breathing frequency (f)",
+          "Increased tidal volume (VT)",
+          "Deeper and slower respiration",
+          "Rapid shallow panting"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Submaximal breathing becomes deeper and slower, characterized by lower breathing frequency and higher tidal volume."
+      },
+      {
+        "id": 3,
+        "q": "Which respiratory parameters increase during maximal anaerobic exertion in trained athletes? (Select all that apply)",
+        "opts": [
+          "Maximal tidal volume (VT)",
+          "Maximal breathing frequency (f)",
+          "Peak pulmonary minute ventilation (VE)",
+          "Anatomical dead space volume to 100%"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Maximal exertion increases maximal tidal volume, maximal breathing frequency, and peak minute ventilation capacity."
+      },
+      {
+        "id": 4,
+        "q": "Which statements regarding the ventilatory equivalent for oxygen (VE/VO2) are accurate? (Select all that apply)",
+        "opts": [
+          "It represents the ratio of minute ventilation to oxygen consumption",
+          "Chronic anaerobic training lowers the VE/VO2 ratio during exercise",
+          "A lower VE/VO2 reflects enhanced ventilatory efficiency",
+          "VE/VO2 measures resting blood pressure"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "VE/VO2 is the ventilation-to-oxygen ratio; chronic training lowers it, reflecting superior ventilatory efficiency."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Pulmonary ventilation reaches its absolute peak during the active concentric phase of a heavy resistance lift.",
+        "ans": false,
+        "feedback": "Pulmonary ventilation reaches its peak during the first minute of recovery following set completion (ventilatory recovery overshoot)."
+      },
+      {
+        "id": 2,
+        "q": "Post-set ventilatory rates can exceed 60 L/min during the immediate recovery window.",
+        "ans": true,
+        "feedback": "Peak ventilation post-set routinely exceeds 60 L/min, driven by metabolic H+ and CO2 clearance."
+      },
+      {
+        "id": 3,
+        "q": "During submaximal exercise, chronic training causes breathing to become shallow and rapid.",
+        "ans": false,
+        "feedback": "Submaximal breathing becomes deeper and slower (decreased breathing frequency, increased tidal volume)."
+      },
+      {
+        "id": 4,
+        "q": "A lower ventilatory equivalent for oxygen (VE/VO2) indicates improved respiratory efficiency during exercise.",
+        "ans": true,
+        "feedback": "A lower VE/VO2 ratio means less air must be ventilated per unit of oxygen consumed by active skeletal muscle."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Peak ventilation reaches **>60 L/min** during the **first minute of recovery** following heavy sets.",
+        "targets": [
+          ">60 L/min",
+          "first minute of recovery"
+        ],
+        "optionsBank": [
+          ">60 L/min",
+          "first minute of recovery",
+          "5 L/min",
+          "concentric phase",
+          "10 hours later"
+        ],
+        "hint": "Recall the peak ventilatory rate and recovery window timing."
+      },
+      {
+        "id": 2,
+        "statement": "Submaximal breathing adapts by increasing **tidal volume** and lowering **ventilatory equivalent (VE/VO2)**.",
+        "targets": [
+          "tidal volume",
+          "ventilatory equivalent (VE/VO2)"
+        ],
+        "optionsBank": [
+          "tidal volume",
+          "ventilatory equivalent (VE/VO2)",
+          "blood pressure",
+          "heart rate",
+          "arterial stiffness"
+        ],
+        "hint": "Identify the depth-of-breath metric and the respiratory efficiency ratio."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain the physiological mechanisms responsible for the recovery ventilatory overshoot observed during the first minute following a heavy resistance exercise set.",
+        "model": "During an acute set of high-intensity resistance exercise, active skeletal muscle relies heavily on anaerobic glycolysis, producing substantial amounts of metabolic byproducts including hydrogen ions (H+) and carbon dioxide (CO2). Intramuscular capillary compression during muscle contraction limits blood flow and gas exchange during the set itself. Upon set completion and muscular relaxation, blood flow surges (reactive hyperemia), flushing accumulated H+ and CO2 into systemic arterial circulation. These metabolic secretagogues stimulate peripheral chemoreceptors in the carotid bodies and central chemoreceptors in the medulla oblongata, driving pulmonary ventilation (VE) to its peak (exceeding 60 L/min) during the first minute of recovery (ventilatory recovery overshoot) to restore blood gas homeostasis.",
+        "criteria": [
+          "Identify anaerobic glycolysis and H+/CO2 accumulation during the heavy set as primary metabolic secretagogues.",
+          "Explain that muscle contraction limits gas exchange during the set, causing a surge of H+/CO2 into circulation upon post-set relaxation.",
+          "State that chemoreceptor stimulation drives peak ventilation (>60 L/min) during the first minute of recovery (recovery overshoot)."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Formulate conditioning guidelines for high-intensity team sport athletes (e.g., soccer, basketball) to improve ventilatory efficiency (VE/VO2) and accelerate post-set recovery.",
+        "model": "To optimize ventilatory efficiency (VE/VO2) and accelerate recovery kinetics in team sport athletes, strength and conditioning programs should incorporate high-density resistance protocols utilizing moderate-to-heavy loads (70% to 85% 1RM) combined with short rest intervals (30 to 60 seconds). Short rest intervals expose the respiratory system to high metabolic H+ and CO2 burdens, driving localized neural afferent and metabolic adaptations in active muscle groups. Over time, these adaptations adapt breathing mechanics during submaximal exertion by decreasing breathing frequency (f) and increasing tidal volume (VT)\u2014creating a deeper, slower respiration pattern that lowers the VE/VO2 ratio, conserves respiratory muscle energy, and speeds inter-set metabolic clearance.",
+        "criteria": [
+          "Recommend high-density resistance training with short rest intervals (30 to 60 seconds) to challenge ventilatory kinetics.",
+          "Explain that chronic adaptation alters submaximal breathing mechanics by decreasing frequency and increasing tidal volume (deeper, slower breaths).",
+          "State that lowering the VE/VO2 ratio enhances ventilatory efficiency and accelerates metabolic clearance between high-intensity sport bouts."
+        ]
+      }
+    ]
+  }
+}

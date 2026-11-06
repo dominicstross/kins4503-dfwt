@@ -1,0 +1,750 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Which acute anabolic hormone undergoes rapid elevation for up to 30 minutes following an acute bout of heavy resistance exercise in men?",
+        "opts": [
+          "Testosterone",
+          "Insulin",
+          "Thyroxine",
+          "Parathyroid hormone"
+        ],
+        "correct": 0,
+        "rationale": "Testosterone, molecular variants of growth hormone (GH), and cortisol elevate rapidly during and immediately after heavy resistance exercise, remaining significantly heightened for up to 30 minutes post-workout."
+      },
+      {
+        "id": 2,
+        "q": "Which acute exercise variable combination elicits the greatest magnitude of acute growth hormone (GH) secretion?",
+        "opts": [
+          "Moderate-to-high intensity (70-85% 1RM), high total volume, and short rest intervals (30 to 90 seconds)",
+          "Low intensity (20% 1RM), single set, and 10-minute rest intervals",
+          "Isometric holds at 10% 1RM with 5-minute rest intervals",
+          "Passive stretching with zero active muscle contraction"
+        ],
+        "correct": 0,
+        "rationale": "Acute GH surges are maximized by protocols utilizing large muscle mass structural exercises, moderate-to-high intensity (70-85% 1RM), high total set volume, and short rest periods (30-90 s)."
+      },
+      {
+        "id": 3,
+        "q": "What metabolic byproduct accumulation is strongly correlated with acute spikes in circulating growth hormone and cortisol?",
+        "opts": [
+          "Intramuscular hydrogen ion (H+) accumulation and elevated blood lactate",
+          "Glycogen supercompensation",
+          "Decreased body temperature",
+          "Complete clearance of carbon dioxide"
+        ],
+        "correct": 0,
+        "rationale": "High-volume, short-rest resistance exercise generates significant hydrogen ion (H+) accumulation and elevated blood lactate, which serve as primary metabolic secretagogues triggering acute GH and cortisol release."
+      },
+      {
+        "id": 4,
+        "q": "How does Mechano Growth Factor (MGF) differ from hepatic Insulin-like Growth Factor I (IGF-I)?",
+        "opts": [
+          "MGF is synthesized locally within skeletal muscle in direct response to mechanical strain, acting autocrinely/paracrinely independent of systemic GH",
+          "MGF is secreted exclusively by the anterior pituitary gland into systemic circulation",
+          "MGF is produced in the kidneys to regulate sodium balance",
+          "MGF inhibits all muscle protein synthesis permanently"
+        ],
+        "correct": 0,
+        "rationale": "MGF is a locally produced splice variant of IGF-I produced inside damaged skeletal muscle fibers following mechanical stress, driving localized repair autocrinely and paracrinely independent of systemic GH."
+      },
+      {
+        "id": 5,
+        "q": "What primary acute role do catecholamines (epinephrine, norepinephrine, dopamine) play during maximal anaerobic effort?",
+        "opts": [
+          "Augment maximal muscle force production, rate of force development, energy substrate mobilization, and anabolic hormone secretion",
+          "Inhibit glycogenolysis and decrease heart rate",
+          "Promote immediate muscular relaxation and sleep induction",
+          "Block all calcium release from the sarcoplasmic reticulum"
+        ],
+        "correct": 0,
+        "rationale": "Catecholamines act as potent neuromuscular stimulators during acute heavy exertion, increasing force output, contraction velocity, glycolytic enzyme activity, and systemic anabolic hormone release."
+      },
+      {
+        "id": 6,
+        "q": "How is insulin secretion regulated in relation to resistance exercise?",
+        "opts": [
+          "Insulin is not directly stimulated by anaerobic exercise itself; it is primarily regulated by peri-workout carbohydrate and protein intake",
+          "Insulin spikes 100-fold during heavy lifting independent of food",
+          "Insulin is destroyed completely by skeletal muscle contractions",
+          "Insulin is secreted by the adrenal cortex during 1RM squats"
+        ],
+        "correct": 0,
+        "rationale": "Resistance exercise alone does not elevate insulin levels. Circulating insulin levels depend on blood glucose and amino acid availability, regulated through nutrient supplementation."
+      },
+      {
+        "id": 7,
+        "q": "What proportion of total circulating testosterone exists in the biologically active 'free' form?",
+        "opts": [
+          "Only 0.5% to 2.0%",
+          "Approximately 50% to 60%",
+          "Exactly 99.9%",
+          "100% of all circulating testosterone"
+        ],
+        "correct": 0,
+        "rationale": "Only a small fraction (0.5% to 2.0%) of total serum testosterone exists in the un-bound 'free' state capable of interacting with androgen receptors; the remainder is bound to sex hormone-binding globulin (SHBG) and albumin."
+      },
+      {
+        "id": 8,
+        "q": "What acute catabolic function does cortisol perform following high-volume, strenuous resistance exercise?",
+        "opts": [
+          "Promotes gluconeogenesis, protein breakdown in over-fatigued fibers, and suppresses acute immune/inflammatory excess",
+          "Stimulates immediate actin and myosin myofibrillar synthesis",
+          "Increases glycogen storage by 500% in 1 minute",
+          "Converts fast-twitch muscle fibers into cardiac tissue"
+        ],
+        "correct": 0,
+        "rationale": "Cortisol is a primary catabolic glucocorticoid that stimulates amino acid mobilization via protein degradation to maintain blood glucose during severe metabolic stress."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which acute workout variables maximize the post-exercise surge of testosterone and growth hormone? (Select all that apply)",
+        "opts": [
+          "Large muscle mass structural exercises (squats, deadlifts)",
+          "Moderate-to-high intensity (70% to 85% 1RM)",
+          "High total set volume",
+          "Short rest intervals (30 to 90 seconds)"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Acute anabolic hormonal spikes are maximized by structural multijoint movements, moderate-to-high loading (70-85% 1RM), high set volume, and short rest periods (30-90 s)."
+      },
+      {
+        "id": 2,
+        "q": "Which physiological roles are mediated by catecholamines during high-intensity exertion? (Select all that apply)",
+        "opts": [
+          "Augmentation of maximal muscle force output",
+          "Increased rate of force development (RFD)",
+          "Stimulation of intramuscular glycogenolysis",
+          "Promotion of deep REM sleep during exercise"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Catecholamines elevate force capacity, contraction speed, and energy substrate mobilization during high-intensity exercise."
+      },
+      {
+        "id": 3,
+        "q": "Which statements accurately distinguish systemic IGF-I from local Mechano Growth Factor (MGF)? (Select all that apply)",
+        "opts": [
+          "Systemic IGF-I is produced primarily by the liver in response to growth hormone",
+          "MGF is synthesized directly in skeletal muscle following mechanical overload",
+          "MGF acts autocrinely and paracrinely to repair damaged muscle fibers",
+          "Systemic IGF-I is produced exclusively inside red blood cells"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Liver-derived IGF-I mediates systemic GH effects, whereas MGF is a local mechanical splice variant driving intramuscular repair."
+      },
+      {
+        "id": 4,
+        "q": "Which factors influence the biological availability and action of testosterone? (Select all that apply)",
+        "opts": [
+          "Percentage of free (unbound) testosterone (0.5% to 2.0%)",
+          "Androgen receptor density on target muscle fibers",
+          "Acute post-exercise blood flow to active muscles",
+          "Concentration of sex hormone-binding globulin (SHBG)"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Testosterone action depends on free testosterone levels, SHBG binding, target fiber androgen receptor density, and localized tissue perfusion."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Acute elevations in testosterone and growth hormone typically return to resting baseline levels within 30 minutes post-exercise.",
+        "ans": true,
+        "feedback": "Acute anabolic hormone surges are transient, peaking immediately post-workout and returning to baseline within ~30 minutes."
+      },
+      {
+        "id": 2,
+        "q": "Anaerobic resistance exercise directly stimulates pancreatic beta cells to secrete insulin independent of nutrient ingestion.",
+        "ans": false,
+        "feedback": "Resistance exercise alone does not stimulate insulin secretion; insulin levels are governed by carbohydrate and protein ingestion."
+      },
+      {
+        "id": 3,
+        "q": "High-volume workouts with short rest periods produce higher acute cortisol and growth hormone surges than low-volume workouts with 5-minute rest.",
+        "ans": true,
+        "feedback": "High volume and short rest create greater metabolic stress (H+ accumulation), driving higher acute GH and cortisol responses."
+      },
+      {
+        "id": 4,
+        "q": "Mechano Growth Factor (MGF) requires systemic growth hormone secretion before it can be synthesized in muscle tissue.",
+        "ans": false,
+        "feedback": "MGF is synthesized locally in muscle in direct response to mechanical strain, operating independently of systemic GH."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Acute anabolic hormone surges peak immediately post-exercise and return to baseline within **30 minutes**, triggered by **H+ accumulation**.",
+        "targets": [
+          "30 minutes",
+          "H+ accumulation"
+        ],
+        "optionsBank": [
+          "30 minutes",
+          "H+ accumulation",
+          "48 hours",
+          "glycogen depletion",
+          "myostatin"
+        ],
+        "hint": "Recall the acute elevation timeframe and metabolic secretagogue."
+      },
+      {
+        "id": 2,
+        "statement": "Only **0.5% to 2.0%** of serum testosterone exists in the active **free** form.",
+        "targets": [
+          "0.5% to 2.0%",
+          "free"
+        ],
+        "optionsBank": [
+          "0.5% to 2.0%",
+          "free",
+          "50%",
+          "bound",
+          "estrogenic"
+        ],
+        "hint": "Identify the active testosterone percentage and state."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Compare the acute endocrine responses elicited by a heavy powerlifting protocol (5 sets of 2 reps at 95% 1RM, 5-min rest) versus a hypertrophic bodybuilding protocol (4 sets of 10 reps at 75% 1RM, 60-s rest).",
+        "model": "1. Heavy Powerlifting Protocol (95% 1RM, 5-min rest): Elicits high neural recruitment and mechanical tension, producing moderate acute testosterone spikes but lower growth hormone (GH) and cortisol surges due to minimal metabolic stress and long rest intervals.\n2. Hypertrophic Bodybuilding Protocol (75% 1RM, 60-s rest): Creates high metabolic stress, significant intramuscular hydrogen ion (H+) accumulation, and elevated blood lactate. This induces significantly higher acute surges in both growth hormone (GH) and cortisol alongside substantial testosterone elevation.",
+        "criteria": [
+          "Identify that heavy low-volume lifting produces moderate testosterone but lower GH/cortisol due to long rest.",
+          "Identify that moderate-load short-rest hypertrophy protocols produce significantly higher GH and cortisol surges.",
+          "Link metabolic stress (H+ accumulation and lactate) directly to GH and cortisol secretion."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain the autocrine/paracrine role of Mechano Growth Factor (MGF) following eccentric resistance loading, contrasting it with systemic hepatic IGF-I.",
+        "model": "When skeletal muscle undergoes mechanical strain and structural micro-damage, the IGF-I gene is locally spliced within the damaged muscle fibers to produce Mechano Growth Factor (MGF). MGF acts locally via autocrine (on the same cell) and paracrine (on adjacent cells) signaling to stimulate satellite cell activation and local tissue repair independent of systemic growth hormone. In contrast, systemic IGF-I is synthesized primarily by the liver in response to circulating GH and circulates endocrine-style through the bloodstream.",
+        "criteria": [
+          "Define MGF as a local splice variant produced in muscle following mechanical strain.",
+          "Explain its autocrine/paracrine mechanism in satellite cell activation and local repair independent of GH.",
+          "Contrast MGF with hepatic systemic IGF-I driven by circulating GH."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What happens to basal resting baseline concentrations of anabolic hormones (testosterone, GH, IGF-I) following chronic resistance training in healthy athletes?",
+        "opts": [
+          "Basal resting concentrations remain relatively stable and do not consistently elevate long-term",
+          "Basal resting levels increase by 1,000% permanently",
+          "Basal resting concentrations drop to zero",
+          "Resting levels double every week of training"
+        ],
+        "correct": 0,
+        "rationale": "Scientific evidence demonstrates that basal resting hormone concentrations remain stable long-term; chronic adaptations manifest primarily as an expanded capacity for acute post-exercise surges and receptor remodeling."
+      },
+      {
+        "id": 2,
+        "q": "Why is the chronic stability of basal resting hormone concentrations physiologically advantageous for skeletal muscle?",
+        "opts": [
+          "It prevents chronic hormone receptor saturation and desensitization (downregulation)",
+          "It prevents muscle fibers from contracting",
+          "It stops all protein synthesis in heart tissue",
+          "It forces bones to reabsorb calcium"
+        ],
+        "correct": 0,
+        "rationale": "Chronically elevated resting hormone levels would cause target tissue hormone receptors to desensitize and downregulate (similar to insulin resistance in Type 2 diabetes); stable basal levels preserve high receptor sensitivity."
+      },
+      {
+        "id": 3,
+        "q": "What longitudinal chronic adaptation occurs to the acute growth hormone response as an athlete builds training tolerance?",
+        "opts": [
+          "The athlete develops an enhanced capacity to elicit larger acute GH surges during high-workload sessions",
+          "The acute GH surge disappears completely forever",
+          "GH converts into cortisol during exercise",
+          "GH secretion is restricted strictly to sleep hours"
+        ],
+        "correct": 0,
+        "rationale": "Longitudinal resistance training enhances an athlete's workload capacity, enabling them to execute higher training volumes that trigger larger acute GH surges during workouts."
+      },
+      {
+        "id": 4,
+        "q": "What do chronic changes in resting hormone concentrations primarily reflect in an athlete?",
+        "opts": [
+          "Current training volume, intensity, recovery status, and nutritional state",
+          "Permanent genetic mutations in the pituitary gland",
+          "The total number of muscle fibers in the body",
+          "Bone length expansion"
+        ],
+        "correct": 0,
+        "rationale": "Resting hormone levels fluctuate in response to recent training stress, fatigue, recovery, and nutritional status rather than serving as a permanent marker of muscle hypertrophy."
+      },
+      {
+        "id": 5,
+        "q": "How does chronic overtraining syndrome affect the resting testosterone-to-cortisol ratio?",
+        "opts": [
+          "Decreases the resting testosterone-to-cortisol ratio, indicating excess catabolism",
+          "Increases the ratio by 500%",
+          "Causes the ratio to remain completely unchanged",
+          "Eliminates cortisol from the body entirely"
+        ],
+        "correct": 0,
+        "rationale": "Overtraining syndrome elevates chronic catabolic stress and depresses resting testosterone, decreasing the testosterone-to-cortisol ratio as a marker of incomplete recovery."
+      },
+      {
+        "id": 6,
+        "q": "What adaptation occurs to secretagogue reserve capacity in endocrine glands following chronic anaerobic training?",
+        "opts": [
+          "Increased endocrine gland storage and release capacity for acute secretagogue surges during high stress",
+          "Complete atrophy of the adrenal cortex",
+          "Destruction of all hormone precursor molecules",
+          "Permanent cessation of gland function"
+        ],
+        "correct": 0,
+        "rationale": "Chronic training expands the storage and secretagogue release capacity of endocrine glands (such as the anterior pituitary and adrenal cortex), allowing greater acute hormone output upon demand."
+      },
+      {
+        "id": 7,
+        "q": "Why do exogenous anabolic steroid users experience hormone receptor desensitization when cycling without breaks?",
+        "opts": [
+          "Continuous un-physiological exposure to high hormone levels causes receptor downregulation",
+          "Anabolic steroids destroy all androgen receptor genes",
+          "Exogenous hormones turn into water in the blood",
+          "Receptors multiply by 1 million and overflow the cell"
+        ],
+        "correct": 0,
+        "rationale": "Sustained high hormone concentrations without pulsatile recovery force target cells to downregulate receptor density to protect against overstimulation."
+      },
+      {
+        "id": 8,
+        "q": "What role does acute hormonal pulsing play compared to chronic steady-state elevation?",
+        "opts": [
+          "Acute pulsing provides a potent transient anabolic signal while preserving long-term receptor sensitivity",
+          "Acute pulsing causes muscle atrophy",
+          "Chronic steady elevation is required for normal muscle health",
+          "Pulsing destroys the pituitary gland"
+        ],
+        "correct": 0,
+        "rationale": "Pulsatile acute hormone surges deliver intense morphogenetic signals during the post-exercise window while allowing levels to clear, maintaining target cell receptor responsiveness."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which statements regarding chronic resting hormone levels following resistance training are correct? (Select all that apply)",
+        "opts": [
+          "Basal resting levels of testosterone and GH remain relatively stable long-term",
+          "Stable basal levels prevent hormone receptor saturation and downregulation",
+          "Resting levels fluctuate based on recent fatigue, recovery, and nutrition",
+          "Resting testosterone increases 100-fold after 1 year of lifting"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Basal hormone levels stay stable long-term to prevent receptor desensitization; variations reflect acute recovery, nutrition, and fatigue states."
+      },
+      {
+        "id": 2,
+        "q": "Which adaptations characterize chronic endocrine system remodeling in trained athletes? (Select all that apply)",
+        "opts": [
+          "Enhanced acute hormonal secretagogue release capacity during intense workouts",
+          "Increased storage capacity of hormone precursors in endocrine glands",
+          "Preservation of basal target tissue receptor sensitivity",
+          "Permanent shut-down of the adrenal glands"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Training enhances acute release capacity, endocrine precursor storage, and target tissue receptor sensitivity without altering basal homeostasis."
+      },
+      {
+        "id": 3,
+        "q": "Which indicators reflect an unfavorable anabolic-to-catabolic shift caused by overtraining? (Select all that apply)",
+        "opts": [
+          "A significant reduction in the resting testosterone-to-cortisol ratio",
+          "Chronically elevated resting cortisol levels",
+          "Depressed resting free testosterone concentrations",
+          "A 500% increase in basal growth hormone"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Overtraining depresses resting testosterone and elevates resting cortisol, yielding a reduced testosterone-to-cortisol ratio."
+      },
+      {
+        "id": 4,
+        "q": "Why is acute pulsatile hormone secretion superior to constant baseline elevation for muscle adaptations? (Select all that apply)",
+        "opts": [
+          "It delivers intense transient remodeling signals during the post-workout window",
+          "It allows hormone levels to return to baseline, preventing receptor downregulation",
+          "It maintains high receptor affinity on skeletal muscle sarcolemma",
+          "It permanently stops all protein breakdown"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Pulsatile release maximizes transient signaling while preventing receptor desensitization."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Chronic resistance training leads to permanent, 10-fold increases in baseline resting testosterone levels in trained lifters.",
+        "ans": false,
+        "feedback": "Basal resting hormone concentrations remain stable long-term; chronic adaptations enhance acute surge capacity and receptor density."
+      },
+      {
+        "id": 2,
+        "q": "Stable basal hormone levels prevent androgen receptor saturation and downregulation in skeletal muscle.",
+        "ans": true,
+        "feedback": "Maintaining stable baseline hormone levels preserves target cell receptor sensitivity, preventing desensitization."
+      },
+      {
+        "id": 3,
+        "q": "A decrease in the resting testosterone-to-cortisol ratio can serve as an indicator of overtraining and incomplete recovery.",
+        "ans": true,
+        "feedback": "A depressed testosterone-to-cortisol ratio reflects excessive catabolic stress and inadequate anabolic recovery."
+      },
+      {
+        "id": 4,
+        "q": "Longitudinal resistance training decreases an athlete's acute growth hormone response during high-volume workouts.",
+        "ans": false,
+        "feedback": "Longitudinal training increases workload tolerance, enhancing the acute GH surge capacity during high-volume sessions."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Basal resting hormone levels remain **stable**, preserving **receptor sensitivity** on target tissues.",
+        "targets": [
+          "stable",
+          "receptor sensitivity"
+        ],
+        "optionsBank": [
+          "stable",
+          "receptor sensitivity",
+          "elevated",
+          "downregulation",
+          "depleted"
+        ],
+        "hint": "Recall the baseline concentration behavior and its functional benefit."
+      },
+      {
+        "id": 2,
+        "statement": "Overtraining causes a decrease in the resting **testosterone-to-cortisol** ratio, signaling excess **catabolism**.",
+        "targets": [
+          "testosterone-to-cortisol",
+          "catabolism"
+        ],
+        "optionsBank": [
+          "testosterone-to-cortisol",
+          "catabolism",
+          "insulin-to-glucagon",
+          "hypertrophy",
+          "alkalosis"
+        ],
+        "hint": "Identify the hormonal ratio marker and catabolic state."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain why baseline resting concentrations of anabolic hormones do not chronically elevate following years of resistance training, and describe the physiological benefit of this stability.",
+        "model": "Scientific research demonstrates that chronic resistance training does not result in sustained, long-term elevations in resting baseline hormone concentrations (such as testosterone or growth hormone). Instead, resting hormone levels remain relatively stable, reflecting acute recovery, fatigue, and nutrition. The primary physiological benefit of stable basal levels is the preservation of target tissue receptor sensitivity. If resting hormone levels remained chronically elevated, androgen and growth hormone receptors on skeletal muscle fibers would undergo saturation and desensitization (downregulation), rendering acute workout surges ineffective. Pulsatile acute surges provide intense localized remodeling signals while protecting receptor responsiveness.",
+        "criteria": [
+          "State that resting baseline hormone levels remain stable long-term rather than chronically elevating.",
+          "Explain that stable baseline levels prevent receptor saturation and downregulation (desensitization).",
+          "Conclude that acute pulsatile surges deliver remodeling signals while preserving target tissue sensitivity."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain how tracking the resting testosterone-to-cortisol ratio can assist strength coaches in detecting overtraining syndrome in strength athletes.",
+        "model": "The resting testosterone-to-catabolic cortisol ratio serves as a physiological indicator of the balance between anabolic recovery and catabolic stress. Under normal training conditions, adequate sleep, and proper nutrition, the ratio remains stable. However, when an athlete experiences excessive training volume/intensity without sufficient rest, chronic stress elevates resting cortisol while suppressing resting testosterone secretion. A significant decrease in the resting testosterone-to-cortisol ratio signals an unfavorable catabolic shift, alerting coaches to overtraining syndrome and the need for immediate workload reduction.",
+        "criteria": [
+          "Identify the testosterone-to-cortisol ratio as a key indicator of anabolic/catabolic balance.",
+          "Explain that overtraining depresses testosterone and elevates cortisol.",
+          "State that a decreased ratio signals excessive catabolism and overtraining syndrome."
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What cellular structure must testosterone bind with inside skeletal muscle fibers to initiate protein synthesis gene transcription?",
+        "opts": [
+          "Androgen Receptor (AR)",
+          "Insulin receptor",
+          "Sodium-potassium pump",
+          "Sarcoplasmic reticulum channel"
+        ],
+        "correct": 0,
+        "rationale": "Free testosterone diffuses across the sarcolemma and binds directly to intracellular Androgen Receptors (AR), forming a complex that translocates into the nucleus to stimulate mRNA transcription for actin and myosin."
+      },
+      {
+        "id": 2,
+        "q": "Which muscle fiber type possesses a significantly higher baseline density of Androgen Receptors (AR)?",
+        "opts": [
+          "Type II fast-twitch muscle fibers",
+          "Type I slow-twitch muscle fibers",
+          "Smooth muscle cells",
+          "Cardiac myocytes"
+        ],
+        "correct": 0,
+        "rationale": "Type II fast-twitch muscle fibers display a significantly higher AR density than Type I fibers, contributing to their superior hypertrophic potential in response to resistance loading."
+      },
+      {
+        "id": 3,
+        "q": "What is the typical time course for compensatory Androgen Receptor (AR) upregulation following a resistance training session?",
+        "opts": [
+          "48 to 72 hours post-exercise",
+          "1 to 5 seconds post-exercise",
+          "Exactly 30 days post-exercise",
+          "AR content never changes"
+        ],
+        "correct": 0,
+        "rationale": "Following acute exercise stress, muscle fibers exhibit compensatory upregulation of Androgen Receptor content between 48 and 72 hours post-workout to support protein accretion."
+      },
+      {
+        "id": 4,
+        "q": "In the study by Ratamess and colleagues, how did workout volume (1 set vs. 6 sets of squats) affect Androgen Receptor (AR) content 1 hour post-exercise?",
+        "opts": [
+          "6 sets caused a transient downregulation of AR content at 1 hour, whereas 1 set produced no change",
+          "1 set destroyed all AR receptors permanently",
+          "6 sets increased AR content by 1,000% at 1 hour",
+          "Both protocols caused zero change at all time points"
+        ],
+        "correct": 0,
+        "rationale": "Ratamess et al. demonstrated a biphasic response: high-volume lifting (6 sets) caused acute AR downregulation at 1 hour post-exercise before subsequent upregulation at 48-72 hours, whereas low volume (1 set) caused no initial change."
+      },
+      {
+        "id": 5,
+        "q": "According to Kraemer and colleagues, how does pre- and post-workout protein-carbohydrate supplementation alter acute Androgen Receptor (AR) content post-exercise?",
+        "opts": [
+          "Attenuates the initial acute 1-hour downregulation of AR content following heavy resistance exercise",
+          "Destroys AR content completely",
+          "Prevents testosterone from entering muscle cells",
+          "Converts AR receptors into cortisol receptors"
+        ],
+        "correct": 0,
+        "rationale": "Kraemer et al. showed that consuming a carbohydrate-protein supplement immediately before and after resistance training attenuates the acute 1-hour post-workout drop in AR content, promoting anabolic signaling."
+      },
+      {
+        "id": 6,
+        "q": "What intracellular pathway is directly activated by essential amino acids (specifically leucine) alongside mechanical tension to stimulate muscle protein synthesis?",
+        "opts": [
+          "Akt / mTOR signaling pathway",
+          "Myostatin pathway",
+          "Lactic acid cycle",
+          "Renin-angiotensin pathway"
+        ],
+        "correct": 0,
+        "rationale": "Essential amino acids (particularly leucine) synergize with mechanical loading to activate the Akt/mTOR cascade, driving ribosomally mediated mRNA translation and protein synthesis."
+      },
+      {
+        "id": 7,
+        "q": "What happens once the testosterone-androgen receptor complex translocates into the cell nucleus?",
+        "opts": [
+          "Interacts with nuclear DNA to stimulate specific mRNA transcription for actin and myosin synthesis",
+          "Stops all cellular energy production",
+          "Expels all calcium from the cell",
+          "Converts DNA into lipids"
+        ],
+        "correct": 0,
+        "rationale": "Upon entering the nucleus, the steroid-receptor complex binds to hormone response elements on DNA, triggering transcription of mRNA coding for contractile proteins."
+      },
+      {
+        "id": 8,
+        "q": "Why is peri-workout nutrient timing (consuming protein and carbohydrates near exercise) critical for androgen receptor kinetics?",
+        "opts": [
+          "It provides building blocks and insulin spikes that buffer acute AR downregulation and accelerate 48-72h receptor upregulation",
+          "It prevents any muscle contractions from occurring",
+          "It eliminates the need for lifting heavy weights",
+          "It converts fast-twitch fibers into fat cells"
+        ],
+        "correct": 0,
+        "rationale": "Peri-workout nutrition increases amino acid availability and insulin, preventing severe acute AR degradation and enhancing subsequent AR content for protein synthesis."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which factors influence Androgen Receptor (AR) density and binding affinity in skeletal muscle? (Select all that apply)",
+        "opts": [
+          "Muscle fiber type (Type II fast-twitch fibers possess higher AR density)",
+          "Contractile mechanical overload and workout volume",
+          "Circulating concentrations of free testosterone",
+          "Peri-workout protein and carbohydrate supplementation"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "AR content and sensitivity are governed by fiber type (Type II > Type I), mechanical tension/volume, free testosterone levels, and nutritional state."
+      },
+      {
+        "id": 2,
+        "q": "Which statements accurately describe the findings of Ratamess et al. regarding workout volume and AR kinetics? (Select all that apply)",
+        "opts": [
+          "High volume (6 sets) caused acute AR downregulation at 1 hour post-exercise",
+          "Low volume (1 set) did not alter AR content at 1 hour",
+          "Compensatory AR upregulation occurred between 48 and 72 hours post-exercise",
+          "High volume permanently destroyed 100% of androgen receptors"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Ratamess et al. established biphasic AR kinetics: high volume causes transient 1-hour downregulation followed by 48-72h upregulation. Low volume yielded no initial change."
+      },
+      {
+        "id": 3,
+        "q": "Which physiological benefits result from consuming protein and carbohydrates immediately before and after resistance exercise (Kraemer et al.)? (Select all that apply)",
+        "opts": [
+          "Attenuation of the acute 1-hour post-workout drop in AR content",
+          "Increased amino acid availability for mTOR protein synthesis signaling",
+          "Elevated insulin levels to enhance cellular amino acid uptake",
+          "Complete suppression of testosterone production"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Peri-workout nutrition buffers acute AR downregulation, supplies amino acids for mTOR activation, and elevates insulin to drive cellular uptake."
+      },
+      {
+        "id": 4,
+        "q": "Which steps occur during testosterone signaling inside a muscle fiber? (Select all that apply)",
+        "opts": [
+          "Free testosterone diffuses across the sarcolemma into the cytoplasm",
+          "Testosterone binds to the intracellular Androgen Receptor (AR)",
+          "The testosterone-AR complex translocates into the cell nucleus",
+          "The complex binds to DNA to trigger mRNA transcription for contractile proteins"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Testosterone signaling follows diffusion -> AR binding -> nuclear translocation -> DNA binding -> mRNA transcription."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Type II fast-twitch muscle fibers contain a higher baseline density of Androgen Receptors (AR) than Type I slow-twitch fibers.",
+        "ans": true,
+        "feedback": "Type II fast-twitch fibers possess greater AR density, contributing to their superior hypertrophic response."
+      },
+      {
+        "id": 2,
+        "q": "In the study by Ratamess et al., performing 6 sets of squats caused an immediate 1,000% increase in AR content 1 hour post-exercise.",
+        "ans": false,
+        "feedback": "High volume (6 sets) caused a transient DOWNREGULATION of AR content at 1 hour post-exercise before upregulation at 48-72 hours."
+      },
+      {
+        "id": 3,
+        "q": "Consuming a protein-carbohydrate supplement immediately before and after exercise attenuates the initial post-workout drop in AR content.",
+        "ans": true,
+        "feedback": "Kraemer et al. demonstrated that peri-workout nutrient supplementation buffers acute 1-hour AR downregulation."
+      },
+      {
+        "id": 4,
+        "q": "Testosterone binds exclusively to receptors located on the outer surface of the sarcolemma without entering the cell nucleus.",
+        "ans": false,
+        "feedback": "Testosterone is a lipid-soluble steroid hormone that diffuses across the sarcolemma, binds intracellular ARs, and translocates into the nucleus."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Testosterone binds to intracellular **Androgen Receptors**, which are most dense in **Type II** fibers.",
+        "targets": [
+          "Androgen Receptors",
+          "Type II"
+        ],
+        "optionsBank": [
+          "Androgen Receptors",
+          "Type II",
+          "Insulin Receptors",
+          "Type I",
+          "Cortisol Receptors"
+        ],
+        "hint": "Identify the steroid receptor and the fast-twitch fiber type."
+      },
+      {
+        "id": 2,
+        "statement": "Ratamess et al. showed high volume causes 1-hour AR **downregulation**, followed by **48 to 72 hours** upregulation.",
+        "targets": [
+          "downregulation",
+          "48 to 72 hours"
+        ],
+        "optionsBank": [
+          "downregulation",
+          "48 to 72 hours",
+          "hypertrophy",
+          "10 years",
+          "destruction"
+        ],
+        "hint": "Recall the 1-hour acute AR change and the compensatory upregulation window."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Detail the biphasic time course of Androgen Receptor (AR) content following high-volume resistance training (Ratamess et al.), and explain how peri-workout nutrition modifies this response (Kraemer et al.).",
+        "model": "1. Biphasic AR Time Course (Ratamess et al.): High-volume resistance exercise (6 sets of 10 reps) induces a transient downregulation (decrease) in muscle Androgen Receptor (AR) content at 1 hour post-exercise. This initial drop is followed by a compensatory upregulation of AR content between 48 and 72 hours post-workout to support protein accretion.\n2. Nutritional Modulation (Kraemer et al.): Consuming a protein-carbohydrate supplement immediately before and after the resistance workout attenuates (buffers) the initial 1-hour post-exercise AR downregulation. This nutrient intervention preserves AR availability and enhances downstream mTOR protein synthesis signaling during early recovery.",
+        "criteria": [
+          "Describe the Ratamess et al. biphasic response: 1-hour post-workout AR downregulation followed by 48-72h upregulation.",
+          "Describe Kraemer et al. nutritional intervention: pre/post protein-carbohydrate intake attenuates 1-hour AR downregulation.",
+          "Explain that buffering AR downregulation preserves receptor availability to support mTOR protein synthesis."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Trace the step-by-step physiological pathway of free testosterone from circulating blood into the skeletal muscle cell nucleus to stimulate protein synthesis.",
+        "model": "1. Diffusion: Biologically active free testosterone (0.5% to 2.0% of total serum testosterone) diffuses freely across the lipophilic sarcolemma into the sarcoplasm of the muscle fiber.\n2. Receptor Binding: Intracellular testosterone binds with high affinity to the lipophilic domain of an intracellular Androgen Receptor (AR) (present in highest density in Type II fast-twitch fibers).\n3. Nuclear Translocation: The testosterone-AR complex undergoes a conformational change and translocates across the nuclear membrane into the cell nucleus.\n4. DNA Binding & Transcription: Inside the nucleus, the complex binds to specific hormone response elements on nuclear DNA, activating RNA polymerase to transcribe messenger RNA (mRNA) coding for contractile proteins (actin and myosin), which is subsequently translated into new myofibrillar proteins.",
+        "criteria": [
+          "Detail free testosterone diffusion across the lipophilic sarcolemma.",
+          "Describe binding to intracellular Androgen Receptors (ARs) in sarcoplasm.",
+          "Explain nuclear translocation of the complex and DNA binding to drive mRNA transcription for actin and myosin."
+        ]
+      }
+    ]
+  }
+}

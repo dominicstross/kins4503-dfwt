@@ -1,0 +1,76 @@
+{
+    "chapterId": "5.8",
+    "title": "5.8 Detraining",
+    "cards": [
+        {
+            "id": "5.8-01",
+            "tag": "Definition & Principle of Reversibility",
+            "reference": "Section 5.8",
+            "front": "What is <strong>detraining</strong>, and what fundamental exercise physiology principle governs its occurrence?",
+            "back": "Detraining is a performance decrement and partial or complete loss of accumulated anatomical, physiological, and performance adaptations following training cessation or a substantial reduction in volume, intensity, or frequency. It is governed by the <strong>principle of reversibility</strong>."
+        },
+        {
+            "id": "5.8-02",
+            "tag": "Short-Term Inactivity Kinetics (14 Days)",
+            "reference": "Section 5.8",
+            "front": "What performance changes were observed in trained weightlifters following <strong>14 days of complete training cessation</strong> (Hortob&aacute;gyi et al., 1993)?",
+            "back": "Maximal force output was well maintained with non-significant changes: 1RM bench press dropped by <strong>-1.7%</strong>, 1RM squat by <strong>-0.9%</strong>, and isometric force by <strong>-7.0%</strong>. Vertical jump performance actually increased by <strong>+1.2%</strong> due to fatigue dissipation."
+        },
+        {
+            "id": "5.8-03",
+            "tag": "Time Course of Strength Loss",
+            "reference": "Section 5.8",
+            "front": "How do strength losses progress across <strong>4 weeks</strong>, <strong>8 to 12 weeks</strong>, and extended inactivity periods?",
+            "back": "<ul><li><strong>Up to 4 Weeks:</strong> Strength is well maintained in both recreational and athletic populations.</li><li><strong>8 to 12 Weeks:</strong> Strength drops moderately by <strong>7% to 12%</strong> in strength-trained athletes.</li><li><strong>Extended Detraining:</strong> Retained strength remains higher than pretraining baseline values due to residual adaptations.</li></ul>"
+        },
+        {
+            "id": "5.8-04",
+            "tag": "Neural Drives vs. Structural Atrophy",
+            "reference": "Section 5.8",
+            "front": "What primary physiological mechanism accounts for <strong>early strength loss (&lt;4 to 8 weeks)</strong> versus <strong>long-term strength loss (&gt;8 weeks)</strong> during detraining?",
+            "back": "<ul><li><strong>Early Losses (&lt;4-8 weeks):</strong> Primarily driven by <strong>neural mechanisms</strong>, characterized by decreased intramuscular EMG activity, reduced motor unit recruitment, and lower discharge firing rates.</li><li><strong>Long-Term Losses (&gt;8 weeks):</strong> Driven primarily by <strong>structural muscle fiber atrophy</strong>.</li></ul>"
+        },
+        {
+            "id": "5.8-05",
+            "tag": "Preferential Fast-Twitch Atrophy",
+            "reference": "Section 5.8",
+            "front": "Which muscle fiber population exhibits <strong>preferential and rapid cross-sectional area (CSA) reduction</strong> during the initial weeks of detraining?",
+            "back": "<strong>Fast-twitch (Type II) muscle fibers</strong> undergo rapid, preferential atrophy. Following 14 days of inactivity, fast-twitch fiber CSA decreased by <strong>-6.4%</strong>, whereas slow-twitch (Type I) fiber CSA showed no significant change."
+        },
+        {
+            "id": "5.8-06",
+            "tag": "Sub-Acute Fiber Atrophy in Athletes",
+            "reference": "Section 5.8",
+            "front": "How did a <strong>6-week detraining period</strong> alter the cross-sectional area differential between fast-twitch and slow-twitch fibers in rugby league players (Argus et al., 2010)?",
+            "back": "Fast-twitch fibers were <strong>23% larger</strong> than slow-twitch fibers at the end of the competitive season, but dropped to only <strong>9% larger</strong> after 6 weeks of inactivity due to rapid fast-twitch atrophy."
+        },
+        {
+            "id": "5.8-07",
+            "tag": "Profound Long-Term Atrophy Metrics",
+            "reference": "Section 5.8",
+            "front": "What structural and morphological losses occur after <strong>7 to 13.5 months</strong> of complete training cessation in elite powerlifters and bodybuilders?",
+            "back": "Elite strength athletes experience severe atrophy, including an average <strong>37.1% fiber atrophy</strong> after 7 months (Staron et al.) and a <strong>-9.3% reduction in fat-free mass</strong>, <strong>-11.5% arm girth reduction</strong>, and <strong>-8.3% mean fiber CSA loss</strong> after 13.5 months (MacDougall et al.)."
+        },
+        {
+            "id": "5.8-08",
+            "tag": "Muscle Memory & Re-attainment Kinetics",
+            "reference": "Section 5.8",
+            "front": "What is <strong>muscle memory</strong> in the context of detraining and retraining?",
+            "back": "Muscle memory is the physiological paradigm wherein previously trained athletes re-attain baseline muscle size, fiber cross-sectional area, and maximal strength at a <strong>significantly faster rate</strong> upon resuming training than during initial strength acquisition."
+        },
+        {
+            "id": "5.8-09",
+            "tag": "Off-Season Maintenance Programming",
+            "reference": "Section 5.8",
+            "front": "Why are low-volume, high-intensity <strong>maintenance training sessions</strong> critical during off-seasons or extended travel?",
+            "back": "Because fast-twitch muscle fibers atrophy rapidly (<strong>-6.4% in 14 days</strong>), performing at least 1 high-intensity resistance session per week preserves high-threshold motor unit recruitment, fast-twitch fiber CSA, and explosive force development."
+        },
+        {
+            "id": "5.8-10",
+            "tag": "Systemic Adaptations & Reversibility",
+            "reference": "Section 5.8",
+            "front": "How do neuromuscular, musculoskeletal, endocrine, and cardiovascular systems respond during prolonged detraining?",
+            "back": "All physiological systems adapt in unison to anaerobic training and <strong>regress in unison during prolonged detraining</strong>, gradually reverting toward pretraining baseline levels as mechanical loading and metabolic demands are removed."
+        }
+    ]
+}

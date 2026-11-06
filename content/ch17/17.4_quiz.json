@@ -1,0 +1,814 @@
+{
+  "p1": {
+    "title": "Part 1: Exercise Order Hierarchy: Power, Core, and Assistance Exercises",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What is the fundamental definition of exercise order in resistance training program design?",
+        "opts": [
+          "The total number of sets completed per muscle group during a weekly microcycle",
+          "The sequence of resistance exercises performed during one single training session",
+          "The progression of load intensity across periodized training blocks",
+          "The physiological arrangement of rest intervals between microcycles"
+        ],
+        "correct": 1,
+        "rationale": "Exercise order is defined specifically as the sequence of resistance exercises performed during a single training session."
+      },
+      {
+        "id": 2,
+        "q": "What primary criterion guides decisions when determining the order of exercises within a training session?",
+        "opts": [
+          "Alternating load equipment between free weight barbells and selectorized machines",
+          "Minimizing muscle hypertrophy to prevent structural weight gain",
+          "How one exercise affects the quality of effort or exercise technique of another exercise",
+          "Ensuring that single-joint assistance exercises are completed before any core lifts"
+        ],
+        "correct": 2,
+        "rationale": "Deciding exercise order is invariably based on how one exercise affects the quality of effort or the execution technique of a subsequent exercise, ensuring maximal force capabilities are available for proper form."
+      },
+      {
+        "id": 3,
+        "q": "According to the primary exercise ordering hierarchy, which exercise type should be performed first in a training session?",
+        "opts": [
+          "Single-joint assistance exercises",
+          "Nonpower core exercises",
+          "Power exercises",
+          "Small muscle isolation exercises"
+        ],
+        "correct": 2,
+        "rationale": "Power exercises (such as the snatch, hang clean, power clean, and push jerk) should be performed first in a training session while the athlete is metabolically and neurally fresh."
+      },
+      {
+        "id": 4,
+        "q": "If an athlete's program does NOT include power exercises, what is the recommended exercise sequence?",
+        "opts": [
+          "Assistance exercises followed by core exercises",
+          "Core exercises followed by assistance exercises",
+          "Single-joint exercises followed by multijoint exercises",
+          "Small muscle area exercises followed by large muscle area exercises"
+        ],
+        "correct": 1,
+        "rationale": "If power exercises are not selected in Step 2 (Exercise Selection), the recommended order is nonpower core exercises first, followed by assistance exercises."
+      },
+      {
+        "id": 5,
+        "q": "Why do power exercises require the highest level of skill, concentration, and freshness compared to other exercise types?",
+        "opts": [
+          "They involve single-joint movement mechanics with light loads",
+          "They involve explosive movements and extensive muscular involvement resulting in significant energy expenditure",
+          "They isolate small stabilization muscles without loading the spinal column",
+          "They require extended 5-minute rest periods between individual repetitions"
+        ],
+        "correct": 1,
+        "rationale": "Power exercises require maximum skill and concentration because their explosive movement patterns and extensive muscular recruitment demand significant energy expenditure, making them highly susceptible to fatigue."
+      },
+      {
+        "id": 6,
+        "q": "What major risk occurs if power exercises are performed when an athlete is already fatigued from previous core or assistance exercises?",
+        "opts": [
+          "Excessive glycogen accumulation in slow-twitch muscle fibers",
+          "Using poor exercise technique and experiencing a higher risk of injury",
+          "Rapid desensitization of muscle spindle reflexes",
+          "Inability to recruit antagonist muscle groups during deceleration"
+        ],
+        "correct": 1,
+        "rationale": "Athletes who become fatigued are prone to using poor technique during complex explosive lifts, which significantly increases the risk of injury."
+      },
+      {
+        "id": 7,
+        "q": "Which set of exercises represents proper primary exercise ordering from first to last?",
+        "opts": [
+          "Triceps pushdown -> Back squat -> Power clean",
+          "Power clean -> Back squat -> Triceps pushdown",
+          "Biceps curl -> Power clean -> Leg press",
+          "Back squat -> Hang clean -> Lateral shoulder raise"
+        ],
+        "correct": 1,
+        "rationale": "Proper primary sequence places power exercises first (Power clean), nonpower core exercises second (Back squat), and assistance exercises third (Triceps pushdown)."
+      },
+      {
+        "id": 8,
+        "q": "How is the \"power -> core -> assistance\" exercise sequence frequently described in exercise science literature?",
+        "opts": [
+          "Single-joint before multijoint, or small muscle areas before large muscle areas",
+          "Multijoint exercises before single-joint exercises, or large muscle areas before small muscle areas",
+          "Isokinetic exercises before isotonic exercises, or open-chain before closed-chain",
+          "Eccentric exercises before concentric exercises, or isometric before isotonic"
+        ],
+        "correct": 1,
+        "rationale": "The literature frequently refers to the primary ordering hierarchy as performing multijoint exercises before single-joint exercises, or training large muscle areas before small muscle areas."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which exercises are classified as power exercises and should be placed at the very beginning of a training session? (Select all that apply)",
+        "opts": [
+          "Power clean",
+          "Snatch",
+          "Push jerk",
+          "Hang clean",
+          "Biceps curl"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Power exercises listed in NSCA guidelines include the snatch, hang clean, power clean, and push jerk. Biceps curls are single-joint assistance exercises placed at the end of a workout."
+      },
+      {
+        "id": 2,
+        "q": "Which physiological and biomechanical factors justify performing power exercises first in a workout? (Select all that apply)",
+        "opts": [
+          "Power exercises demand the highest level of motor skill and concentration of all exercises",
+          "Fatigued athletes are prone to technique breakdown and elevated injury risk",
+          "Explosive multi-muscle involvement results in high energy expenditure requiring metabolic freshness",
+          "Power exercises isolate small upper-arm assistance muscles",
+          "Performing power exercises last maximizes motor unit fatigue in core stabilizers"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Power lifts demand maximum coordination, skill, and metabolic energy, making them highly sensitive to fatigue. Performing them while fresh prevents technique breakdown and injury."
+      },
+      {
+        "id": 3,
+        "q": "Which exercise sequences correctly follow NSCA ordering guidelines? (Select all that apply)",
+        "opts": [
+          "Snatch -> Front Squat -> Leg Extension",
+          "Push Jerk -> Deadlift -> Standing Calf Raise",
+          "Biceps Curl -> Bench Press -> Power Clean",
+          "Power Clean -> Overhead Press -> Dumbbell Lateral Raise",
+          "Triceps Extension -> Leg Press -> Hang Clean"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Options A, B, and D correctly place power lifts first, followed by nonpower core lifts, and ending with assistance exercises. Options C and E incorrectly place assistance lifts first."
+      },
+      {
+        "id": 4,
+        "q": "Which of the following statements accurately compare core exercises and assistance exercises within the ordering hierarchy? (Select all that apply)",
+        "opts": [
+          "Core exercises recruit large muscle areas across two or more primary joints",
+          "Assistance exercises recruit smaller muscle areas across a single primary joint",
+          "Nonpower core exercises are performed after power exercises but before assistance exercises",
+          "Assistance exercises should always precede power lifts to warm up the joints",
+          "Core exercises receive higher ordering priority than single-joint assistance exercises"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Core lifts are multijoint/large-muscle exercises that take priority over single-joint/small-muscle assistance lifts. Assistance lifts should never precede power lifts."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Exercise order decisions are based on how one exercise affects the quality of effort or technique of another exercise.",
+        "ans": true,
+        "feedback": "The fundamental principle governing exercise order is ensuring that fatigue from one exercise does not compromise the quality of effort or safety technique of subsequent exercises."
+      },
+      {
+        "id": 2,
+        "q": "If an athlete does not perform power exercises, single-joint assistance exercises should be performed before multijoint core lifts.",
+        "ans": false,
+        "feedback": "If power exercises are omitted, nonpower core exercises (multijoint/large muscle) should still be performed before assistance exercises (single-joint/small muscle)."
+      },
+      {
+        "id": 3,
+        "q": "Performing explosive power exercises when an athlete is fatigued increases the likelihood of poor technique and structural injury.",
+        "ans": true,
+        "feedback": "Fatigue degrades neural coordination and concentration during power movements, leading to technical failure and higher risk of injury."
+      },
+      {
+        "id": 4,
+        "q": "The literature convention \"large muscle areas before small muscle areas\" is equivalent to ordering core exercises before assistance exercises.",
+        "ans": true,
+        "feedback": "Large muscle area multijoint lifts correspond directly to core exercises, while small muscle area single-joint lifts correspond to assistance exercises."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Power exercises such as the snatch and power clean should be performed **first** in a training session, followed by nonpower **core** exercises and then **assistance** exercises.",
+        "targets": [
+          "first",
+          "core",
+          "assistance"
+        ],
+        "optionsBank": [
+          "first",
+          "core",
+          "assistance",
+          "last",
+          "isolation"
+        ],
+        "hint": "Fill in the missing blanks."
+      },
+      {
+        "id": 2,
+        "statement": "Arranging workouts so that **multijoint** exercises are completed before **single-joint** exercises ensures that large muscle groups are trained while metabolically fresh.",
+        "targets": [
+          "multijoint",
+          "single-joint"
+        ],
+        "optionsBank": [
+          "multijoint",
+          "single-joint",
+          "isokinetic",
+          "structural",
+          "passive"
+        ],
+        "hint": "Fill in the missing blanks."
+      },
+      {
+        "id": 3,
+        "statement": "Performing power exercises while metabolically fresh prevents fatigue-induced **poor technique** and reduces the risk of **injury**.",
+        "targets": [
+          "poor technique",
+          "injury"
+        ],
+        "optionsBank": [
+          "poor technique",
+          "injury",
+          "hypertrophy",
+          "supercompensation",
+          "detraining"
+        ],
+        "hint": "Fill in the missing blanks."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain the physiological and safety rationale for placing power exercises (e.g., power clean, snatch) before nonpower core lifts (e.g., back squat) and assistance exercises (e.g., triceps pushdown).",
+        "model": "Power exercises require complex multi-joint coordination, rapid rate of force development, and maximal concentration. They recruit extensive muscle mass and induce high energy expenditure. If performed when an athlete is fatigued from prior core or assistance lifts, neural drive and motor control degrade, leading to technique breakdown and elevated injury risk. Performing power lifts first ensures the athlete is metabolically and neurally fresh, maximizing peak power output and safety.",
+        "criteria": [
+          "Accurately explain the exercise science principles involved.",
+          "Provide specific anatomical and physiological mechanisms.",
+          "Demonstrate practical application to athletic program design."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Contrast the structural characteristics and exercise ordering placement of multijoint core exercises versus single-joint assistance exercises.",
+        "model": "Multijoint core exercises recruit large muscle areas across two or more primary joints (e.g., back squat, bench press) and carry high transfer to sport movement patterns. Single-joint assistance exercises recruit smaller muscle areas across only one primary joint (e.g., biceps curl, leg extension) and serve secondary prehab or body-part goals. Core exercises are sequenced before assistance exercises so large muscle groups can generate maximal force without being limited by premature fatigue in smaller synergist or stabilizer muscles.",
+        "criteria": [
+          "Accurately explain the exercise science principles involved.",
+          "Provide specific anatomical and physiological mechanisms.",
+          "Demonstrate practical application to athletic program design."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "title": "Part 2: Alternating Upper/Lower Body and Push/Pull Exercise Methods",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What is the main operational purpose of alternating upper body exercises with lower body exercises during a training session?",
+        "opts": [
+          "To increase total session time by extending rest delays",
+          "To allow one body region to recover fully while the opposing body region performs work",
+          "To isolate single joints without recruiting core stabilizers",
+          "To maximize lactate accumulation across consecutive sets"
+        ],
+        "correct": 1,
+        "rationale": "Alternating upper and lower body exercises allows the muscles of one body region to rest and recover while the athlete performs an exercise targeting the opposite body region."
+      },
+      {
+        "id": 2,
+        "q": "Which population particularly benefits from alternating upper and lower body exercises to manage exertion fatigue?",
+        "opts": [
+          "Elite Olympic weightlifters during maximal peak loading",
+          "Untrained or beginner athletes who find consecutive upper or lower body lifts too strenuous",
+          "Powerlifters preparing for 1RM competition attempts",
+          "Seasoned bodybuilders seeking localized muscle pumping"
+        ],
+        "correct": 1,
+        "rationale": "Untrained individuals often find completing several upper or lower body exercises in succession excessively strenuous; alternating body regions mitigates localized muscle exhaustion."
+      },
+      {
+        "id": 3,
+        "q": "How does alternating upper and lower body exercises increase workout time efficiency when total training time is limited?",
+        "opts": [
+          "It eliminates the need for any warm-up or cool-down periods",
+          "It minimizes required rest waits between exercises while maximizing rest time for specific body regions",
+          "It allows the athlete to perform three exercises simultaneously",
+          "It reduces exercise selection strictly to machine lifts"
+        ],
+        "correct": 1,
+        "rationale": "An athlete can move immediately from an upper body exercise to a lower body exercise without waiting for the upper body to rest, compressing total workout duration while maintaining localized recovery time."
+      },
+      {
+        "id": 4,
+        "q": "If an upper/lower body alternated routine is performed with minimal rest periods of 20 to 30 seconds between exercises, what training method does it represent?",
+        "opts": [
+          "Max-effort strength testing",
+          "Circuit training",
+          "Cluster set training",
+          "Isokinetic dynamometry"
+        ],
+        "correct": 1,
+        "rationale": "When upper and lower body exercises are alternated with short rest intervals of 20 to 30 seconds, the workout functions as circuit training, which can also improve cardiorespiratory endurance."
+      },
+      {
+        "id": 5,
+        "q": "What is the core mechanical objective of alternating pushing exercises with pulling exercises?",
+        "opts": [
+          "Ensuring that the same muscle group is not used in two consecutive exercises",
+          "Maximizing fatigue in prime mover synergist muscles",
+          "Increasing joint friction across primary articulations",
+          "Eliminating the need for antagonist muscle stabilization"
+        ],
+        "correct": 0,
+        "rationale": "The push-pull arrangement ensures that identical muscle groups are not stressed in succession, reducing cumulative fatigue in prime movers and synergists (e.g., triceps or biceps)."
+      },
+      {
+        "id": 6,
+        "q": "If an athlete performs a pull-up, seated row, and hammer curl sequentially, what physiological issue will compromise repetition performance?",
+        "opts": [
+          "Selective fatigue of the rectus abdominis stabilizer",
+          "Synergistic fatigue of the biceps brachii muscle involved in all three pulling lifts",
+          "Premature neural exhaustion of the quadriceps femoris",
+          "Excessive arterial occlusion in the lower extremities"
+        ],
+        "correct": 1,
+        "rationale": "Performing consecutive pulling exercises stresses the biceps brachii in every lift, causing cumulative localized fatigue that compromises performance on subsequent exercises."
+      },
+      {
+        "id": 7,
+        "q": "Which pair of exercises correctly illustrates an alternating push-pull upper body sequence?",
+        "opts": [
+          "Bench press followed immediately by Shoulder press",
+          "Bench press followed immediately by Bent-over row",
+          "Lat pulldown followed immediately by Seated cable row",
+          "Triceps pushdown followed immediately by Incline dumbbell press"
+        ],
+        "correct": 1,
+        "rationale": "Bench press (chest/triceps push) alternated with Bent-over row (back/biceps pull) is a classic upper body push-pull pairing."
+      },
+      {
+        "id": 8,
+        "q": "How are lower body exercises categorized within a push-pull arrangement?",
+        "opts": [
+          "Leg press and back squat as \"push\"; stiff-leg deadlift and knee curl as \"pull\"",
+          "Leg press and back squat as \"pull\"; stiff-leg deadlift and knee curl as \"push\"",
+          "All lower body exercises are classified exclusively as \"push\"",
+          "All lower body exercises are classified exclusively as \"pull\""
+        ],
+        "correct": 0,
+        "rationale": "Lower body push-pull classifications group quad-dominant multi-joint exercises (leg press, back squat) as \"push\" and posterior-chain hamstring-dominant lifts (stiff-leg deadlift, leg/knee curl) as \"pull\"."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following exercises are classified as upper body \"pushing\" exercises? (Select all that apply)",
+        "opts": [
+          "Bench press",
+          "Shoulder press",
+          "Triceps pushdown",
+          "Lat pulldown",
+          "Bent-over row"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Bench press, shoulder press, and triceps pushdown are upper body pushing movements targeting the pectorals, deltoids, and triceps brachii. Lat pulldown and bent-over row are pulling movements."
+      },
+      {
+        "id": 2,
+        "q": "Which of the following exercises are classified as upper body \"pulling\" exercises? (Select all that apply)",
+        "opts": [
+          "Lat pulldown",
+          "Bent-over row",
+          "Biceps curl",
+          "Pull-up",
+          "Incline bench press"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Lat pulldown, bent-over row, biceps curl, and pull-up are all upper body pulling exercises involving the latissimus dorsi, rhomboids, rear deltoids, and biceps brachii."
+      },
+      {
+        "id": 3,
+        "q": "What are the key performance and practical advantages of alternating upper and lower body exercises? (Select all that apply)",
+        "opts": [
+          "Maximizes localized rest for a body region while performing work on the opposite region",
+          "Reduces overall session duration by eliminating idle rest waits between sets",
+          "Prevents excessive fatigue in beginner or untrained athletes",
+          "Can be adapted into circuit training to support cardiorespiratory endurance",
+          "Requires heavy 1RM loads on every consecutive exercise"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Alternating upper and lower body exercises optimizes recovery, saves workout time, protects untrained lifters from excessive exhaustion, and can provide cardiorespiratory circuit benefits."
+      },
+      {
+        "id": 4,
+        "q": "Which lower body exercise pairs represent a valid push-pull combination? (Select all that apply)",
+        "opts": [
+          "Back squat (push) and Leg/knee curl (pull)",
+          "Leg press (push) and Stiff-leg deadlift (pull)",
+          "Back squat (push) and Leg press (push)",
+          "Front squat (push) and Hamstring curl (pull)",
+          "Stiff-leg deadlift (pull) and Seated hamstring curl (pull)"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Options A, B, and D pair a quad-dominant pushing lift with a hamstring-dominant pulling lift. Options C and E pair two pushes or two pulls sequentially."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Alternating upper body and lower body exercises allows an athlete to decrease overall training time without sacrificing rest between body regions.",
+        "ans": true,
+        "feedback": "Moving directly from an upper body lift to a lower body lift eliminates idle wait time while still giving the upper body 2 to 3 minutes of passive recovery during the lower body set."
+      },
+      {
+        "id": 2,
+        "q": "Circuit training performed by alternating upper and lower body exercises with 20 to 30 second rest periods improves cardiorespiratory endurance to the exact same extent as traditional aerobic running.",
+        "ans": false,
+        "feedback": "While circuit training improves cardiorespiratory endurance, it does so to a lesser extent than dedicated conventional aerobic exercise training."
+      },
+      {
+        "id": 3,
+        "q": "Arranging three consecutive upper body pushing exercises (e.g., bench press, shoulder press, triceps pushdown) causes cumulative synergistic fatigue in the triceps brachii.",
+        "ans": true,
+        "feedback": "Because the triceps brachii acts as a primary mover or key synergist in all three pushing lifts, sequential arrangement results in accumulated fatigue that degrades performance on subsequent exercises."
+      },
+      {
+        "id": 4,
+        "q": "Push-pull exercise arrangements are recommended for athletes beginning or returning to a resistance training program.",
+        "ans": true,
+        "feedback": "Alternating push and pull exercises prevents localized muscular burnout, making it an ideal structure for novice or returning athletes."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Alternating upper body and lower body exercises with short rest periods of 20 to 30 seconds is known as **circuit training**.",
+        "targets": [
+          "circuit training"
+        ],
+        "optionsBank": [
+          "circuit training",
+          "superset",
+          "compound set",
+          "power lifting",
+          "periodization"
+        ],
+        "hint": "Fill in the missing blanks."
+      },
+      {
+        "id": 2,
+        "statement": "A push-pull exercise arrangement ensures that the same **muscle group** is not stressed in two consecutive exercises.",
+        "targets": [
+          "muscle group"
+        ],
+        "optionsBank": [
+          "muscle group",
+          "energy system",
+          "connective tissue",
+          "bone matrix",
+          "motor endplate"
+        ],
+        "hint": "Fill in the missing blanks."
+      },
+      {
+        "id": 3,
+        "statement": "In lower body push-pull classifications, the back squat is categorized as a **push** exercise, while the knee curl is categorized as a **pull** exercise.",
+        "targets": [
+          "push",
+          "pull"
+        ],
+        "optionsBank": [
+          "push",
+          "pull",
+          "core",
+          "assistance",
+          "structural"
+        ],
+        "hint": "Fill in the missing blanks."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain how alternating upper body and lower body exercises optimizes both session time efficiency and localized muscle recovery for a novice athlete.",
+        "model": "Alternating upper and lower body exercises allows an athlete to perform an upper body set (e.g., bench press) and transition directly into a lower body set (e.g., leg press) with minimal transition rest. While the lower body is working, the upper body muscles receive passive recovery without requiring the athlete to sit idle. This compresses overall workout time while preventing localized muscular exhaustion, making it an effective strategy for novice athletes who tire quickly from consecutive same-region lifts.",
+        "criteria": [
+          "Accurately explain the exercise science principles involved.",
+          "Provide specific anatomical and physiological mechanisms.",
+          "Demonstrate practical application to athletic program design."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Describe the physiological mechanics of an upper body push-pull exercise arrangement, explaining why it prevents synergistic muscle fatigue compared to sequential pushing lifts.",
+        "model": "An upper body push-pull arrangement alternates exercises targeting agonist push muscles (chest, shoulder, triceps, e.g., bench press) with pulling muscles (lats, rhomboids, biceps, e.g., bent-over row). This ensures that prime movers and synergists are not recruited in consecutive exercises. In contrast, performing sequential pushing lifts (e.g., bench press -> shoulder press -> triceps pushdown) repeatedly fatigues the triceps brachii, decreasing force output and repetition capacity on later lifts. Alternating push and pull allows each muscle group to rest while its opposing group works.",
+        "criteria": [
+          "Accurately explain the exercise science principles involved.",
+          "Provide specific anatomical and physiological mechanisms.",
+          "Demonstrate practical application to athletic program design."
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "title": "Part 3: Advanced Sequencing: Supersets and Compound Sets",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What is the defining characteristic of both supersets and compound sets?",
+        "opts": [
+          "Performing sets with 3 to 5 minutes of rest between exercises",
+          "Performing two exercises sequentially with little to no rest between them",
+          "Executing only single-joint machine exercises with light resistance",
+          "Training exclusively in the 1RM to 3RM loading zone"
+        ],
+        "correct": 1,
+        "rationale": "Both supersets and compound sets involve pairing two exercises and performing them back-to-back with minimal or no intervening rest."
+      },
+      {
+        "id": 2,
+        "q": "What specific exercise pairing defines a superset?",
+        "opts": [
+          "Two sequential exercises stressing opposing muscle groups (an agonist and its antagonist)",
+          "Two sequential exercises stressing the exact same muscle group",
+          "A power exercise paired with an aerobic conditioning drill",
+          "A upper body exercise paired with a lower body exercise"
+        ],
+        "correct": 0,
+        "rationale": "A superset specifically pairs two exercises targeting opposing muscle groups (agonist and antagonist), such as biceps and triceps."
+      },
+      {
+        "id": 3,
+        "q": "Which exercise pair represents a classic superset?",
+        "opts": [
+          "Barbell biceps curl followed immediately by Dumbbell hammer curl",
+          "Barbell biceps curl followed immediately by Triceps pushdown",
+          "Back squat followed immediately by Leg press",
+          "Flat bench press followed immediately by Incline dumbbell press"
+        ],
+        "correct": 1,
+        "rationale": "Barbell biceps curl (elbow flexor agonist) followed immediately by Triceps pushdown (elbow extensor antagonist) is a superset targeting opposing muscle groups."
+      },
+      {
+        "id": 4,
+        "q": "What specific exercise pairing defines a compound set?",
+        "opts": [
+          "Two sequential exercises stressing opposing muscle groups",
+          "Two sequential exercises stressing the same muscle group",
+          "A core exercise paired with a 400-meter sprint",
+          "A upper body pushing exercise paired with a lower body pulling exercise"
+        ],
+        "correct": 1,
+        "rationale": "A compound set specifically pairs two different exercises that target the exact same muscle group, compounding mechanical and metabolic stress on those muscle fibers."
+      },
+      {
+        "id": 5,
+        "q": "Which exercise pair represents a classic compound set?",
+        "opts": [
+          "Barbell biceps curl followed immediately by Triceps pushdown",
+          "Barbell biceps curl followed immediately by Dumbbell hammer curl",
+          "Bench press followed immediately by Bent-over row",
+          "Leg extension followed immediately by Hamstring leg curl"
+        ],
+        "correct": 1,
+        "rationale": "Barbell biceps curl followed immediately by Dumbbell hammer curl targets the exact same muscle group (biceps brachii/brachialis), forming a compound set."
+      },
+      {
+        "id": 6,
+        "q": "Why are supersets and compound sets considered demanding training methods that may NOT be appropriate for unconditioned athletes?",
+        "opts": [
+          "They require expensive selectorized equipment setups",
+          "They create high metabolic stress and work density due to un-rested back-to-back exercise pairing",
+          "They prevent any motor unit recruitment in fast-twitch fibers",
+          "They force athletes to train below 20% of 1RM intensity"
+        ],
+        "correct": 1,
+        "rationale": "Eliminating rest between paired sets significantly elevates metabolic demand, cumulative fatigue, and workout density, making these techniques too strenuous for unconditioned or novice lifters."
+      },
+      {
+        "id": 7,
+        "q": "What neuromuscular benefit occurs during a superset when an agonist exercise is followed immediately by an antagonist exercise?",
+        "opts": [
+          "The antagonist undergoes reciprocal inhibition and passive relaxation while the agonist works",
+          "Both muscle groups enter a state of permanent muscle tetany",
+          "Motor unit firing frequency drops to zero in both muscle groups",
+          "Bone mineral density decreases rapidly across the joint articulation"
+        ],
+        "correct": 0,
+        "rationale": "In a superset, working the agonist allows the antagonist to rest and undergo reciprocal inhibition, facilitating recovery while maintaining high workout efficiency."
+      },
+      {
+        "id": 8,
+        "q": "How does commercial practitioner literature sometimes treat the terms \"superset\" and \"compound set\"?",
+        "opts": [
+          "It strictly enforces biomechanical definitions without exception",
+          "It sometimes interchanges the meanings of superset and compound set",
+          "It completely bans the use of compound sets in strength facilities",
+          "It redefines supersets as 60-minute aerobic workouts"
+        ],
+        "correct": 1,
+        "rationale": "Although exercise science distinguishes agonist-antagonist pairings (supersets) from same-muscle pairings (compound sets), commercial fitness literature often interchanges these terms."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following exercise pairs are classified as supersets? (Select all that apply)",
+        "opts": [
+          "Leg extension (quadriceps) followed by Seated leg curl (hamstrings)",
+          "Bench press (pectorals) followed by Bent-over row (latissimus dorsi)",
+          "Barbell biceps curl followed by Triceps pushdown",
+          "Back squat followed by Leg press",
+          "Dumbbell shoulder press followed by Lat pulldown"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Options A, B, C, and E pair agonist and antagonist muscle groups across a joint (quads/hams, chest/back, biceps/triceps, shoulders/lats). Back squat followed by leg press targets the same muscle group (compound set)."
+      },
+      {
+        "id": 2,
+        "q": "Which of the following exercise pairs are classified as compound sets? (Select all that apply)",
+        "opts": [
+          "Flat barbell bench press followed by Incline dumbbell chest press",
+          "Back squat followed by Machine leg press",
+          "Barbell biceps curl followed by Dumbbell hammer curl",
+          "Lat pulldown followed by Seated cable row",
+          "Barbell biceps curl followed by Standing triceps extension"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Options A, B, C, and D pair two different exercises targeting the exact same muscle group (chest, quads/glutes, biceps, lats/rhomboids). Option E is a superset (opposing muscles)."
+      },
+      {
+        "id": 3,
+        "q": "What are the primary characteristics and operational benefits of supersets and compound sets? (Select all that apply)",
+        "opts": [
+          "Both methods are time-efficient and increase workout density",
+          "Supersets pair opposing agonist and antagonist muscle groups",
+          "Compound sets compound stress on the same muscle area",
+          "Both methods are highly recommended for brand-new beginner athletes on day one",
+          "Both methods involve performing paired sets with minimal to no rest between them"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Supersets and compound sets save time, increase training density, and pair exercises with minimal rest. However, due to high physical demands, they are generally inappropriate for unconditioned beginners."
+      },
+      {
+        "id": 4,
+        "q": "Which statements accurately distinguish a superset from a compound set? (Select all that apply)",
+        "opts": [
+          "A superset targets opposing muscle groups (agonist/antagonist)",
+          "A compound set targets the same muscle group with two different exercises",
+          "A superset allows localized rest for the antagonist while the agonist works",
+          "A compound set intentionally induces cumulative exhaustion in identical motor unit pools",
+          "A superset requires 5 minutes of rest between paired exercises, while a compound set requires zero rest"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Supersets target opposing muscle groups (allowing reciprocal recovery), whereas compound sets target identical muscle groups (compounding localized fatigue). Neither permits 5 minutes of rest between paired exercises."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "A superset involves performing two different exercises for the exact same muscle group with no rest between sets.",
+        "ans": false,
+        "feedback": "Performing two exercises for the SAME muscle group defines a compound set. A superset involves two exercises for OPPOSING muscle groups (agonist and antagonist)."
+      },
+      {
+        "id": 2,
+        "q": "Compound sets cause compounded mechanical and metabolic stress because both exercises recruit the same muscle area.",
+        "ans": true,
+        "feedback": "Because both exercises in a compound set target the same muscle group, fatigue is compounded across identical muscle fibers and motor unit pools."
+      },
+      {
+        "id": 3,
+        "q": "Supersets and compound sets are time-efficient methods that increase workout density.",
+        "ans": true,
+        "feedback": "Eliminating rest intervals between paired exercises reduces total workout time while accomplishing high volume, elevating training density."
+      },
+      {
+        "id": 4,
+        "q": "Supersets and compound sets are ideal for unconditioned or novice athletes because they eliminate physical fatigue.",
+        "ans": false,
+        "feedback": "Supersets and compound sets are purposely more demanding and create high metabolic fatigue, making them inappropriate for unconditioned athletes."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "A **superset** involves two sequentially performed exercises that stress two opposing muscle groups (an agonist and its antagonist).",
+        "targets": [
+          "superset"
+        ],
+        "optionsBank": [
+          "superset",
+          "compound set",
+          "circuit set",
+          "drop set",
+          "warm-up set"
+        ],
+        "hint": "Fill in the missing blanks."
+      },
+      {
+        "id": 2,
+        "statement": "A **compound set** involves sequentially performing two different exercises for the **same** muscle group.",
+        "targets": [
+          "compound set",
+          "same"
+        ],
+        "optionsBank": [
+          "compound set",
+          "superset",
+          "opposing",
+          "same",
+          "single-joint"
+        ],
+        "hint": "Fill in the missing blanks."
+      },
+      {
+        "id": 3,
+        "statement": "Both supersets and compound sets are time-efficient but purposely more **demanding**, making them unsuitable for unconditioned athletes.",
+        "targets": [
+          "demanding"
+        ],
+        "optionsBank": [
+          "demanding",
+          "passive",
+          "low-intensity",
+          "restful",
+          "submaximal"
+        ],
+        "hint": "Fill in the missing blanks."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Compare and contrast a superset and a compound set in terms of exercise pairing, targeted musculature, and localized muscle fatigue.",
+        "model": "Both supersets and compound sets involve performing two exercises sequentially with little to no rest between sets. A superset pairs exercises targeting opposing muscle groups (agonist and antagonist, e.g., biceps curl and triceps pushdown), allowing one muscle group to rest and undergo reciprocal inhibition while the other works. A compound set pairs two different exercises targeting the exact same muscle group (e.g., biceps curl and hammer curl), compounding fatigue across identical muscle fibers and motor units to drive maximal localized exhaustion.",
+        "criteria": [
+          "Accurately explain the exercise science principles involved.",
+          "Provide specific anatomical and physiological mechanisms.",
+          "Demonstrate practical application to athletic program design."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Discuss why supersets and compound sets are effective for advanced athletes seeking time efficiency, and explain why strength coaches should avoid prescribing them to novice lifters.",
+        "model": "Supersets and compound sets increase training density by eliminating rest between paired exercises, allowing advanced athletes to complete high workout volume in less total time. For advanced athletes, supersets enhance blood flow and reciprocal recovery, while compound sets maximize hypertrophic metabolic stress. However, strength coaches should avoid prescribing them to novice lifters because the un-rested back-to-back execution creates severe metabolic and cardiovascular fatigue, compromising lift technique and increasing injury risk in unconditioned athletes.",
+        "criteria": [
+          "Accurately explain the exercise science principles involved.",
+          "Provide specific anatomical and physiological mechanisms.",
+          "Demonstrate practical application to athletic program design."
+        ]
+      }
+    ]
+  }
+}

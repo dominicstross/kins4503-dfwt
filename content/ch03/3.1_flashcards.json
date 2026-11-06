@@ -1,0 +1,76 @@
+{
+    "chapterId": "3.1",
+    "title": "3.1 Essential Terminology",
+    "cards": [
+        {
+            "id": "3.1-01",
+            "tag": "Bioenergetics",
+            "reference": "Section 3.1",
+            "front": "What is <strong>bioenergetics</strong>, and what is its primary physiological purpose?",
+            "back": "<strong>Bioenergetics</strong> is the flow of energy in a biological system. It concerns primarily the conversion of macronutrients (carbohydrates, proteins, and fats)—which contain chemical energy—into biologically usable forms of energy to perform biological work."
+        },
+        {
+            "id": "3.1-02",
+            "tag": "Metabolic Terminology",
+            "reference": "Section 3.1",
+            "front": "How do <strong>catabolism</strong> and <strong>anabolism</strong> differ in biological systems?",
+            "back": "<ul><li><strong>Catabolism:</strong> The breakdown of large molecules into smaller molecules, associated with the release of energy (e.g., breakdown of protein into amino acids).</li><li><strong>Anabolism:</strong> The synthesis of larger molecules from smaller molecules using energy released from catabolic reactions (e.g., formation of protein from amino acids).</li></ul>"
+        },
+        {
+            "id": "3.1-03",
+            "tag": "Metabolic Terminology",
+            "reference": "Section 3.1",
+            "front": "What is the key distinction between <strong>exergonic</strong> and <strong>endergonic</strong> reactions?",
+            "back": "<ul><li><strong>Exergonic reactions:</strong> Energy-releasing reactions that are generally catabolic.</li><li><strong>Endergonic reactions:</strong> Reactions that require energy, encompassing anabolic processes and muscle contraction.</li></ul>"
+        },
+        {
+            "id": "3.1-04",
+            "tag": "Metabolic Terminology",
+            "reference": "Section 3.1",
+            "front": "What is <strong>metabolism</strong>, and how are exergonic and endergonic reactions linked?",
+            "back": "<strong>Metabolism</strong> is the total of all catabolic (exergonic) and anabolic (endergonic) reactions in a biological system. Energy derived from exergonic reactions drives endergonic reactions through an intermediate energy molecule: <strong>adenosine triphosphate (ATP)</strong>."
+        },
+        {
+            "id": "3.1-05",
+            "tag": "ATP Physiology",
+            "reference": "Section 3.1",
+            "front": "What is the molecular structure of an <strong>adenosine triphosphate (ATP)</strong> molecule?",
+            "back": "ATP consists of <strong>adenosine</strong> (adenine, a nitrogen-containing base, combined with ribose, a five-carbon sugar) and <strong>three phosphate groups</strong>. It stores large amounts of energy in the chemical bonds of its two terminal phosphate groups."
+        },
+        {
+            "id": "3.1-06",
+            "tag": "ATP Physiology",
+            "reference": "Section 3.1",
+            "front": "What is <strong>ATP hydrolysis</strong>, and what is its enzymatic reaction equation?",
+            "back": "<strong>ATP hydrolysis</strong> is the chemical breakdown of one ATP molecule to yield energy, requiring one molecule of water (H<sub>2</sub>O).<br><br>Equation: ATP + H<sub>2</sub>O + ATPase &rarr; ADP + P<sub>i</sub> + H<sup>+</sup><br><br>Yields adenosine diphosphate (ADP), inorganic phosphate (P<sub>i</sub>), and a hydrogen ion (H<sup>+</sup>)."
+        },
+        {
+            "id": "3.1-07",
+            "tag": "Enzymatic Catalysts",
+            "reference": "Section 3.1",
+            "front": "What is the specific physiological role of <strong>myosin ATPase</strong>?",
+            "back": "<strong>Myosin ATPase</strong> is the enzyme that catalyzes ATP hydrolysis to provide the energy needed for <strong>crossbridge recycling</strong> during muscle contraction."
+        },
+        {
+            "id": "3.1-08",
+            "tag": "Enzymatic Catalysts",
+            "reference": "Section 3.1",
+            "front": "What are the roles of <strong>calcium ATPase</strong> and <strong>sodium-potassium ATPase</strong>?",
+            "back": "<ul><li><strong>Calcium ATPase (Ca<sup>2+</sup>-ATPase):</strong> Catalyzes ATP hydrolysis to pump calcium back into the sarcoplasmic reticulum during muscle relaxation.</li><li><strong>Sodium-Potassium ATPase (Na<sup>+</sup>/K<sup>+</sup>-ATPase):</strong> Catalyzes ATP hydrolysis to maintain the sarcolemmal concentration gradient after cell membrane depolarization.</li></ul>"
+        },
+        {
+            "id": "3.1-09",
+            "tag": "ATP Physiology",
+            "reference": "Section 3.1",
+            "front": "What products are yielded from the further hydrolysis of <strong>adenosine diphosphate (ADP)</strong>?",
+            "back": "Further hydrolysis of ADP cleaves its second phosphate group to yield <strong>adenosine monophosphate (AMP)</strong>, an inorganic phosphate (P<sub>i</sub>), and a hydrogen ion (H<sup>+</sup>)."
+        },
+        {
+            "id": "3.1-10",
+            "tag": "ATP Physiology",
+            "reference": "Section 3.1",
+            "front": "Why must muscle cells continuously resynthesize ATP during physical activity?",
+            "back": "Muscle cells store ATP in <strong>limited amounts</strong>, while muscle actions require a constant, uninterrupted supply of energy. Thus, ATP-producing processes must continuously occur within the cell."
+        }
+    ]
+}

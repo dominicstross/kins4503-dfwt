@@ -1,0 +1,762 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Which state along the overtraining continuum is characterized by a short-term decrease in athletic performance followed by a full recovery and supercompensation peak within several days to a few weeks?",
+        "opts": [
+          "Nonfunctional overreaching (NFOR)",
+          "Functional overreaching (FOR)",
+          "Sympathetic overtraining syndrome (OTS)",
+          "Parasympathetic overtraining syndrome (OTS)"
+        ],
+        "correct": 1,
+        "rationale": "Functional overreaching (FOR) involves short-term intensified training causing temporary performance decrements, followed by recovery and supercompensation within days to weeks."
+      },
+      {
+        "id": 2,
+        "q": "What is the estimated prevalence of overtraining syndrome (OTS) or nonfunctional overreaching (NFOR) among collegiate swimmers and aerobic endurance athletes?",
+        "opts": [
+          "1% to 3%",
+          "Approximately 10% (ranging from 7% to 21%)",
+          "35% to 50%",
+          "Over 65%"
+        ],
+        "correct": 1,
+        "rationale": "Textbook data indicates that approximately 10% (ranging between 7% and 21%) of collegiate swimmers and endurance athletes experience NFOR or OTS."
+      },
+      {
+        "id": 3,
+        "q": "What recovery duration is typically required for an athlete suffering from true Overtraining Syndrome (OTS)?",
+        "opts": [
+          "24 to 48 hours",
+          "3 to 5 days",
+          "1 to 2 weeks",
+          "Several months to over a year"
+        ],
+        "correct": 3,
+        "rationale": "Overtraining Syndrome (OTS) is a severe condition requiring months to over a year of rest and medical recovery due to extensive neuroendocrine maladaptation."
+      },
+      {
+        "id": 4,
+        "q": "How does heart rate variability (HRV) typically alter during the onset of overtraining syndrome?",
+        "opts": [
+          "HRV significantly increases due to vagal dominance",
+          "HRV decreases, reflecting autonomic nerve imbalance",
+          "HRV remains completely static regardless of training load",
+          "HRV fluctuates only during post-exercise sleep"
+        ],
+        "correct": 1,
+        "rationale": "HRV decreases with onset of OTS, reflecting reduced parasympathetic activity or autonomic control disturbances."
+      },
+      {
+        "id": 5,
+        "q": "Which cardiovascular response is uniquely elevated during resting conditions when training intensity (rather than volume) is excessive?",
+        "opts": [
+          "Resting systolic blood pressure",
+          "Resting diastolic blood pressure",
+          "Resting arterial oxygen saturation",
+          "Resting pulmonary capillary wedge pressure"
+        ],
+        "correct": 1,
+        "rationale": "Increases in training intensity can elevate resting diastolic blood pressure without altering resting systolic blood pressure."
+      },
+      {
+        "id": 6,
+        "q": "Which athletic population is most predominantly susceptible to sympathetic overtraining syndrome?",
+        "opts": [
+          "Marathon runners and triathletes",
+          "Speed, power, and team sport athletes",
+          "Ultra-endurance cyclists",
+          "Cross-country skiers"
+        ],
+        "correct": 1,
+        "rationale": "Sympathetic OTS is predominantly observed in speed, power, and agility athletes, featuring resting tachycardia and hyperexcitability."
+      },
+      {
+        "id": 7,
+        "q": "What change occurs in exercise-induced maximal heart rate (HR_{max}) in an overtrained athlete?",
+        "opts": [
+          "Maximal heart rate increases by 15 to 20 beats/min",
+          "Maximal heart rate decreases significantly",
+          "Maximal heart rate remains identical to baseline",
+          "Maximal heart rate becomes unpredictable"
+        ],
+        "correct": 1,
+        "rationale": "Exercise-induced maximal heart rate decreases in overtrained athletes due to catecholamine receptor desensitization."
+      },
+      {
+        "id": 8,
+        "q": "What primary operational mistake causes the progression from overreaching to overtraining syndrome?",
+        "opts": [
+          "Inadequate carbohydrate intake during competition",
+          "Excessive training volume/intensity combined with inadequate rest and recovery",
+          "Performing resistance training prior to aerobic exercise",
+          "Consuming excessive protein prior to sleep"
+        ],
+        "correct": 1,
+        "rationale": "OTS is caused by a persistent imbalance between heavy physiological stress (volume/intensity) and insufficient rest/recovery."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following physiological and performance characteristics define Nonfunctional Overreaching (NFOR)? (Select all that apply)",
+        "opts": [
+          "Stagnation or decline in performance lasting weeks to months",
+          "Immediate supercompensation peak within 48 hours",
+          "Increased neuroendocrine and psychological stress markers",
+          "Full recovery achievable within 2 to 3 days of rest",
+          "Failure to achieve targeted supercompensation gains"
+        ],
+        "correctArray": [
+          0,
+          2,
+          4
+        ],
+        "rationale": "NFOR leads to prolonged performance drops (weeks to months) and neuroendocrine stress without achieving supercompensation."
+      },
+      {
+        "id": 2,
+        "q": "Which autonomic signs are indicative of sympathetic overtraining syndrome? (Select all that apply)",
+        "opts": [
+          "Elevated resting heart rate (resting tachycardia)",
+          "Lethargy and low resting heart rate",
+          "Insomnia and sleep disturbances",
+          "Increased emotional excitability and restlessness",
+          "Depressed basal metabolic rate"
+        ],
+        "correctArray": [
+          0,
+          2,
+          3
+        ],
+        "rationale": "Sympathetic OTS is marked by elevated resting HR, insomnia, and hyper-excitability."
+      },
+      {
+        "id": 3,
+        "q": "Which cardiorespiratory markers demonstrate alterations in athletes with Overtraining Syndrome? (Select all that apply)",
+        "opts": [
+          "Decreased heart rate variability (HRV)",
+          "Decreased exercise-induced maximal heart rate",
+          "Elevated resting diastolic blood pressure during intensity overreaching",
+          "Increased maximal oxygen uptake (VO_2max)",
+          "Decreased submaximal heart rate at fixed workloads"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "OTS reduces HRV and HR_{max}, while intensity overreaching elevates resting diastolic BP."
+      },
+      {
+        "id": 4,
+        "q": "Which factors contribute to the difficulty in establishing a single definitive diagnostic test for OTS? (Select all that apply)",
+        "opts": [
+          "High inter-individual variability in physiological markers",
+          "Overlapping symptoms between FOR, NFOR, and clinical depression",
+          "Lack of baseline individual marker monitoring prior to overtraining",
+          "Complete absence of physiological changes during overtraining",
+          "Confounding influence of non-training lifestyle stressors"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Individual variance, overlapping clinical signs, lack of baseline data, and lifestyle stressors complicate diagnosis."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Functional overreaching (FOR) results in a permanent reduction in athletic performance capabilities.",
+        "ans": false,
+        "feedback": "FOR produces a temporary performance dip followed by supercompensation and performance enhancements following adequate rest."
+      },
+      {
+        "id": 2,
+        "q": "Excessive training volume typically alters resting systolic blood pressure while leaving diastolic pressure unchanged.",
+        "ans": false,
+        "feedback": "Excessive volume generally leaves BP unchanged, whereas excessive intensity can elevate resting diastolic blood pressure."
+      },
+      {
+        "id": 3,
+        "q": "Overtraining Syndrome (OTS) can take months or over a year of rest to resolve fully.",
+        "ans": true,
+        "feedback": "OTS involves deep autonomic and endocrine exhaustion requiring prolonged clinical recovery."
+      },
+      {
+        "id": 4,
+        "q": "Heart rate variability (HRV) increases as an athlete transitions into nonfunctional overreaching.",
+        "ans": false,
+        "feedback": "HRV decreases with NFOR and OTS, signaling reduced parasympathetic tone and autonomic disturbance."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "The condition involving short-term performance dips followed by supercompensation is **functional overreaching**, whereas **overtraining syndrome** requires months to over a year of recovery.",
+        "targets": [
+          "functional overreaching",
+          "overtraining syndrome"
+        ],
+        "optionsBank": [
+          "functional overreaching",
+          "overtraining syndrome",
+          "sympathetic overtraining",
+          "tapering",
+          "detraining"
+        ],
+        "hint": "Differentiate temporary overreaching from severe clinical exhaustion."
+      },
+      {
+        "id": 2,
+        "statement": "Excessive training intensity elevates resting **diastolic blood pressure**, while onset of OTS reduces **heart rate variability**.",
+        "targets": [
+          "diastolic blood pressure",
+          "heart rate variability"
+        ],
+        "optionsBank": [
+          "diastolic blood pressure",
+          "heart rate variability",
+          "systolic blood pressure",
+          "stroke volume",
+          "hematocrit"
+        ],
+        "hint": "Identify key cardiovascular markers of intensity strain and autonomic fatigue."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Distinguish between Functional Overreaching (FOR), Nonfunctional Overreaching (NFOR), and Overtraining Syndrome (OTS) in terms of recovery timeline and performance outcomes.",
+        "model": "Functional Overreaching (FOR) involves short-term intensified training causing temporary performance decrements lasting days to weeks, followed by supercompensation. Nonfunctional Overreaching (NFOR) results in performance stagnation or decline requiring weeks to months of recovery without supercompensation. Overtraining Syndrome (OTS) is a severe neuroendocrine and autonomic exhaustion requiring months to over a year of recovery.",
+        "criteria": [
+          "Correctly define recovery timeline for FOR (days to weeks with supercompensation)",
+          "Correctly define recovery timeline for NFOR (weeks to months with performance stagnation)",
+          "Correctly define recovery timeline for OTS (months to over a year)",
+          "Highlight neuroendocrine involvement"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain the cardiovascular shifts observed in heart rate variability (HRV), maximal heart rate, and blood pressure during overtraining.",
+        "model": "Heart rate variability (HRV) decreases as autonomic control is disrupted. Exercise-induced maximal heart rate (HR_{max}) decreases due to receptor desensitization. Excessive training intensity specifically elevates resting diastolic blood pressure without altering systolic pressure.",
+        "criteria": [
+          "State that HRV decreases with overtraining onset",
+          "Explain that exercise maximal heart rate decreases",
+          "Identify resting diastolic blood pressure elevation with high intensity"
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What threshold drop in the free testosterone-to-cortisol ratio is widely cited as a potential marker for an anabolic-catabolic imbalance indicative of overtraining?",
+        "opts": [
+          "5% drop",
+          "10% drop",
+          "30% or greater drop",
+          "75% drop"
+        ],
+        "correct": 2,
+        "rationale": "A decrease of 30% or more in the free testosterone-to-cortisol ratio signals catabolic state dominance and overtraining risk."
+      },
+      {
+        "id": 2,
+        "q": "Which enzyme in the serum becomes chronically elevated following high-volume overtraining due to skeletal muscle microtrauma?",
+        "opts": [
+          "Lactate dehydrogenase (LDH)",
+          "Creatine kinase (CK)",
+          "Citrate synthase",
+          "Alanine aminotransferase"
+        ],
+        "correct": 1,
+        "rationale": "Serum creatine kinase (CK) levels rise significantly with high training volume, reflecting structural muscle membrane damage."
+      },
+      {
+        "id": 3,
+        "q": "Why do blood lactate concentrations at submaximal workloads decrease in volume-overtrained athletes?",
+        "opts": [
+          "Lactate clearance rates become instantaneous",
+          "Muscle glycogen stores are depleted, limiting glycolytic energy production",
+          "Mitochondria stop producing pyruvate",
+          "Blood buffering capacity increases by 50%"
+        ],
+        "correct": 1,
+        "rationale": "Depleted muscle glycogen limits glycolysis, lowering blood lactate accumulation during exercise."
+      },
+      {
+        "id": 4,
+        "q": "What specific endocrine dysfunction causes decreased growth hormone (GH) secretion during overtraining?",
+        "opts": [
+          "Primary pituitary gland necrosis",
+          "Impaired hypothalamic function and signal dysregulation",
+          "Adrenal cortex destruction",
+          "Thyroid gland hypertrophy"
+        ],
+        "correct": 1,
+        "rationale": "Altered GH and pituitary hormone responses during overtraining stem primarily from hypothalamic impairment."
+      },
+      {
+        "id": 5,
+        "q": "Which endocrine profile is characteristic of Parasympathetic Overtraining Syndrome?",
+        "opts": [
+          "High resting catecholamines and elevated cortisol",
+          "Nocturnal epinephrine depletion and blunted catecholamine responses",
+          "Hyper-secretion of thyroid hormone and aldosterone",
+          "Elevated resting growth hormone and insulin"
+        ],
+        "correct": 1,
+        "rationale": "Parasympathetic OTS features nocturnal epinephrine depletion, blunted catecholamines, and autonomic exhaustion."
+      },
+      {
+        "id": 6,
+        "q": "How do basal dopamine levels respond to severe volume overtraining?",
+        "opts": [
+          "Dopamine levels surge by 200%",
+          "Dopamine levels decrease significantly",
+          "Dopamine levels remain strictly unaltered",
+          "Dopamine converts directly into acetylcholine"
+        ],
+        "correct": 1,
+        "rationale": "Severe volume overtraining leads to a depression in basal dopamine concentrations."
+      },
+      {
+        "id": 7,
+        "q": "Which psychological instrument is commonly utilized to detect early mood disturbances associated with overtraining?",
+        "opts": [
+          "Rate of Perceived Exertion (RPE)",
+          "Profile of Mood States (POMS)",
+          "Visual Analog Fatigue Scale",
+          "Functional Movement Screen (FMS)"
+        ],
+        "correct": 1,
+        "rationale": "The Profile of Mood States (POMS) tracks disturbances in vigor, fatigue, depression, and confusion signaling overtraining."
+      },
+      {
+        "id": 8,
+        "q": "What shift occurs in immune system function during chronic nonfunctional overreaching?",
+        "opts": [
+          "Immune cell activity surges, eliminating all infections",
+          "Immunosuppression occurs, raising upper respiratory tract infection risk",
+          "Immune function remains uninfluenced by training load",
+          "Red blood cell production halts entirely"
+        ],
+        "correct": 1,
+        "rationale": "Chronic overtraining induces immunosuppression, increasing susceptibility to upper respiratory infections."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which biochemical and endocrine alterations are associated with high-volume overtraining? (Select all that apply)",
+        "opts": [
+          "Serum creatine kinase (CK) elevation",
+          "Decrease of 30% or more in free testosterone-to-cortisol ratio",
+          "Depleted muscle glycogen concentrations",
+          "Blunted submaximal blood lactate levels",
+          "Massive surge in basal insulin-like growth factor 1 (IGF-1)"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "CK elevation, >30% drop in T:C ratio, glycogen depletion, and reduced blood lactate mark volume overtraining."
+      },
+      {
+        "id": 2,
+        "q": "Which symptoms characterize Parasympathetic Overtraining Syndrome? (Select all that apply)",
+        "opts": [
+          "Low resting heart rate (bradycardia)",
+          "Lethargy and chronic systemic fatigue",
+          "Nocturnal catecholamine depletion",
+          "Restless insomnia and hyper-reactivity",
+          "Elevated maximal exercise lactate"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Parasympathetic OTS causes resting bradycardia, lethargy, and nocturnal catecholamine depletion."
+      },
+      {
+        "id": 3,
+        "q": "Which neuroendocrine structures display altered regulatory control during overtraining syndrome? (Select all that apply)",
+        "opts": [
+          "Hypothalamus",
+          "Anterior pituitary gland",
+          "Adrenal cortex",
+          "Skeletal muscle neuromuscular junction",
+          "Thyroid gland regulatory axis"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "The hypothalamic-pituitary-adrenal (HPA) axis suffers impaired regulatory control during overtraining."
+      },
+      {
+        "id": 4,
+        "q": "Which POMS subscale shifts are typical in overtrained endurance athletes? (Select all that apply)",
+        "opts": [
+          "Decreased vigor",
+          "Elevated fatigue",
+          "Elevated confusion and depression",
+          "Elevated self-confidence",
+          "Decreased tension"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "POMS scores in overtrained athletes reveal reduced vigor alongside increased fatigue, depression, and confusion."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "A decrease of 30% or more in the free testosterone-to-cortisol ratio indicates a shift toward a catabolic physiological state.",
+        "ans": true,
+        "feedback": "A >30% reduction in the T:C ratio indicates enhanced catabolism and impaired anabolic recovery."
+      },
+      {
+        "id": 2,
+        "q": "Submaximal blood lactate increases significantly during high-volume overtraining due to glycogen hyper-accumulation.",
+        "ans": false,
+        "feedback": "Submaximal blood lactate decreases because muscle glycogen depletion limits glycolytic flux."
+      },
+      {
+        "id": 3,
+        "q": "Impaired growth hormone secretion during overtraining is caused by primary hypothalamic dysfunction.",
+        "ans": true,
+        "feedback": "Research confirms that neuroendocrine blunting stems from hypothalamic dysregulation rather than intrinsic pituitary failure."
+      },
+      {
+        "id": 4,
+        "q": "Parasympathetic overtraining syndrome is characterized by high resting heart rate and acute insomnia.",
+        "ans": false,
+        "feedback": "High resting HR and insomnia characterize sympathetic OTS; parasympathetic OTS features bradycardia and lethargy."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "High-volume overtraining elevates serum **creatine kinase**, while decreasing the **free testosterone-to-cortisol ratio** by 30% or more.",
+        "targets": [
+          "creatine kinase",
+          "free testosterone-to-cortisol ratio"
+        ],
+        "optionsBank": [
+          "creatine kinase",
+          "free testosterone-to-cortisol ratio",
+          "myoglobin",
+          "aldosterone",
+          "insulin"
+        ],
+        "hint": "Identify muscle damage and catabolic endocrine markers."
+      },
+      {
+        "id": 2,
+        "statement": "Depleted muscle glycogen blunts submaximal **blood lactate**, while neuroendocrine blunting stems from **hypothalamic dysfunction**.",
+        "targets": [
+          "blood lactate",
+          "hypothalamic dysfunction"
+        ],
+        "optionsBank": [
+          "blood lactate",
+          "hypothalamic dysfunction",
+          "glucose",
+          "pituitary necrosis",
+          "thyroid storm"
+        ],
+        "hint": "Link glycogen state to lactate kinetics and central brain control."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain how muscle glycogen depletion during high-volume overtraining alters submaximal blood lactate levels.",
+        "model": "High-volume overtraining severely depletes intramuscular glycogen stores. Because glycolytic substrate availability is limited, the rate of glycogenolysis and lactate production during exercise drops, resulting in artificially lowered submaximal blood lactate concentrations despite high exertion.",
+        "criteria": [
+          "Identify muscle glycogen depletion as the cause",
+          "Explain reduced glycolytic rate/lactate production",
+          "State that submaximal blood lactate concentrations decrease"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Contrast the clinical presentation and autonomic features of Sympathetic versus Parasympathetic Overtraining Syndrome.",
+        "model": "Sympathetic OTS is common in power athletes and features elevated resting heart rate, insomnia, restlessness, and hyperexcitability. Parasympathetic OTS is common in endurance athletes and features low resting heart rate (bradycardia), lethargy, chronic fatigue, and nocturnal catecholamine depletion.",
+        "criteria": [
+          "Identify target athlete populations (power vs endurance)",
+          "Contrast resting heart rate responses (tachycardia vs bradycardia)",
+          "Contrast autonomic/mood symptoms (insomnia/excitability vs lethargy/fatigue)"
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "How is physiological detraining defined in exercise science?",
+        "opts": [
+          "A strategic 1-week reduction in volume before competition",
+          "The partial or complete loss of training-induced adaptations due to an insufficient stimulus",
+          "The immediate loss of muscle mass following 24 hours of rest",
+          "An acute elevation in aerobic performance following rest"
+        ],
+        "correct": 1,
+        "rationale": "Detraining is defined as the partial or complete loss of anatomical, physiological, and performance adaptations following training cessation or inadequate load."
+      },
+      {
+        "id": 2,
+        "q": "How does physiological detraining differ from pre-competition tapering?",
+        "opts": [
+          "Detraining increases VO2max, whereas tapering decreases VO2max",
+          "Tapering is a planned reduction in volume with maintained intensity to peak performance, whereas detraining is an unprogrammed loss of fitness",
+          "Detraining lasts only 2 days, whereas tapering lasts 6 months",
+          "Tapering causes severe muscle atrophy"
+        ],
+        "correct": 1,
+        "rationale": "Tapering systematically reduces volume while preserving intensity to optimize performance, whereas detraining causes adaptive loss."
+      },
+      {
+        "id": 3,
+        "q": "What decline in maximal oxygen uptake (VO_2max) occurs during short-term detraining (\\le 4 weeks)?",
+        "opts": [
+          "1% to 2%",
+          "4% to 14%",
+          "25% to 35%",
+          "50% to 60%"
+        ],
+        "correct": 1,
+        "rationale": "Short-term detraining (\\le 4 weeks) causes a 4% to 14% drop in VO_2max."
+      },
+      {
+        "id": 4,
+        "q": "What primary cardiovascular mechanism drives the initial drop in VO_2max during the first 12 days of detraining?",
+        "opts": [
+          "Massive drop in maximal heart rate",
+          "Rapid plasma volume contraction reducing end-diastolic volume and stroke volume",
+          "Complete destruction of cardiac capillaries",
+          "Arterial calcification"
+        ],
+        "correct": 1,
+        "rationale": "Initial VO_2max loss is driven by rapid blood plasma volume loss, reducing venous return, EDV, and maximal stroke volume."
+      },
+      {
+        "id": 5,
+        "q": "What decline in VO_2max occurs during long-term detraining (> 4 weeks)?",
+        "opts": [
+          "2% to 4%",
+          "6% to 20%",
+          "40% to 50%",
+          "70% to 80%"
+        ],
+        "correct": 1,
+        "rationale": "Long-term detraining (> 4 weeks) causes a 6% to 20% drop in VO_2max."
+      },
+      {
+        "id": 6,
+        "q": "Which enzymatic alteration occurs in trained skeletal muscle during chronic detraining?",
+        "opts": [
+          "Oxidative enzyme activity (e.g., citrate synthase) rapidly declines",
+          "Glycolytic enzyme activity increases by 300%",
+          "Enzyme concentration remains permanently fixed",
+          "Mitochondrial enzymes double"
+        ],
+        "correct": 0,
+        "rationale": "Detraining leads to a significant decrease in oxidative enzyme activity (e.g., citrate synthase, SDH) within skeletal muscle."
+      },
+      {
+        "id": 7,
+        "q": "What happens to skeletal muscle fiber capillary density during long-term detraining?",
+        "opts": [
+          "Capillary density doubles within 2 weeks",
+          "Capillary density decreases, increasing oxygen diffusion distance",
+          "Capillaries convert directly into arterioles",
+          "Capillary density remains unaffected for 10 years"
+        ],
+        "correct": 1,
+        "rationale": "Long-term detraining reduces muscle capillary density, diminishing gas exchange efficiency."
+      },
+      {
+        "id": 8,
+        "q": "Which training variable must be maintained to prevent detraining during periods of reduced training volume?",
+        "opts": [
+          "Training frequency",
+          "Training intensity",
+          "Session duration",
+          "Caloric intake"
+        ],
+        "correct": 1,
+        "rationale": "Maintaining exercise intensity during volume reductions preserves VO_2max and physiological adaptations."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which factors contribute to the reduction in maximal oxygen uptake (VO_2max) during short- and long-term detraining? (Select all that apply)",
+        "opts": [
+          "Blood plasma volume contraction",
+          "Reduced end-diastolic volume and stroke volume",
+          "Decreased maximal cardiac output",
+          "Loss of mitochondrial oxidative enzyme activity",
+          "Surge in maximal heart rate"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "VO_2max decay stems from plasma volume loss, reduced SV, lower Q_{max}, and mitochondrial enzyme decline."
+      },
+      {
+        "id": 2,
+        "q": "How does planned pre-competition tapering differ from systemic detraining? (Select all that apply)",
+        "opts": [
+          "Tapering maintains high exercise intensity while reducing volume",
+          "Detraining involves unprogrammed stimuli reduction causing fitness loss",
+          "Tapering enhances muscle glycogen and performance supercompensation",
+          "Detraining increases mitochondrial oxidative enzyme concentrations",
+          "Tapering induces severe cardiac muscle atrophy"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Tapering maintains intensity to peak performance, whereas detraining leads to systemic degradation."
+      },
+      {
+        "id": 3,
+        "q": "Which metabolic and muscular shifts occur during extended detraining (>4 weeks)? (Select all that apply)",
+        "opts": [
+          "Decreased oxidative enzyme activity (citrate synthase)",
+          "Shift toward carbohydrate reliance and reduced fat oxidation",
+          "Reduction in skeletal muscle glycogen storage capacity",
+          "Hypertrophy of Type I slow-twitch muscle fibers",
+          "Increase in maximal respiratory oxygen extraction"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Long-term detraining reduces oxidative enzymes, glycogen storage capacity, and fat oxidation capacity."
+      },
+      {
+        "id": 4,
+        "q": "Which strategies help mitigate detraining decay during travel or reduced training periods? (Select all that apply)",
+        "opts": [
+          "Maintaining exercise intensity during reduced volume sessions",
+          "Incorporating high-intensity interval sessions",
+          "Completely ceasing all physical exertion for 4 weeks",
+          "Maintaining high training frequency with zero intensity",
+          "Utilizing cross-training modes targeting similar musculature"
+        ],
+        "correctArray": [
+          0,
+          1,
+          4
+        ],
+        "rationale": "Maintaining intensity, using intervals, and cross-training preserve aerobic adaptations during volume reductions."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Maximal oxygen uptake (VO_2max) drops by 4% to 14% during short-term detraining (\\le 4 weeks).",
+        "ans": true,
+        "feedback": "Short-term detraining produces a 4% to 14% reduction in VO_2max, driven primarily by plasma volume loss."
+      },
+      {
+        "id": 2,
+        "q": "Initial losses in VO_2max during detraining are caused by a drop in maximal heart rate.",
+        "ans": false,
+        "feedback": "Initial drops in VO_2max stem from plasma volume contraction reducing stroke volume, not maximal HR."
+      },
+      {
+        "id": 3,
+        "q": "Pre-competition tapering and detraining exert identical physiological effects on muscle glycogen.",
+        "ans": false,
+        "feedback": "Tapering increases muscle glycogen supercompensation, whereas detraining depletes glycogen storage capacity."
+      },
+      {
+        "id": 4,
+        "q": "Maintaining exercise intensity can prevent VO_2max decay even when training volume is reduced by 50%.",
+        "ans": true,
+        "feedback": "Research shows that maintaining high intensity preserves VO_2max during short-term volume reductions."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Short-term detraining reduces VO_2max by 4% to 14% primarily due to **plasma volume contraction**, which decreases **stroke volume**.",
+        "targets": [
+          "plasma volume contraction",
+          "stroke volume"
+        ],
+        "optionsBank": [
+          "plasma volume contraction",
+          "stroke volume",
+          "maximal heart rate",
+          "myoglobin",
+          "lactate"
+        ],
+        "hint": "Identify the fluid and cardiac output mechanisms of early detraining."
+      },
+      {
+        "id": 2,
+        "statement": "Unlike detraining, a pre-competition **taper** maintains exercise **intensity** while reducing training volume.",
+        "targets": [
+          "taper",
+          "intensity"
+        ],
+        "optionsBank": [
+          "taper",
+          "intensity",
+          "detraining",
+          "duration",
+          "frequency"
+        ],
+        "hint": "Differentiate peak performance preparation from fitness loss."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Detail the cardiorespiratory mechanisms responsible for the drop in VO2max during short-term detraining (<= 4 weeks).",
+        "model": "During short-term detraining, blood plasma volume contracts rapidly (within 12 days). This loss reduces venous return, end-diastolic volume (EDV), and stroke volume (SV). Consequently, maximal cardiac output (Q_max) decreases, causing a 4% to 14% reduction in VO2max despite maximal heart rate remaining stable or slightly increasing.",
+        "criteria": [
+          "Identify plasma volume contraction as the initial event",
+          "Explain the reduction in venous return, EDV, and stroke volume",
+          "State the resulting 4% to 14% drop in VO2max"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Contrast the physiological goals and training structures of pre-competition tapering versus physiological detraining.",
+        "model": "Pre-competition tapering is a planned, periodized reduction in training volume (duration/frequency) while maintaining high intensity, designed to restore muscle glycogen, reduce fatigue, and peak performance. In contrast, detraining is an unprogrammed cessation or inadequate training stimulus leading to loss of VO2max, stroke volume, and oxidative enzyme capacity.",
+        "criteria": [
+          "Explain tapering (planned volume reduction + high intensity for peaking)",
+          "Explain detraining (unprogrammed stimulus drop causing fitness loss)",
+          "Contrast physiological outcomes (performance peak vs adaptation decay)"
+        ]
+      }
+    ]
+  }
+}

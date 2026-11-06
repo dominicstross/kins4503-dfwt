@@ -1,0 +1,76 @@
+{
+    "chapterId": "3.2",
+    "title": "3.2 Biological Energy Systems",
+    "cards": [
+        {
+            "id": "3.2-01",
+            "tag": "Energy Systems Overview",
+            "reference": "Section 3.2",
+            "front": "What are the <strong>three basic energy systems</strong> in mammalian skeletal muscle, and where do their reactions take place?",
+            "back": "<ul><li><strong>Phosphagen system:</strong> Anaerobic mechanism occurring in the sarcoplasm.</li><li><strong>Glycolysis:</strong> Anaerobic mechanism occurring in the sarcoplasm.</li><li><strong>Oxidative system:</strong> Aerobic mechanism occurring in the mitochondria (includes Krebs cycle and electron transport chain).</li></ul>"
+        },
+        {
+            "id": "3.2-02",
+            "tag": "Phosphagen System",
+            "reference": "Section 3.2",
+            "front": "What reaction is catalyzed by <strong>creatine kinase</strong> in the phosphagen system?",
+            "back": "<strong>Creatine kinase</strong> catalyzes the reversible synthesis of ATP from creatine phosphate (CP) and ADP:<br><br>ADP + CP &hArr; ATP + Creatine<br><br>Skeletal muscle CP concentrations are 4 to 6 times higher than resting ATP levels, serving as a rapid energy reserve."
+        },
+        {
+            "id": "3.2-03",
+            "tag": "Phosphagen System",
+            "reference": "Section 3.2",
+            "front": "What is the <strong>law of mass action</strong>, and how does it regulate the phosphagen system?",
+            "back": "The <strong>law of mass action</strong> states that the concentrations of reactants or products in solution drive the direction of enzyme-mediated reactions. Accumulation of ADP and inorganic phosphate (P<sub>i</sub>) from ATP hydrolysis drives creatine kinase and adenylate kinase forward to resynthesize ATP."
+        },
+        {
+            "id": "3.2-04",
+            "tag": "Glycolysis Mechanics",
+            "reference": "Section 3.2",
+            "front": "What are the two potential metabolic fates of <strong>pyruvate</strong> at the end of glycolysis?",
+            "back": "<ul><li><strong>Anaerobic (Fast) Glycolysis:</strong> Pyruvate is converted to lactate in the sarcoplasm by lactate dehydrogenase, rapidly regenerating NAD<sup>+</sup>.</li><li><strong>Aerobic (Slow) Glycolysis:</strong> Pyruvate is shuttled into the mitochondria and converted to acetyl-CoA for entry into the Krebs cycle.</li></ul>"
+        },
+        {
+            "id": "3.2-05",
+            "tag": "Metabolic Acidosis",
+            "reference": "Section 3.2",
+            "front": "What actually causes <strong>metabolic acidosis</strong> during high-intensity exercise?",
+            "back": "Metabolic acidosis is caused primarily by proton (H<sup>+</sup>) accumulation resulting from <strong>ATP hydrolysis</strong>, not lactic acid. The lactate dehydrogenase reaction actually <em>consumes</em> H<sup>+</sup> ions, helping to buffer metabolic acidosis."
+        },
+        {
+            "id": "3.2-06",
+            "tag": "Glycolytic Yield & Regulation",
+            "reference": "Section 3.2",
+            "front": "How does the net ATP yield of glycolysis differ between <strong>blood glucose</strong> and <strong>muscle glycogen</strong>?",
+            "back": "<ul><li><strong>Blood Glucose:</strong> Net yield of <strong>2 ATP</strong> (1 ATP consumed by hexokinase, 1 by PFK; 4 gross ATP produced).</li><li><strong>Muscle Glycogen:</strong> Net yield of <strong>3 ATP</strong> (glycogenolysis yields pre-phosphorylated glucose, bypassing hexokinase; 1 ATP consumed by PFK; 4 gross ATP produced).</li></ul>"
+        },
+        {
+            "id": "3.2-07",
+            "tag": "Glycolytic Regulation",
+            "reference": "Section 3.2",
+            "front": "What is the rate-limiting enzyme of glycolysis, and what are its primary <strong>allosteric regulators</strong>?",
+            "back": "<strong>Phosphofructokinase (PFK)</strong> is the rate-limiting enzyme.<br><ul><li><strong>Allosteric Inhibitors:</strong> High ATP, creatine phosphate, citrate, and free fatty acids.</li><li><strong>Allosteric Activators:</strong> AMP, ADP, inorganic phosphate (P<sub>i</sub>), and ammonia.</li></ul>"
+        },
+        {
+            "id": "3.2-08",
+            "tag": "Lactate Kinetics",
+            "reference": "Section 3.2",
+            "front": "How do the <strong>Lactate Threshold (LT)</strong> and <strong>Onset of Blood Lactate Accumulation (OBLA)</strong> differ?",
+            "back": "<ul><li><strong>Lactate Threshold (LT):</strong> The exercise intensity where blood lactate begins an abrupt increase above baseline (50-60% VO<sub>2</sub>max in untrained; 70-80% in trained).</li><li><strong>OBLA:</strong> The second point of inflection occurring when blood lactate reaches <strong>4 mmol/L</strong>, corresponding to large Type II motor unit recruitment.</li></ul>"
+        },
+        {
+            "id": "3.2-09",
+            "tag": "Oxidative System",
+            "reference": "Section 3.2",
+            "front": "What is the net ATP yield from the complete oxidative breakdown of one <strong>glucose molecule</strong> vs. one <strong>triglyceride molecule</strong>?",
+            "back": "<ul><li><strong>One Blood Glucose Molecule:</strong> Yields approximately <strong>38 ATP</strong> (39 ATP from muscle glycogen) via glycolysis, Krebs cycle, and electron transport chain.</li><li><strong>One Triglyceride Molecule:</strong> Yields <strong>over 300 ATP</strong> via lipolysis (hormone-sensitive lipase) and beta oxidation of fatty acid chains.</li></ul>"
+        },
+        {
+            "id": "3.2-10",
+            "tag": "Bioenergetic System Kinetics",
+            "reference": "Section 3.2",
+            "front": "What is the relationship between an energy system's <strong>maximum rate of ATP production</strong> and its <strong>total capacity</strong>?",
+            "back": "There is an <strong>inverse relationship</strong> between rate and capacity:<br><ul><li><strong>Phosphagen System:</strong> Highest rate of ATP production, but lowest capacity.</li><li><strong>Fat Oxidation:</strong> Slowest rate of ATP production, but greatest total capacity.</li></ul>"
+        }
+    ]
+}

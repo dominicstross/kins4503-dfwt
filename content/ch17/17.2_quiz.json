@@ -1,0 +1,764 @@
+{
+  "p1": {
+    "title": "Part 1: Exercise Types: Core, Assistance, Structural, and Power Exercises",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Which characteristic primary defines a core exercise in resistance training program design?",
+        "opts": [
+          "Recruitment of one or more large muscle areas across two or more primary joints",
+          "Isolation of a single small muscle group across one primary joint",
+          "Exclusive performance on selectorized exercise machines",
+          "Execution solely at maximal movement velocity without spinal loading"
+        ],
+        "correct": 0,
+        "rationale": "Core exercises recruit one or more large muscle areas (chest, shoulder, back, hip, or thigh), involve two or more primary joints (multijoint exercises), and receive priority because of their direct application to sport movements."
+      },
+      {
+        "id": 2,
+        "q": "Under standard anatomical conventions for exercise classification, how is the spine categorized?",
+        "opts": [
+          "As a single primary joint",
+          "As a series of 24 distinct primary joints",
+          "As an assistance joint structure",
+          "As a non-articulating muscular column"
+        ],
+        "correct": 0,
+        "rationale": "In exercise classification conventions, the entire spinal column is considered a single primary joint (as demonstrated in abdominal crunches and back extensions), just as all shoulder complex articulations are treated as one primary joint."
+      },
+      {
+        "id": 3,
+        "q": "What distinguishes assistance exercises from core exercises?",
+        "opts": [
+          "Assistance exercises recruit smaller muscle areas and involve only one primary joint",
+          "Assistance exercises load the spine directly and require explosive velocity",
+          "Assistance exercises receive highest priority in pre-season power programming",
+          "Assistance exercises always involve multijoint movements across large muscle groups"
+        ],
+        "correct": 0,
+        "rationale": "Assistance exercises usually recruit smaller muscle areas (upper arm, abdominal muscles, calf, neck, forearm, lower back, or anterior lower leg), involve only one primary joint (single-joint exercises), and are considered secondary to core exercises for direct sport performance enhancement."
+      },
+      {
+        "id": 4,
+        "q": "What anatomical feature characterizes a structural exercise?",
+        "opts": [
+          "Direct or indirect loading of the spine requiring postural stabilization",
+          "Single-joint isolation of distal limb musculature",
+          "Performance on selectorized weight stack equipment",
+          "Involvement of non-weight-bearing joint articulations only"
+        ],
+        "correct": 0,
+        "rationale": "A structural exercise is a core exercise that emphasizes loading the spine directly (e.g., back squat) or indirectly (e.g., power clean), requiring active muscular stabilization of posture (maintaining a rigid torso and neutral spine) during movement."
+      },
+      {
+        "id": 5,
+        "q": "What additional kinetic requirement elevates a structural exercise to a power exercise?",
+        "opts": [
+          "Explosive, rapid velocity of execution to maximize rate of force development",
+          "Slowing contraction velocity to maximize mechanical isometric tension",
+          "Restricting joint range of motion to isolation angles",
+          "Eliminating axial loading on the vertebral column"
+        ],
+        "correct": 0,
+        "rationale": "A structural exercise that is performed very quickly or explosively is considered a power exercise (e.g., power clean, snatch), applying a fast rate of force development (RFD) and high power output."
+      },
+      {
+        "id": 6,
+        "q": "How are assistance exercises commonly applied in athletic injury management?",
+        "opts": [
+          "Isolating specific muscle groups predisposed to injury or reconditioning post-injury tissue",
+          "Replacing all core multijoint lifts during peak competitive phases",
+          "Maximizing systemic peak power output in healthy prime movers",
+          "Inducing maximal axial compression on damaged cartilage"
+        ],
+        "correct": 0,
+        "rationale": "Assistance exercises isolate specific muscle groups predisposed to injury from unique sport demands (e.g., shoulder external rotators in baseball pitching) or recondition damaged tissue after injury (e.g., quadriceps contusions)."
+      },
+      {
+        "id": 7,
+        "q": "Which of the following lifts is classified as a single-joint assistance exercise?",
+        "opts": [
+          "Lateral shoulder raise",
+          "Barbell back squat",
+          "Power clean",
+          "Standing overhead push press"
+        ],
+        "correct": 0,
+        "rationale": "The lateral shoulder raise involves a single primary joint (the shoulder complex) and recruits smaller muscle mass, classifying it as an assistance exercise. Squats, power cleans, and push presses involve multiple joints and large muscle mass."
+      },
+      {
+        "id": 8,
+        "q": "Why do core exercises receive priority over assistance exercises in program design?",
+        "opts": [
+          "Due to their direct application to sport performance and multijoint muscular involvement",
+          "Because core exercises require less technical coaching and supervision",
+          "Because core exercises isolate distal limb synergists faster",
+          "Due to lower balance and stability demands during heavy loading"
+        ],
+        "correct": 0,
+        "rationale": "Core exercises receive priority because they recruit large muscle areas, involve multiple primary joints, and have direct application and transfer to athletic sport movements."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following exercises are classified as structural core exercises? (Select all that apply)",
+        "opts": [
+          "Barbell back squat",
+          "Power clean",
+          "Seated bicep cable curl",
+          "Barbell front squat",
+          "Standing calf raise"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Barbell back squats, power cleans, and front squats load the spine directly or indirectly and require active postural stabilization of a rigid torso and neutral spine, making them structural exercises. Bicep curls and calf raises are single-joint assistance exercises."
+      },
+      {
+        "id": 2,
+        "q": "Which muscle areas are typically targeted by assistance exercises? (Select all that apply)",
+        "opts": [
+          "Upper arm (biceps/triceps)",
+          "Abdominal musculature",
+          "Anterior lower leg",
+          "Hip and thigh extensor complex",
+          "Forearm flexors/extensors"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Assistance exercises target smaller muscle areas such as upper arm, abdominal muscles, calf, neck, forearm, lower back, or anterior lower leg. The hip and thigh extensor complex is a large muscle area targeted by core exercises."
+      },
+      {
+        "id": 3,
+        "q": "Which criteria categorize an exercise as a power exercise? (Select all that apply)",
+        "opts": [
+          "It is a core structural exercise",
+          "It is performed with explosive, rapid movement velocity",
+          "It maximizes the rate of force development (RFD)",
+          "It isolates a single joint to eliminate momentum",
+          "It is assigned based on sport-specific training priorities"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Power exercises are structural core lifts performed quickly or explosively to maximize rate of force development and power, assigned according to sport-specific priorities. Single-joint isolation is characteristic of assistance exercises, not power exercises."
+      },
+      {
+        "id": 4,
+        "q": "Which joint structures are treated as a single primary joint under standard exercise classification rules? (Select all that apply)",
+        "opts": [
+          "Glenohumeral and shoulder girdle articulations (shoulder complex)",
+          "The spinal column",
+          "The hip and knee joints combined",
+          "The wrist and elbow joints combined"
+        ],
+        "correctArray": [
+          0,
+          1
+        ],
+        "rationale": "Under standard exercise classification conventions, all shoulder complex articulations are treated as one primary joint, and the entire spinal column is treated as a single primary joint."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Core exercises involve two or more primary joints and recruit large muscle areas.",
+        "ans": true,
+        "feedback": "Core exercises recruit one or more large muscle areas (chest, shoulder, back, hip, thigh) and involve two or more primary joints (multijoint)."
+      },
+      {
+        "id": 2,
+        "q": "A single-joint exercise that targets the upper arm is classified as a core exercise.",
+        "ans": false,
+        "feedback": "Single-joint exercises targeting smaller muscle areas like the upper arm are classified as assistance exercises, not core exercises."
+      },
+      {
+        "id": 3,
+        "q": "All structural exercises are power exercises, but not all power exercises are structural exercises.",
+        "ans": false,
+        "feedback": "Power exercises are a specific subset of structural exercises performed explosively. A structural exercise performed slowly (e.g., a slow heavy squat) is structural but not a power exercise."
+      },
+      {
+        "id": 4,
+        "q": "Assistance exercises can be prescribed for prehabilitation to isolate muscles predisposed to injury from specific sport demands.",
+        "ans": true,
+        "feedback": "Assistance exercises isolate specific muscle groups prone to injury (e.g., shoulder external rotators in overhand throwers) to build localized resilience."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Exercises recruiting large muscle areas across two or more primary joints are classified as **core** exercises, whereas exercises loading the spine directly or indirectly are termed **structural** exercises.",
+        "targets": [
+          "core",
+          "structural"
+        ],
+        "optionsBank": [
+          "core",
+          "structural",
+          "assistance",
+          "single-joint",
+          "isokinetic"
+        ],
+        "hint": "Identify the primary multijoint classification and the axial loading sub-classification."
+      },
+      {
+        "id": 2,
+        "statement": "Performing a structural exercise at explosive movement velocity categorizes it as a **power** exercise, which maximizes the rate of **force development**.",
+        "targets": [
+          "power",
+          "force development"
+        ],
+        "optionsBank": [
+          "power",
+          "force development",
+          "assistance",
+          "isometric tension",
+          "hypertrophy"
+        ],
+        "hint": "Identify the explosive exercise type and the kinetic rate parameter it maximizes."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Compare and contrast core structural exercises with single-joint assistance exercises in terms of joint involvement, muscular recruitment, and role in program design.",
+        "model": "Core structural exercises involve two or more primary joints (multijoint) and recruit large muscle areas while directly or indirectly loading the spine (e.g., back squat, power clean). They require active postural stabilization of a rigid torso and neutral spine, receiving highest priority in program design due to direct application to athletic movement. In contrast, single-joint assistance exercises recruit smaller muscle groups across a single primary joint (e.g., lateral shoulder raise, bicep curl). They play a secondary role, serving primarily for injury prevention (prehabilitation), muscle isolation, or post-injury rehabilitation.",
+        "criteria": [
+          "Distinguish joint involvement (multijoint for core structural vs. single-joint for assistance).",
+          "Detail muscle mass and spinal loading (large muscle groups and axial loading in structural vs. small isolated groups in assistance).",
+          "Explain programming priority (core structural prioritized for sport transfer; assistance used secondarily for prehab/rehab/isolation)."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain the relationship between structural exercises and power exercises, detailing the key kinematic and kinetic factors that differentiate them.",
+        "model": "All power exercises are structural exercises, but not all structural exercises are power exercises. A structural exercise is a core multijoint lift that loads the spine directly or indirectly, requiring postural stabilization of a rigid torso and neutral spine (e.g., back squat). When a structural exercise is performed very quickly or explosively, it becomes a power exercise (e.g., power clean, snatch). The differentiating kinematic factor is movement velocity, and the key kinetic factor is the rapid rate of force development (RFD) and peak power output ($P = Force \\times Velocity$).",
+        "criteria": [
+          "State that power exercises are a subset of structural exercises performed at explosive velocities.",
+          "Identify spinal loading and postural stabilization as common structural requirements.",
+          "Specify movement velocity, rate of force development (RFD), and peak power output as the differentiating parameters."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "title": "Part 2: Movement Analysis of the Sport: Sport-Specificity and Muscle Balance",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What foundational concept states that training activities resembling actual sport movements yield greater positive transfer to sport performance?",
+        "opts": [
+          "Specific Adaptation to Imposed Demands (SAID) principle",
+          "Overload progression principle",
+          "Principle of diminishing returns",
+          "General Adaptation Syndrome (GAS)"
+        ],
+        "correct": 0,
+        "rationale": "The SAID principle (Specific Adaptation to Imposed Demands), or specificity concept, dictates that the more similar a training activity is to the actual sport movement in kinematics and kinetics, the greater the likelihood of positive transfer to performance."
+      },
+      {
+        "id": 2,
+        "q": "Why is the barbell back squat preferred over the machine leg press for basketball players seeking to improve vertical jumping?",
+        "opts": [
+          "The back squat is performed from an erect, weight-bearing position requiring active balance",
+          "The leg press recruits a significantly larger total muscle mass than the back squat",
+          "The back squat completely isolates the quadriceps without hamstring co-activation",
+          "The leg press exerts greater axial compression on the spine than the back squat"
+        ],
+        "correct": 0,
+        "rationale": "Although both exercises strengthen hip and knee extensors, vertical jumping is performed from an erect standing body position with balance and weight-bearing forces as key considerations. The back squat aligns with these standing balance demands, making it more sport-specific than the seated leg press."
+      },
+      {
+        "id": 3,
+        "q": "What role do Olympic lifts like the power clean and snatch play in vertical jump training?",
+        "opts": [
+          "They train high rate of force development and peak power in movement patterns relevant to jumping",
+          "They isolate distal calf musculature during isometric knee extension",
+          "They eliminate muscle co-activation across the posterior chain",
+          "They provide low-intensity aerobic restoration for knee extensors"
+        ],
+        "correct": 0,
+        "rationale": "Power cleans and snatches are highly relevant to jumping because of their explosive movement characteristics, applying a fast rate of force development (RFD) and high power output across the triple extension of hip, knee, and ankle joints."
+      },
+      {
+        "id": 4,
+        "q": "How is muscle balance defined in athletic program design?",
+        "opts": [
+          "A proper physiological ratio of strength, power, or endurance across a joint and between opposing muscle groups",
+          "Absolute 1:1 numerical strength equality between agonist and antagonist muscles",
+          "Symmetrical circumference measurements between left and right limb musculature",
+          "Equal volume distribution across upper and lower body resistance exercises"
+        ],
+        "correct": 0,
+        "rationale": "Muscle balance does not always mean equal (1:1) strength; rather, it refers to a proper physiological ratio of strength, power, or muscular endurance of one muscle or muscle group relative to another opposing muscle group across a joint."
+      },
+      {
+        "id": 5,
+        "q": "In a leg extension exercise, how are the quadriceps and hamstrings categorized?",
+        "opts": [
+          "Quadriceps are the agonist; hamstrings are the antagonist",
+          "Quadriceps are the antagonist; hamstrings are the agonist",
+          "Both quadriceps and hamstrings act as synergist agonists",
+          "Quadriceps are fixators; hamstrings are primary movers"
+        ],
+        "correct": 0,
+        "rationale": "The agonist is the muscle group actively causing the movement (quadriceps in leg extension), while the antagonist is the opposing muscle group located on the opposite side of the limb (hamstrings in leg extension)."
+      },
+      {
+        "id": 6,
+        "q": "If isokinetic testing reveals an athlete has severely weakened hamstrings relative to quadriceps, what program modification is indicated?",
+        "opts": [
+          "Incorporate targeted hamstring assistance/core exercises to restore an appropriate ratio",
+          "Eliminate all hamstring training to allow neuromuscular recovery",
+          "Increase quadriceps training volume to widen the strength gap",
+          "Replace all lower body resistance training with upper body upper arm isolation"
+        ],
+        "correct": 0,
+        "rationale": "When a muscular strength imbalance is created or discovered across a joint, targeted exercises for the weaker opposing muscle group (e.g., hamstring exercises) should be included to restore an appropriate strength ratio and minimize injury risk."
+      },
+      {
+        "id": 7,
+        "q": "Which parameters must align between a resistance exercise and a sport skill to maximize specificity?",
+        "opts": [
+          "Body and limb movement patterns, joint ranges of motion, and muscle involvement",
+          "Rest period durations and selectorized pin positions only",
+          "Absolute load mass and bar grip diameter exclusively",
+          "Caloric cost and psychological arousal levels"
+        ],
+        "correct": 0,
+        "rationale": "To maximize specificity and transfer, selected exercises must be relevant to sport activities in their body and limb movement patterns, joint ranges of motion, and specific muscular involvement."
+      },
+      {
+        "id": 8,
+        "q": "What is the primary risk of creating a severe strength disparity between agonist and antagonist muscles?",
+        "opts": [
+          "Increased risk of joint injury and movement dysfunction",
+          "Accelerated rate of myofibrillar protein synthesis",
+          "Spontaneous transition of Type II fibers into Type I fibers",
+          "Immediate reduction in basal arterial blood pressure"
+        ],
+        "correct": 0,
+        "rationale": "Creating or neglecting a strength disparity between agonists and antagonists elevates the risk of injury due to disproportionate joint loading, impaired decelerative control, and altered joint mechanics."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which factors make the back squat more sport-specific than the machine leg press for vertical jumping? (Select all that apply)",
+        "opts": [
+          "Erect, standing body position",
+          "Requirement for active postural balance",
+          "Weight-bearing axial force loading",
+          "Seated posture stabilizing the trunk passively",
+          "Isolation of single-joint knee extension"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Jumping occurs from an erect standing position requiring active balance and weight-bearing forces. The back squat shares these erect, standing, weight-bearing, and balancing characteristics, whereas the leg press is seated with passive trunk support."
+      },
+      {
+        "id": 2,
+        "q": "Which statements accurately reflect the concept of muscle balance? (Select all that apply)",
+        "opts": [
+          "It prevents injury from disproportionate joint loading",
+          "It requires proper physiological strength ratios between opposing muscle groups",
+          "It always requires absolute 1:1 strength equality between agonists and antagonists",
+          "It considers strength, power, or muscular endurance relative ratios",
+          "It involves selecting exercises for weak opposing muscle groups"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "rationale": "Muscle balance involves appropriate strength/power/endurance ratios between agonists and antagonists to reduce injury risk. It does NOT mean absolute 1:1 numerical equality, as physiological ratios vary by joint."
+      },
+      {
+        "id": 3,
+        "q": "Which of the following exercises exhibit high movement pattern specificity for jumping/sprinting sports? (Select all that apply)",
+        "opts": [
+          "Power clean",
+          "Barbell back squat",
+          "Power snatch",
+          "Seated wrist curl",
+          "Machine leg extension"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Power cleans, back squats, and power snatches train hip/knee/ankle extension, high RFD, and standing balance relevant to jumping and sprinting. Wrist curls and leg extensions do not match these explosive multijoint standing mechanics."
+      },
+      {
+        "id": 4,
+        "q": "In biomechanical analysis, which components define the relationship between agonists and antagonists? (Select all that apply)",
+        "opts": [
+          "Agonist is the primary muscle actively causing movement",
+          "Antagonist is located on the opposite side of the limb",
+          "Antagonist may act passively or eccentrically to control movement",
+          "Agonist and antagonist muscles must always contract with identical force",
+          "Imbalances between agonist and antagonist increase injury susceptibility"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "The agonist actively produces concentric movement while the antagonist opposes it on the opposite side of the limb, acting to stabilize or decelerate. Imbalances increase injury risk. Identical force contraction (1:1) is not required."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "The SAID principle dictates that greater movement similarity between an exercise and a sport skill increases positive transfer to performance.",
+        "ans": true,
+        "feedback": "The Specific Adaptation to Imposed Demands (SAID) principle states that training movement similarity promotes positive performance transfer."
+      },
+      {
+        "id": 2,
+        "q": "The machine leg press is superior to the back squat for vertical jump training because it eliminates spinal involvement.",
+        "ans": false,
+        "feedback": "The back squat is preferred over the leg press for vertical jump training because jumping requires erect, standing, weight-bearing balance, which squats train directly."
+      },
+      {
+        "id": 3,
+        "q": "Muscle balance requires that opposing muscle groups possess identical 1:1 maximum isometric force capabilities.",
+        "ans": false,
+        "feedback": "Muscle balance does not mean equal 1:1 strength; it means an appropriate physiological ratio of strength, power, or endurance relative to opposing muscle groups."
+      },
+      {
+        "id": 4,
+        "q": "Power cleans and snatches apply a fast rate of force development and high power output across triple extension.",
+        "ans": true,
+        "feedback": "Olympic power lifts train high rate of force development (RFD) and peak power across hip, knee, and ankle extension."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "The specificity concept is also known as the **SAID** principle, which stands for Specific Adaptation to **Imposed Demands**.",
+        "targets": [
+          "SAID",
+          "Imposed Demands"
+        ],
+        "optionsBank": [
+          "SAID",
+          "Imposed Demands",
+          "GAS",
+          "Isometric Drive",
+          "Overload"
+        ],
+        "hint": "Recall the full name and acronym for the specificity principle."
+      },
+      {
+        "id": 2,
+        "statement": "The muscle actively causing movement is the **agonist**, while the opposing muscle on the opposite side of the limb is the **antagonist**.",
+        "targets": [
+          "agonist",
+          "antagonist"
+        ],
+        "optionsBank": [
+          "agonist",
+          "antagonist",
+          "synergist",
+          "fixator",
+          "stabilizer"
+        ],
+        "hint": "Identify the primary mover and opposing muscle terms."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain why the barbell back squat and power clean are preferred over the machine leg press for an athlete attempting to improve vertical jump performance, applying the SAID principle.",
+        "model": "Under the SAID (Specific Adaptation to Imposed Demands) principle, training transfer is maximized when exercise movement patterns, joint angles, and kinetic demands match the sport skill. Vertical jumping is performed from an erect, standing body position requiring active balance, weight-bearing axial loads, and rapid triple extension of the hips, knees, and ankles. The barbell back squat matches the erect standing posture, weight-bearing forces, and balance requirements. The power clean adds high movement velocity and rapid rate of force development (RFD). In contrast, the machine leg press is performed seated with passive trunk support, lacking standing balance and rapid RFD, making it less sport-specific despite strengthening similar muscle groups.",
+        "criteria": [
+          "Define the SAID principle regarding movement, kinetic, and postural specificity.",
+          "Highlight erect standing posture, weight-bearing load, and balance requirements of vertical jumping trained by back squats.",
+          "Explain that power cleans train explosive velocity and high rate of force development (RFD), whereas leg presses lack standing balance and high RFD."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Define muscle balance, distinguish between agonist and antagonist muscles, and explain how a strength coach should address an identified hamstring-to-quadriceps strength ratio imbalance.",
+        "model": "Muscle balance refers to maintaining an appropriate physiological ratio of strength, power, or muscular endurance across a joint between opposing muscle groups; it does not mean equal 1:1 strength. The agonist is the muscle actively causing a movement (e.g., quadriceps during knee extension), while the antagonist is the opposing muscle on the opposite side of the limb (e.g., hamstrings during knee extension). If testing reveals a severe strength deficit in the hamstrings relative to the quadriceps, the coach should prescribe targeted hamstring exercises (e.g., Romanian deadlifts, leg curls) to restore the proper strength ratio, optimizing joint mechanics and reducing injury risk.",
+        "criteria": [
+          "Clarify that muscle balance means an appropriate physiological ratio rather than absolute 1:1 equality.",
+          "Define agonist (active prime mover) and antagonist (opposing muscle group).",
+          "Describe prescribing specific exercises for the weakened antagonist (hamstrings) to restore physiological ratios and minimize injury risk."
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "title": "Part 3: Athlete Experience, Equipment Availability, and Session Time Constraints",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Why are novice or unskilled athletes frequently introduced to exercise machines and free weight assistance exercises before complex core lifts?",
+        "opts": [
+          "They feature lower balance and coordination demands, making them easier to perform safely",
+          "They induce greater systemic axial loading and rapid power development",
+          "They eliminate the need for coach supervision and technical demonstration",
+          "They elicit faster Type I to Type II muscle fiber conversions"
+        ],
+        "correct": 0,
+        "rationale": "Machine and free weight assistance exercises are considered easier for unskilled individuals to perform because they have lower balance and coordination requirements than free weight core structural lifts."
+      },
+      {
+        "id": 2,
+        "q": "What operational step should a strength professional take if an athlete's exercise technique proficiency is uncertain?",
+        "opts": [
+          "Ask the athlete to demonstrate the exercise and provide complete instruction if technique is incorrect",
+          "Assign maximal 1RM load testing immediately to evaluate mechanical tolerance",
+          "Ban the athlete from performing any free weight exercises permanently",
+          "Assume the athlete knows correct technique if the exercise appears simple"
+        ],
+        "correct": 0,
+        "rationale": "If there is any question whether an athlete can perform an exercise with proper technique, the strength and conditioning professional should ask the athlete to demonstrate the exercise and provide complete instruction if incorrect technique is observed."
+      },
+      {
+        "id": 3,
+        "q": "How does the absence of Olympic-type barbells with revolving sleeves impact exercise selection?",
+        "opts": [
+          "It precludes performing explosive Olympic lifts like the power clean",
+          "It forces the coach to eliminate all lower body resistance training",
+          "It requires substituting machine leg extension for all core lifts",
+          "It enhances wrist safety during heavy structural back squats"
+        ],
+        "correct": 0,
+        "rationale": "Revolving sleeves on Olympic barbells reduce rotational inertia during explosive pulls. The absence of revolving-sleeve barbells precludes exercises such as the power clean and snatch."
+      },
+      {
+        "id": 4,
+        "q": "If a weight room has an insufficient supply of weight plates for heavy back squats, what is an appropriate exercise substitution?",
+        "opts": [
+          "Front squat",
+          "Machine bicep curl",
+          "Standing calf raise",
+          "Seated wrist curl"
+        ],
+        "correct": 0,
+        "rationale": "When barbell plate inventory is limited, exercises requiring less total weight to achieve target intensity\u2014such as replacing the heavy back squat with the front squat\u2014can be substituted effectively."
+      },
+      {
+        "id": 5,
+        "q": "Why might a coach select the machine leg press over the free weight barbell lunge for a 100m sprinter when session training time is severely restricted?",
+        "opts": [
+          "The leg press is more time efficient to load and perform, saving time for other exercises or sets",
+          "The leg press provides superior sport-specific hip extension mechanics than the lunge",
+          "The leg press recruits greater stabilizer muscle activity across the core",
+          "The leg press completely eliminates the accumulation of blood lactate"
+        ],
+        "correct": 0,
+        "rationale": "Selecting a weight stack pin on a leg press takes far less time than loading plates, attaching collar locks, stepping out of a rack, performing lunges on both legs, and reracking. Although less sport-specific, the time saved allows completing additional exercise volume within a restricted session window."
+      },
+      {
+        "id": 6,
+        "q": "What defines a recovery exercise in athletic program design?",
+        "opts": [
+          "Lightly loaded resistance or low-intensity aerobic exercise promoting restoration without high neural stress",
+          "Maximal 1RM eccentric loading performed at the end of a workout session",
+          "High-velocity plyometric jump training executed during competitive microcycles",
+          "Isometric muscular holds performed to structural exhaustion"
+        ],
+        "correct": 0,
+        "rationale": "Recovery exercises involve low muscular and nervous system stress, taking the form of lightly loaded resistance or low-intensity aerobic exercise aimed at promoting movement, blood flow, metabolic waste removal, and tissue repair."
+      },
+      {
+        "id": 7,
+        "q": "When are recovery exercises typically integrated into an athlete's training schedule?",
+        "opts": [
+          "At the conclusion of a main resistance session or as a dedicated microcycle session",
+          "Immediately preceding maximal power clean 1RM testing sets",
+          "Exclusively during off-season hypertrophy peak loading weeks",
+          "In place of all primary core structural exercises during pre-season"
+        ],
+        "correct": 0,
+        "rationale": "Recovery exercises are generally included at the conclusion of the main resistance training session or as a separate session within the microcycle to assist the body in returning to its pre-exercise state."
+      },
+      {
+        "id": 8,
+        "q": "What primary physiological benefit do recovery exercises provide to overworked muscle tissue?",
+        "opts": [
+          "Assisting metabolic waste removal and maintaining blood flow to optimize tissue repair",
+          "Maximizing acute growth hormone surges through mechanical trauma",
+          "Inducing rapid myofibrillar hypertrophy in fast-twitch fibers",
+          "Increasing tendon stiffness through high peak impact forces"
+        ],
+        "correct": 0,
+        "rationale": "Recovery exercises assist in the removal of metabolic wastes and by-products while maintaining blood flow to exercised muscles so that cellular repair processes can be optimized."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which factors regarding exercise technique experience influence exercise selection? (Select all that apply)",
+        "opts": [
+          "Novices benefit from machines due to lower balance demands",
+          "Coach should observe exercise demonstration when technique is uncertain",
+          "Technique instruction must be provided if errors are observed",
+          "Simple assistance exercises never require coaching supervision",
+          "Novice athletes should start with maximal power cleans on day one"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Unskilled athletes are often introduced to machines/assistance exercises due to lower balance/coordination needs. Coaches should verify technique via demonstration and instruct when errors occur. Simple exercises still require proper execution."
+      },
+      {
+        "id": 2,
+        "q": "Which practical adaptations address equipment availability limitations in a weight room? (Select all that apply)",
+        "opts": [
+          "Substituting front squats for back squats when plate inventory is low",
+          "Precluding power cleans when revolving-sleeve barbells are unavailable",
+          "Replacing all barbell exercises with bodyweight stretching exclusively",
+          "Selecting dumbbell exercises when barbell rack space is limited",
+          "Eliminating all core exercises regardless of available gear"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Lack of plates can be addressed by front squats (requiring less load), lack of revolving sleeves precludes power cleans, and limited racks can be managed using dumbbells. Completely eliminating core lifts or replacing training with stretching is improper."
+      },
+      {
+        "id": 3,
+        "q": "What trade-offs must be evaluated when selecting exercises under strict session time limits? (Select all that apply)",
+        "opts": [
+          "Time efficiency vs. sport specificity",
+          "Setup/loading time required for free weight vs. machine exercises",
+          "Value of including additional sets or exercises with saved time",
+          "Complete elimination of all warm-up and cool-down protocols",
+          "Absolute priority of machine exercises over free weights in all seasons"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Coaches weigh time efficiency against sport specificity. Machine exercises save setup/loading time compared to lunges/free weights, allowing extra volume. Warm-up elimination or universal machine priority are incorrect practice."
+      },
+      {
+        "id": 4,
+        "q": "Which characteristics define effective recovery exercises? (Select all that apply)",
+        "opts": [
+          "Low stress on the nervous system",
+          "Lightly loaded resistance or low-intensity aerobic movements",
+          "Promotes blood flow to exercised musculature",
+          "Assists in clearing metabolic wastes and by-products",
+          "Exerts maximal mechanical tension on healing tendons"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Recovery exercises feature low nervous system/muscular stress, light loads or low-intensity aerobic work, blood flow promotion, and waste product clearance. High mechanical tension opposes recovery goals."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Unskilled athletes are often introduced to machines because they have lower balance and coordination requirements than free weight core lifts.",
+        "ans": true,
+        "feedback": "Machines and assistance exercises have lower balance and coordination demands, making them easier for novices to master initial movement patterns safely."
+      },
+      {
+        "id": 2,
+        "q": "Coaches can assume an athlete performs an exercise correctly if the movement appears relatively simple.",
+        "ans": false,
+        "feedback": "Coaches should never assume correct execution, even for simple exercises; demonstration and technique evaluation are required."
+      },
+      {
+        "id": 3,
+        "q": "Absence of revolving-sleeve barbells does not affect the performance of explosive power cleans.",
+        "ans": false,
+        "feedback": "Revolving sleeves are required for explosive Olympic pulls like power cleans to dissipate rotational inertia on the wrists; their absence precludes these lifts."
+      },
+      {
+        "id": 4,
+        "q": "Recovery exercises can involve low-intensity aerobic work or lightly loaded resistance movements.",
+        "ans": true,
+        "feedback": "Recovery exercises take the form of lightly loaded resistance or low-intensity aerobic exercise to promote circulation and byproduct clearance."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Novice lifters are often introduced to **machines** and free weight assistance lifts due to their lower **balance** and coordination requirements.",
+        "targets": [
+          "machines",
+          "balance"
+        ],
+        "optionsBank": [
+          "machines",
+          "balance",
+          "power cleans",
+          "axial loading",
+          "hypertrophy"
+        ],
+        "hint": "Identify the equipment type and neuromuscular stability factor suited for novices."
+      },
+      {
+        "id": 2,
+        "statement": "Exercises featuring low muscular and neural stress designed to clear metabolic wastes are classified as **recovery** exercises, which maintain blood flow for tissue **repair**.",
+        "targets": [
+          "recovery",
+          "repair"
+        ],
+        "optionsBank": [
+          "recovery",
+          "repair",
+          "structural",
+          "hypertrophy",
+          "1RM"
+        ],
+        "hint": "Identify the low-stress exercise category and its physiological tissue restoration goal."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Discuss the practical trade-offs a strength and conditioning coach must evaluate regarding athlete experience, equipment availability, and session time constraints when selecting exercises.",
+        "model": "When selecting exercises, a coach must weigh three key practical factors: (1) Athlete Experience: Novices lack coordination and balance, making machines or simple assistance exercises safer starting points before progressing to free weight core structural lifts. (2) Equipment Availability: Operational constraints dictate options\u2014for example, lacking revolving-sleeve barbells precludes Olympic power cleans, while plate shortages may require substituting front squats for heavier back squats. (3) Time Constraints: Time-efficient exercises (e.g., selectorized machine leg press) save setup and pin-adjustment time compared to complex free weight lifts (e.g., barbell lunges requiring plate loading and rack setup). The saved time can be reallocated to additional sets or exercises, though coaches must weigh this efficiency against lower sport specificity.",
+        "criteria": [
+          "Explain athlete experience considerations (machines/assistance for novices due to lower balance demands).",
+          "Detail equipment limitations (revolving sleeve necessity for Olympic lifts, front squat substitution for plate shortages).",
+          "Evaluate time efficiency trade-offs (machine setup speed vs. free weight setup time and sport specificity)."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Describe the purpose, characteristics, timing, and physiological mechanisms of recovery exercises within an athletic training program.",
+        "model": "Recovery exercises are lightly loaded resistance or low-intensity aerobic movements designed to promote restoration without placing high stress on the muscular or nervous systems. They are typically prescribed at the conclusion of a main resistance workout or as a dedicated session within a microcycle. Physiologically, recovery exercises maintain low-level hyperemia (blood flow) to recently exercised muscles and facilitate the removal of metabolic wastes and by-products (such as hydrogen ions). This enhanced circulation delivers oxygen and nutrients to damaged muscle fibers, accelerating cellular repair and functional recovery without inducing additional neuromuscular fatigue.",
+        "criteria": [
+          "Define recovery exercises as low-stress, lightly loaded resistance or low-intensity aerobic movements.",
+          "Identify programming timing (end of session or separate microcycle recovery session).",
+          "Explain physiological mechanisms (maintaining blood flow, clearing metabolic waste/H+, optimizing cellular repair without neural fatigue)."
+        ]
+      }
+    ]
+  }
+}

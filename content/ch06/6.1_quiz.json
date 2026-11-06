@@ -1,0 +1,812 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Which equation correctly defines Cardiac Output (Q) and its primary physiological components?",
+        "opts": [
+          "Q = Stroke Volume (SV) \\times Heart Rate (HR)",
+          "Q = End-Diastolic Volume (EDV) - End-Systolic Volume (ESV)",
+          "Q = Mean Arterial Pressure (MAP) / Total Peripheral Resistance (TPR)",
+          "Q = Rate-Pressure Product (RPP) / Heart Rate (HR)"
+        ],
+        "correct": 0,
+        "rationale": "Cardiac Output (Q) is defined as the volume of blood pumped by the heart per minute, calculated as Q = SV \\times HR. EDV minus ESV calculates stroke volume, not cardiac output directly."
+      },
+      {
+        "id": 2,
+        "q": "At what percentage of maximal oxygen uptake (\\dot{V}O_2max) does stroke volume typically plateau during acute aerobic exercise in untrained and moderately trained individuals?",
+        "opts": [
+          "20% to 30% of \\dot{V}O_2max",
+          "40% to 50% of \\dot{V}O_2max",
+          "70% to 80% of \\dot{V}O_2max",
+          "90% to 100% of \\dot{V}O_2max"
+        ],
+        "correct": 1,
+        "rationale": "Stroke volume increases rapidly during early exercise and plateaus at 40% to 50% of \\dot{V}O_2max. Beyond this point, further increases in cardiac output are driven almost entirely by increases in heart rate."
+      },
+      {
+        "id": 3,
+        "q": "According to the Frank-Starling mechanism, what primary physiological event enhances stroke volume during acute aerobic exercise?",
+        "opts": [
+          "Decreased end-diastolic volume resulting in lower myocardial wall tension",
+          "Increased venous return expanding end-diastolic volume (EDV), stretching myocardial fibers to produce a more forceful contraction",
+          "Direct inhibition of sympathetic adrenergic signaling to prolong ventricular relaxation",
+          "Selective constriction of the aorta to increase left ventricular afterload"
+        ],
+        "correct": 1,
+        "rationale": "The Frank-Starling law states that increased venous return expands end-diastolic volume (EDV), stretching myocardial fibers and causing a more forceful elastic contraction, thereby elevating ejection fraction and stroke volume."
+      },
+      {
+        "id": 4,
+        "q": "What are typical peak stroke volume values for untrained men versus endurance-trained male athletes during maximal exercise?",
+        "opts": [
+          "50-60 ml/beat in untrained vs. 80-90 ml/beat in trained",
+          "70-80 ml/beat in untrained vs. 100-110 ml/beat in trained",
+          "100-120 ml/beat in untrained vs. 150-160 ml/beat in trained",
+          "180-200 ml/beat in untrained vs. 230-250 ml/beat in trained"
+        ],
+        "correct": 2,
+        "rationale": "Peak stroke volume averages 100 to 120 ml/beat in untrained men, whereas endurance-trained male athletes can reach peak values of 150 to 160 ml/beat due to larger ventricular chambers and greater compliance."
+      },
+      {
+        "id": 5,
+        "q": "Using the Tanaka formula [HR_max = 208 - (0.7 \\times age)], what is the estimated maximum heart rate for a 40-year-old athlete?",
+        "opts": [
+          "180 bpm",
+          "184 bpm",
+          "176 bpm",
+          "190 bpm"
+        ],
+        "correct": 0,
+        "rationale": "Applying the Tanaka equation: HR_max = 208 - (0.7 \\times 40) = 208 - 28 = 180 bpm. (Using traditional 220 - 40 would yield 180 bpm as well)."
+      },
+      {
+        "id": 6,
+        "q": "According to the Fick equation [\\dot{V}O_2 = Q \\times a-\\bar{v}O_2 difference], what does the arterial-mixed venous oxygen difference (a-\\bar{v}O_2 difference) measure?",
+        "opts": [
+          "The rate of pulmonary alveolar capillary diffusion",
+          "The amount of oxygen extracted from the blood by peripheral tissues",
+          "The percentage of hemoglobin saturated with carbon dioxide",
+          "The pressure gradient between systemic arteries and veins"
+        ],
+        "correct": 1,
+        "rationale": "The a-\\bar{v}O_2 difference measures the difference in oxygen content between arterial blood and mixed venous blood, representing the net amount of oxygen extracted and consumed by active tissues."
+      },
+      {
+        "id": 7,
+        "q": "How do systolic blood pressure (SBP) and diastolic blood pressure (DBP) respond to incremental aerobic exercise?",
+        "opts": [
+          "Both SBP and DBP increase linearly with workload",
+          "SBP increases linearly up to 220-260 mmHg, while DBP remains constant or slightly decreases (60-89 mmHg)",
+          "SBP remains constant, while DBP decreases sharply below 40 mmHg",
+          "Both SBP and DBP decrease due to systemic vasodilation"
+        ],
+        "correct": 1,
+        "rationale": "Systolic blood pressure increases linearly with exercise intensity (from 110-139 mmHg at rest up to 220-260 mmHg at max), while diastolic blood pressure remains unchanged or drops slightly (60-89 mmHg) due to reduced total peripheral resistance."
+      },
+      {
+        "id": 8,
+        "q": "What parameter is calculated as Heart Rate (HR) \\times Systolic Blood Pressure (SBP) to estimate myocardial oxygen consumption?",
+        "opts": [
+          "Mean Arterial Pressure (MAP)",
+          "Rate-Pressure Product (RPP)",
+          "Stroke Volume Index (SVI)",
+          "Total Peripheral Resistance (TPR)"
+        ],
+        "correct": 1,
+        "rationale": "Rate-Pressure Product (RPP = HR \\times SBP), also called double product, provides a direct clinical estimate of myocardial work and oxygen demand during exertion."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following mechanisms directly contribute to increased venous return and end-diastolic volume (EDV) during acute aerobic exercise? (Select all that apply)",
+        "opts": [
+          "Venoconstriction mediated by sympathetic nervous system stimulation",
+          "Rhythmic contraction of active skeletal muscles compressing veins (skeletal muscle pump)",
+          "Pressure changes in the thoracic and abdominal cavities during deep breathing (respiratory pump)",
+          "Systemic arterial dilation reducing total peripheral resistance",
+          "Massive elevation of renal blood flow"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Venous return is enhanced by sympathetic venoconstriction, the skeletal muscle pump, and the respiratory pump. Arterial dilation reduces afterload but does not directly pump venous blood; renal blood flow is reduced, not elevated."
+      },
+      {
+        "id": 2,
+        "q": "Which physiological adjustments occur to redistribute cardiac output during maximal aerobic exercise? (Select all that apply)",
+        "opts": [
+          "Selective vasoconstriction in visceral organs (kidneys, stomach, intestines)",
+          "Vasodilation in active skeletal muscle vascular beds",
+          "Increase in active muscle blood flow allocation from 15%-20% at rest up to 85%-90% at max",
+          "Reduction of coronary artery blood flow to conserve energy",
+          "Complete cessation of cerebral perfusion"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Sympathetic vasoconstriction restricts blood flow to non-essential visceral organs while metabolic autoregulation dilates muscle arterioles, shifting muscle blood flow from 15-20% at rest to 85-90% at max. Coronary and cerebral flow are protected."
+      },
+      {
+        "id": 3,
+        "q": "Which of the following statements accurately characterize resting and maximal values of oxygen uptake (\\dot{V}O_2)? (Select all that apply)",
+        "opts": [
+          "Resting \\dot{V}O_2 is standardized as 3.5 ml/kg/min, equivalent to 1 MET",
+          "Maximal \\dot{V}O_2 in healthy individuals ranges from 25 to 80 ml/kg/min (7.1 to 22.9 METs)",
+          "Resting \\dot{V}O_2 averages 15.0 ml/kg/min in elite athletes",
+          "Maximal \\dot{V}O_2 is completely independent of cardiac output",
+          "Absolute \\dot{V}O_2 is typically expressed in liters per minute (L/min)"
+        ],
+        "correctArray": [
+          0,
+          1,
+          4
+        ],
+        "rationale": "1 MET = 3.5 ml/kg/min (resting uptake). Max VO2 ranges from ~25 (sedentary/elderly) to 80+ ml/kg/min (elite endurance). Absolute VO2 is measured in L/min. Resting VO2 is ~3.5 ml/kg/min for everyone regardless of fitness."
+      },
+      {
+        "id": 4,
+        "q": "Which factor(s) account for why women typically display a lower stroke volume and maximal oxygen uptake compared to age-matched men? (Select all that apply)",
+        "opts": [
+          "Smaller average heart chamber size and left ventricular mass",
+          "Smaller total body mass and stature",
+          "Lower average hemoglobin concentration in blood",
+          "Complete absence of sympathetic nervous system responsiveness",
+          "Inability to activate the Frank-Starling mechanism"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Women have smaller average heart volume, lower muscle mass, and lower blood hemoglobin concentrations (~14 g/dL vs ~15-16 g/dL in men), reducing oxygen carrying capacity and stroke volume. Autonomic and Frank-Starling mechanisms function identically."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Stroke volume continues to increase linearly all the way up to maximal exercise intensity in untrained individuals.",
+        "ans": false,
+        "feedback": "False. In untrained and moderately trained individuals, stroke volume plateaus at approximately 40% to 50% of \\dot{V}O_2max. Further increases in cardiac output at higher intensities are accomplished almost exclusively by increases in heart rate."
+      },
+      {
+        "id": 2,
+        "q": "Standard resting oxygen uptake (\\dot{V}O_2) is defined as 3.5 ml of oxygen per kilogram of body weight per minute (3.5 ml\\cdot kg^{-1}\\cdot min^{-1}), which equals 1 Metabolic Equivalent (MET).",
+        "ans": true,
+        "feedback": "True. 1 MET is universally standardized as 3.5 ml\\cdot kg^{-1}\\cdot min^{-1}, representing baseline resting oxygen consumption."
+      },
+      {
+        "id": 3,
+        "q": "Diastolic blood pressure increases significantly during incremental aerobic exercise, reaching values over 140 mmHg at maximal intensity.",
+        "ans": false,
+        "feedback": "False. Diastolic blood pressure remains relatively constant or decreases slightly (60-89 mmHg) during aerobic exercise due to peripheral vasodilation in active skeletal muscles."
+      },
+      {
+        "id": 4,
+        "q": "Rate-Pressure Product (RPP = HR \\times SBP) provides a non-invasive clinical estimate of myocardial workload and myocardial oxygen consumption.",
+        "ans": true,
+        "feedback": "True. RPP reflects myocardial metabolic demand, as heart rate and systolic pressure dictate coronary blood flow requirements."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "The volume of blood pumped per minute, known as **cardiac output**, is the product of **stroke volume** and **heart rate**.",
+        "targets": [
+          "cardiac output",
+          "stroke volume",
+          "heart rate"
+        ],
+        "optionsBank": [
+          "cardiac output",
+          "stroke volume",
+          "heart rate",
+          "ejection fraction",
+          "tidal volume",
+          "systolic pressure"
+        ],
+        "hint": "Primary equation governing cardiovascular hemodynamics."
+      },
+      {
+        "id": 2,
+        "statement": "According to the **Frank-Starling mechanism**, an increase in **end-diastolic volume** stretches myocardial fibers to increase **ejection fraction**.",
+        "targets": [
+          "Frank-Starling mechanism",
+          "end-diastolic volume",
+          "ejection fraction"
+        ],
+        "optionsBank": [
+          "Frank-Starling mechanism",
+          "end-diastolic volume",
+          "ejection fraction",
+          "Bohr effect",
+          "end-systolic volume",
+          "afterload"
+        ],
+        "hint": "Intrinsic mechanical law of cardiac pumping capacity."
+      },
+      {
+        "id": 3,
+        "statement": "The **Fick equation** dictates that total oxygen uptake equals cardiac output multiplied by the **a-vO2 difference**.",
+        "targets": [
+          "Fick equation",
+          "a-vO2 difference"
+        ],
+        "optionsBank": [
+          "Fick equation",
+          "a-vO2 difference",
+          "Tanaka formula",
+          "Bohr effect",
+          "Rate-Pressure Product"
+        ],
+        "hint": "Fundamental bioenergetic equation linking circulation and tissue extraction."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain the physiological mechanisms responsible for the stroke volume plateau observed at 40%-50% VO2max during incremental aerobic exercise, and explain how cardiac output continues to rise beyond this point.",
+        "model": "Stroke volume plateaus at 40%-50% VO2max because shortened ventricular filling time during faster heart rates limits further increases in end-diastolic volume (EDV), balancing out the enhanced venous return and sympathetic contractility. Beyond this intensity threshold, further linear increases in total cardiac output (Q) are sustained almost entirely by continued increases in heart rate (HR) up to HR_max.",
+        "criteria": [
+          "Identify stroke volume plateau at 40%-50% VO2max",
+          "Explain reduced diastolic filling time at high heart rates",
+          "State that cardiac output increases beyond 50% VO2max via elevated heart rate"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Contrast the acute responses of systolic blood pressure (SBP) versus diastolic blood pressure (DBP) during progressive aerobic exercise, and define Rate-Pressure Product (RPP).",
+        "model": "Systolic blood pressure (SBP) increases linearly with exercise intensity from resting levels (110-139 mmHg) up to 220-260 mmHg at maximal exertion, driven by increased cardiac output and ventricular ejection force. Conversely, diastolic blood pressure (DBP) remains stable or drops slightly (60-89 mmHg) due to extensive vasodilation in active skeletal muscle arterioles, which decreases total peripheral resistance. Rate-Pressure Product (RPP = HR \\times SBP) measures double product to estimate myocardial work and myocardial oxygen demand.",
+        "criteria": [
+          "Describe linear rise of SBP up to 220-260 mmHg",
+          "Explain stable or slightly decreased DBP due to vasodilation",
+          "Define RPP formula (HR x SBP) and its clinical role in estimating myocardial workload"
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Which formula correctly calculates minute ventilation (\\dot{V}_E)?",
+        "opts": [
+          "\\dot{V}_E = \\text{Tidal Volume (TV)} \\times \\text{Breathing Frequency } (f_b)",
+          "\\dot{V}_E = \\text{Anatomical Dead Space} \\times \\text{Breathing Frequency } (f_b)",
+          "\\dot{V}_E = \\text{Vital Capacity} - \\text{Residual Volume}",
+          "\\dot{V}_E = \\dot{V}O_2 \\times a-\\bar{v}O_2 \\text{ difference}"
+        ],
+        "correct": 0,
+        "rationale": "Minute ventilation (\\dot{V}_E) is the total volume of air exhaled per minute, calculated as Tidal Volume (TV) \\times Breathing Frequency (f_b)."
+      },
+      {
+        "id": 2,
+        "q": "What is the typical resting minute ventilation (\\dot{V}_E) and how high can it surge during maximal aerobic exertion in trained individuals?",
+        "opts": [
+          "Resting 2-3 L/min, surging to 20-30 L/min",
+          "Resting 10-15 L/min, surging to 90-150 L/min",
+          "Resting 30-40 L/min, surging to 250-300 L/min",
+          "Resting 50-60 L/min, surging to 400-500 L/min"
+        ],
+        "correct": 1,
+        "rationale": "Resting minute ventilation ranges from 10 to 15 L/min. During maximal exertion, it increases 15- to 25-fold, reaching 90 to 150 L/min (and up to 180+ L/min in elite athletes)."
+      },
+      {
+        "id": 3,
+        "q": "What is the normal resting value for the ventilatory equivalent for oxygen (\\dot{V}_E / \\dot{V}O_2) during light exercise?",
+        "opts": [
+          "5 to 10 L of air per L of O2 consumed",
+          "20 to 25 L of air per L of O2 consumed",
+          "35 to 40 L of air per L of O2 consumed",
+          "50 to 60 L of air per L of O2 consumed"
+        ],
+        "correct": 1,
+        "rationale": "During submaximal exercise below ventilatory threshold, \\dot{V}_E / \\dot{V}O_2 is maintained at 20 to 25 liters of air per liter of oxygen consumed."
+      },
+      {
+        "id": 4,
+        "q": "Why does the ventilatory equivalent for oxygen (\\dot{V}_E / \\dot{V}O_2) increase sharply to 35-40 L air / L O2 at high intensities (>45%-65% VO2max in untrained)?",
+        "opts": [
+          "Because cardiac output drops to zero",
+          "To exhale excess carbon dioxide produced by bicarbonate buffering of metabolic lactic acid",
+          "Because anatomical dead space collapses completely",
+          "Due to sudden constriction of alveolar capillaries"
+        ],
+        "correct": 1,
+        "rationale": "At intensities exceeding lactate threshold, buffering of lactic acid by sodium bicarbonate generates excess non-metabolic CO2, stimulating hyperventilation to exhale CO2 and pushing \\dot{V}_E / \\dot{V}O_2 to 35-40."
+      },
+      {
+        "id": 5,
+        "q": "What is anatomical dead space, and what is its typical resting volume in adults?",
+        "opts": [
+          "Non-functional alveoli destroyed by exercise (~500 ml)",
+          "The non-diffusive respiratory conducting zone (nose, pharynx, trachea, bronchi) averaging ~150 ml",
+          "The residual volume remaining after maximal exhalation (~1200 ml)",
+          "The total volume of pulmonary capillaries (~70 ml)"
+        ],
+        "correct": 1,
+        "rationale": "Anatomical dead space includes the non-diffusive passages (trachea, bronchi) where no gas exchange occurs, averaging ~150 ml in normal adults."
+      },
+      {
+        "id": 6,
+        "q": "Why is increasing tidal volume (deeper breathing) more efficient for alveolar ventilation than increasing breathing frequency (rapid shallow breathing)?",
+        "opts": [
+          "Because deeper breathing reduces heart rate to zero",
+          "Because each breath must first clear the constant anatomical dead space (~150 ml) before fresh air reaches the alveoli",
+          "Because breathing frequency destroys hemoglobin",
+          "Because deeper breathing eliminates carbon dioxide production"
+        ],
+        "correct": 1,
+        "rationale": "Since anatomical dead space is fixed (~150 ml per breath), deeper tidal breaths dedicate a much higher percentage of air to alveolar ventilation compared to shallow breaths."
+      },
+      {
+        "id": 7,
+        "q": "What happens to the partial pressure of oxygen (P_O2) in active muscle cell mitochondria during maximal exercise?",
+        "opts": [
+          "It increases from 40 mmHg up to 100 mmHg",
+          "It remains constant at 40 mmHg",
+          "It drops from 40 mmHg down to approximately 3 mmHg",
+          "It drops to negative values (-20 mmHg)"
+        ],
+        "correct": 2,
+        "rationale": "Intense mitochondrial oxygen consumption drops muscle cellular P_O2 from a resting value of ~40 mmHg down to ~3 mmHg at max exercise, creating a steep partial pressure gradient that accelerates oxygen diffusion out of systemic capillaries."
+      },
+      {
+        "id": 8,
+        "q": "What happens to muscle tissue partial pressure of carbon dioxide (P_CO2) during maximal exertion?",
+        "opts": [
+          "It drops from 46 mmHg to 10 mmHg",
+          "It rises from resting 46 mmHg up to approximately 90 mmHg",
+          "It remains unchanged at 40 mmHg",
+          "It matches arterial P_CO2 exactly"
+        ],
+        "correct": 1,
+        "rationale": "Metabolic CO2 production elevates tissue P_CO2 from 46 mmHg at rest up to ~90 mmHg during maximal exercise, driving rapid diffusion into venous blood."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following occur to respiratory mechanics during acute aerobic exercise? (Select all that apply)",
+        "opts": [
+          "Tidal volume increases from ~0.4-1.0 L up to 3.0 L or greater",
+          "Breathing frequency increases from 12-15 breaths/min up to 35-45 breaths/min",
+          "Minute ventilation increases 15- to 25-fold",
+          "Anatomical dead space expands to 5.0 L",
+          "Diffusion capacity across the alveolar-capillary membrane decreases"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "During exercise, both tidal volume (up to 3+ L) and breathing frequency (up to 35-45 breaths/min) elevate minute ventilation 15- to 25-fold. Anatomical dead space expands slightly but does not reach 5 L; diffusion capacity increases."
+      },
+      {
+        "id": 2,
+        "q": "Which statements regarding gas diffusion across pulmonary and systemic capillary beds during exercise are correct? (Select all that apply)",
+        "opts": [
+          "Alveolar P_O2 is ~104 mmHg while pulmonary venous blood entering capillaries has P_O2 of ~40 mmHg",
+          "Muscle tissue P_O2 drops to ~3 mmHg creating a steep diffusion gradient",
+          "Carbon dioxide diffuses out of active tissues into capillaries because tissue P_CO2 reaches ~90 mmHg",
+          "Gas diffusion occurs from regions of lower partial pressure to higher partial pressure",
+          "Oxygen diffuses from blood into alveoli during exercise"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Gases diffuse down partial pressure gradients (high to low pressure). Alveolar P_O2 (104 mmHg) drives O2 into venous blood (40 mmHg). Muscle tissue P_O2 drops to 3 mmHg and P_CO2 rises to 90 mmHg, maximizing systemic exchange."
+      },
+      {
+        "id": 3,
+        "q": "Which respiratory factors increase to buffer acidosis at intensities above the ventilatory threshold? (Select all that apply)",
+        "opts": [
+          "Breathing frequency (f_b) surges disproportionately",
+          "Exhalation of non-metabolic CO2 produced by bicarbonate buffering",
+          "Ventilatory equivalent for oxygen (V_E / VO2) rises to 35-40 L air / L O2",
+          "Complete shutdown of minute ventilation",
+          "Reduction of arterial pH to 6.0 without compensation"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Above ventilatory threshold, buffering H+ with bicarbonate releases excess CO2, triggering rapid breathing frequency, elevating V_E / VO2 to 35-40 to blow off CO2 and prevent severe blood pH drops."
+      },
+      {
+        "id": 4,
+        "q": "Why is the respiratory system generally NOT considered the primary limiting factor for VO2max in healthy individuals at sea level? (Select all that apply)",
+        "opts": [
+          "Maximal voluntary ventilation exceeds maximal exercise ventilation",
+          "Arterial oxygen saturation remains near 95%-98% during maximal sea-level exercise",
+          "Cardiac output and peripheral vascular limits restrict oxygen delivery before pulmonary capacity is exhausted",
+          "Lungs completely collapse during intense exertion",
+          "Hemoglobin cannot bind oxygen under any exercise conditions"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "In healthy sea-level humans, maximal cardiac output and muscle extraction limit VO2max, whereas arterial oxygen saturation stays near 95-98% and pulmonary ventilatory reserve remains intact."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Minute ventilation (V_E) is calculated by multiplying Tidal Volume (TV) by Breathing Frequency (f_b).",
+        "ans": true,
+        "feedback": "True. V_E = TV \\times f_b is the fundamental equation for minute ventilation."
+      },
+      {
+        "id": 2,
+        "q": "Anatomical dead space refers to non-functional alveoli damaged by high-intensity exercise.",
+        "ans": false,
+        "feedback": "False. Anatomical dead space refers to the normal conducting airways (nose, trachea, bronchi) where gas exchange does not occur (~150 ml)."
+      },
+      {
+        "id": 3,
+        "q": "Intense exercise causes muscle cell mitochondrial P_O2 to drop from 40 mmHg down to approximately 3 mmHg, steepening the diffusion gradient for oxygen.",
+        "ans": true,
+        "feedback": "True. Rapid mitochondrial O2 consumption lowers tissue P_O2 to ~3 mmHg, driving rapid O2 diffusion out of blood capillaries."
+      },
+      {
+        "id": 4,
+        "q": "During submaximal exercise below lactate threshold, the ventilatory equivalent for oxygen (V_E / VO2) increases to 50 L air per L O2.",
+        "ans": false,
+        "feedback": "False. Submaximal V_E / VO2 remains stable at 20 to 25 L air per L O2 consumed, only rising to 35-40 above ventilatory threshold."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Minute ventilation increases during exercise through elevations in both **tidal volume** and **breathing frequency**.",
+        "targets": [
+          "tidal volume",
+          "breathing frequency"
+        ],
+        "optionsBank": [
+          "tidal volume",
+          "breathing frequency",
+          "residual volume",
+          "anatomical dead space",
+          "vital capacity"
+        ],
+        "hint": "The two operational components of minute ventilation."
+      },
+      {
+        "id": 2,
+        "statement": "Deep breathing is more efficient than shallow breathing because it minimizes the impact of **anatomical dead space** on **alveolar ventilation**.",
+        "targets": [
+          "anatomical dead space",
+          "alveolar ventilation"
+        ],
+        "optionsBank": [
+          "anatomical dead space",
+          "alveolar ventilation",
+          "Bohr effect",
+          "Fick equation",
+          "carbonic anhydrase"
+        ],
+        "hint": "Respiratory zone mechanics vs conducting airway volume."
+      },
+      {
+        "id": 3,
+        "statement": "Above the ventilatory threshold, the **ventilatory equivalent for oxygen** rises as the body hyperventilates to exhale excess **carbon dioxide**.",
+        "targets": [
+          "ventilatory equivalent for oxygen",
+          "carbon dioxide"
+        ],
+        "optionsBank": [
+          "ventilatory equivalent for oxygen",
+          "carbon dioxide",
+          "oxygen debt",
+          "nitrogen",
+          "bicarbonate"
+        ],
+        "hint": "Respiratory acid-base buffering mechanism."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain why increasing tidal volume is physiologically more effective for gas exchange during moderate exercise than increasing breathing frequency, incorporating anatomical dead space.",
+        "model": "Each breath must fill the anatomical dead space (~150 ml of conducting airways where no gas exchange occurs) before fresh air reaches the alveoli. In shallow rapid breathing (low TV, high f_b), a large percentage of total minute ventilation is wasted moving air in and out of dead space. By contrast, increasing tidal volume (deeper breathing) expands the volume of fresh air entering the respiratory zone relative to the fixed 150 ml dead space, vastly improving alveolar ventilation efficiency.",
+        "criteria": [
+          "Define anatomical dead space (~150 ml conducting zone)",
+          "Explain why shallow rapid breathing wastes ventilation in dead space",
+          "State that deeper tidal volume increases alveolar ventilation efficiency"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Describe the shifts in partial pressures of oxygen (P_O2) and carbon dioxide (P_CO2) in active muscle tissue from rest to maximal exercise, and explain how these shifts facilitate diffusion.",
+        "model": "At rest, muscle tissue P_O2 is ~40 mmHg and P_CO2 is ~46 mmHg. During maximal exercise, intense mitochondrial respiration drops muscle P_O2 to ~3 mmHg and elevates tissue P_CO2 to ~90 mmHg. Because blood entering systemic capillaries has P_O2 of ~100 mmHg and P_CO2 of ~40 mmHg, these widened partial pressure differences create steep diffusion gradients, driving rapid movement of O2 into muscle cells and CO2 into capillary blood.",
+        "criteria": [
+          "State resting muscle P_O2 (40 mmHg) and max exercise P_O2 (~3 mmHg)",
+          "State resting muscle P_CO2 (46 mmHg) and max exercise P_CO2 (~90 mmHg)",
+          "Explain how steep partial pressure gradients accelerate diffusion"
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "How much oxygen is dissolved directly in blood plasma per liter under normal arterial conditions?",
+        "opts": [
+          "3 ml O2 / L plasma",
+          "20 ml O2 / L plasma",
+          "150 ml O2 / L plasma",
+          "1.34 ml O2 / L plasma"
+        ],
+        "correct": 0,
+        "rationale": "Only ~3 ml of oxygen is dissolved in each liter of blood plasma (establishing arterial P_O2), while the vast majority is bound to hemoglobin."
+      },
+      {
+        "id": 2,
+        "q": "What is the oxygen-carrying capacity of one gram of pure hemoglobin (Hb)?",
+        "opts": [
+          "0.5 ml O2",
+          "1.34 ml O2",
+          "3.5 ml O2",
+          "20.0 ml O2"
+        ],
+        "correct": 1,
+        "rationale": "Each gram of hemoglobin can bind up to 1.34 ml of oxygen when fully saturated."
+      },
+      {
+        "id": 3,
+        "q": "What is the typical arterial oxygen carrying content in healthy adult men (15-16 g Hb / 100 ml) versus women (14 g Hb / 100 ml)?",
+        "opts": [
+          "10 ml O2/100 ml in men vs 5 ml O2/100 ml in women",
+          "20 ml O2/100 ml in men vs ~18 ml O2/100 ml in women",
+          "35 ml O2/100 ml in men vs 30 ml O2/100 ml in women",
+          "50 ml O2/100 ml in men vs 45 ml O2/100 ml in women"
+        ],
+        "correct": 1,
+        "rationale": "Men (~15-16 g Hb/dL) carry ~20 ml O2 per 100 ml blood (20 vol%), while women (~14 g Hb/dL) carry ~18 ml O2 per 100 ml blood due to lower hemoglobin concentration."
+      },
+      {
+        "id": 4,
+        "q": "What physiological condition causes a rightward shift of the oxyhemoglobin dissociation curve (the Bohr effect) at active skeletal muscle tissues?",
+        "opts": [
+          "Decreased temperature, elevated pH, and low P_CO2",
+          "Elevated muscle temperature, increased P_CO2, and decreased pH (acidosis)",
+          "Extreme hypothermia and alkalosis",
+          "High plasma altitude and low 2,3-BPG"
+        ],
+        "correct": 1,
+        "rationale": "Exercise increases muscle temperature, CO2 production, and hydrogen ion concentration (lowers pH). These factors shift the oxyhemoglobin dissociation curve to the right (Bohr effect), weakening Hb affinity for oxygen and promoting O2 unloading into working muscles."
+      },
+      {
+        "id": 5,
+        "q": "What is the primary transport mechanism for carbon dioxide (CO2) in systemic venous blood?",
+        "opts": [
+          "Dissolved directly in plasma (70%)",
+          "Bound to hemoglobin as carbaminohemoglobin (70%)",
+          "As bicarbonate ions (HCO3-) in plasma (70%)",
+          "Bound to plasma albumin (70%)"
+        ],
+        "correct": 2,
+        "rationale": "Approximately 70% of CO2 is carried as bicarbonate ions (HCO3-) formed inside red blood cells via the carbonic anhydrase reaction."
+      },
+      {
+        "id": 6,
+        "q": "Which enzyme inside red blood cells catalyzes the reversible reaction: CO2 + H2O <-> H2CO3 <-> H+ + HCO3-?",
+        "opts": [
+          "Lactate dehydrogenase",
+          "Carbonic anhydrase",
+          "Creatine kinase",
+          "Phosphofructokinase"
+        ],
+        "correct": 1,
+        "rationale": "Carbonic anhydrase rapidly catalyzes the combination of CO2 and H2O to form carbonic acid (H2CO3), which dissociates into H+ and bicarbonate (HCO3-)."
+      },
+      {
+        "id": 7,
+        "q": "What is the function of the chloride shift (hamburger phenomenon) in venous blood gas transport?",
+        "opts": [
+          "Chloride enters red blood cells to maintain electrical neutrality when bicarbonate (HCO3-) diffuses out into plasma",
+          "Chloride destroys carbon dioxide molecules in muscle mitochondria",
+          "Chloride binds oxygen to replace hemoglobin",
+          "Chloride prevents lactate clearance in the liver"
+        ],
+        "correct": 0,
+        "rationale": "As negative bicarbonate (HCO3-) diffuses out of RBCs into plasma, negative chloride ions (Cl-) move from plasma into RBCs to preserve electrical charge equilibrium."
+      },
+      {
+        "id": 8,
+        "q": "What metabolic pathway in the liver converts blood lactate back into glucose during and after exercise?",
+        "opts": [
+          "Krebs cycle",
+          "Cori cycle (hepatic gluconeogenesis)",
+          "Electron transport chain",
+          "Beta-oxidation"
+        ],
+        "correct": 1,
+        "rationale": "The Cori cycle in the liver takes up blood lactate, converting it back into pyruvate and then glucose via gluconeogenesis, releasing glucose back into circulation."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which mechanisms transport carbon dioxide (CO2) in the blood? (Select all that apply)",
+        "opts": [
+          "As bicarbonate ions (HCO3-) in plasma (~70%)",
+          "Bound to hemoglobin as carbaminohemoglobin (~20%)",
+          "Dissolved directly in plasma (~5%-10%)",
+          "Converted into solid calcium deposits in bone",
+          "Bound to myoglobin inside nerve cells"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "CO2 is transported in three ways: ~70% as bicarbonate, ~20% bound to globin amino acids (carbaminohemoglobin), and ~5-10% dissolved in plasma."
+      },
+      {
+        "id": 2,
+        "q": "Which local tissue changes during acute exercise cause a rightward shift in the oxyhemoglobin dissociation curve (Bohr effect)? (Select all that apply)",
+        "opts": [
+          "Increased tissue temperature",
+          "Increased partial pressure of carbon dioxide (P_CO2)",
+          "Decreased blood pH (increased H+ concentration / acidosis)",
+          "Decreased tissue temperature",
+          "Elevated arterial blood pH (alkalosis)"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Heat, high P_CO2, and acidity (low pH) weaken hemoglobin's affinity for oxygen (Bohr effect), shifting the dissociation curve rightward to facilitate oxygen release at working muscles."
+      },
+      {
+        "id": 3,
+        "q": "Which factors influence total arterial oxygen content in blood? (Select all that apply)",
+        "opts": [
+          "Hemoglobin concentration (g/dL of blood)",
+          "Arterial oxygen saturation (% SaO2)",
+          "Dissolved oxygen in plasma (P_O2)",
+          "Total blood cholesterol level",
+          "Plasma sodium concentration"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Arterial oxygen content depends on hemoglobin concentration (~1.34 ml O2/g Hb), SaO2 saturation percentage, and dissolved oxygen (~0.003 ml O2/100 ml/mmHg P_O2). Cholesterol and sodium do not carry oxygen."
+      },
+      {
+        "id": 4,
+        "q": "Which statements regarding lactate metabolism during aerobic exercise are accurate? (Select all that apply)",
+        "opts": [
+          "Lactate is cleared by oxidation in Type I muscle fibers and heart tissue",
+          "Lactate is converted into glucose via the Cori cycle in the liver",
+          "Lactate accumulation occurs when production exceeds clearance (Onset of Blood Lactate Accumulation)",
+          "Lactate causes permanent muscle tissue necrosis",
+          "Lactate cannot be utilized as a metabolic fuel under any circumstances"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Lactate is a valuable energy intermediate oxidized by slow-twitch muscle and cardiac cells, converted to glucose in the liver (Cori cycle), and accumulates when production outpaces clearance."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "The vast majority of oxygen in arterial blood is carried bound to hemoglobin, with only ~3 ml O2 per liter dissolved in plasma.",
+        "ans": true,
+        "feedback": "True. Hemoglobin carries ~98.5% of total blood oxygen (~200 ml/L in men), while plasma holds only 3 ml/L dissolved."
+      },
+      {
+        "id": 2,
+        "q": "The Bohr effect describes how increased temperature, high P_CO2, and low pH increase hemoglobin's affinity for oxygen, preventing oxygen release.",
+        "ans": false,
+        "feedback": "False. The Bohr effect shifts the curve rightward, decreasing hemoglobin's affinity for oxygen and promoting oxygen unloading into active tissues."
+      },
+      {
+        "id": 3,
+        "q": "The chloride shift involves chloride entering red blood cells to balance the exit of negative bicarbonate ions into plasma.",
+        "ans": true,
+        "feedback": "True. As HCO3- diffuses out of RBCs into plasma, Cl- enters RBCs to preserve electrochemical equilibrium."
+      },
+      {
+        "id": 4,
+        "q": "Lactate produced during exercise is a toxic metabolic waste product that cannot be reused for energy.",
+        "ans": false,
+        "feedback": "False. Lactate is a key energy substrate oxidized by heart and muscle tissues and recycled into glucose by the liver via the Cori cycle."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "The rightward shift of the oxyhemoglobin dissociation curve, known as the **Bohr effect**, is triggered by high **P_CO2** and low **pH**.",
+        "targets": [
+          "Bohr effect",
+          "P_CO2",
+          "pH"
+        ],
+        "optionsBank": [
+          "Bohr effect",
+          "P_CO2",
+          "pH",
+          "Fick equation",
+          "alkalosis",
+          "glycolysis"
+        ],
+        "hint": "Mechanism enhancing oxygen delivery to exercising muscle."
+      },
+      {
+        "id": 2,
+        "statement": "Roughly 70% of carbon dioxide is transported as **bicarbonate**, catalyzed by the enzyme **carbonic anhydrase**.",
+        "targets": [
+          "bicarbonate",
+          "carbonic anhydrase"
+        ],
+        "optionsBank": [
+          "bicarbonate",
+          "carbonic anhydrase",
+          "carbaminohemoglobin",
+          "lactate dehydrogenase",
+          "myoglobin"
+        ],
+        "hint": "Major pathway for venous CO2 transport."
+      },
+      {
+        "id": 3,
+        "statement": "During the **chloride shift**, chloride ions enter red blood cells to offset the diffusion of **bicarbonate** into plasma.",
+        "targets": [
+          "chloride shift",
+          "bicarbonate"
+        ],
+        "optionsBank": [
+          "chloride shift",
+          "bicarbonate",
+          "Bohr effect",
+          "hemoglobin",
+          "sodium"
+        ],
+        "hint": "Anion exchange mechanism preserving RBC electrical potential."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Detail the chemical reactions and transport mechanics involved in converting metabolic CO2 into bicarbonate (HCO3-) in red blood cells, including the role of carbonic anhydrase and the chloride shift.",
+        "model": "Metabolic CO2 diffuses from muscle tissue into red blood cells, where it combines with water (H2O) in a reaction catalyzed by carbonic anhydrase to form carbonic acid (H2CO3). Carbonic acid spontaneously dissociates into hydrogen ions (H+) and bicarbonate (HCO3-). Hemoglobin buffers the H+ ions, while HCO3- diffuses down its concentration gradient out of the RBC into plasma. To maintain electrical neutrality, negative chloride ions (Cl-) diffuse from plasma into the RBC (the chloride shift).",
+        "criteria": [
+          "State equation: CO2 + H2O <-> H2CO3 <-> H+ + HCO3- catalyzed by carbonic anhydrase",
+          "Explain H+ buffering by hemoglobin and HCO3- diffusion into plasma",
+          "Define the chloride shift (Cl- entering RBC to balance HCO3- exit)"
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain the physiological significance of the Bohr effect during heavy exertion, detailing the three local chemical stimuli that induce it.",
+        "model": "The Bohr effect refers to a rightward shift in the oxyhemoglobin dissociation curve at active muscle tissue. It is induced by three local exercise stimuli: increased muscle temperature, elevated P_CO2, and decreased blood pH (acidosis due to H+ accumulation). This rightward shift reduces hemoglobin's affinity for oxygen at a given P_O2, facilitating rapid dissociation and unloading of oxygen into active muscle mitochondria where it is needed for aerobic ATP production.",
+        "criteria": [
+          "Define Bohr effect as a rightward shift of the oxyhemoglobin curve",
+          "List three local stimuli: elevated temperature, elevated P_CO2, decreased pH",
+          "Explain that it reduces Hb oxygen affinity to facilitate O2 unloading in muscle"
+        ]
+      }
+    ]
+  }
+}

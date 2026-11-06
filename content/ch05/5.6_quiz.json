@@ -1,0 +1,746 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Which performance variable is most significantly compromised when heavy resistance training is combined with high-volume aerobic endurance training?",
+        "opts": [
+          "Explosive power output and rate of force development (RFD)",
+          "Slow-velocity maximal 1-repetition maximum (1RM) strength",
+          "Maximal oxygen consumption (VO2max)",
+          "Submaximal movement economy during distance running"
+        ],
+        "correct": 0,
+        "rationale": "Research demonstrates that high-velocity explosive power output, jump performance, sprint speed, and rate of force development (RFD) are significantly more vulnerable to concurrent interference than slow-velocity maximal 1RM strength."
+      },
+      {
+        "id": 2,
+        "q": "How does heavy resistance training affect maximal oxygen consumption (VO2max) and endurance performance?",
+        "opts": [
+          "It has no adverse effect on VO2max and improves endurance performance by enhancing movement economy",
+          "It decreases VO2max by 25% due to capillary destruction",
+          "It completely blocks all mitochondrial adaptations in skeletal muscle",
+          "It causes acute arterial collapse during aerobic exercise"
+        ],
+        "correct": 0,
+        "rationale": "Heavy resistance exercise does not impair VO2max or aerobic power development. Instead, it enhances endurance performance by improving movement economy, work capacity, and fatigue resistance."
+      },
+      {
+        "id": 3,
+        "q": "What unique aerobic adaptation outcome was observed by Kraemer et al. in female athletes performing concurrent training?",
+        "opts": [
+          "Women performing combined strength and aerobic training achieved greater VO2max gains than those performing aerobic training alone",
+          "Women experienced a complete loss of aerobic capacity after 4 weeks",
+          "Women developed higher resting blood pressure than male powerlifters",
+          "Women converted all Type I muscle fibers into cardiac tissue"
+        ],
+        "correct": 0,
+        "rationale": "Kraemer et al. demonstrated an aerobic synergism in female athletes: women who performed combined resistance and aerobic endurance training achieved greater increases in VO2max than women in the endurance-only group."
+      },
+      {
+        "id": 4,
+        "q": "Which training variable of the aerobic component is the primary determinant of strength and power interference?",
+        "opts": [
+          "High frequency, high volume, and high intensity of aerobic endurance exercise",
+          "Performing low-intensity upper body stretching once per week",
+          "Using lightweight resistance bands during warmup",
+          "Consuming carbohydrates immediately before sleeping"
+        ],
+        "correct": 0,
+        "rationale": "The degree of interference with strength and power development is directly proportional to the frequency, volume, and intensity of the aerobic endurance training component."
+      },
+      {
+        "id": 5,
+        "q": "What phenomenon describes the asymmetrical interaction between aerobic and anaerobic training modes?",
+        "opts": [
+          "Endurance training interferes with strength/power gains, but strength training does not impair endurance gains",
+          "Strength training destroys aerobic capacity while endurance training doubles maximal power",
+          "Both modes cancel each other out completely, yielding zero adaptation",
+          "Endurance training doubles Type IIx fiber cross-sectional area"
+        ],
+        "correct": 0,
+        "rationale": "The interference effect is asymmetrical: aerobic endurance training interferes with maximal power and strength development, whereas heavy strength training causes no impairment to aerobic capacity (VO2max)."
+      },
+      {
+        "id": 6,
+        "q": "In the study by Callister et al., what specific athletic performance measures declined when heavy lifting was combined with intense endurance running?",
+        "opts": [
+          "Sprint velocity and vertical jump height",
+          "Maximal bench press 1RM",
+          "Resting stroke volume",
+          "Gastrocnemius tendon stiffness"
+        ],
+        "correct": 0,
+        "rationale": "Callister et al. demonstrated that adding high-intensity endurance running to a heavy resistance program resulted in significant declines in high-velocity performance metrics, specifically sprint velocity and vertical jump height."
+      },
+      {
+        "id": 7,
+        "q": "Why is slow-velocity 1RM strength less impaired by concurrent training than explosive RFD?",
+        "opts": [
+          "1RM strength relies heavily on maximal recruitment and force, whereas RFD requires rapid motor unit firing rates and power that are blunted by endurance fatigue",
+          "1RM strength does not require motor unit recruitment",
+          "RFD is governed entirely by cardiac output rather than neural drive",
+          "1RM strength relies exclusively on anaerobic glycolysis without myofibrillar cross-bridges"
+        ],
+        "correct": 0,
+        "rationale": "Maximal slow-velocity 1RM strength can be maintained through high motor unit recruitment despite concurrent fatigue, whereas explosive RFD depends on rapid motor unit discharge rates and neuromuscular velocity that are sensitive to endurance-induced neuromuscular fatigue."
+      },
+      {
+        "id": 8,
+        "q": "How does heavy resistance training benefit distance runners?",
+        "opts": [
+          "Improves running economy, muscle re-recruitment patterns, and delays neuromuscular fatigue during long-distance bouts",
+          "Increases lung volume by 500%",
+          "Eliminates the need for aerobic energy production",
+          "Destroys Type I slow-twitch muscle fibers"
+        ],
+        "correct": 0,
+        "rationale": "Heavy resistance training improves running economy in distance runners by increasing leg muscle stiffness, enhancing force production per stride, and delaying the onset of neuromuscular fatigue."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which performance metrics are most vulnerable to the interference effect during concurrent training? (Select all that apply)",
+        "opts": [
+          "Rate of force development (RFD)",
+          "Vertical jump height",
+          "Maximal sprint velocity",
+          "Maximal oxygen consumption (VO2max)"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Explosive power metrics\u2014including RFD, vertical jump height, and maximal sprint velocity\u2014are significantly impaired by concurrent training, whereas VO2max is preserved."
+      },
+      {
+        "id": 2,
+        "q": "Which statements regarding the impact of heavy strength training on endurance adaptations are true? (Select all that apply)",
+        "opts": [
+          "Heavy strength training does not impair VO2max gains",
+          "Heavy strength training improves running economy in trained distance runners",
+          "Female athletes can experience enhanced aerobic development when strength is combined with endurance",
+          "Heavy strength training causes severe destruction of myocardial blood vessels"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Strength training does not harm VO2max, enhances running economy, and exhibits aerobic synergism in females without damaging myocardial vessels."
+      },
+      {
+        "id": 3,
+        "q": "Which training factors exacerbate the magnitude of strength and power interference? (Select all that apply)",
+        "opts": [
+          "High weekly frequency of aerobic endurance sessions",
+          "High volume and duration of aerobic sessions",
+          "High intensity of aerobic endurance workouts",
+          "Allowing 48 hours of rest between workouts"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "High frequency, duration/volume, and intensity of aerobic endurance workouts drive greater interference with anaerobic strength and power development."
+      },
+      {
+        "id": 4,
+        "q": "How does heavy lifting improve distance running performance without causing excessive hypertrophy? (Select all that apply)",
+        "opts": [
+          "Increases musculotendinous stiffness and elastic energy recoil",
+          "Enhances motor unit recruitment efficiency and fatigue resistance",
+          "Delays the recruitment of less efficient Type II fibers during long runs",
+          "Converts all leg muscles into visceral fat tissue"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Heavy strength training enhances running economy via increased tendon stiffness, recruitment efficiency, and delayed neuromuscular fatigue."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Concurrent strength and endurance training impairs explosive power and rate of force development to a greater extent than maximal 1RM strength.",
+        "ans": true,
+        "feedback": "High-velocity explosive power output and RFD are significantly more sensitive to concurrent interference than slow-velocity 1RM strength."
+      },
+      {
+        "id": 2,
+        "q": "Heavy resistance training causes a significant reduction in maximal oxygen consumption (VO2max) in trained endurance athletes.",
+        "ans": false,
+        "feedback": "Heavy resistance exercise causes no adverse effect on VO2max and enhances endurance performance by improving running economy."
+      },
+      {
+        "id": 3,
+        "q": "Kraemer et al. demonstrated that female athletes performing combined strength and endurance training achieved greater VO2max gains than those performing endurance training alone.",
+        "ans": true,
+        "feedback": "Kraemer et al. documented aerobic synergism in females, where combined training elicited superior VO2max improvements compared to endurance-only training."
+      },
+      {
+        "id": 4,
+        "q": "The interference effect is symmetrical, meaning strength training impairs aerobic capacity to the exact same degree that endurance training impairs strength.",
+        "ans": false,
+        "feedback": "The interference effect is asymmetrical: endurance training impairs strength/power gains, but strength training does not impair aerobic capacity."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Concurrent training significantly impairs **rate of force development** and power output, while **VO2max** remains largely unaffected.",
+        "targets": [
+          "rate of force development",
+          "VO2max"
+        ],
+        "optionsBank": [
+          "rate of force development",
+          "VO2max",
+          "1RM bench press",
+          "capillary density",
+          "myostatin"
+        ],
+        "hint": "Recall which high-velocity performance metric is impaired and which aerobic capacity metric is preserved."
+      },
+      {
+        "id": 2,
+        "statement": "The magnitude of strength interference is directly proportional to the **frequency**, volume, and **intensity** of the aerobic endurance training component.",
+        "targets": [
+          "frequency",
+          "intensity"
+        ],
+        "optionsBank": [
+          "frequency",
+          "intensity",
+          "stretching",
+          "hydration",
+          "protein intake"
+        ],
+        "hint": "Identify the key aerobic training load variables driving interference."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain why explosive power output and rate of force development (RFD) are significantly more compromised by concurrent aerobic training than slow-velocity maximal 1RM strength.",
+        "model": "Explosive power and RFD depend heavily on maximal rapid motor unit discharge rates, high-velocity neuromuscular transmission, and rapid cross-bridge cycling rates. High-volume aerobic training induces localized neuromuscular fatigue, residual metabolic strain, and cellular signaling conflict (AMPK activation opposing mTORC1), which selectively blunts rapid neural firing and high-threshold Type IIx/IIa velocity capabilities. In contrast, slow-velocity maximal 1RM strength allows sufficient time for maximal recruitment and force summation across heavy lifts, making 1RM strength less vulnerable to endurance-induced velocity deficits.",
+        "criteria": [
+          "Identify that RFD and explosive power depend on rapid motor unit firing rates and high-velocity recruitment.",
+          "Explain that endurance-induced fatigue and AMPK/mTOR signaling conflicts selectively blunt high-velocity neural drive.",
+          "Contrast with 1RM strength, which relies on slow-velocity maximal force summation and remains resilient."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Summarize the physiological mechanisms by which adding heavy resistance training improves long-distance running performance without impairing VO2max.",
+        "model": "Heavy resistance training enhances long-distance running performance primarily by improving running economy\u2014the oxygen cost required to run at a given submaximal velocity. Mechanistically, heavy lifting increases lower-limb musculotendinous stiffness, allowing greater storage and utilization of passive elastic strain energy per stride. Furthermore, strength training increases motor unit recruitment efficiency and force capacity per fiber, delaying the onset of neuromuscular fatigue and postponing the recruitment of less efficient fast-twitch fibers during prolonged endurance bouts. Crucially, these neuromuscular adaptations occur without reducing capillary density or mitochondrial enzyme activity, thereby preserving VO2max.",
+        "criteria": [
+          "State that heavy lifting improves running economy without impairing VO2max.",
+          "Explain the role of increased musculotendinous stiffness in passive elastic energy recoil.",
+          "Describe how improved recruitment efficiency and fiber strength delay neuromuscular fatigue during long runs."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "How do heavy resistance training and aerobic interval training compare in driving fast-twitch Type IIx to Type IIa fiber transformations?",
+        "opts": [
+          "Heavy lifting causes a near-complete reduction in Type IIx fibers (19.1% down to 1.9%), whereas aerobic interval training causes a smaller reduction (19.2% down to 8.8%)",
+          "Aerobic interval training converts all Type IIx fibers into Type I fibers within 24 hours",
+          "Heavy lifting increases Type IIx fibers by 500%",
+          "Neither training mode alters fast-twitch fiber subtypes"
+        ],
+        "correct": 0,
+        "rationale": "Heavy resistance training drives a near-complete transition of Type IIx fibers to Type IIa (19.1% down to 1.9%), demonstrating greater recruitment of high-threshold Type IIx motor units than aerobic interval training (19.2% down to 8.8%)."
+      },
+      {
+        "id": 2,
+        "q": "How does concurrent training alter fiber-specific muscle hypertrophy compared to resistance training alone?",
+        "opts": [
+          "Resistance training alone increases cross-sectional area in Type I, IIa, and IIc fibers, whereas concurrent training selectively restricts hypertrophy to Type IIa fibers only",
+          "Concurrent training doubles the hypertrophy of Type I fibers compared to lifting alone",
+          "Concurrent training causes complete atrophy of all muscle fiber types",
+          "Resistance training alone causes fiber shrinkage in Type IIa fibers"
+        ],
+        "correct": 0,
+        "rationale": "Resistance training alone induces cross-sectional area hypertrophy across Type I, Type IIa, and Type IIc fibers. Concurrent training selectively restricts hypertrophy to Type IIa fibers while blocking Type I fiber growth."
+      },
+      {
+        "id": 3,
+        "q": "What specific muscle fiber adaptation is induced by aerobic endurance training performed alone?",
+        "opts": [
+          "Selective atrophy (reduction in cross-sectional area) of Type I and Type IIc muscle fibers",
+          "Massive hypertrophy of Type IIx fast-twitch fibers",
+          "Conversion of skeletal muscle fibers into bone tissue",
+          "Doubling of individual myofibril diameter"
+        ],
+        "correct": 0,
+        "rationale": "Aerobic endurance training performed alone induces selective atrophy of Type I and Type IIc muscle fibers to reduce diffusion distance for oxygen transport."
+      },
+      {
+        "id": 4,
+        "q": "What primary physiological drivers account for endurance-induced muscle fiber atrophy?",
+        "opts": [
+          "Elevated catabolic cortisol levels and the adaptive requirement for shorter capillary-to-cell diffusion distances",
+          "Excessive growth hormone secretion and hyper-hydration",
+          "High glycogen storage overloading the sarcoplasm",
+          "Complete loss of muscle spindle innervation"
+        ],
+        "correct": 0,
+        "rationale": "Endurance-induced fiber atrophy is driven by elevated catabolic cortisol levels (and reduced testosterone-to-cortisol ratio) alongside the physiological requirement for smaller fiber diameters to shorten capillary-to-mitochondria diffusion distances."
+      },
+      {
+        "id": 5,
+        "q": "What intracellular pathway antagonism explains the restriction of hypertrophy during concurrent training?",
+        "opts": [
+          "AMPK activation from endurance exercise inhibits mTORC1 activation driven by resistance loading",
+          "Glycolysis directly destroys actin and myosin filaments",
+          "Myostatin converts all androgen receptors into cortisol receptors",
+          "Troponin binds with sodium to stop muscle contractions"
+        ],
+        "correct": 0,
+        "rationale": "Metabolic stress from endurance exercise activates AMP-activated protein kinase (AMPK), which phosphorylates TSC2 and inhibits mechanistic target of rapamycin complex 1 (mTORC1), blocking muscle protein synthesis."
+      },
+      {
+        "id": 6,
+        "q": "In muscle fiber continuum dynamics, which fiber transition is considered a universal response to both heavy lifting and aerobic endurance training?",
+        "opts": [
+          "Type IIx to Type IIa fiber shift",
+          "Type I to Type IIx fiber shift",
+          "Smooth muscle to skeletal muscle shift",
+          "Type IIa to cardiac muscle shift"
+        ],
+        "correct": 0,
+        "rationale": "Both anaerobic resistance training and aerobic endurance training induce a shift along the myosin heavy chain continuum from fast, fatigable Type IIx fibers to more oxidative, fatigue-resistant Type IIa fibers."
+      },
+      {
+        "id": 7,
+        "q": "Why does shrinking muscle fiber diameter benefit aerobic endurance performance?",
+        "opts": [
+          "Decreases capillary-to-mitochondria diffusion distance, accelerating oxygen and substrate delivery",
+          "Increases peak force output by 300%",
+          "Prevents the heart from beating too quickly",
+          "Eliminates the production of carbon dioxide"
+        ],
+        "correct": 0,
+        "rationale": "Smaller fiber cross-sectional area reduces the physical distance oxygen must diffuse from capillaries to intramuscular mitochondria, enhancing aerobic metabolic kinetics."
+      },
+      {
+        "id": 8,
+        "q": "What happens to Type IIa fiber cross-sectional area when heavy resistance training is performed in combination with aerobic interval training?",
+        "opts": [
+          "Type IIa hypertrophy still occurs, but Type I hypertrophy is completely blunted",
+          "Type IIa fibers shrink by 90%",
+          "Type IIa fibers convert into connective tissue fascia",
+          "Type IIa fibers lose all mitochondria"
+        ],
+        "correct": 0,
+        "rationale": "Studies show that concurrent training permits significant hypertrophy in Type IIa fibers, but selectively suppresses or blocks the hypertrophy of slow-twitch Type I fibers."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which muscle fiber adaptations characterize heavy resistance training performed ALONE? (Select all that apply)",
+        "opts": [
+          "Hypertrophy across Type I, Type IIa, and Type IIc fibers",
+          "Near-complete transformation of Type IIx fibers to Type IIa (19.1% to 1.9%)",
+          "Increased myofibrillar cross-sectional area",
+          "Selective atrophy of Type I fibers to shorten diffusion distance"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Resistance training alone causes hypertrophy across Type I, IIa, and IIc fibers, drives near-complete IIx to IIa transformation, and expands myofibrillar area. Selective Type I atrophy is caused by endurance training."
+      },
+      {
+        "id": 2,
+        "q": "Which statements regarding cellular adaptations in concurrent training are correct? (Select all that apply)",
+        "opts": [
+          "Concurrent training restricts hypertrophy primarily to Type IIa fibers",
+          "Type I fiber hypertrophy is suppressed or blocked during concurrent training",
+          "AMPK signaling activated by endurance exercise inhibits mTORC1 protein synthesis pathways",
+          "Concurrent training causes all fast-twitch fibers to turn into slow-twitch Type I fibers"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Concurrent training limits hypertrophy to Type IIa fibers, suppresses Type I hypertrophy, and involves AMPK inhibition of mTORC1."
+      },
+      {
+        "id": 3,
+        "q": "Which factors contribute to endurance-induced muscle fiber atrophy? (Select all that apply)",
+        "opts": [
+          "Elevated circulating catabolic cortisol levels",
+          "Reduced resting testosterone-to-cortisol ratio",
+          "Physiological demand for shorter capillary-to-cell oxygen diffusion distance",
+          "Over-stimulation of androgen receptors"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Endurance-induced fiber atrophy is driven by elevated cortisol, lower testosterone-to-cortisol ratio, and the need for shorter oxygen diffusion distances."
+      },
+      {
+        "id": 4,
+        "q": "How do Type IIx fiber transitions differ between heavy resistance training and aerobic interval training? (Select all that apply)",
+        "opts": [
+          "Heavy lifting causes a larger reduction in Type IIx fibers (down to 1.9%) than aerobic intervals (down to 8.8%)",
+          "Heavy lifting recruits high-threshold Type IIx motor units more completely",
+          "Both modes shift Type IIx fibers toward the more fatigue-resistant Type IIa phenotype",
+          "Aerobic interval training increases Type IIx percentage to 50%"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Heavy lifting causes a greater IIx reduction (to 1.9%) due to complete high-threshold recruitment, though both modes shift IIx toward IIa."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Heavy resistance training drives a larger reduction in Type IIx muscle fibers (down to 1.9%) than aerobic interval training (down to 8.8%).",
+        "ans": true,
+        "feedback": "Heavy lifting recruits high-threshold motor units more completely, causing a near-complete transformation of Type IIx fibers into Type IIa."
+      },
+      {
+        "id": 2,
+        "q": "Concurrent strength and endurance training suppresses Type I slow-twitch muscle fiber hypertrophy while allowing Type IIa fiber hypertrophy.",
+        "ans": true,
+        "feedback": "Concurrent training selectively restricts hypertrophy to Type IIa fibers while blocking the hypertrophy of Type I slow-twitch fibers."
+      },
+      {
+        "id": 3,
+        "q": "Aerobic endurance training performed alone increases Type I muscle fiber cross-sectional area by 50%.",
+        "ans": false,
+        "feedback": "Aerobic endurance training alone induces selective ATROPHY (shrinkage) of Type I and Type IIc fibers to optimize oxygen diffusion kinetics."
+      },
+      {
+        "id": 4,
+        "q": "AMPK signaling activated during endurance exercise enhances mTORC1 signaling to double muscle protein synthesis.",
+        "ans": false,
+        "feedback": "AMPK activation from endurance exercise INHIBITS mTORC1 signaling, suppressing resistance-induced muscle protein synthesis."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Heavy lifting causes a near-complete transition of **Type IIx** fibers to **Type IIa** fibers.",
+        "targets": [
+          "Type IIx",
+          "Type IIa"
+        ],
+        "optionsBank": [
+          "Type IIx",
+          "Type IIa",
+          "Type I",
+          "cardiac",
+          "smooth"
+        ],
+        "hint": "Identify the initial fatigable fast-twitch fiber subtype and its transformed phenotype."
+      },
+      {
+        "id": 2,
+        "statement": "Endurance exercise activates **AMPK**, which inhibits **mTORC1** to suppress muscle protein synthesis.",
+        "targets": [
+          "AMPK",
+          "mTORC1"
+        ],
+        "optionsBank": [
+          "AMPK",
+          "mTORC1",
+          "insulin",
+          "myostatin",
+          "calcitonin"
+        ],
+        "hint": "Identify the energy-sensing kinase and the key anabolic protein synthesis complex."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Detail the molecular mechanism of cellular antagonism (AMPK vs. mTORC1) that limits muscle fiber hypertrophy during concurrent training.",
+        "model": "Muscle hypertrophy following resistance training is driven primarily by mechanical tension activating the mechanistic target of rapamycin complex 1 (mTORC1) pathway, which stimulates ribosomal biogenesis and muscle protein synthesis. However, high-energy-demand aerobic endurance exercise elevates the cellular AMP-to-ATP ratio, activating AMP-activated protein kinase (AMPK). Activated AMPK phosphorylates tuberous sclerosis complex 2 (TSC2) and Raptor, directly inhibiting mTORC1 signaling. As a result, concurrent endurance exercise blunts resistance-induced protein synthesis, selectively suppressing Type I fiber hypertrophy and limiting overall muscle growth.",
+        "criteria": [
+          "Identify resistance training activation of mTORC1 as the primary driver of muscle protein synthesis.",
+          "Explain that endurance exercise activates AMPK due to elevated AMP-to-ATP ratio.",
+          "Detail how AMPK phosphorylates TSC2/Raptor to inhibit mTORC1, suppressing muscle hypertrophy."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain why aerobic endurance training performed alone induces selective atrophy of Type I muscle fibers, citing hormonal and oxygen transport mechanisms.",
+        "model": "Aerobic endurance training performed alone induces selective cross-sectional area atrophy of Type I and Type IIc muscle fibers due to two main mechanisms:\\n1. Oxygen Diffusion Kinetics: Smaller fiber diameters reduce the physical capillary-to-mitochondria diffusion distance, allowing faster transport of oxygen and metabolic substrates during prolonged endurance bouts.\\n2. Hormonal Environment: High-volume endurance training elevates circulating catabolic cortisol levels while reducing resting testosterone levels (depressing the anabolic-to-catabolic ratio), creating a systemic environment that favors protein breakdown over protein synthesis in chronically loaded slow-twitch fibers.",
+        "criteria": [
+          "Explain that smaller fiber diameters shorten capillary-to-mitochondria oxygen diffusion distance.",
+          "Identify the catabolic hormonal shift (elevated cortisol, depressed testosterone) induced by endurance volume.",
+          "Conclude that these factors combine to cause selective atrophy in Type I and Type IIc fibers."
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "According to Sale et al., how did training on separated days (4 days/week) compare to same-day combined workouts (2 days/week) for leg press 1RM strength gains?",
+        "opts": [
+          "Separated-day training produced a 25% increase in leg press 1RM, compared to only 13% for same-day combined workouts",
+          "Same-day combined workouts produced a 100% gain, whereas separated days produced 0%",
+          "Both scheduling strategies produced identical 5% gains",
+          "Separated-day training caused severe muscle atrophy"
+        ],
+        "correct": 0,
+        "rationale": "Sale et al. demonstrated that separating strength and endurance workouts onto alternate days (4 days/week total) yielded a 25% increase in leg press 1RM, compared to only a 13% gain when both modes were performed in the same workout sessions (2 days/week)."
+      },
+      {
+        "id": 2,
+        "q": "How does performing a 25-minute aerobic endurance session 30 minutes prior to resistance training affect squat repetition performance?",
+        "opts": [
+          "Reduces squat repetition performance by 13% to 36% across sets due to acute fatigue and glycogen depletion",
+          "Increases squat performance by 50% due to muscle warmup",
+          "Has zero effect on repetition count or force output",
+          "Doubles maximal 1RM squat strength immediately"
+        ],
+        "correct": 0,
+        "rationale": "Leveritt & Abernethy showed that conducting a 25-minute high-intensity aerobic session 30 minutes prior to lifting significantly reduced squat repetition volume by 13% to 36% across sets due to localized glycogen depletion and neuromuscular fatigue."
+      },
+      {
+        "id": 3,
+        "q": "Why does high-frequency concurrent training (e.g., 6 consecutive days per week) severely impair strength and power adaptations?",
+        "opts": [
+          "It induces systemic overtraining and chronic neuromuscular fatigue due to inadequate recovery between opposing demands",
+          "It causes the liver to stop producing glucose completely",
+          "It destroys all motor neurons in the ventral horn",
+          "It converts skeletal muscle into collagenous scar tissue"
+        ],
+        "correct": 0,
+        "rationale": "Training on 6 consecutive days per week leaves insufficient recovery time between conflicting neural and metabolic stimuli, triggering chronic neuromuscular fatigue, blunted protein synthesis, and systemic overtraining."
+      },
+      {
+        "id": 4,
+        "q": "Based on the meta-analysis by Wilson et al., what recovery window duration between endurance and strength sessions is recommended to minimize interference?",
+        "opts": [
+          "At least 6 to 24 hours between conflicting sessions",
+          "Exactly 3 seconds between sets",
+          "No recovery is needed; perform both simultaneously",
+          "At least 6 months of total bed rest"
+        ],
+        "correct": 0,
+        "rationale": "Wilson et al. recommended separating endurance and strength training sessions by at least 6 to 24 hours to allow acute neuromuscular fatigue to dissipate and AMPK signaling to decline before resistance loading."
+      },
+      {
+        "id": 5,
+        "q": "If an athlete's primary objective is maximal explosive power or maximal 1RM strength, how should exercise sequencing be structured within a workout?",
+        "opts": [
+          "Perform resistance training first while fully rested, or schedule strength and endurance on separate days",
+          "Perform 60 minutes of high-intensity treadmill running immediately before heavy lifting",
+          "Perform heavy squats immediately after an exhaustive 10-mile run",
+          "Never perform resistance training under any circumstances"
+        ],
+        "correct": 0,
+        "rationale": "To maximize high-velocity explosive power and 1RM strength gains, strength workouts must be executed in a non-fatigued state\u2014either preceding aerobic exercise or on dedicated, separate days."
+      },
+      {
+        "id": 6,
+        "q": "What localized substrate depletion occurs during prior aerobic exercise that directly impairs subsequent resistance training set volume?",
+        "opts": [
+          "Intramuscular glycogen depletion in active muscle fibers",
+          "Complete loss of bone calcium",
+          "Depletion of subcutaneous body fat",
+          "Destruction of circulating plasma albumin"
+        ],
+        "correct": 0,
+        "rationale": "Prior aerobic endurance exercise depletes intramuscular glycogen stores in working muscle fibers, limiting glycolytic ATP regeneration during subsequent high-volume resistance training sets."
+      },
+      {
+        "id": 7,
+        "q": "In the study by Sale et al., why was same-day concurrent training (2 days/week) less effective for strength development?",
+        "opts": [
+          "Acute residual fatigue from performing both modes in one session reduced training intensity and suppressed neuromuscular drive",
+          "The athletes stopped eating protein",
+          "Same-day training reduced heart rate to zero",
+          "Same-day training doubled myostatin levels permanently"
+        ],
+        "correct": 0,
+        "rationale": "Combining both modes into same-day sessions creates severe acute intra-session fatigue, lowering resistance training intensity, reducing set volume, and blunting neuromuscular signaling."
+      },
+      {
+        "id": 8,
+        "q": "What conditioning modality choice reduces the magnitude of interference with lower-body strength and hypertrophy?",
+        "opts": [
+          "Cycling or ergometer work (which involves concentric muscle actions) produces less interference than high-impact running",
+          "Downhill high-impact sprinting with extra weights",
+          "Marathon running on concrete 7 days per week",
+          "Exhaustive jump rope for 4 continuous hours"
+        ],
+        "correct": 0,
+        "rationale": "Research indicates that cycling produces less strength/hypertrophy interference than running, as cycling relies primarily on concentric actions and causes less eccentric muscle damage."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which scheduling strategies effectively reduce the interference effect in concurrent training programs? (Select all that apply)",
+        "opts": [
+          "Scheduling strength and endurance sessions on alternate, separated days (4 days/week)",
+          "Allowing a recovery window of 6 to 24 hours between conflicting workouts",
+          "Selecting cycling instead of high-impact running for aerobic conditioning",
+          "Performing 6 consecutive days of high-volume same-day workouts"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Separated days (4 days/week), 6-24 hour recovery windows, and cycling reduce interference. 6 consecutive days of same-day training maximizes overtraining and interference."
+      },
+      {
+        "id": 2,
+        "q": "Which negative consequences result from performing high-intensity aerobic exercise immediately before heavy lifting? (Select all that apply)",
+        "opts": [
+          "Significant reduction in total squat repetition volume across sets (13% to 36% drop)",
+          "Localized intramuscular glycogen depletion",
+          "Acute neuromuscular fatigue and blunted motor unit recruitment",
+          "Immediate 100% increase in 1RM bench press strength"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Prior aerobic exercise causes acute repetition drops (13-36%), glycogen depletion, and neuromuscular fatigue, impairing lifting performance."
+      },
+      {
+        "id": 3,
+        "q": "Which findings from Sale et al. support separating strength and endurance workouts? (Select all that apply)",
+        "opts": [
+          "Separated-day training (4 days/week) produced a 25% gain in leg press 1RM",
+          "Same-day combined training (2 days/week) produced only a 13% gain in leg press 1RM",
+          "Separating training modes allows higher quality effort and force output per session",
+          "Same-day training completely doubled explosive jump power"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Sale et al. showed separated-day training yielded 25% 1RM gains vs. 13% for same-day training, proving that separation enhances quality and strength adaptations."
+      },
+      {
+        "id": 4,
+        "q": "Which physiological factors explain why intra-session exercise ordering matters for strength performance? (Select all that apply)",
+        "opts": [
+          "Acute glycogen depletion from prior cardio limits glycolytic capacity during heavy lifting",
+          "Residual central and peripheral fatigue reduces peak motor unit discharge rates",
+          "AMPK activation from prior cardio suppresses post-lifting mTORC1 signaling",
+          "Prior cardio permanently destroys all fast-twitch fiber motor units"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Prior cardio causes glycogen depletion, neural fatigue, and AMPK elevation, all of which compromise subsequent strength loading and anabolic signaling."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "According to Sale et al., training strength and endurance on separated days (4 days/week) produced nearly double the leg press 1RM gains (25%) of same-day combined training (13%).",
+        "ans": true,
+        "feedback": "Separating strength and endurance workouts onto alternate days significantly enhances maximal 1RM strength gains compared to same-day combined workouts."
+      },
+      {
+        "id": 2,
+        "q": "Performing a 25-minute aerobic endurance session 30 minutes before heavy squats increases squat repetition performance by 30%.",
+        "ans": false,
+        "feedback": "Prior aerobic exercise REDUCES squat repetition performance by 13% to 36% across sets due to localized glycogen depletion and acute neuromuscular fatigue."
+      },
+      {
+        "id": 3,
+        "q": "High-frequency concurrent training on 6 consecutive days per week optimizes recovery and maximizes explosive power development.",
+        "ans": false,
+        "feedback": "Training on 6 consecutive days per week triggers systemic overtraining, chronic neuromuscular fatigue, and severe interference with strength and power."
+      },
+      {
+        "id": 4,
+        "q": "Allowing a recovery window of 6 to 24 hours between endurance and strength sessions helps minimize cellular signaling interference.",
+        "ans": true,
+        "feedback": "A 6-to-24 hour recovery window allows acute fatigue to clear and AMPK signaling to subside before resistance loading, optimizing mTORC1 activation."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Sale et al. showed that separated-day training yielded a **25%** gain in 1RM strength compared to **13%** for same-day combined training.",
+        "targets": [
+          "25%",
+          "13%"
+        ],
+        "optionsBank": [
+          "25%",
+          "13%",
+          "100%",
+          "0%",
+          "50%"
+        ],
+        "hint": "Recall the percentage gains in leg press 1RM for separated vs. same-day protocols."
+      },
+      {
+        "id": 2,
+        "statement": "Prior aerobic exercise causes intramuscular **glycogen** depletion, reducing squat set volume by **13% to 36%**.",
+        "targets": [
+          "glycogen",
+          "13% to 36%"
+        ],
+        "optionsBank": [
+          "glycogen",
+          "13% to 36%",
+          "calcium",
+          "50% to 90%",
+          "protein"
+        ],
+        "hint": "Identify the depleted substrate and the magnitude of repetition loss."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Design an optimal weekly concurrent training schedule for a field-sport athlete who needs to build explosive power and aerobic conditioning, applying research from Sale et al. and Wilson et al.",
+        "model": "1. Schedule Design (Separated Days): Program strength/power workouts and aerobic endurance workouts on alternate, separated days (4 to 5 total training days/week). For example: Monday/Thursday (Explosive Power & Heavy Resistance), Tuesday/Friday (Aerobic Endurance Conditioning), Wednesday/Weekend (Active Recovery/Rest).\\n2. Rationale (Sale et al.): Training on separated days avoids intra-session acute fatigue, yielding superior 1RM strength and power gains (~25% vs ~13% for same-day training).\\n3. Recovery Windows (Wilson et al.): Ensure a recovery window of at least 6 to 24 hours between high-intensity sessions. If same-day training is unavoidable, perform power/strength lifting FIRST when fully rested, allowing 6+ hours before the aerobic session.",
+        "criteria": [
+          "Recommend separating strength and endurance workouts onto alternate days (4-5 days/week total).",
+          "Cite Sale et al. findings showing superior strength/power gains with separated-day scheduling.",
+          "Apply Wilson et al. guidelines for 6-24 hour recovery windows and prioritizing strength first if same-day."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Analyze the acute substrate and neuromuscular mechanisms that cause a drop in resistance training set volume when lifting immediately after an aerobic endurance workout.",
+        "model": "Performing resistance training immediately after an aerobic endurance workout impairs set volume and force output via three primary mechanisms:\\n1. Localized Substrate Depletion: Prior aerobic exercise depletes intramuscular glycogen stores in active muscle fibers, limiting rapid glycolytic ATP regeneration during subsequent high-intensity resistance sets.\\n2. Neuromuscular Fatigue: Sustained aerobic exertion reduces motor cortex excitability and blunts motor unit discharge firing rates, impairing high-threshold fast-twitch motor unit recruitment during heavy lifts.\\n3. Performance Impact: Studies (Leveritt & Abernethy) demonstrate a 13% to 36% reduction in squat repetition performance across sets due to these combined metabolic and neural deficits.",
+        "criteria": [
+          "Identify localized intramuscular glycogen depletion as a major metabolic cause of reduced glycolytic ATP capacity.",
+          "Explain central and peripheral neuromuscular fatigue that blunts high-threshold motor unit recruitment.",
+          "Cite Leveritt & Abernethy evidence showing a 13% to 36% reduction in squat repetition volume."
+        ]
+      }
+    ]
+  }
+}

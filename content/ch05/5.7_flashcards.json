@@ -1,0 +1,76 @@
+{
+    "chapterId": "5.7",
+    "title": "5.7 Overtraining",
+    "cards": [
+        {
+            "id": "5.7-01",
+            "tag": "The Overtraining Continuum",
+            "reference": "Section 5.7",
+            "front": "What are the primary distinctions between <strong>functional overreaching (FOR)</strong>, <strong>nonfunctional overreaching (NFOR)</strong>, and <strong>overtraining syndrome (OTS)</strong>?",
+            "back": "<ul><li><strong>Functional Overreaching (FOR):</strong> Short-term performance drop followed by supercompensation post-tapering (recovery in days to weeks).</li><li><strong>Nonfunctional Overreaching (NFOR):</strong> Extreme overreaching causing performance stagnation/decrease lasting weeks to months.</li><li><strong>Overtraining Syndrome (OTS):</strong> Severe, prolonged maladaptation of biological, neurochemical, and hormonal mechanisms lasting 6 months or beyond.</li></ul>"
+        },
+        {
+            "id": "5.7-02",
+            "tag": "Sympathetic vs. Parasympathetic OTS",
+            "reference": "Section 5.7",
+            "front": "How do <strong>sympathetic</strong> and <strong>parasympathetic overtraining syndromes</strong> differ in their onset, symptoms, and target athlete populations?",
+            "back": "<ul><li><strong>Sympathetic OTS:</strong> Elevated resting sympathetic activity, predominates early in younger speed/power athletes (insomnia, restlessness, elevated resting HR).</li><li><strong>Parasympathetic OTS:</strong> Elevated resting/exercise parasympathetic activity, predominates in endurance sports, representing end-stage exhaustion with systemic endocrine suppression.</li></ul>"
+        },
+        {
+            "id": "5.7-03",
+            "tag": "High-Intensity Squat Protocol (Fry et al., 1994)",
+            "reference": "Section 5.7",
+            "front": "In the short-term NFOR squat study by Fry et al. (8 sets at 95% 1RM for 6 consecutive days), which performance metrics decreased and which was preserved?",
+            "back": "The protocol caused nonspecific performance decrements in <strong>isokinetic torque production</strong>, <strong>sprint times</strong>, and <strong>agility times</strong>, while <strong>1RM strength was preserved</strong>."
+        },
+        {
+            "id": "5.7-04",
+            "tag": "Daily 1RM Squat Protocol (Fry et al., 1998)",
+            "reference": "Section 5.7",
+            "front": "What performance outcome occurred when subjects performed 10 sets of 1RM squats daily for 7 days (Fry et al., 1998)?",
+            "back": "A significant decrease of <strong>&gt;9.9 lb (&gt;4.5 kg)</strong> in 1RM squat strength occurred in <strong>73% of subjects</strong>, demonstrating substantial individual variation in overreaching tolerance."
+        },
+        {
+            "id": "5.7-05",
+            "tag": "Volume-Related vs. Intensity-Related Hormonal Profiles",
+            "reference": "Section 5.7",
+            "front": "How do endocrine responses differ between <strong>volume-related overtraining</strong> and <strong>intensity-related overtraining</strong>?",
+            "back": "<ul><li><strong>Volume-related OTS:</strong> Increases resting cortisol and decreases resting total/free testosterone and luteinizing hormone (LH).</li><li><strong>Intensity-related OTS:</strong> Produces no significant changes in resting concentrations of testosterone, free testosterone, cortisol, or growth hormone.</li></ul>"
+        },
+        {
+            "id": "5.7-06",
+            "tag": "Testosterone-to-Cortisol Ratio",
+            "reference": "Section 5.7",
+            "front": "What is the physiological interpretation of the resting <strong>plasma testosterone-to-cortisol ratio</strong> in training load monitoring?",
+            "back": "The ratio reflects the <strong>actual physiological strain</strong> of training (anabolic/catabolic balance), decreasing with heightened training intensity and volume, but serves as a strain marker rather than a diagnostic tool for OTS."
+        },
+        {
+            "id": "5.7-07",
+            "tag": "Neuroendocrine Pituitary Exhaustion",
+            "reference": "Section 5.7",
+            "front": "What neuroendocrine progression occurs in highly trained athletes during nonfunctional overreaching according to Meeusen et al.?",
+            "back": "Athletes initially experience an intense, <strong>hypersensitive sympathetic hormone surge</strong>, followed by <strong>suppression of pituitary hormone release</strong> (ACTH, GH, LH, FSH) due to receptor downregulation and pituitary exhaustion."
+        },
+        {
+            "id": "5.7-08",
+            "tag": "Psychological Profile of Mood States (POMS)",
+            "reference": "Section 5.7",
+            "front": "Why are psychological alterations monitored via the <strong>Profile of Mood States (POMS)</strong> critical for identifying overtraining?",
+            "back": "Psychological shifts—including <strong>decreased vigor and motivation</strong> alongside <strong>increased tension, depression, anger, fatigue, and confusion</strong>—often manifest before measurable physical performance decrements occur."
+        },
+        {
+            "id": "5.7-09",
+            "tag": "Prescriptive Mistakes & Anaerobic OTS",
+            "reference": "Section 5.7",
+            "front": "What primary exercise prescription mistakes contribute to the development of <strong>anaerobic overtraining syndrome</strong>?",
+            "back": "<ul><li><strong>Excessive rate of progressive overload:</strong> Increasing volume or intensity too rapidly over weeks or months.</li><li><strong>Excessive volume and intensity pairing:</strong> Combining heavy loads with high set volume and high frequency without adequate recovery rest.</li></ul>"
+        },
+        {
+            "id": "5.7-10",
+            "tag": "Prevalence in High-Velocity Sports",
+            "reference": "Section 5.7",
+            "front": "What percentage of overtrained survey subjects participated in high-velocity/high-force sports, and how do their symptoms present?",
+            "back": "A survey showed that <strong>77% of overtrained athletes</strong> were involved in sports requiring high strength, speed, or coordination, displaying sympathetic overtraining symptoms rather than parasympathetic endurance symptoms."
+        }
+    ]
+}

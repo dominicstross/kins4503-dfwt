@@ -1,0 +1,1247 @@
+{
+    "p1": {
+        "mcq": [
+            {
+                "id": 1,
+                "q": "What biological process defines skeletal muscle hypertrophy following chronic anaerobic training?",
+                "opts": [
+                    "An increase in muscle fiber cross-sectional area resulting from net protein synthesis exceeding protein degradation",
+                    "A rapid increase in total muscle fiber number via longitudinal splitting",
+                    "The selective destruction of Type IIx fast-twitch muscle fibers",
+                    "A permanent reduction in myofibrillar protein density within existing fibers"
+                ],
+                "correct": 0,
+                "rationale": "Muscle hypertrophy is defined as the enlargement of muscle fiber cross-sectional area (CSA) caused by a net positive accretion of contractile proteins (actin and myosin), where protein synthesis exceeds degradation."
+            },
+            {
+                "id": 2,
+                "q": "Which primary intracellular signaling cascade is activated by mechanical strain to directly stimulate muscle protein synthesis and myogenesis?",
+                "opts": [
+                    "Akt / mTOR pathway",
+                    "Myostatin amplification cascade",
+                    "Krebs cycle substrate pathway",
+                    "Renin-angiotensin-aldosterone axis"
+                ],
+                "correct": 0,
+                "rationale": "Mechanical deformation activates protein kinase B (Akt) and the mammalian target of rapamycin (mTOR), which directly triggers mRNA translation and muscle protein synthesis."
+            },
+            {
+                "id": 3,
+                "q": "What role does myostatin play in skeletal muscle growth, and how does resistance training alter its expression?",
+                "opts": [
+                    "Myostatin is an inhibitory growth factor; resistance training down-regulates it to accelerate muscle hypertrophy",
+                    "Myostatin stimulates actin synthesis; resistance training up-regulates it to increase muscle size",
+                    "Myostatin is a mitochondrial enzyme; resistance training doubles its concentration",
+                    "Myostatin stores creatine phosphate; resistance training depletes it completely"
+                ],
+                "correct": 0,
+                "rationale": "Myostatin is a negative regulator of muscle growth. Anaerobic resistance exercise suppresses myostatin expression, removing molecular restraints on muscle protein accretion."
+            },
+            {
+                "id": 4,
+                "q": "Following an acute bout of heavy resistance exercise, how long does muscle protein synthesis remain significantly elevated?",
+                "opts": [
+                    "Up to 48 hours",
+                    "Only 15 to 30 minutes",
+                    "Exactly 7 days",
+                    "Over 1 month"
+                ],
+                "correct": 0,
+                "rationale": "Following heavy resistance exercise, muscle protein synthesis rates elevate rapidly and remain significantly heightened for up to 48 hours."
+            },
+            {
+                "id": 5,
+                "q": "How many consistent resistance training workouts are typically required before structural muscle fiber hypertrophy becomes statistically measurable?",
+                "opts": [
+                    "More than 16 workouts",
+                    "1 to 2 workouts",
+                    "Exactly 1 workout",
+                    "Over 200 workouts"
+                ],
+                "correct": 0,
+                "rationale": "While early strength gains (1 to 4 weeks) are mediated by neural adaptations, structural muscle fiber hypertrophy requires a minimum of >16 consistent workouts before visible increases in CSA occur."
+            },
+            {
+                "id": 6,
+                "q": "Which acute training variable combination is characteristic of a protocol designed to maximize metabolic stress for hypertrophy?",
+                "opts": [
+                    "Moderate loads (60% to 75% 1RM), high volume (3-6 sets of 8-12 reps), and short rest (30 to 90 seconds)",
+                    "Heavy loads (>95% 1RM), low volume (1-2 reps), and 5-minute rest intervals",
+                    "Low intensity (<20% 1RM), 1 rep per set, and 10-minute rest intervals",
+                    "Continuous steady-state jogging at 50% VO2max for 3 hours"
+                ],
+                "correct": 0,
+                "rationale": "Metabolic hypertrophy protocols utilize moderate loads (60-75% 1RM), higher repetitions/sets, and short rest periods (30-90s) to promote metabolite accumulation (H+, lactate) and cellular swelling."
+            },
+            {
+                "id": 7,
+                "q": "Where are newly synthesized contractile myofilaments added within an existing myofibril during hypertrophy?",
+                "opts": [
+                    "Sequentially to the external layers (periphery) of the myofibril",
+                    "Exclusively into the cell nucleus",
+                    "Directly into the tendon aponeurosis",
+                    "In the extracellular matrix outside the sarcolemma"
+                ],
+                "correct": 0,
+                "rationale": "Newly synthesized actin and myosin filaments are added sequentially to the periphery of existing myofibrils, increasing myofibrillar diameter and fiber cross-sectional area."
+            },
+            {
+                "id": 8,
+                "q": "What is muscle fiber hyperplasia, and what does scientific evidence indicate regarding its role in human muscle growth?",
+                "opts": [
+                    "An increase in total fiber number via longitudinal splitting; it is unproven/minor (<10%) in humans compared to hypertrophy",
+                    "The shrinkage of muscle fibers; it accounts for 100% of human strength gains",
+                    "The fusion of tendons; it occurs after every workout in humans",
+                    "An increase in blood vessel length; it replaces muscle fibers completely"
+                ],
+                "correct": 0,
+                "rationale": "Hyperplasia refers to an increase in total fiber number via longitudinal splitting. While proven in animal models, evidence indicates it plays a minor role (<10%) in human muscle enlargement."
+            }
+        ],
+        "ms": [
+            {
+                "id": 1,
+                "q": "Which of the following structural proteins are synthesized during skeletal muscle hypertrophy? (Select all that apply)",
+                "opts": [
+                    "Actin",
+                    "Myosin",
+                    "Titin",
+                    "Nebulin"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "Hypertrophy involves the accretion of primary contractile proteins (actin and myosin) alongside structural scaffolding proteins (titin and nebulin)."
+            },
+            {
+                "id": 2,
+                "q": "Which factors contribute to mechanical stress as a stimulus for muscle hypertrophy? (Select all that apply)",
+                "opts": [
+                    "Heavy resistance loads (>85% 1RM)",
+                    "High mechanical tension on muscle fibers",
+                    "Inclusion of eccentric muscle actions",
+                    "High-threshold motor unit recruitment"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "Mechanical stress is driven by heavy loads (>85% 1RM), high tension, eccentric actions, and full recruitment of high-threshold motor units."
+            },
+            {
+                "id": 3,
+                "q": "Which responses characterize exercise-induced muscle damage (EIMD)? (Select all that apply)",
+                "opts": [
+                    "Z-line micro-tears in sarcomeres",
+                    "Inflammatory and repair signaling cascades",
+                    "Stimulation of gene expression to reinforce sarcomere structure",
+                    "Immediate permanent loss of all contractile proteins"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "EIMD involves Z-line disruption from heavy eccentric actions, triggering inflammatory repair cascades that reinforce sarcomere architecture."
+            },
+            {
+                "id": 4,
+                "q": "Which physiological acute outcomes are produced by metabolic hypertrophy training (moderate loads, short rest)? (Select all that apply)",
+                "opts": [
+                    "Intramuscular hydrogen ion (H+) and lactate accumulation",
+                    "Cellular hydration and swelling",
+                    "Acute spikes in growth hormone and testosterone",
+                    "Complete disappearance of all muscle mitochondria"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Metabolic stress causes metabolite accumulation (H+, lactate), muscle cell swelling, and acute anabolic endocrine surges (growth hormone and testosterone)."
+            }
+        ],
+        "tf": [
+            {
+                "id": 1,
+                "q": "Skeletal muscle hypertrophy requires a net positive protein balance where muscle protein synthesis exceeds protein degradation.",
+                "ans": true,
+                "feedback": "Hypertrophy cannot occur without net protein accretion, requiring synthesis to outpace breakdown."
+            },
+            {
+                "id": 2,
+                "q": "Early strength gains during the first 1 to 4 weeks of resistance training are primarily driven by rapid muscle fiber hypertrophy.",
+                "ans": false,
+                "feedback": "Early strength gains (weeks 1-4) are driven primarily by central neural adaptations; measurable hypertrophy requires >16 workouts."
+            },
+            {
+                "id": 3,
+                "q": "Myostatin acts as an anabolic promoter that increases muscle fiber size when up-regulated.",
+                "ans": false,
+                "feedback": "Myostatin is a negative inhibitor of muscle growth; resistance training down-regulates myostatin to allow muscle growth."
+            },
+            {
+                "id": 4,
+                "q": "Hyperplasia is the primary mechanism accounting for over 90% of human skeletal muscle enlargement following strength training.",
+                "ans": false,
+                "feedback": "Hypertrophy (cell enlargement) accounts for over 90% of human muscle growth; hyperplasia contributes less than 10% if at all."
+            }
+        ],
+        "cloze": [
+            {
+                "id": 1,
+                "statement": "Mechanical strain activates the **Akt/mTOR** signaling cascade, while resistance training down-regulates the growth inhibitor **myostatin**.",
+                "targets": [
+                    "Akt/mTOR",
+                    "myostatin"
+                ],
+                "optionsBank": [
+                    "Akt/mTOR",
+                    "myostatin",
+                    "AMPK",
+                    "calcitonin",
+                    "cortisol"
+                ],
+                "hint": "Identify the primary anabolic protein kinase pathway and the negative growth factor."
+            },
+            {
+                "id": 2,
+                "statement": "Measurable hypertrophy requires more than **16 workouts**, while post-exercise protein synthesis remains elevated for up to **48 hours**.",
+                "targets": [
+                    "16 workouts",
+                    "48 hours"
+                ],
+                "optionsBank": [
+                    "16 workouts",
+                    "48 hours",
+                    "2 workouts",
+                    "10 minutes",
+                    "6 months"
+                ],
+                "hint": "Recall the workout threshold for CSA changes and the duration of the anabolic window."
+            }
+        ],
+        "sa": [
+            {
+                "id": 1,
+                "prompt": "Explain why a novice lifter demonstrates dramatic strength increases during weeks 1 to 3 of training despite displaying no measurable muscle hypertrophy.",
+                "model": "Initial strength gains during the first 1 to 4 weeks of resistance training are driven almost exclusively by central neural adaptations rather than structural muscle hypertrophy. These neural changes include increased primary motor cortex drive, improved motor unit recruitment, higher firing frequencies, enhanced synchronization, and reduced antagonist cocontraction. Measurable muscle hypertrophy requires net protein accretion over a minimum of >16 consistent workouts.",
+                "criteria": [
+                    "Identify neural adaptations as the primary driver during weeks 1 to 4.",
+                    "List key neural mechanisms (motor unit recruitment, firing rates, synchronization).",
+                    "State that structural hypertrophy requires >16 workouts before visible CSA changes occur."
+                ]
+            },
+            {
+                "id": 2,
+                "prompt": "Compare mechanical stress versus metabolic stress as stimuli for muscle hypertrophy, detailing the acute program variables for each.",
+                "model": "1. Mechanical Stress: Characterized by heavy loads (>85% 1RM), high tension, eccentric focus, low volume, and longer rest (2-5 min). Drives high-threshold motor unit recruitment, Akt/mTOR activation, and Z-line sarcomere disruption.\n2. Metabolic Stress: Characterized by moderate loads (60-75% 1RM), high volume (3-6 sets of 8-12 reps), and short rest (30-90 s). Drives metabolite accumulation (H+, lactate), cellular swelling, and acute endocrine surges (growth hormone, testosterone).",
+                "criteria": [
+                    "Define mechanical stress variables: >85% 1RM, high tension, longer rest (2-5 min).",
+                    "Define metabolic stress variables: 60-75% 1RM, 8-12 reps, short rest (30-90 s).",
+                    "Explain underlying mechanisms (Akt/mTOR vs metabolite accumulation & cell swelling)."
+                ]
+            }
+        ]
+    },
+    "p2": {
+        "mcq": [
+            {
+                "id": 1,
+                "q": "Which muscle fiber type exhibits significantly greater relative increases in cross-sectional area (CSA) following chronic resistance training?",
+                "opts": [
+                    "Type II fast-twitch fibers",
+                    "Type I slow-twitch fibers",
+                    "Smooth muscle fibers",
+                    "Cardiac muscle fibers"
+                ],
+                "correct": 0,
+                "rationale": "Type II fast-twitch fibers (IIa and IIx) possess a significantly greater capacity for cross-sectional area expansion and myofibrillar hypertrophy than Type I slow-twitch fibers."
+            },
+            {
+                "id": 2,
+                "q": "Why do Type II muscle fibers display a greater hypertrophic potential than Type I fibers under heavy resistance loading?",
+                "opts": [
+                    "They contain higher myofibrillar protein density and greater sensitivity to Akt/mTOR signaling under high mechanical tension",
+                    "They rely exclusively on aerobic mitochondrial respiration",
+                    "They possess lower concentrations of actin and myosin filaments",
+                    "They cannot undergo protein synthesis post-workout"
+                ],
+                "correct": 0,
+                "rationale": "Type II fibers contain higher myofibrillar density and exhibit greater Akt/mTOR anabolic signaling responses under heavy mechanical strain compared to Type I fibers."
+            },
+            {
+                "id": 3,
+                "q": "What primary genetic factor dictates an individual's ultimate upper ceiling for gaining total muscular mass?",
+                "opts": [
+                    "The relative proportion of Type II fast-twitch muscle fibers inherited in their skeletal muscle architecture",
+                    "The total number of red blood cells in circulation",
+                    "The length of the clavicles only",
+                    "Resting respiratory rate"
+                ],
+                "correct": 0,
+                "rationale": "An athlete's genetic ceiling for hypertrophy is largely determined by their proportion of Type II fibers, as Type II fibers have a far superior capacity for myofibrillar enlargement."
+            },
+            {
+                "id": 4,
+                "q": "According to Henneman's size principle, what intensity threshold or recruitment effort must be met to trigger hypertrophy in Type II muscle fibers?",
+                "opts": [
+                    "Heavy resistance loads (>80% 1RM) or maximal speed/explosive effort",
+                    "Low intensity steady-state walking at 20% 1RM",
+                    "Passive stretching with zero active tension",
+                    "Submaximal isometric contraction for 1 second"
+                ],
+                "correct": 0,
+                "rationale": "Type II fibers belong to high-threshold motor units; they are only recruited and stimulated for hypertrophy when exercise intensity exceeds >80% 1RM or during maximal velocity efforts."
+            },
+            {
+                "id": 5,
+                "q": "How do Type I slow-twitch muscle fibers adapt to high-volume resistance training protocols?",
+                "opts": [
+                    "They undergo moderate hypertrophy, but their absolute growth potential is constrained by their oxidative metabolic machinery",
+                    "They double in diameter every week",
+                    "They split into 50 fast-twitch fibers per set",
+                    "They completely disappear from skeletal muscle"
+                ],
+                "correct": 0,
+                "rationale": "Type I fibers can undergo moderate hypertrophy during high-volume training, but their growth is limited compared to Type II fibers due to their oxidative metabolic design."
+            },
+            {
+                "id": 6,
+                "q": "If a sprinter trains exclusively with light loads (30% 1RM) for 50 repetitions per set, what fiber adaptation is expected?",
+                "opts": [
+                    "Selective stimulation of Type I fibers with suboptimal Type II hypertrophy",
+                    "Maximal hypertrophy of high-threshold Type IIx fibers",
+                    "Immediate conversion of all Type I fibers into Type IIx fibers",
+                    "Complete loss of all muscle glycogen"
+                ],
+                "correct": 0,
+                "rationale": "Light loads (30% 1RM) performed for high reps primarily recruit low-threshold Type I motor units, leaving high-threshold Type II fibers unrecruited and unadapted."
+            },
+            {
+                "id": 7,
+                "q": "Which fiber type features rapid crossbridge turnover rates and high glycolytic capacity suitable for explosive power?",
+                "opts": [
+                    "Type II fibers",
+                    "Type I fibers",
+                    "Intrafusal spindle fibers",
+                    "Autonomic smooth fibers"
+                ],
+                "correct": 0,
+                "rationale": "Type II fast-twitch fibers possess high ATPase activity, rapid crossbridge kinetics, and high glycolytic capacity."
+            },
+            {
+                "id": 8,
+                "q": "Why is high-threshold motor unit recruitment essential for athletic speed and power development?",
+                "opts": [
+                    "It ensures that fast-twitch Type II fibers are recruited and stimulated for structural and functional adaptation",
+                    "It prevents any calcium release in the sarcoplasmic reticulum",
+                    "It selectively shrinks muscle fibers to reduce body weight",
+                    "It turns off alpha motor neurons permanently"
+                ],
+                "correct": 0,
+                "rationale": "High-threshold motor units control Type II fast-twitch fibers; recruiting them via heavy loads or explosive efforts is required to drive fast-twitch growth and power adaptation."
+            }
+        ],
+        "ms": [
+            {
+                "id": 1,
+                "q": "Which characteristics distinguish Type II muscle fibers from Type I fibers? (Select all that apply)",
+                "opts": [
+                    "Greater capacity for cross-sectional area expansion",
+                    "Higher myofibrillar protein density",
+                    "Greater sensitivity to Akt/mTOR hypertrophic signaling under tension",
+                    "Higher baseline mitochondrial and capillary density"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Type II fibers have greater CSA growth potential, higher myofibrillar density, and greater Akt/mTOR sensitivity. Higher mitochondrial/capillary density is a feature of Type I fibers."
+            },
+            {
+                "id": 2,
+                "q": "Which methods effectively recruit high-threshold motor units to stimulate Type II fiber hypertrophy? (Select all that apply)",
+                "opts": [
+                    "Heavy resistance loads exceeding 80% 1RM",
+                    "Maximal-velocity explosive sprint or jump training",
+                    "Sets taken to muscular failure where lower-threshold units fatigue",
+                    "Passive stretching without muscle contraction"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "High-threshold motor units are recruited by heavy loads (>80% 1RM), explosive maximal velocity efforts, or lifting to failure where fatigue forces higher-threshold recruitment."
+            },
+            {
+                "id": 3,
+                "q": "Which physiological features limit the hypertrophic growth potential of Type I muscle fibers? (Select all that apply)",
+                "opts": [
+                    "Endurance-oriented oxidative metabolic machinery",
+                    "Lower myofibrillar protein packing density relative to Type II",
+                    "Lower threshold of motor unit recruitment during daily activities",
+                    "Complete lack of actin and myosin myofilaments"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Type I growth is constrained by oxidative metabolic features, lower myofibrillar density, and early low-threshold recruitment profiles."
+            },
+            {
+                "id": 4,
+                "q": "Why do elite bodybuilders and powerlifters typically possess a high percentage of Type II fibers? (Select all that apply)",
+                "opts": [
+                    "Type II fibers yield greater myofibrillar enlargement per fiber",
+                    "High Type II fiber proportion provides a higher genetic ceiling for muscle mass",
+                    "Type II fibers respond robustly to mechanical tension and anabolic signaling",
+                    "Type II fibers convert into smooth muscle after 1 year of lifting"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Type II fibers expand more in response to loading, establishing a higher upper boundary for total muscle hypertrophy in strength athletes."
+            }
+        ],
+        "tf": [
+            {
+                "id": 1,
+                "q": "Type II fast-twitch muscle fibers demonstrate significantly greater hypertrophic growth potential than Type I slow-twitch fibers.",
+                "ans": true,
+                "feedback": "Type II fibers contain higher myofibrillar density and exhibit greater cross-sectional expansion following resistance training."
+            },
+            {
+                "id": 2,
+                "q": "Low-intensity resistance exercise at 30% 1RM (not to failure) is equally effective as 85% 1RM for stimulating Type II fiber hypertrophy.",
+                "ans": false,
+                "feedback": "Submaximal light loads without failure fail to recruit high-threshold motor units, leaving Type II fibers unrecruited and unadapted."
+            },
+            {
+                "id": 3,
+                "q": "An athlete's genetic proportion of Type II muscle fibers influences their upper limit for gaining muscular mass.",
+                "ans": true,
+                "feedback": "Because Type II fibers possess superior CSA expansion capacity, a higher fast-twitch fiber percentage elevates the genetic ceiling for hypertrophy."
+            },
+            {
+                "id": 4,
+                "q": "Type I muscle fibers are incapable of undergoing any hypertrophic enlargement regardless of training volume.",
+                "ans": false,
+                "feedback": "Type I fibers can undergo moderate hypertrophy during high-volume training, though their growth potential is lower than Type II fibers."
+            }
+        ],
+        "cloze": [
+            {
+                "id": 1,
+                "statement": "Following resistance training, **Type II** fibers display significantly greater hypertrophy than **Type I** fibers.",
+                "targets": [
+                    "Type II",
+                    "Type I"
+                ],
+                "optionsBank": [
+                    "Type II",
+                    "Type I",
+                    "Smooth",
+                    "Cardiac",
+                    "Spindle"
+                ],
+                "hint": "Identify the fast-twitch fiber type with superior CSA growth and the slow-twitch fiber type."
+            },
+            {
+                "id": 2,
+                "statement": "Recruiting high-threshold motor units requires heavy loads above **80% 1RM** or maximal **explosive speed**.",
+                "targets": [
+                    "80% 1RM",
+                    "explosive speed"
+                ],
+                "optionsBank": [
+                    "80% 1RM",
+                    "explosive speed",
+                    "10% 1RM",
+                    "passive rest",
+                    "submaximal walking"
+                ],
+                "hint": "Recall the intensity percentage threshold and movement velocity requirement."
+            }
+        ],
+        "sa": [
+            {
+                "id": 1,
+                "prompt": "Explain why two athletes with identical training programs might experience vastly different total muscle mass gains based on their genetic fiber type proportions.",
+                "model": "An athlete's ultimate hypertrophic ceiling is strongly influenced by their inherited proportion of Type II fast-twitch muscle fibers. Type II fibers possess higher myofibrillar protein density and greater sensitivity to Akt/mTOR anabolic signaling under mechanical tension, leading to significantly greater cross-sectional area expansion than Type I fibers. An athlete with a high percentage of Type II fibers has a higher genetic ceiling for gaining muscle mass compared to an athlete with a predominance of Type I fibers.",
+                "criteria": [
+                    "Identify Type II fast-twitch fiber percentage as the driver of the genetic hypertrophy ceiling.",
+                    "Explain that Type II fibers have higher myofibrillar density and Akt/mTOR sensitivity.",
+                    "Contrast the high growth potential of Type II fibers with the constrained growth of Type I fibers."
+                ]
+            },
+            {
+                "id": 2,
+                "prompt": "A strength coach prescribes light sets at 40% 1RM (stopping well short of failure) for a sprinter wanting to build explosive leg power. Evaluate this protocol.",
+                "model": "This protocol is suboptimal for explosive power and fast-twitch hypertrophy. According to Henneman's size principle, light loads (40% 1RM) performed without high velocity or muscular failure recruit only low-threshold motor units (Type I fibers). High-threshold motor units, which control Type II fast-twitch fibers, remain unrecruited and unadapted. To stimulate Type II fiber growth and power, the coach must prescribe heavy loads (>80% 1RM) or maximal velocity explosive efforts.",
+                "criteria": [
+                    "State that 40% 1RM short of failure recruits only low-threshold Type I motor units.",
+                    "Explain that high-threshold Type II motor units remain unrecruited and unadapted.",
+                    "Recommend heavy loading (>80% 1RM) or maximal velocity efforts to target Type II fibers."
+                ]
+            }
+        ]
+    },
+    "p3": {
+        "mcq": [
+            {
+                "id": 1,
+                "q": "Which myosin heavy chain (MHC) isoform shift represents the primary fast-twitch fiber type transition following chronic anaerobic training?",
+                "opts": [
+                    "Type IIx shifting to intermediate Type IIax and into Type IIa fibers",
+                    "Type I shifting into pure Type IIx fibers",
+                    "Type IIa shifting into smooth muscle MHC isoforms",
+                    "Type Ic shifting into cardiac MHC isoforms"
+                ],
+                "correct": 0,
+                "rationale": "Under high-threshold motor unit recruitment during anaerobic training, pure fatigable Type IIx fibers shift along the functional continuum toward intermediate Type IIax and into more oxidative Type IIa fibers."
+            },
+            {
+                "id": 2,
+                "q": "What functional advantage is gained when pure Type IIx fibers transition into Type IIa fibers?",
+                "opts": [
+                    "Enhanced oxidative capacity and fatigue resistance while maintaining high force output",
+                    "Complete loss of muscle contraction speed",
+                    "Total destruction of muscle cell nuclei",
+                    "A 90% reduction in muscle glycogen storage"
+                ],
+                "correct": 0,
+                "rationale": "Type IIx fibers act as a metabolic reservoir; transitioning to Type IIa confers greater oxidative potential and fatigue resistance without sacrificing high force generation."
+            },
+            {
+                "id": 3,
+                "q": "In the landmark research by Staron and colleagues (1990), how rapidly did female subjects demonstrate significant reductions in Type IIx fibers during heavy resistance training?",
+                "opts": [
+                    "After just 2 weeks (4 workouts)",
+                    "After 6 months",
+                    "After 1 day (1 workout)",
+                    "After 5 years"
+                ],
+                "correct": 0,
+                "rationale": "Staron et al. demonstrated that female subjects exhibited significant reductions in Type IIx fiber percentage after just 2 weeks (4 workouts) of resistance training."
+            },
+            {
+                "id": 4,
+                "q": "In the study by Staron et al. (1990), how did Type IIx fiber proportions change over the 8-week resistance training program?",
+                "opts": [
+                    "Dropped from ~18% down to ~7% of total muscle fibers",
+                    "Increased from 5% up to 95% of total muscle fibers",
+                    "Remained completely unchanged at 50%",
+                    "Dropped to 0% in week 1 and converted to fat"
+                ],
+                "correct": 0,
+                "rationale": "Over 8 weeks of heavy resistance training (6-12RM), Type IIx fiber proportions decreased from ~18% down to ~7%, as MHC IIx isoforms were replaced by MHC IIa isoforms."
+            },
+            {
+                "id": 5,
+                "q": "What phenomenon occurs to fast-twitch fiber proportions during a period of complete detraining following resistance training?",
+                "opts": [
+                    "Type IIa fibers shift back toward Type IIx, creating a temporary 'overshoot' above pre-training baseline levels",
+                    "All Type II fibers permanently convert into Type I slow-twitch fibers",
+                    "Type IIx fibers disappear completely forever",
+                    "Muscle fiber numbers double every week of rest"
+                ],
+                "correct": 0,
+                "rationale": "Detraining causes Type IIa fibers to revert back to Type IIx fibers, often producing a temporary 'overshoot' where the percentage of Type IIx fibers exceeds original baseline values."
+            },
+            {
+                "id": 6,
+                "q": "Can complete fiber type transformations occur across major boundaries (e.g., pure Type I converting into pure Type II) in humans?",
+                "opts": [
+                    "No, extensive genetic differences in MHC gene loci and metabolic machinery prevent complete I-to-II conversion",
+                    "Yes, 100% conversion occurs after 1 week of sprinting",
+                    "Yes, converting Type I to Type II happens during sleep",
+                    "Yes, but only in elderly populations"
+                ],
+                "correct": 0,
+                "rationale": "Current scientific evidence demonstrates that complete transformations across major boundaries (Type I to Type II) do not occur in humans due to distinct genetic loci and metabolic constraints."
+            },
+            {
+                "id": 7,
+                "q": "Which training combination induces an almost complete transformation of Type IIx fibers into Type IIa profiles?",
+                "opts": [
+                    "Combined heavy resistance training and aerobic endurance training",
+                    "Passive stretching while lying in bed",
+                    "Low-intensity isometric holds for 5 seconds per month",
+                    "Zero exercise combined with high fat diet"
+                ],
+                "correct": 0,
+                "rationale": "Combining heavy resistance training with aerobic endurance training causes a near-complete transition of Type IIx fibers into Type IIa fibers."
+            },
+            {
+                "id": 8,
+                "q": "Which protein isoform directly defines the contractile speed and metabolic phenotype of a muscle fiber along the functional continuum?",
+                "opts": [
+                    "Myosin heavy chain (MHC)",
+                    "Hemoglobin",
+                    "Myostatin",
+                    "Collagen Type I"
+                ],
+                "correct": 0,
+                "rationale": "Myosin heavy chain (MHC) isoforms (MHC I, MHC IIa, MHC IIx) define the functional continuum and contractile speed of muscle fibers."
+            }
+        ],
+        "ms": [
+            {
+                "id": 1,
+                "q": "Which of the following represent intermediate fiber types along the skeletal muscle functional continuum? (Select all that apply)",
+                "opts": [
+                    "Type Ic",
+                    "Type IIc",
+                    "Type IIac",
+                    "Type IIax"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "The functional continuum includes intermediate subtypes: Type I <-> Ic <-> IIc <-> IIac <-> IIa <-> IIax <-> IIx."
+            },
+            {
+                "id": 2,
+                "q": "Which statements regarding the findings of Staron et al. (1990) are accurate? (Select all that apply)",
+                "opts": [
+                    "Females showed significant Type IIx reductions after 2 weeks (4 workouts)",
+                    "Males showed significant Type IIx reductions after 4 weeks (8 workouts)",
+                    "Type IIx percentage decreased from ~18% to ~7% over 8 weeks",
+                    "Type IIx fibers converted into Type I fibers in 100% of participants"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Staron et al. demonstrated rapid IIx reductions (2 weeks in females, 4 weeks in males, 18% to 7% overall shift to IIa). Conversion to Type I did not occur."
+            },
+            {
+                "id": 3,
+                "q": "Which physiological changes accompany the fast-twitch fiber transition from Type IIx to Type IIa? (Select all that apply)",
+                "opts": [
+                    "Increased oxidative enzyme capacity",
+                    "Enhanced resistance to neuromuscular fatigue",
+                    "Retention of high force-generating capability",
+                    "Complete loss of actin and myosin myofilaments"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Shifting IIx to IIa enhances oxidative capacity and fatigue resistance while maintaining high force production capability."
+            },
+            {
+                "id": 4,
+                "q": "Which features describe the detraining 'overshoot' phenomenon? (Select all that apply)",
+                "opts": [
+                    "Occurs when resistance training is ceased",
+                    "Type IIa fibers shift back toward Type IIx fibers",
+                    "Type IIx percentage temporarily exceeds pre-training baseline levels",
+                    "Permanently destroys all Type IIa fibers"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Detraining causes IIa fibers to revert to IIx, producing a temporary overshoot in IIx percentage above original baseline levels."
+            }
+        ],
+        "tf": [
+            {
+                "id": 1,
+                "q": "Chronic anaerobic training causes pure Type IIx muscle fibers to shift along the continuum toward intermediate Type IIax and Type IIa fibers.",
+                "ans": true,
+                "feedback": "High-threshold motor unit recruitment drives the shift of fatigable Type IIx fibers into more oxidative Type IIa fibers."
+            },
+            {
+                "id": 2,
+                "q": "In the study by Staron et al., female subjects required 6 months of resistance training before any reduction in Type IIx fibers was observed.",
+                "ans": false,
+                "feedback": "Female subjects demonstrated significant Type IIx reductions after just 2 weeks (4 workouts)."
+            },
+            {
+                "id": 3,
+                "q": "Detraining causes Type IIa fibers to shift back into Type IIx fibers, often resulting in an overshoot above pre-training baseline values.",
+                "ans": true,
+                "feedback": "Ceasing training leads to a reversion from IIa back to IIx, resulting in a temporary overshoot of IIx fiber proportion."
+            },
+            {
+                "id": 4,
+                "q": "Scientific evidence conclusively proves that high-intensity sprint training transforms Type I slow-twitch fibers into pure Type IIx fast-twitch fibers.",
+                "ans": false,
+                "feedback": "Complete transformations across major fiber boundaries (Type I to Type II) do not occur in humans."
+            }
+        ],
+        "cloze": [
+            {
+                "id": 1,
+                "statement": "Resistance training causes pure **Type IIx** fibers to transform into more oxidative **Type IIa** fibers.",
+                "targets": [
+                    "Type IIx",
+                    "Type IIa"
+                ],
+                "optionsBank": [
+                    "Type IIx",
+                    "Type IIa",
+                    "Type I",
+                    "Smooth",
+                    "Cardiac"
+                ],
+                "hint": "Identify the fatigable fast-twitch reservoir and the adapted fast-twitch fiber."
+            },
+            {
+                "id": 2,
+                "statement": "Staron et al. showed IIx fibers dropped from ~18% to **~7%** over 8 weeks, while detraining causes a IIx **overshoot**.",
+                "targets": [
+                    "~7%",
+                    "overshoot"
+                ],
+                "optionsBank": [
+                    "~7%",
+                    "overshoot",
+                    "100%",
+                    "atrophy",
+                    "hyperplasia"
+                ],
+                "hint": "Recall the post-8-week IIx percentage and the detraining reversion phenomenon."
+            }
+        ],
+        "sa": [
+            {
+                "id": 1,
+                "prompt": "Describe the functional continuum of skeletal muscle fiber types and explain the physiological significance of the Type IIx to Type IIa fiber transition.",
+                "model": "Skeletal muscle fibers operate along a functional continuum: Type I <-> Ic <-> IIc <-> IIac <-> IIa <-> IIax <-> IIx, defined by myosin heavy chain (MHC) isoform expression. Type IIx fibers act as a metabolic reservoir. Under chronic anaerobic training, high-threshold motor unit recruitment causes Type IIx fibers to shift into intermediate Type IIax and ultimately Type IIa fibers. This transition increases oxidative enzyme capacity and fatigue resistance while preserving high force-generating capability.",
+                "criteria": [
+                    "Outline the functional continuum (Type I to Type IIx via intermediate subtypes).",
+                    "Identify Type IIx fibers as a metabolic reservoir that shifts to Type IIax and IIa.",
+                    "Explain that this transition enhances fatigue resistance and oxidative capacity while maintaining force."
+                ]
+            },
+            {
+                "id": 2,
+                "prompt": "Explain how a strength coach can utilize the detraining 'overshoot' phenomenon when designing a competitive taper for an explosive track sprinter.",
+                "model": "During chronic heavy resistance training, fast-twitch fibers shift from pure Type IIx into Type IIa fibers. When training volume and intensity are strategically reduced during a competitive taper (partial detraining), Type IIa fibers begin shifting back toward Type IIx fibers. This creates a temporary 'overshoot' where the percentage of pure, highly explosive Type IIx fibers exceeds pre-training baseline levels, maximizing rapid contraction velocity and peak power output on competition day.",
+                "criteria": [
+                    "Explain that chronic training shifts Type IIx fibers to Type IIa.",
+                    "Explain that tapering/unloading causes Type IIa fibers to revert back to Type IIx.",
+                    "State that this creates a temporary 'overshoot' of Type IIx fibers, maximizing peak power and velocity."
+                ]
+            }
+        ]
+    },
+    "p4": {
+        "mcq": [
+            {
+                "id": 1,
+                "q": "How does chronic heavy resistance training alter fascicle pennation angle in pennate muscles like the vastus lateralis?",
+                "opts": [
+                    "Increases the angle of pennation",
+                    "Decreases the angle of pennation to 0 degrees",
+                    "Permanently detaches fascicles from aponeuroses",
+                    "Eliminates all sarcomeres in series"
+                ],
+                "correct": 0,
+                "rationale": "Heavy resistance training increases the fascicle pennation angle in pennate muscles, accommodating greater parallel sarcomere packing."
+            },
+            {
+                "id": 2,
+                "q": "What biomechanical advantage is gained by increasing muscle fascicle pennation angle?",
+                "opts": [
+                    "Allows a greater quantity of sarcomeres and myofibrils to be packed in parallel along the tendon, expanding CSA and maximal force",
+                    "Doubles maximal shortening velocity (Vmax)",
+                    "Eliminates the need for ATP during muscle contraction",
+                    "Reduces muscle cross-sectional area by 50%"
+                ],
+                "correct": 0,
+                "rationale": "A larger pennation angle allows more contractile myofilaments to be packed in parallel, increasing muscle cross-sectional area and maximal force output."
+            },
+            {
+                "id": 3,
+                "q": "How does a larger pennation angle affect the direct line-of-pull force vector transmitted per individual fiber, and what is the net result?",
+                "opts": [
+                    "Slightly reduces force vector per fiber, but massive parallel packing far outweighs this deficit to increase net force",
+                    "Increases force vector per fiber by 1000%",
+                    "Reduces net force production to zero",
+                    "Prevents muscle contraction entirely"
+                ],
+                "correct": 0,
+                "rationale": "While a larger angle slightly decreases the direct force vector per fiber along the tendon, the substantial increase in parallel fiber packing produces a greater net muscle force."
+            },
+            {
+                "id": 4,
+                "q": "Which athletic training modalities specifically induce an increase in muscle fascicle length?",
+                "opts": [
+                    "High-velocity sprinting and plyometric jump training",
+                    "Heavy slow isometric holds at 100% 1RM",
+                    "Passive static stretching while seated",
+                    "Submaximal arm curling at 10% 1RM"
+                ],
+                "correct": 0,
+                "rationale": "High-velocity sprint and plyometric jump training stimulate fascicle lengthening in muscles like the gastrocnemius, vastus lateralis, and rectus femoris."
+            },
+            {
+                "id": 5,
+                "q": "What structural change within the muscle fiber bundle accounts for an increase in fascicle length?",
+                "opts": [
+                    "An increase in the number of sarcomeres connected in series",
+                    "An increase in the thickness of individual Z-discs",
+                    "The destruction of all myofilaments",
+                    "The accumulation of subcutaneous fat"
+                ],
+                "correct": 0,
+                "rationale": "Increasing fascicle length reflects the addition of sarcomeres in series along the length of the muscle fiber bundle."
+            },
+            {
+                "id": 6,
+                "q": "What functional athletic benefit results from having longer muscle fascicles with more sarcomeres in series?",
+                "opts": [
+                    "Increased maximum muscle shortening velocity (Vmax) and enhanced explosive speed",
+                    "Greater resistance to sunburn",
+                    "Lower resting heart rate during sleep",
+                    "Increased bone mineral density in the skull"
+                ],
+                "correct": 0,
+                "rationale": "Adding sarcomeres in series increases maximal shortening velocity (Vmax), enhancing explosive speed and high-velocity force production in sprinters."
+            },
+            {
+                "id": 7,
+                "q": "How do quadriceps fascicle lengths in elite sprinters compare to those in distance runners?",
+                "opts": [
+                    "Sprinters display significantly longer fascicle lengths than distance runners",
+                    "Sprinters have 50% shorter fascicles than distance runners",
+                    "Fascicle lengths are identical across all human beings",
+                    "Distance runners have no muscle fascicles"
+                ],
+                "correct": 0,
+                "rationale": "Elite sprinters possess significantly longer muscle fascicle lengths in the quadriceps and calf muscles compared to endurance distance runners."
+            },
+            {
+                "id": 8,
+                "q": "Which training strategy optimizes both parallel contractile packing and serial shortening velocity?",
+                "opts": [
+                    "Combining heavy resistance training (pennation angle) with high-velocity sprint/jump training (fascicle length)",
+                    "Performing only static stretching for 4 hours daily",
+                    "Running 100 miles per week at a slow pace",
+                    "Performing zero resistance exercise"
+                ],
+                "correct": 0,
+                "rationale": "Combining heavy resistance loading (increases pennation angle/parallel packing) with explosive sprinting/plyometrics (increases fascicle length/series sarcomeres) optimizes overall muscle architecture."
+            }
+        ],
+        "ms": [
+            {
+                "id": 1,
+                "q": "Which architectural adaptations occur in response to heavy resistance training? (Select all that apply)",
+                "opts": [
+                    "Increased fascicle pennation angle",
+                    "Greater quantity of sarcomeres packed in parallel",
+                    "Expansion of muscle cross-sectional area (CSA)",
+                    "Complete loss of muscle fascicle attachment to tendons"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Heavy resistance training increases pennation angle, parallel sarcomere packing, and muscle cross-sectional area."
+            },
+            {
+                "id": 2,
+                "q": "Which adaptations result from high-velocity sprint and plyometric training? (Select all that apply)",
+                "opts": [
+                    "Increased muscle fascicle length",
+                    "Addition of sarcomeres in series",
+                    "Enhanced maximum muscle shortening velocity (Vmax)",
+                    "Conversion of all muscle fibers into collagen"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Sprint and plyometric training increase fascicle length by adding sarcomeres in series, elevating maximal shortening velocity (Vmax)."
+            },
+            {
+                "id": 3,
+                "q": "Which muscle bellies typically exhibit increased pennation angles following heavy quadriceps training? (Select all that apply)",
+                "opts": [
+                    "Vastus lateralis",
+                    "Rectus femoris",
+                    "Vastus medialis",
+                    "Biceps brachii"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Heavy quadriceps training increases pennation angle across the vasti and rectus femoris muscle bellies."
+            },
+            {
+                "id": 4,
+                "q": "Which statements accurately compare pennation angle versus fascicle length adaptations? (Select all that apply)",
+                "opts": [
+                    "Pennation angle increases parallel sarcomere packing for maximal force",
+                    "Fascicle length increases serial sarcomere number for maximal shortening speed",
+                    "Heavy lifting primarily influences pennation angle",
+                    "Explosive sprinting primarily influences fascicle length"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "All listed statements accurately summarize the distinct structural triggers and functional impacts of pennation angle vs fascicle length."
+            }
+        ],
+        "tf": [
+            {
+                "id": 1,
+                "q": "Heavy resistance training increases the fascicle pennation angle in pennate muscles like the vastus lateralis.",
+                "ans": true,
+                "feedback": "Heavy lifting increases pennation angle, allowing greater parallel contractile protein packing."
+            },
+            {
+                "id": 2,
+                "q": "An increase in pennation angle decreases total muscle cross-sectional area and lowers maximal force production.",
+                "ans": false,
+                "feedback": "A larger pennation angle increases parallel sarcomere packing, expanding CSA and maximal force output."
+            },
+            {
+                "id": 3,
+                "q": "High-velocity sprint training increases fascicle length by adding sarcomeres in series.",
+                "ans": true,
+                "feedback": "Explosive sprint training stimulates fascicle lengthening via serial sarcomere addition, increasing Vmax."
+            },
+            {
+                "id": 4,
+                "q": "Elite sprinters possess significantly shorter muscle fascicles in their quadriceps compared to distance runners.",
+                "ans": false,
+                "feedback": "Elite sprinters display significantly LONGER muscle fascicle lengths than distance runners to support high shortening speeds."
+            }
+        ],
+        "cloze": [
+            {
+                "id": 1,
+                "statement": "Heavy lifting increases fascicle **pennation angle** for force, while sprint training increases **fascicle length** for velocity.",
+                "targets": [
+                    "pennation angle",
+                    "fascicle length"
+                ],
+                "optionsBank": [
+                    "pennation angle",
+                    "fascicle length",
+                    "tendon length",
+                    "mitochondrial density",
+                    "capillary ratio"
+                ],
+                "hint": "Identify the oblique packing angle and the fiber bundle length metric."
+            },
+            {
+                "id": 2,
+                "statement": "Longer fascicles contain more sarcomeres in **series**, which increases maximal shortening velocity (**Vmax**).",
+                "targets": [
+                    "series",
+                    "Vmax"
+                ],
+                "optionsBank": [
+                    "series",
+                    "Vmax",
+                    "parallel",
+                    "VO2max",
+                    "blood pressure"
+                ],
+                "hint": "Recall the end-to-end sarcomere arrangement and the contraction speed symbol."
+            }
+        ],
+        "sa": [
+            {
+                "id": 1,
+                "prompt": "Explain the biomechanical trade-off associated with an increased muscle pennation angle following heavy resistance training.",
+                "model": "Heavy resistance training increases the fascicle pennation angle in pennate muscles. Biomechanically, a larger pennation angle slightly reduces the direct line-of-pull force vector transmitted along the tendon per individual muscle fiber. However, the increased angle allows a significantly greater quantity of sarcomeres and myofibrils to be packed in parallel along the tendon. The force gained from this massive increase in parallel contractile mass far outweighs the geometric vector loss, resulting in greater net muscle force production and expanded CSA.",
+                "criteria": [
+                    "Explain that a larger pennation angle slightly reduces the direct force vector per fiber.",
+                    "Explain that the larger angle allows greater parallel sarcomere and myofibril packing.",
+                    "Conclude that net force production and CSA increase because parallel packing outweighs vector loss."
+                ]
+            },
+            {
+                "id": 2,
+                "prompt": "Contrast how heavy resistance training versus explosive sprint training alters muscle architecture, explaining the performance benefits of combining both modalities.",
+                "model": "1. Heavy Resistance Training: Increases fascicle pennation angle, allowing more sarcomeres to pack in parallel to expand cross-sectional area and maximal force.\n2. Explosive Sprint Training: Increases fascicle length by adding sarcomeres in series, elevating maximal muscle shortening velocity (Vmax).\n3. Combined Benefit: Combining both modalities optimizes muscle architecture across both spectrums—maximizing force capacity via parallel packing (pennation angle) and contraction speed via serial packing (fascicle length).",
+                "criteria": [
+                    "State that heavy resistance increases pennation angle (parallel packing for force).",
+                    "State that sprint training increases fascicle length (series sarcomeres for Vmax).",
+                    "Explain the combined benefit of optimizing both force capacity and contraction speed."
+                ]
+            }
+        ]
+    },
+    "p5": {
+        "mcq": [
+            {
+                "id": 1,
+                "q": "What happens to mitochondrial density per unit area of muscle tissue following heavy resistance training-induced hypertrophy?",
+                "opts": [
+                    "Mitochondrial density decreases due to dilutional expansion of myofibrillar proteins",
+                    "Mitochondrial density increases by 500%",
+                    "Mitochondria convert into myofibrils",
+                    "Mitochondrial density remains completely unchanged while muscle size quadruples"
+                ],
+                "correct": 0,
+                "rationale": "While absolute mitochondrial count remains static or slightly rises, muscle fiber cross-sectional area expands disproportionately during hypertrophy, causing a dilutional reduction in mitochondrial density."
+            },
+            {
+                "id": 2,
+                "q": "Why do competitive powerlifters exhibit lower capillary densities per unit muscle volume than endurance athletes?",
+                "opts": [
+                    "Heavy low-volume strength training causes massive fiber hypertrophy without a proportional increase in capillary formation, diluting capillary density",
+                    "Powerlifters have no capillaries in their legs",
+                    "Endurance training destroys capillaries",
+                    "Heavy lifting turns blood vessels into bone"
+                ],
+                "correct": 0,
+                "rationale": "Heavy resistance hypertrophy dilutes capillary density per unit volume. Bodybuilders maintain higher capillary density than powerlifters because high-volume, short-rest protocols stimulate angiogenesis."
+            },
+            {
+                "id": 3,
+                "q": "By what percentage range can high-intensity interval training (HIIT) above the lactate threshold increase skeletal muscle buffering capacity?",
+                "opts": [
+                    "16% to 38%",
+                    "1% to 2%",
+                    "80% to 100%",
+                    "0% (no change)"
+                ],
+                "correct": 0,
+                "rationale": "High-intensity interval training above the lactate threshold has been shown to increase skeletal muscle buffering capacity by 16% to 38%."
+            },
+            {
+                "id": 4,
+                "q": "In the landmark study by MacDougall and colleagues, what increases in resting high-energy phosphagen stores were reported following 5 months of heavy resistance training?",
+                "opts": [
+                    "28% increase in creatine phosphate (CP) and 18% increase in ATP",
+                    "1000% increase in CP and 0% increase in ATP",
+                    "50% decrease in CP and 50% decrease in ATP",
+                    "Zero change in any phosphagen stores"
+                ],
+                "correct": 0,
+                "rationale": "MacDougall et al. reported a 28% increase in resting CP and an 18% increase in resting ATP concentrations following 5 months of heavy resistance training."
+            },
+            {
+                "id": 5,
+                "q": "How much can resting muscle glycogen content increase following high-volume, bodybuilding-style resistance training protocols (glycogen supercompensation)?",
+                "opts": [
+                    "Up to 112%",
+                    "Only 5%",
+                    "Exactly 0%",
+                    "Decreases by 90%"
+                ],
+                "correct": 0,
+                "rationale": "High-volume anaerobic training that repeatedly exhausts glycolytic stores triggers glycogen supercompensation, increasing resting muscle glycogen by up to 112%."
+            },
+            {
+                "id": 6,
+                "q": "Which membrane ion pump increases in activity following anaerobic training to preserve sarcolemmal excitability during high-frequency motor unit firing?",
+                "opts": [
+                    "Na+/K+ ATPase pump",
+                    "Proton pump inhibitor",
+                    "Calcitonin pump",
+                    "Pancreatic lipase pump"
+                ],
+                "correct": 0,
+                "rationale": "Sodium-potassium ATPase (Na+/K+ ATPase) pump activity increases following anaerobic training, maintaining ionic balance and sarcolemmal excitability."
+            },
+            {
+                "id": 7,
+                "q": "What organelle adaptation occurs in the sarcoplasmic reticulum (SR) to accelerate excitation-contraction coupling following sprint training?",
+                "opts": [
+                    "Increased SR and T-tubule density with enhanced calcium (Ca2+) release kinetics",
+                    "Complete disappearance of the sarcoplasmic reticulum",
+                    "SR conversion into adipose tissue",
+                    "Permanent locking of calcium channels"
+                ],
+                "correct": 0,
+                "rationale": "Sprint training increases SR and T-tubule surface density while enhancing Ca2+ release kinetics, accelerating crossbridge formation."
+            },
+            {
+                "id": 8,
+                "q": "Why do bodybuilders display higher capillary densities than heavy-load powerlifters?",
+                "opts": [
+                    "High-volume, short-rest bodybuilding protocols accumulate high hydrogen ion concentrations, driving angiogenic capillary formation",
+                    "Bodybuilders do not experience muscle hypertrophy",
+                    "Powerlifters perform 100 miles of running weekly",
+                    "Bodybuilding workouts rely exclusively on fat oxidation"
+                ],
+                "correct": 0,
+                "rationale": "High-volume bodybuilding routines with short rest create severe metabolic stress and H+ accumulation, stimulating angiogenesis to maintain capillary density."
+            }
+        ],
+        "ms": [
+            {
+                "id": 1,
+                "q": "Which ultrastructural adaptations occur in skeletal muscle following chronic anaerobic training? (Select all that apply)",
+                "opts": [
+                    "Increased myofibrillar volume and cytoplasmic density",
+                    "Increased sarcoplasmic reticulum (SR) and T-tubule density",
+                    "Enhanced Na+/K+ ATPase pump activity",
+                    "Enhanced SR calcium (Ca2+) release kinetics"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "Anaerobic training increases myofibrillar volume, SR/T-tubule density, Na+/K+ ATPase activity, and SR Ca2+ release kinetics."
+            },
+            {
+                "id": 2,
+                "q": "Which metabolic substrate supercompensation effects occur following heavy resistance or bodybuilding-style training? (Select all that apply)",
+                "opts": [
+                    "28% increase in resting creatine phosphate (CP)",
+                    "18% increase in resting ATP",
+                    "Up to 112% increase in resting muscle glycogen",
+                    "100% loss of resting intramuscular triglycerides"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "MacDougall et al. documented +28% CP and +18% ATP gains, while high-volume training yields up to +112% glycogen supercompensation."
+            },
+            {
+                "id": 3,
+                "q": "Which factors explain the dilutional reduction of mitochondrial and capillary density in heavy strength athletes? (Select all that apply)",
+                "opts": [
+                    "Contractile protein accretion expands muscle fiber CSA disproportionately",
+                    "Absolute mitochondrial number remains static while fiber volume expands",
+                    "Heavy low-volume sets provide minimal angiogenic stimulus compared to high-volume protocols",
+                    "Mitochondria are completely destroyed by heavy weights"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Hypertrophy expands fiber CSA without proportional mitochondrial/capillary proliferation, diluting organelle density per unit volume."
+            },
+            {
+                "id": 4,
+                "q": "Which benefits result from a 16% to 38% increase in muscle buffering capacity following HIIT? (Select all that apply)",
+                "opts": [
+                    "Greater ability to neutralize hydrogen ion (H+) accumulation",
+                    "Delayed onset of intracellular acidosis and fatigue",
+                    "Sustained high power output during repeated intense exercise bouts",
+                    "Immediate reduction in maximum heart rate to zero"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Enhanced buffering capacity neutralizes H+ ions, delays acidosis-induced fatigue, and maintains high power output during intermittent exertion."
+            }
+        ],
+        "tf": [
+            {
+                "id": 1,
+                "q": "Mitochondrial density per unit muscle area decreases following heavy resistance training due to dilutional expansion of myofibrillar proteins.",
+                "ans": true,
+                "feedback": "Because muscle fiber CSA expands significantly without a matching rise in mitochondrial volume, mitochondrial density decreases."
+            },
+            {
+                "id": 2,
+                "q": "High-intensity interval training (HIIT) above the lactate threshold can increase muscle buffering capacity by 16% to 38%.",
+                "ans": true,
+                "feedback": "HIIT drives a 16% to 38% increase in muscle buffering capacity, helping neutralize H+ ions during intense exercise."
+            },
+            {
+                "id": 3,
+                "q": "MacDougall et al. reported that 5 months of heavy resistance training decreased resting creatine phosphate stores by 50%.",
+                "ans": false,
+                "feedback": "MacDougall et al. documented a 28% INCREASE in resting creatine phosphate and an 18% INCREASE in resting ATP."
+            },
+            {
+                "id": 4,
+                "q": "High-volume bodybuilding-style training can increase resting muscle glycogen content by up to 112%.",
+                "ans": true,
+                "feedback": "Repeated glycolytic depletion triggers glycogen supercompensation, increasing resting muscle glycogen by up to 112%."
+            }
+        ],
+        "cloze": [
+            {
+                "id": 1,
+                "statement": "Heavy strength training dilutes **mitochondrial density**, while HIIT increases muscle **buffering capacity** by 16% to 38%.",
+                "targets": [
+                    "mitochondrial density",
+                    "buffering capacity"
+                ],
+                "optionsBank": [
+                    "mitochondrial density",
+                    "buffering capacity",
+                    "fiber length",
+                    "bone mass",
+                    "myostatin"
+                ],
+                "hint": "Identify the organelle metric that decreases via dilution and the acid-base neutralizing property."
+            },
+            {
+                "id": 2,
+                "statement": "MacDougall et al. documented a 28% increase in **creatine phosphate**, while bodybuilding protocols boost glycogen by up to **112%**.",
+                "targets": [
+                    "creatine phosphate",
+                    "112%"
+                ],
+                "optionsBank": [
+                    "creatine phosphate",
+                    "112%",
+                    "myosin",
+                    "5%",
+                    "fatty acids"
+                ],
+                "hint": "Recall the phosphagen substrate increased by 28% and the maximum glycogen supercompensation percentage."
+            }
+        ],
+        "sa": [
+            {
+                "id": 1,
+                "prompt": "Explain the physiological phenomenon of 'dilutional reduction' in mitochondrial and capillary density following heavy resistance training, and contrast powerlifters with bodybuilders.",
+                "model": "Dilutional reduction occurs when heavy resistance training causes significant muscle fiber hypertrophy (expanding CSA) without a proportional increase in mitochondrial volume or capillary proliferation. Consequently, mitochondrial and capillary densities per unit muscle area decrease. Powerlifters, who train with low volume and long rest, exhibit marked dilutional reductions. Bodybuilders maintain higher capillary densities because their high-volume, short-rest protocols create severe metabolic stress and H+ accumulation, stimulating angiogenic capillary growth.",
+                "criteria": [
+                    "Define dilutional reduction as fiber CSA expanding without matching mitochondrial/capillary growth.",
+                    "Explain that powerlifters exhibit marked dilutional reductions due to low volume and long rest.",
+                    "Explain that bodybuilders maintain higher capillary density because high volume/short rest stimulates angiogenesis."
+                ]
+            },
+            {
+                "id": 2,
+                "prompt": "Summarize the metabolic substrate supercompensation adaptations reported following chronic resistance training, citing specific research data for phosphagens and glycogen.",
+                "model": "Chronic resistance training triggers metabolic supercompensation of high-energy substrates:\n1. Phosphagen Supercompensation: MacDougall et al. reported a 28% increase in resting creatine phosphate (CP) and an 18% increase in resting ATP following 5 months of heavy resistance training.\n2. Glycogen Supercompensation: High-volume, glycolytic bodybuilding-style training that repeatedly depletes glycogen stimulates supercompensation, increasing resting muscle glycogen content by up to 112%.",
+                "criteria": [
+                    "Cite MacDougall et al. data: +28% resting CP and +18% resting ATP.",
+                    "Cite glycogen supercompensation data: up to +112% resting muscle glycogen.",
+                    "Connect these adaptations to repeated substrate depletion during anaerobic training."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,994 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What specialized bone-forming cells migrate to the periosteum to initiate bone modeling when mechanical strain is applied?",
+        "opts": [
+          "Osteoblasts",
+          "Osteoclasts",
+          "Chondrocytes",
+          "Fibroblasts"
+        ],
+        "correct": 0,
+        "rationale": "Osteoblasts are specialized bone-forming cells that migrate to the periosteum in response to mechanical strain and secrete collagen molecules to form the unmineralized bone matrix."
+      },
+      {
+        "id": 2,
+        "q": "What mineral compound is deposited within the unmineralized bone matrix to calcify and harden new bone tissue?",
+        "opts": [
+          "Calcium phosphate crystals (hydroxyapatite)",
+          "Sodium chloride crystals",
+          "Potassium carbonate",
+          "Magnesium sulfate"
+        ],
+        "correct": 0,
+        "rationale": "Hydroxyapatite, a calcium phosphate mineral complex, crystallizes within the collagenous bone matrix secreted by osteoblasts to mineralize new bone tissue."
+      },
+      {
+        "id": 3,
+        "q": "Which skeletal tissue type responds significantly more rapidly to adaptive mechanical strain due to its high surface area-to-mass ratio?",
+        "opts": [
+          "Trabecular (spongy) bone",
+          "Cortical (compact) bone",
+          "Hyaline articular cartilage",
+          "Fibrous tendon tissue"
+        ],
+        "correct": 0,
+        "rationale": "Trabecular bone is less dense, highly vascularized, composed of interlocking plates, and possesses a much higher surface area-to-mass ratio than compact cortical bone, making it far more sensitive and rapid in its adaptive response to loading."
+      },
+      {
+        "id": 4,
+        "q": "What fraction of the force required to fracture a bone is estimated as the Minimal Essential Strain (MES) threshold?",
+        "opts": [
+          "Approximately 1/10 (10%) of fracture force",
+          "Approximately 1/2 (50%) of fracture force",
+          "Approximately 9/10 (90%) of fracture force",
+          "Exactly 100% of fracture force"
+        ],
+        "correct": 0,
+        "rationale": "Minimal Essential Strain (MES) is estimated to be approximately 1/10 (10%) of the force required to fracture a given bone. Forces exceeding this threshold trigger osteoblastic bone modeling."
+      },
+      {
+        "id": 5,
+        "q": "What structural change occurs to bone diameter as osteoblasts deposit new matrix on the periosteum?",
+        "opts": [
+          "Outer bone diameter increases, redistributing mechanical stress over a larger surface area",
+          "Outer bone diameter decreases to concentrate forces",
+          "Bone length shortens by 20%",
+          "The marrow cavity completely closes"
+        ],
+        "correct": 0,
+        "rationale": "New bone formation along the periosteum increases the outer diameter of the bone. Expanding the diameter redistributes applied forces over a larger surface area, lowering stress per unit area."
+      },
+      {
+        "id": 6,
+        "q": "Why does a training load that initially exceeds Minimal Essential Strain (MES) eventually fall below the MES threshold over time?",
+        "opts": [
+          "Because bone diameter expands, redistributing stress across a larger surface area and requiring progressive overload",
+          "Because osteoblasts stop functioning permanently after 1 week",
+          "Because collagen fibers turn into adipose tissue",
+          "Because bones lose calcium when exposed to exercise"
+        ],
+        "correct": 0,
+        "rationale": "As osteoblasts deposit new bone matrix and expand bone diameter, mechanical stress per unit area decreases. Consequently, a load that previously exceeded MES eventually falls below the threshold, necessitating progressive overload."
+      },
+      {
+        "id": 7,
+        "q": "Where does new bone modeling predominantly occur on the anatomical surface of long bones?",
+        "opts": [
+          "Along the periosteum (outer bone surface)",
+          "Exclusively inside the red bone marrow cavity",
+          "Within the avascular articular cartilage matrix",
+          "At the tendon mid-belly"
+        ],
+        "correct": 0,
+        "rationale": "Osteoblasts migrate to the periosteum, the dense fibrous membrane covering the outer surface of bone, where they secrete collagen to increase bone width and strength."
+      },
+      {
+        "id": 8,
+        "q": "How is mechanical stress on bone tissue mathematically defined?",
+        "opts": [
+          "Stress = Force / Area",
+          "Stress = Mass x Velocity",
+          "Stress = Distance / Time",
+          "Stress = Power x Acceleration"
+        ],
+        "correct": 0,
+        "rationale": "Mechanical stress is defined as force applied per unit area (Stress = Force / Area). Increasing bone surface area lowers the stress resulting from a given force."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which statements regarding cortical bone physiology are correct? (Select all that apply)",
+        "opts": [
+          "It forms a dense, rigid protective outer shell around skeletal structures",
+          "It adapts more slowly to mechanical loading than trabecular bone",
+          "It possesses a low surface area-to-mass ratio",
+          "It is completely devoid of calcium phosphate minerals"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Cortical bone is dense, rigid, forms the outer shell, has a low surface area-to-mass ratio, and adapts more slowly than trabecular bone. It is heavily mineralized with calcium phosphate."
+      },
+      {
+        "id": 2,
+        "q": "Which mechanical forces stimulate osteoblastic bone modeling during heavy exercise? (Select all that apply)",
+        "opts": [
+          "Bending forces",
+          "Compressive forces",
+          "Torsional (twisting) forces",
+          "Zero-gravity flotation"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Muscular contractions and gravitational loading apply bending, compressive, and torsional forces to bone, triggering osteoblast migration."
+      },
+      {
+        "id": 3,
+        "q": "Which features describe Minimal Essential Strain (MES)? (Select all that apply)",
+        "opts": [
+          "It is the threshold stimulus required to initiate new bone formation",
+          "It is estimated at ~1/10 of bone fracture force",
+          "Forces falling below MES do not stimulate bone modeling",
+          "It is fixed permanently at birth and never changes"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "MES is the threshold (~10% of fracture force) needed for bone modeling; forces below MES do not stimulate osteogenesis. MES relative threshold adapts as bone diameter changes."
+      },
+      {
+        "id": 4,
+        "q": "Which cellular and molecular components form new bone matrix prior to calcification? (Select all that apply)",
+        "opts": [
+          "Collagen molecules secreted by osteoblasts",
+          "Procollagen protein strands",
+          "Unmineralized organic matrix framework",
+          "Pure glycogen granules"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Osteoblasts synthesize and secrete procollagen and collagen molecules to build the organic unmineralized bone matrix before hydroxyapatite deposition."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Trabecular bone adapts significantly faster to mechanical strain than cortical bone due to its higher surface area-to-mass ratio.",
+        "ans": true,
+        "feedback": "Trabecular bone's porous interlocking plate structure and high surface area make it much more responsive to adaptive mechanical stimuli."
+      },
+      {
+        "id": 2,
+        "q": "Mechanical forces below the Minimal Essential Strain (MES) threshold still trigger rapid osteoblastic bone matrix deposition.",
+        "ans": false,
+        "feedback": "Forces below MES fail to stimulate bone modeling; mechanical strain must exceed MES to signal osteoblasts to form new bone."
+      },
+      {
+        "id": 3,
+        "q": "Osteoblasts deposit new bone matrix primarily along the outer periosteal surface of bone.",
+        "ans": true,
+        "feedback": "Osteoblasts migrate to the periosteum to secrete collagen proteins, expanding outer bone diameter and structural strength."
+      },
+      {
+        "id": 4,
+        "q": "Expanding bone diameter redistributes mechanical force over a larger area, lowering localized stress per unit area.",
+        "ans": true,
+        "feedback": "New bone matrix on the periosteum increases bone cross-sectional area, reducing stress (Force/Area) from subsequent loads."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Bone-forming cells called **osteoblasts** deposit new bone matrix on the **periosteum** when loading exceeds MES.",
+        "targets": [
+          "osteoblasts",
+          "periosteum"
+        ],
+        "optionsBank": [
+          "osteoblasts",
+          "periosteum",
+          "osteoclasts",
+          "epiphysis",
+          "chondrocytes"
+        ],
+        "hint": "Identify the bone-building cells and the outer bone membrane."
+      },
+      {
+        "id": 2,
+        "statement": "Minimal Essential Strain is estimated at **1/10** of fracture force, and calcification requires **hydroxyapatite**.",
+        "targets": [
+          "1/10",
+          "hydroxyapatite"
+        ],
+        "optionsBank": [
+          "1/10",
+          "hydroxyapatite",
+          "9/10",
+          "elastin",
+          "glycogen"
+        ],
+        "hint": "Recall the fractional MES threshold and the calcium phosphate mineral complex."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain why progressive overload is physiologically necessary to maintain long-term increases in bone mineral density.",
+        "model": "When a mechanical load exceeds the Minimal Essential Strain (MES) threshold (~1/10 fracture force), osteoblasts migrate to the periosteum and deposit new collagenous bone matrix. As this matrix mineralizes with hydroxyapatite, the outer diameter of the bone expands. Because stress equals force divided by surface area (Stress = Force/Area), expanding the bone diameter redistributes future mechanical loads over a larger area. Consequently, a load that initially exceeded MES will eventually fall below the new MES threshold. Progressive overload (increasing force/intensity) is required to continuously exceed the adapted MES threshold and drive ongoing osteogenesis.",
+        "criteria": [
+          "Define Minimal Essential Strain (MES) as ~1/10 fracture force required for osteogenesis.",
+          "Explain that osteoblastic bone modeling expands bone diameter, increasing surface area.",
+          "Demonstrate that stress = Force/Area, meaning adapted bone experiences lower localized stress, requiring higher loads (progressive overload) to exceed MES."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Contrast cortical bone and trabecular bone in terms of structural density, surface area, and adaptive remodeling rates.",
+        "model": "1. Cortical (Compact) Bone: Dense, highly mineralized outer protective shell with a low surface area-to-mass ratio. Adapts relatively slowly to mechanical loading due to its dense, rigid architecture.\n2. Trabecular (Spongy) Bone: Less dense, porous bone composed of interlocking plates with a high surface area-to-mass ratio. Adapts significantly faster to mechanical strain than cortical bone because its delicate plate network provides an extensive surface area for rapid osteoblastic and osteoclastic activity.",
+        "criteria": [
+          "Describe cortical bone as dense compact outer shell with low surface area-to-mass ratio and slower adaptation rate.",
+          "Describe trabecular bone as porous interlocking plates with high surface area-to-mass ratio and rapid adaptation rate.",
+          "Relate structural surface area differences directly to their relative remodeling rates."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What is the relationship between muscular strength/mass and bone mineral density (BMD)?",
+        "opts": [
+          "Direct, positive correlation between muscular strength/mass and BMD",
+          "Inverse, negative correlation where stronger muscles weaken bone",
+          "Zero correlation across all human populations",
+          "Fluctuates randomly every 24 hours"
+        ],
+        "correct": 0,
+        "rationale": "Scientific evidence demonstrates a direct, positive relationship between muscular strength or muscle mass and bone mineral density (BMD)."
+      },
+      {
+        "id": 2,
+        "q": "What approximate timeline is required for anaerobic training to yield measurable increases in bone mineral density (BMD) via radiographic imaging?",
+        "opts": [
+          "Approximately 6 months or longer",
+          "1 to 2 days",
+          "1 to 2 weeks",
+          "Exactly 10 years"
+        ],
+        "correct": 0,
+        "rationale": "Structural bone remodeling requires a prolonged time frame\u2014typically approximately 6 months or longer\u2014before increases in bone mineral density (BMD) become visible on DEXA scans."
+      },
+      {
+        "id": 3,
+        "q": "How early do cellular osteogenic processes begin following the initiation of resistance training?",
+        "opts": [
+          "Within the first few workouts, triggering systemic osteogenic biomarker release",
+          "Only after 12 months of daily training",
+          "Never until an athlete reaches age 40",
+          "After a bone fracture occurs"
+        ],
+        "correct": 0,
+        "rationale": "Although structural BMD gains take ~6 months, osteogenic cellular activity begins within the first few workouts, releasing measurable osteogenic biomarkers into the blood."
+      },
+      {
+        "id": 4,
+        "q": "Which exercise type is most effective at increasing femoral neck and lumbar spine bone mineral density?",
+        "opts": [
+          "Multijoint structural exercises (e.g., back squat, power clean, deadlift)",
+          "Single-joint machine exercises (e.g., seated leg press)",
+          "Passive stretching exercises",
+          "Wrist curling with light dumbbells"
+        ],
+        "correct": 0,
+        "rationale": "Multijoint structural exercises direct heavy axial force vectors directly through the spine and hips, providing a far greater osteogenic stimulus than single-joint supported machine exercises."
+      },
+      {
+        "id": 5,
+        "q": "What resistance loading intensity range is recommended to stimulate osteoblastic bone formation?",
+        "opts": [
+          "Heavy loads ranging from 1- to 10RM",
+          "Light loads of 30- to 50RM",
+          "Zero external resistance (0% 1RM)",
+          "Loads restricted strictly to 100% 1RM isometric holds"
+        ],
+        "correct": 0,
+        "rationale": "Heavy loads (1- to 10RM) place greater-than-normal mechanical strain on the skeleton, exceeding Minimal Essential Strain to stimulate osteoblasts."
+      },
+      {
+        "id": 6,
+        "q": "What total repetition volume per session provides an optimal osteogenic stimulus before diminishing returns occur?",
+        "opts": [
+          "30 to 35 total repetitions per session",
+          "1 to 2 total repetitions per session",
+          "500 to 1,000 repetitions per session",
+          "10,000 repetitions per session"
+        ],
+        "correct": 0,
+        "rationale": "Research indicates that 30 to 35 total repetitions of heavy structural loading per session provide a maximal osteogenic stimulus, with higher volumes yielding minimal extra bone benefit."
+      },
+      {
+        "id": 7,
+        "q": "Why is training variation (varying exercise angles and force vectors) important for skeletal strength?",
+        "opts": [
+          "It causes collagen fibers in the bone matrix to realign along new dynamic lines of stress",
+          "It destroys old cortical bone completely",
+          "It converts bone tissue into skeletal muscle",
+          "It prevents calcium absorption"
+        ],
+        "correct": 0,
+        "rationale": "Varying exercise angles presents unique force vectors to the skeleton, prompting collagen fibers within the bone matrix to realign along new lines of stress for multi-directional strength."
+      },
+      {
+        "id": 8,
+        "q": "What consequence occurs to bone tissue during prolonged physical inactivity or limb immobilization?",
+        "opts": [
+          "Rapid resorption of bone matrix and severe losses in bone mineral density",
+          "Massive increases in bone thickness",
+          "Permanent conversion of bone into cartilage",
+          "Spontaneous duplication of the skeleton"
+        ],
+        "correct": 0,
+        "rationale": "Physical disuse or immobilization removes mechanical strain, driving osteoclast-mediated bone matrix resorption and rapid declines in BMD."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which principles must be incorporated into a resistance program to optimize bone mineral density gains? (Select all that apply)",
+        "opts": [
+          "Specificity of loading (applying force directly to targeted skeletal sites)",
+          "Prioritizing multijoint structural exercises that load the axial skeleton",
+          "Applying progressive overload with heavy loads (1- to 10RM)",
+          "Exclusively performing light-load single-joint isolation exercises"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Osteogenic programming requires specificity, structural multijoint movements, progressive overload (1-10RM), multi-angle variation, and ~30-35 rep volumes. Single-joint isolation is suboptimal."
+      },
+      {
+        "id": 2,
+        "q": "Which activities provide high-impact ballistic osteogenic stimuli to clinically vital sites like the hip and spine? (Select all that apply)",
+        "opts": [
+          "Gymnastics",
+          "Volleyball",
+          "Basketball",
+          "Low-impact swimming"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "High-impact, ballistic, cyclical ground-reaction sports (gymnastics, volleyball, basketball) apply substantial dynamic forces that elevate hip and spine BMD far more than low-impact activities like swimming."
+      },
+      {
+        "id": 3,
+        "q": "Which structural exercises apply heavy axial loads through the spine and hip? (Select all that apply)",
+        "opts": [
+          "Back squat",
+          "Power clean",
+          "Deadlift",
+          "Seated wrist curl"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Back squats, power cleans, deadlifts, snatches, and standing presses direct axial force vectors directly through the spinal column and hip pelvic girdle."
+      },
+      {
+        "id": 4,
+        "q": "Which statements regarding the time course of bone adaptations are accurate? (Select all that apply)",
+        "opts": [
+          "Radiographic BMD increases require approximately 6 months or longer",
+          "Systemic osteogenic biomarkers increase within the first few workouts",
+          "Bone mineral density doubles within 24 hours of a single squat session",
+          "Immobilization leads to rapid bone matrix resorption"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "BMD gains take ~6 months for radiographic detection, but cellular biomarker activity begins in early workouts. Immobilization rapidly degrades BMD."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Measurable increases in bone mineral density (BMD) typically require approximately 6 months or longer of consistent resistance training.",
+        "ans": true,
+        "feedback": "Structural bone mineral accretion is a slow remodeling process requiring ~6 months before DEXA scans show measurable density changes."
+      },
+      {
+        "id": 2,
+        "q": "The back squat is significantly more effective at increasing femoral neck BMD than machine-supported exercises like the seated leg press.",
+        "ans": true,
+        "feedback": "Structural standing lifts direct axial force vectors through the spine and hips, generating higher osteogenic mechanical strain than seated machine lifts."
+      },
+      {
+        "id": 3,
+        "q": "Performing 300 to 500 heavy repetitions per session provides 10 times more bone growth than performing 30 to 35 repetitions.",
+        "ans": false,
+        "feedback": "Research shows 30 to 35 heavy repetitions per session provides a maximal osteogenic stimulus; higher volumes offer diminishing returns."
+      },
+      {
+        "id": 4,
+        "q": "Systemic osteogenic biomarkers in the bloodstream remain completely unchanged during the first 6 months of resistance training.",
+        "ans": false,
+        "feedback": "Osteogenic biomarkers elevate within the first few workouts, signalling early osteoblastic bone matrix formation long before density changes appear on scans."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Measurable BMD increases require **6 months**, while optimal session volume is **30 to 35 reps** of heavy loading.",
+        "targets": [
+          "6 months",
+          "30 to 35 reps"
+        ],
+        "optionsBank": [
+          "6 months",
+          "30 to 35 reps",
+          "2 days",
+          "500 reps",
+          "10 years"
+        ],
+        "hint": "Recall the DEXA time course and the maximal osteogenic repetition threshold."
+      },
+      {
+        "id": 2,
+        "statement": "Osteogenic programs prioritize **structural** exercises using heavy loads between **1 to 10RM**.",
+        "targets": [
+          "structural",
+          "1 to 10RM"
+        ],
+        "optionsBank": [
+          "structural",
+          "1 to 10RM",
+          "isolation",
+          "50 to 100RM",
+          "aerobic"
+        ],
+        "hint": "Identify the multijoint exercise category and heavy loading range."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Design a resistance training protocol to improve bone mineral density at the femoral neck and lumbar spine in an athlete, detailing exercise selection, load intensity, volume, and variation.",
+        "model": "1. Exercise Selection: Select multijoint structural exercises (e.g., back squat, deadlift, power clean) that direct heavy axial force vectors through the spine and hip girdle.\n2. Load Intensity: Prescribe heavy loads ranging from 1- to 10RM (>80% 1RM) to exceed the Minimal Essential Strain threshold.\n3. Repetition Volume: Target 30 to 35 total heavy repetitions per session (e.g., 3-5 sets of 6-8 reps), as this volume provides a maximal osteogenic stimulus.\n4. Training Variation: Incorporate multi-angle variations (e.g., front squat, sumo deadlift, lunges) to alter force vectors, prompting collagen fibers in the bone matrix to realign along dynamic lines of stress.",
+        "criteria": [
+          "Select multijoint structural exercises (squat, deadlift, clean) that load spine and hip axially.",
+          "Specify heavy loading intensity (1- to 10RM / >80% 1RM).",
+          "Specify repetition volume of 30 to 35 total reps per session and recommend multi-angle variation."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain why early strength gains in a novice lifter occur within weeks 1-4, while bone mineral density increases require ~6 months or longer.",
+        "model": "Early strength gains during weeks 1 to 4 are mediated almost entirely by central nervous system adaptations (increased primary motor cortex drive, elevated motor unit recruitment, higher firing frequencies, and synchronization). In contrast, bone mineral density accretion is a slow morphological process involving osteoblast migration, procollagen matrix secretion, and subsequent calcification with hydroxyapatite crystals. While osteogenic cellular activity and biomarker release begin in early workouts, structural bone remodeling and mineral deposition require approximately 6 months or longer to accumulate sufficient mineral density for radiographic measurement.",
+        "criteria": [
+          "Explain that early strength gains (weeks 1-4) stem from central neural adaptations.",
+          "Describe bone modeling as a slower structural process (osteoblast matrix secretion and hydroxyapatite calcification).",
+          "Conclude that radiographic BMD accumulation requires ~6 months of sustained remodeling."
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What is the primary structural protein fiber type found in bone, tendons, and ligaments?",
+        "opts": [
+          "Type I collagen",
+          "Type II collagen",
+          "Elastin",
+          "Myosin"
+        ],
+        "correct": 0,
+        "rationale": "Type I collagen is the primary structural protein constituent of bone, tendons, ligaments, and fascia (Type II collagen is primary in cartilage)."
+      },
+      {
+        "id": 2,
+        "q": "What cell type is responsible for synthesizing and secreting procollagen in fibrous connective tissues?",
+        "opts": [
+          "Fibroblasts",
+          "Osteoblasts",
+          "Chondrocytes",
+          "Myoblasts"
+        ],
+        "correct": 0,
+        "rationale": "Fibroblasts are the primary stem-like cells of connective tissue responsible for synthesizing and secreting procollagen."
+      },
+      {
+        "id": 3,
+        "q": "What extracellular modification occurs to procollagen to allow active collagen molecules to assemble into microfibrils?",
+        "opts": [
+          "Enzymatic cleavage of terminal protective extensions (caps)",
+          "Addition of glucose molecules to each end",
+          "Conversion into sarcoplasmic reticulum fluid",
+          "Phosphorylation by ATP"
+        ],
+        "correct": 0,
+        "rationale": "Extracellular enzymes cleave the terminal extensions (caps) off procollagen, allowing active collagen molecules to align in parallel into microfibrils."
+      },
+      {
+        "id": 4,
+        "q": "What chemical bonding phenomenon provides connective tissues with high tensile strength and structural toughness?",
+        "opts": [
+          "Covalent cross-linking between adjacent collagen molecules",
+          "Ionic bonding with hydrogen gas",
+          "Van der Waals attraction with fat cells",
+          "Magnetic attraction between iron atoms"
+        ],
+        "correct": 0,
+        "rationale": "Strong covalent chemical bonds, known as cross-linking, form between adjacent collagen molecules throughout microfibrils, giving tendons and ligaments high tensile strength."
+      },
+      {
+        "id": 5,
+        "q": "Why do tendons and ligaments exhibit slow metabolic recovery and prolonged healing timelines following injury?",
+        "opts": [
+          "They possess sparse capillary vascularity and low blood flow perfusion compared to muscle",
+          "They are completely devoid of cell nuclei",
+          "They contain 100% adipose tissue",
+          "They freeze during physical exercise"
+        ],
+        "correct": 0,
+        "rationale": "Tendons and ligaments have limited internal blood supply and low capillary vascularity relative to skeletal muscle, resulting in slow turnover and prolonged recovery."
+      },
+      {
+        "id": 6,
+        "q": "What magnitude of increase in Achilles tendon stiffness has been documented following 8 weeks of heavy resistance training?",
+        "opts": [
+          "15% to 19% increase in stiffness",
+          "1% to 2% decrease in stiffness",
+          "100% loss of tendon integrity",
+          "500% increase in tendon length"
+        ],
+        "correct": 0,
+        "rationale": "Scientific studies show an 15% to 19% increase in Achilles tendon stiffness following 8 weeks of heavy resistance training."
+      },
+      {
+        "id": 7,
+        "q": "What loading intensity threshold is required to stimulate increases in tendon stiffness and collagen cross-linking?",
+        "opts": [
+          "Heavy loads at or above 80% of 1RM",
+          "Light loads around 20% of 1RM",
+          "Zero load (passive rest)",
+          "Submaximal stretching with 1 lb"
+        ],
+        "correct": 0,
+        "rationale": "Heavy mechanical strain (\\(\\ge 80\\% 1\\text{RM}\\)) is mandatory to induce tendon stiffness adaptations; light loads (20% 1RM) fail to alter tendon properties."
+      },
+      {
+        "id": 8,
+        "q": "Which protein fiber is present in ligaments to allow controlled elasticity and joint articulation?",
+        "opts": [
+          "Elastin",
+          "Actin",
+          "Myostatin",
+          "Hemoglobin"
+        ],
+        "correct": 0,
+        "rationale": "Ligaments contain elastin fibers alongside parallel collagen bundles, allowing controlled stretch for joint movement."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which ultrastructural adaptations occur in tendons following chronic heavy resistance training? (Select all that apply)",
+        "opts": [
+          "Increased collagen fibril diameter",
+          "Increased covalent cross-linking between collagen molecules",
+          "Increased collagen fibril packing density and total number",
+          "Conversion of collagen into smooth muscle"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Heavy resistance loading increases collagen fibril diameter, covalent cross-linking, fibril packing density, and total fibril number in tendons."
+      },
+      {
+        "id": 2,
+        "q": "Which structural features distinguish ligaments from tendons? (Select all that apply)",
+        "opts": [
+          "Ligaments join bone to bone, whereas tendons join muscle to bone",
+          "Ligaments contain elastin fibers to permit controlled joint stretch",
+          "Ligaments possess parallel collagen bundles",
+          "Ligaments contain zero collagen"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Ligaments connect bone to bone, contain elastin for stretch, and feature parallel Type I collagen bundles. They are rich in collagen."
+      },
+      {
+        "id": 3,
+        "q": "Which statements regarding procollagen processing are accurate? (Select all that apply)",
+        "opts": [
+          "It is synthesized and secreted by fibroblasts as a triple-helix strand",
+          "Extracellular enzymes cleave its protective terminal extensions",
+          "Active collagen molecules assemble longitudinally into microfibrils",
+          "Procollagen is formed exclusively inside red blood cells"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Fibroblasts secrete triple-helix procollagen; extracellular enzymes cleave terminal caps, allowing parallel alignment into microfibrils."
+      },
+      {
+        "id": 4,
+        "q": "Why is high-intensity loading (80% 1RM) necessary for tendon adaptation? (Select all that apply)",
+        "opts": [
+          "Light loads (20% 1RM) fail to induce mechanical strain above baseline thresholds",
+          "Heavy strain triggers fibroblast collagen synthesis and covalent cross-linking",
+          "Heavy loading drives 15% to 19% gains in tendon stiffness",
+          "Light loads destroy tendon cross-links"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Tendon remodeling requires mechanical strain exceeding baseline thresholds (\\(\\ge 80\\% 1\\text{RM}\\)), driving cross-linking, stiffness (+15-19%), and fibroblast activity."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Type I collagen is the primary structural protein fiber constituent in bone, tendons, and ligaments.",
+        "ans": true,
+        "feedback": "Type I collagen forms the primary load-bearing triple-helix fibers in bone, tendons, ligaments, and fascia."
+      },
+      {
+        "id": 2,
+        "q": "Light-load training at 20% 1RM is equally effective as 80% 1RM for increasing tendon stiffness and collagen cross-linking.",
+        "ans": false,
+        "feedback": "Light loads (20% 1RM) fail to provide sufficient mechanical strain; heavy loads (\\(\\ge 80\\% 1\\text{RM}\\)) are required to increase tendon stiffness."
+      },
+      {
+        "id": 3,
+        "q": "Tendons and ligaments have lower capillary vascularity and blood supply than skeletal muscle, resulting in slower healing timelines.",
+        "ans": true,
+        "feedback": "Sparse vascularity limits oxygen and nutrient delivery to connective tissues, prolonging metabolic turnover and injury recovery."
+      },
+      {
+        "id": 4,
+        "q": "Covalent cross-linking between collagen molecules decreases the tensile strength of tendons.",
+        "ans": false,
+        "feedback": "Covalent cross-links form strong chemical bonds between adjacent collagen molecules, significantly increasing tensile strength."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Fibroblasts secrete **procollagen**, which is cleaved into active collagen molecules that form **covalent cross-links**.",
+        "targets": [
+          "procollagen",
+          "covalent cross-links"
+        ],
+        "optionsBank": [
+          "procollagen",
+          "covalent cross-links",
+          "myostatin",
+          "myofibrils",
+          "elastin"
+        ],
+        "hint": "Identify the triple-helix precursor strand and the chemical bonds between fibers."
+      },
+      {
+        "id": 2,
+        "statement": "Heavy loading at **80% 1RM** increases Achilles tendon stiffness by **15% to 19%**.",
+        "targets": [
+          "80% 1RM",
+          "15% to 19%"
+        ],
+        "optionsBank": [
+          "80% 1RM",
+          "15% to 19%",
+          "20% 1RM",
+          "100%",
+          "500%"
+        ],
+        "hint": "Recall the required load intensity percentage and documented stiffness gain range."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain why tendons and ligaments experience prolonged healing timelines following structural injury compared to skeletal muscle.",
+        "model": "Tendons and ligaments are composed of dense Type I collagen bundles with sparse populations of metabolically active fibroblasts. Crucially, connective tissues possess very limited capillary vascularity and blood flow perfusion compared to highly vascularized skeletal muscle. During exercise and rest, nutrient and oxygen delivery to tendons is low, resulting in slow metabolic cellular turnover. Consequently, matrix repair, procollagen synthesis, and covalent cross-linking proceed at a fraction of the rate seen in skeletal muscle, leading to prolonged rehabilitation timelines.",
+        "criteria": [
+          "Identify sparse capillary vascularity and low blood flow perfusion in tendons/ligaments compared to muscle.",
+          "Explain that low vascularity limits oxygen and nutrient delivery to fibroblasts.",
+          "Conclude that slow metabolic turnover delays procollagen synthesis, cross-linking, and structural matrix repair."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Compare the connective tissue adaptations resulting from an 8-week program using 80% 1RM heavy loading versus 20% 1RM light loading.",
+        "model": "1. 80% 1RM Heavy Loading: Generates mechanical strain exceeding connective tissue threshold capacity. Stimulates fibroblasts to increase procollagen synthesis, expand collagen fibril diameter, increase fibril packing density, and multiply covalent cross-links. Results in a 15% to 19% increase in tendon stiffness, enhancing explosive force transmission.\n2. 20% 1RM Light Loading: Fails to generate sufficient mechanical strain to exceed baseline thresholds. Produces negligible changes in collagen cross-linking, fibril diameter, or tendon stiffness.",
+        "criteria": [
+          "State that 80% 1RM exceeds threshold strain, increasing fibroblast procollagen synthesis, fibril diameter, and cross-linking.",
+          "State that 80% 1RM increases tendon stiffness by 15% to 19%.",
+          "Explain that 20% 1RM fails to exceed threshold strain, producing negligible changes in tendon properties."
+        ]
+      }
+    ]
+  },
+  "p4": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What primary collagen type forms hyaline (articular) cartilage in synovial joints?",
+        "opts": [
+          "Type II collagen",
+          "Type I collagen",
+          "Elastin",
+          "Myosin heavy chain"
+        ],
+        "correct": 0,
+        "rationale": "Hyaline (articular) cartilage is composed primarily of Type II collagen fibers (whereas bone, tendon, and ligament are composed of Type I collagen)."
+      },
+      {
+        "id": 2,
+        "q": "Where is fibrous cartilage located in the human musculoskeletal system?",
+        "opts": [
+          "In intervertebral disks and tendon-bone insertion sites",
+          "On the outer surface of the skull only",
+          "Inside the red blood cells",
+          "Floating freely in the blood plasma"
+        ],
+        "correct 0": 0,
+        "rationale": "Fibrous cartilage is a very dense, rigid cartilage found in intervertebral disks and at tendon-bone junctions to resist heavy compression and tension."
+      },
+      {
+        "id": 3,
+        "q": "What unique physiological characteristic distinguishes cartilage from most other musculoskeletal tissues?",
+        "opts": [
+          "Complete lack of direct blood vessels and nerves (avascularity)",
+          "Contains 100% cardiac muscle fibers",
+          "Regenerates completely every 24 hours",
+          "Is surrounded by cortical bone"
+        ],
+        "correct": 0,
+        "rationale": "Cartilage is completely avascular (lacks blood vessels) and non-innervated, relying entirely on passive nutrient diffusion from synovial fluid."
+      },
+      {
+        "id": 4,
+        "q": "How do resident mature chondrocytes receive oxygen and essential metabolic nutrients?",
+        "opts": [
+          "Via passive diffusion from surrounding synovial fluid during joint movement",
+          "Through dense capillary networks inside the cartilage matrix",
+          "Directly from sensory nerve axons",
+          "From inhaled air in the lungs"
+        ],
+        "correct": 0,
+        "rationale": "Because cartilage is avascular, resident chondrocytes rely on passive diffusion of nutrients from synovial fluid driven by cyclic pressure changes during joint motion."
+      },
+      {
+        "id": 5,
+        "q": "What mechanism drives synovial fluid into the avascular articular cartilage matrix to nourish chondrocytes?",
+        "opts": [
+          "Cyclic pressure changes created by physical movement about the joint",
+          "High arterial blood pressure",
+          "Static joint immobilization in a cast",
+          "Electrocution of the joint capsule"
+        ],
+        "correct": 0,
+        "rationale": "Physical movement creates cyclic compression and relaxation within the joint capsule, acting as a mechanical pump that drives nutrient-rich synovial fluid into articular cartilage."
+      },
+      {
+        "id": 6,
+        "q": "What structural consequence occurs to articular cartilage during prolonged joint immobilization?",
+        "opts": [
+          "Chondrocyte starvation, matrix resorption, and cartilage atrophy (thinning)",
+          "Massive thickening and doubling of cartilage volume",
+          "Conversion into cortical bone",
+          "Immediate explosion of the joint capsule"
+        ],
+        "correct": 0,
+        "rationale": "Immobilization stops joint movement, halting synovial fluid diffusion. This starves chondrocytes and leads to matrix resorption and cartilage atrophy (thinning)."
+      },
+      {
+        "id": 7,
+        "q": "What effect does moderate-intensity anaerobic exercise performed through a full range of motion have on articular cartilage health?",
+        "opts": [
+          "Increases articular cartilage thickness and maintains joint integrity without causing degeneration",
+          "Destroys cartilage within 1 workout",
+          "Causes permanent joint dislocation",
+          "Turns hyaline cartilage into Type I collagen"
+        ],
+        "correct": 0,
+        "rationale": "Moderate-intensity loading through full ROM stimulates synovial fluid pumping, promoting chondrocyte health and increasing articular cartilage thickness in healthy joints."
+      },
+      {
+        "id": 8,
+        "q": "What are the resident mature cells of cartilage responsible for tissue viability?",
+        "opts": [
+          "Chondrocytes",
+          "Osteoblasts",
+          "Fibroblasts",
+          "Myocytes"
+        ],
+        "correct": 0,
+        "rationale": "Chondrocytes are the mature resident cells of cartilage that maintain the extracellular matrix via nutrient exchange with synovial fluid."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which statements regarding hyaline (articular) cartilage physiology are accurate? (Select all that apply)",
+        "opts": [
+          "It covers articulating surfaces of bones within synovial joints",
+          "It is composed primarily of Type II collagen",
+          "It is completely avascular and non-innervated",
+          "It is supplied by dense internal capillary networks"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Hyaline cartilage covers joint surfaces, consists of Type II collagen, and is completely avascular and non-innervated."
+      },
+      {
+        "id": 2,
+        "q": "Which functions are performed by cartilage in the musculoskeletal system? (Select all that apply)",
+        "opts": [
+          "Providing a smooth, low-friction articulating joint surface",
+          "Acting as a shock absorber for forces directed through joints",
+          "Aiding the attachment of muscle/tendon to bone",
+          "Pumping oxygenated blood to the heart"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Cartilage reduces friction, absorbs impact loads, and assists connective tissue attachment to bone."
+      },
+      {
+        "id": 3,
+        "q": "Which outcomes occur when a joint is subjected to chronic immobilization? (Select all that apply)",
+        "opts": [
+          "Synovial fluid pumping action ceases",
+          "Chondrocytes suffer nutrient starvation",
+          "Articular cartilage undergoes atrophy and matrix thinning",
+          "Cartilage thickness increases by 200%"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Immobilization stops fluid pumping, starving chondrocytes and causing cartilage atrophy and matrix resorption."
+      },
+      {
+        "id": 4,
+        "q": "Which exercise practices support cartilage health and articular thickening? (Select all that apply)",
+        "opts": [
+          "Performing movements through a full range of motion",
+          "Utilizing moderate-to-heavy progressive overloading",
+          "Creating cyclic joint pressure changes to pump synovial fluid",
+          "Casting joints in fixed positions for months"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Full ROM exercises create cyclic pressure gradients that pump synovial fluid into cartilage, maintaining chondrocyte viability and increasing tissue thickness."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Articular cartilage is completely avascular and relies on synovial fluid diffusion for nutrient exchange.",
+        "ans": true,
+        "feedback": "Cartilage contains no direct blood vessels or capillaries; chondrocytes depend entirely on synovial fluid diffusion."
+      },
+      {
+        "id": 2,
+        "q": "Joint movement acts as a mechanical pump that drives nutrient-rich synovial fluid into the articular cartilage matrix.",
+        "ans": true,
+        "feedback": "Cyclic compression and relaxation during joint motion create pressure gradients that flush synovial fluid into cartilage."
+      },
+      {
+        "id": 3,
+        "q": "Prolonged joint immobilization increases articular cartilage thickness and improves chondrocyte density.",
+        "ans": false,
+        "feedback": "Immobilization halts fluid pumping, leading to chondrocyte starvation, matrix resorption, and cartilage atrophy (thinning)."
+      },
+      {
+        "id": 4,
+        "q": "Hyaline cartilage is composed primarily of Type I collagen fibers.",
+        "ans": false,
+        "feedback": "Hyaline cartilage is composed primarily of Type II collagen (Type I collagen is found in bone, tendon, and ligament)."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Hyaline cartilage consists of **Type II collagen**, while resident cells called **chondrocytes** rely on synovial fluid.",
+        "targets": [
+          "Type II collagen",
+          "chondrocytes"
+        ],
+        "optionsBank": [
+          "Type II collagen",
+          "chondrocytes",
+          "Type I collagen",
+          "osteoblasts",
+          "elastin"
+        ],
+        "hint": "Identify the cartilage collagen type and the mature resident cell."
+      },
+      {
+        "id": 2,
+        "statement": "Cartilage is **avascular**, and joint immobilization leads to cartilage **atrophy**.",
+        "targets": [
+          "avascular",
+          "atrophy"
+        ],
+        "optionsBank": [
+          "avascular",
+          "atrophy",
+          "vascularized",
+          "hypertrophy",
+          "calcification"
+        ],
+        "hint": "Recall the lack of blood vessels and the structural thinning response to disuse."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain how joint movement acts as a mechanical pump to nourish articular cartilage, and describe the pathological consequences of joint immobilization.",
+        "model": "Articular (hyaline) cartilage is completely avascular and lacks direct capillary blood supply. Resident chondrocytes depend entirely on passive diffusion of oxygen and nutrients from surrounding synovial fluid. Physical joint movement creates cyclic pressure changes within the joint capsule: compression pushes metabolic waste out of the cartilage matrix, while relaxation draws nutrient-rich synovial fluid inward.  \nIf a joint is immobilized in a cast, this mechanical pumping halts. Without fluid movement, chondrocytes suffer nutrient starvation, triggering matrix resorption and cartilage atrophy (thinning), which compromises joint cushioning.",
+        "criteria": [
+          "State that cartilage is avascular and chondrocytes rely on synovial fluid diffusion.",
+          "Explain that cyclic joint movement creates compression/relaxation pressure gradients that pump synovial fluid.",
+          "Explain that immobilization halts fluid pumping, causing chondrocyte starvation, matrix resorption, and cartilage atrophy."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Formulate exercise programming guidelines to maintain articular cartilage health and stimulate cartilage thickening in athletes.",
+        "model": "1. Full Range of Motion (ROM): Prescribe exercises through full joint ROM to maximize cyclic compression and relaxation across the entire articular surface, driving synovial fluid into all cartilage zones.\n2. Moderate-to-Heavy Loading: Incorporate moderate-to-heavy progressive loading to generate optimal mechanical pressure gradients without exceeding tissue tolerance.\n3. Avoid Immobilization & Maintain Frequency: Encourage regular dynamic movement and avoid prolonged joint disuse to prevent chondrocyte starvation and matrix thinning.",
+        "criteria": [
+          "Recommend full ROM exercises to maximize cyclic synovial fluid pumping across articular surfaces.",
+          "Recommend moderate-to-heavy progressive loading to create optimal pressure gradients.",
+          "Warn against joint immobilization and emphasize regular movement frequency."
+        ]
+      }
+    ]
+  }
+}

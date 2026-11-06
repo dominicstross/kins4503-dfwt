@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "course": "DFWT - KINS 4503 Design of Fitness & WT",
+    "chapter": "17",
+    "section": "17.6",
+    "ch": "17",
+    "mod": "17.6",
+    "moduleTitle": "17.6 Step 6: Volume"
+  },
+  "pages": [
+    {
+      "id": "p1",
+      "title": "Part 1: Volume Terminology, Volume-Load Calculations, and Work Equivalencies",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Volume Terminology and Volume-Load Calculations</h2>\n<p>In resistance program design, <strong>volume</strong> relates to the total amount of weight lifted in a training session, serving as a primary determinant of metabolic expenditure and neuromuscular stress. A <strong>set</strong> is defined as a group of repetitions sequentially performed before the athlete stops to rest. Understanding and accurately quantifying training volume requires distinguishing between two distinct metrics:</p>\n<ul>\n    <li><strong>Repetition-Volume:</strong> The total number of repetitions performed during a single workout session across all exercises.</li>\n    <li><strong>Volume-Load:</strong> The total number of sets multiplied by the number of repetitions per set, then multiplied by the weight lifted per repetition ($\text{Volume-Load} = \text{Sets} \times \text{Repetitions} \times \text{Weight}$).</li>\n</ul>\n<p>For example, if an athlete performs 2 sets of 10 repetitions with 50 pounds ($23\text{ kg}$), the volume-load is calculated as $2 \times 10 \times 50\text{ lb} = 1,000\text{ pounds}$ ($454\text{ kg}$). If different sets within an exercise or session are performed with varying weights, the volume-loads per individual set are calculated separately and then summed to determine the total session volume-load.</p>\n\n<h3>Concentric Work and Average Load per Repetition</h3>\n<p>Multiplying volume-load by the vertical displacement factor of the weight during each repetition yields the total <strong>concentric mechanical work</strong> performed. Because vertical displacement is relatively constant for a given athlete across standard exercises, it is omitted in daily calculations; however, volume-load remains directly proportional to total mechanical work.</p>\n<p>Dividing total volume-load by repetition-volume yields the <strong>average weight lifted per repetition</strong> ($\text{Average Weight} = \frac{\text{Volume-Load}}{\text{Repetition-Volume}}$). This calculated average provides a valuable proxy for training intensity and the overall quality of work executed during the session.</p>\n\n<h3>Cross-Disciplinary Mechanical Work Equivalencies</h3>\n<p>The concept of volume-load in resistance training shares direct physiological equivalencies with volume measures across other athletic disciplines:</p>\n<ul>\n    <li><strong>Running & Aerobic Training:</strong> Repetition-volume is quantified by distance. When combined with an intensity metric (such as running pace or $\\%V\\dot{O}_2\text{max}$), total metabolic energy cost (proportional to mechanical work) can be derived, serving as the direct equivalent of volume-load.</li>\n    <li><strong>Plyometric Training:</strong> Volume is quantified by the total number of foot contacts (for lower body drills) or hand contacts (for upper body drills).</li>\n    <li><strong>Swimming & Rowing:</strong> Volume is quantified by the total number of stroke cycles or total distance covered.</li>\n    <li><strong>Sport-Specific Skill Practice:</strong> Volume is measured by the total number of throws, jumps, or skill attempts performed per session.</li>\n</ul>\n\n<div class=\"callout-box\">\n    <div class=\"callout-title\">Coaching / Sport Application</div>\n    <p>Strength and conditioning professionals must track volume-load rather than simple set or repetition counts to monitor overall mechanical work and fatigue. Dividing total volume-load by repetition-volume allows coaches to calculate the average load per repetition, ensuring that training intensity matches the intended microcycle goal.</p>\n</div>\n\n<table class=\"data-table\">\n    <thead>\n        <tr>\n            <th>Volume Metric</th><th>Mathematical Formula / Definition</th><th>Physiological Significance</th><th>Sport Discipline Equivalent</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td><strong>Repetition-Volume</strong></td>\n            <td>Total count of repetitions executed across workout</td>\n            <td>Quantifies total movement repetitions</td>\n            <td>Total running distance (miles/km)</td>\n        </tr>\n        <tr>\n            <td><strong>Volume-Load</strong></td>\n            <td>$\text{Sets} \times \text{Reps} \times \text{Weight}$</td>\n            <td>Proportional to concentric work and metabolic cost</td>\n            <td>Total energy expenditure ($\text{Pace} \times \text{Distance}$)</td>\n        </tr>\n        <tr>\n            <td><strong>Average Weight per Rep</strong></td>\n            <td>$\frac{\text{Volume-Load}}{\text{Repetition-Volume}}$</td>\n            <td>Proxy for session intensity and work quality</td>\n            <td>Average running pace / $\\%V\\dot{O}_2\text{max}$</td>\n        </tr>\n        <tr>\n            <td><strong>Plyometric Volume</strong></td>\n            <td>Total foot or hand contacts per session</td>\n            <td>Quantifies impact loading and neural stress</td>\n            <td>Number of foot contacts</td>\n        </tr>\n    </tbody>\n</table>"
+    },
+    {
+      "id": "p2",
+      "title": "Part 2: Single vs. Multiple Sets and Athlete Training Status",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Single vs. Multiple Set Resistance Training Debates</h2>\n<p>A longstanding debate in exercise prescription centers on whether performing single sets or multiple sets per exercise is optimal for strength and hypertrophy. Some researchers have advocated that performing <strong>one set of 8 to 12 repetitions to volitional muscular failure</strong> (after warm-up) is sufficient to maximize gains in muscular strength and hypertrophy. Research demonstrates that untrained individuals can indeed achieve significant strength increases using single-set routines during the initial several months of training.</p>\n<p>However, overwhelming evidence indicates that higher training volumes are necessary to promote continued adaptation, particularly in <strong>intermediate and advanced resistance-trained athletes</strong>. Over time, the musculoskeletal system adapts to the stimulus of a single set to failure, requiring the progressive addition of multiple sets to drive further strength gains.</p>\n\n<h3>Physiological Comparison of Set Volume and Fatigue</h3>\n<p>Comparative training studies reveal important physiological distinctions between single-set and multiple-set protocols:</p>\n<ul>\n    <li><strong>Submaximal Multiple Sets vs. Single Sets to Failure:</strong> Research demonstrates that performing <strong>3 sets of 10 repetitions without going to failure</strong> produces significantly greater strength gains than performing <strong>1 set of 8 to 12 repetitions to failure</strong>. The higher total training volume provided by 3 sets is the primary contributing factor to superior strength adaptation.</li>\n    <li><strong>Accelerated Adaptation:</strong> Athletes who perform multiple sets from the initiation of their resistance training program increase muscular strength at a significantly faster rate than those utilizing single-set protocols.</li>\n    <li><strong>Accumulative Fatigue Kinetics:</strong> Strength coaches cannot expect athletes to maintain full RM loads across fixed repetition schemes for every set in a session. Accumulative fatigue impairs motor unit firing rates and metabolic recovery, reducing the maximum repetitions achievable in later sets unless load is adjusted or rest intervals are extended.</li>\n</ul>\n\n<h3>Influence of Training Status on Volume Tolerance</h3>\n<p>An athlete's training status directly dictates the volume of work they can safely tolerate and adapt to without experiencing overtraining:</p>\n<ol>\n    <li><strong>Untrained / Beginner Athletes:</strong> Should initiate training with 1 or 2 sets per exercise. This conservative volume minimizes delayed-onset muscle soreness (DOMS) and allows structural connective tissue adaptation.</li>\n    <li><strong>Intermediate / Advanced Athletes:</strong> Require a gradual progression to 3\u20136 sets per exercise to match the specific guidelines associated with their primary training goal.</li>\n</ol>\n\n<div class=\"callout-box\">\n    <div class=\"callout-title\">Coaching / Sport Application</div>\n    <p>While single-set training may produce initial strength gains in beginners, strength professionals must transition athletes to multiple-set programs (3 to 6 sets per exercise) for long-term adaptation. Furthermore, coaches must account for accumulative set fatigue by anticipating load reductions or managing rest intervals across consecutive sets.</p>\n</div>\n\n<table class=\"data-table\">\n    <thead>\n        <tr>\n            <th>Training Volume Protocol</th><th>Target Population</th><th>Primary Adaptation Rate</th><th>Key Physiological Rationale</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td><strong>Single-Set (1 set to failure)</strong></td>\n            <td>Untrained beginners (first 1\u20133 months)</td><td>Moderate initial strength gains</td><td>Minimal volume sufficient for unadapted neuromuscular system</td></tr>\n        <tr>\n            <td><strong>Multiple Submaximal Sets (3 sets of 10)</strong></td>\n            <td>Intermediate to advanced athletes</td><td>Accelerated, superior strength gains</td><td>Higher total volume-load drives greater motor unit recruitment</td></tr>\n        <tr>\n            <td><strong>Multiple Max-RM Sets</strong></td>\n            <td>Trained athletes (power/strength focus)</td><td>Maximal strength supercompensation</td><td>High volume-load at high intensity; requires fatigue management</td></tr>\n    </tbody>\n</table>"
+    },
+    {
+      "id": "p3",
+      "title": "Part 3: Assigning Volume by Primary Training Goal",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Assigning Volume Based on Primary Training Goals</h2>\n<p>Training volume is directly dictated by the athlete's primary resistance training goal. According to <strong>Table 17.11</strong> in the NSCA guidelines, specific repetition and set ranges are assigned to optimize adaptations for strength, power, hypertrophy, and muscular endurance.</p>\n\n<h3>1. Strength Training Volume Guidelines</h3>\n<p>Historical research by DeLorme and Watkins originally recommended sets of 10 repetitions for strength, though this was developed for injury rehabilitation. Subsequent research by Berger suggested 3 sets of 6 repetitions produced maximal strength gains. Further studies found similar strength increases across 6 sets of 2RM, 3 sets of 6RM, and 3 sets of 10RM in untrained subjects. However, for trained athletes, maximal strength gains require:</p>\n<ul>\n    <li><strong>Repetition Range:</strong> 6 or fewer repetitions per set.</li>\n    <li><strong>Set Volume for Core Exercises:</strong> 2 to 5 sets or 3 to 6 sets per core exercise.</li>\n    <li><strong>Set Volume for Assistance Exercises:</strong> 1 to 3 sets per assistance exercise are generally sufficient.</li>\n</ul>\n\n<h3>2. Power Training Volume Guidelines</h3>\n<p>Volume assignments for power training are typically lower than those for maximal strength training to maintain maximal movement velocity and explosive exercise quality:</p>\n<ul>\n    <li><strong>Repetition Range:</strong> 1 to 2 repetitions for single-effort power events (e.g., shot put, high jump); 3 to 5 repetitions for multiple-effort power sports (e.g., basketball, volleyball).</li>\n    <li><strong>Set Volume:</strong> 3 to 5 sets per power exercise (after warm-up).</li>\n    <li><strong>Velocity Rationale:</strong> Lower repetition counts prevent fatigue-induced reductions in movement speed and rate of force development ($\text{RFD}$).</li>\n</ul>\n\n<h3>3. Hypertrophy Training Volume Guidelines</h3>\n<p>Higher total training volumes are mandatory to drive myofibrillar protein synthesis and muscle cell enlargement:</p>\n<ul>\n    <li><strong>Repetition Range:</strong> 6 to 12 repetitions per set.</li>\n    <li><strong>Set Volume per Exercise:</strong> 3 to 6 sets per exercise.</li>\n    <li><strong>Number of Exercises:</strong> Performing 3 or more exercises per targeted muscle group is the most effective strategy to maximize muscle size, creating a substantial cumulative volume-load.</li>\n</ul>\n\n<h3>4. Muscular Endurance Training Volume Guidelines</h3>\n<p>Muscular endurance programs emphasize high-repetition work to enhance local metabolic capacity and fatigue resistance:</p>\n<ul>\n    <li><strong>Repetition Range:</strong> 12 or more repetitions per set.</li>\n    <li><strong>Set Volume:</strong> 2 to 3 sets per exercise.</li>\n    <li><strong>Volume-Load Balance:</strong> Although repetition volume is high ($\\ge 12$ reps), overall volume-load remains moderate because lighter loads ($\\le 67\\% \text{ 1RM}$) and fewer sets are performed.</li>\n</ul>\n\n<div class=\"callout-box\">\n    <div class=\"callout-title\">Coaching / Sport Application</div>\n    <p>Strength coaches must strictly align volume prescription with the targeted adaptive goal: assign $\\le 6$ reps and 2\u20136 sets for strength, 1\u20135 reps and 3\u20135 sets for power, 6\u201312 reps and 3\u20136 sets (with $\\ge 3$ exercises per muscle group) for hypertrophy, and $\\ge 12$ reps and 2\u20133 sets for muscular endurance.</p>\n</div>\n\n<table class=\"data-table\">\n    <thead>\n        <tr>\n            <th>Primary Training Goal</th><th>Load (% 1RM)</th><th>Goal Repetitions</th><th>Sets per Exercise</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td><strong>Strength</strong></td>\n            <td>$\\ge 85\\%$</td>\n            <td>$\\le 6$</td>\n            <td>$2 \text{ to } 6$</td>\n        </tr>\n        <tr>\n            <td><strong>Power - Single-Effort</strong></td>\n            <td>$80\text{--}90\\%$</td>\n            <td>$1 \text{ to } 2$</td>\n            <td>$3 \text{ to } 5$</td>\n        </tr>\n        <tr>\n            <td><strong>Power - Multiple-Effort</strong></td>\n            <td>$75\text{--}85\\%$</td>\n            <td>$3 \text{ to } 5$</td>\n            <td>$3 \text{ to } 5$</td>\n        </tr>\n        <tr>\n            <td><strong>Hypertrophy</strong></td>\n            <td>$67\text{--}85\\%$</td>\n            <td>$6 \text{ to } 12$</td>\n            <td>$3 \text{ to } 6$</td>\n        </tr>\n        <tr>\n            <td><strong>Muscular Endurance</strong></td>\n            <td>$\\le 67\\%$</td>\n            <td>$\\ge 12$</td>\n            <td>$2 \text{ to } 3$</td>\n        </tr>\n    </tbody>\n</table>"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Volume",
+      "def": "The total amount of weight lifted or total mechanical work performed during a resistance training session."
+    },
+    {
+      "term": "Set",
+      "def": "A group of repetitions sequentially performed before an athlete stops to rest."
+    },
+    {
+      "term": "Repetition-volume",
+      "def": "The total number of repetitions performed during a workout session across all exercises."
+    },
+    {
+      "term": "Volume-load",
+      "def": "The total mathematical product of sets, repetitions per set, and weight lifted per repetition (Sets x Repetitions x Weight)."
+    },
+    {
+      "term": "Concentric work",
+      "def": "The mechanical work performed during muscle shortening, calculated as volume-load multiplied by vertical displacement distance."
+    },
+    {
+      "term": "Average weight per repetition",
+      "def": "Total volume-load divided by repetition-volume, serving as a quantitative proxy for session intensity and work quality."
+    },
+    {
+      "term": "Single-set training",
+      "def": "Performing one set of an exercise to volitional failure; effective for beginners but insufficient for long-term trained athlete adaptation."
+    },
+    {
+      "term": "Multiple-set training",
+      "def": "Performing two or more sets per exercise; essential for intermediate and advanced athletes to drive continued strength and hypertrophy."
+    },
+    {
+      "term": "Hypertrophy volume",
+      "def": "A high-volume protocol prescribing 6 to 12 repetitions for 3 to 6 sets across 3 or more exercises per targeted muscle group."
+    },
+    {
+      "term": "Muscular endurance volume",
+      "def": "A high-repetition protocol prescribing 12 or more repetitions for 2 to 3 sets with submaximal loads (<= 67% 1RM)."
+    }
+  ]
+}

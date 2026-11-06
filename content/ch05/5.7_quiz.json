@@ -1,0 +1,753 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What is the primary goal of progressive resistance overload in an athletic training program?",
+        "opts": [
+          "To provide incremental overload so physiological adaptations contribute to improved performance",
+          "To induce permanent muscular fatigue and complete central nervous system exhaustion",
+          "To eliminate all periodization and double training volume every week",
+          "To decrease muscle fiber cross-sectional area and reduce glycogen storage"
+        ],
+        "correct": 0,
+        "rationale": "The explicit goal of training is to provide incremental overload on the body so that physiological adaptations can subsequently contribute to improved performance without causing unmanageable fatigue."
+      },
+      {
+        "id": 2,
+        "q": "How is functional overreaching (FOR) defined within a periodized training plan?",
+        "opts": [
+          "A temporary, short-term performance drop caused by planned excessive loading, followed by supercompensation post-taper",
+          "A permanent 6-month decrease in physical performance accompanied by adrenal failure",
+          "An immediate 50% loss of muscle mass that requires clinical hospitalization",
+          "A state of chronic overwork that ruins an athletic career permanently"
+        ],
+        "correct": 0,
+        "rationale": "Functional overreaching (FOR) is a prescribed, short-term phase of overwork that depresses performance temporarily; following an appropriate tapering period, it yields a supercompensation in strength and power."
+      },
+      {
+        "id": 3,
+        "q": "What timeframe defines the performance recovery window for nonfunctional overreaching (NFOR)?",
+        "opts": [
+          "Several weeks to several months",
+          "Exactly 24 to 48 hours",
+          "1 to 3 days",
+          "Minimum 2 to 5 years"
+        ],
+        "correct": 0,
+        "rationale": "Nonfunctional overreaching (NFOR) leads to performance stagnation or decrement that continues for several weeks or months before full recovery is achieved."
+      },
+      {
+        "id": 4,
+        "q": "What duration threshold distinguishes overtraining syndrome (OTS) from temporary overreaching?",
+        "opts": [
+          "Prolonged performance decrement and biological maladaptation lasting 6 months or beyond",
+          "Performance drop lasting exactly 3 to 5 days",
+          "Fatigue lasting less than 12 hours post-workout",
+          "Performance stagnation lasting exactly 1 week"
+        ],
+        "correct": 0,
+        "rationale": "Central to the definition of overtraining syndrome (OTS) is a prolonged maladaptation of biological, neurochemical, and hormonal mechanisms lasting 6 months or beyond."
+      },
+      {
+        "id": 5,
+        "q": "Which target population and sport type typically predominate in sympathetic overtraining syndrome?",
+        "opts": [
+          "Younger athletes participating in speed, power, and high-velocity coordination sports",
+          "Elderly endurance runners competing in 100-mile ultramarathons",
+          "Sedentary individuals participating in light walking programs",
+          "Master-level archers and precision marksmen"
+        ],
+        "correct": 0,
+        "rationale": "Sympathetic overtraining syndrome is thought to develop before parasympathetic OTS and predominates in younger athletes training for high-velocity speed, power, or coordination."
+      },
+      {
+        "id": 6,
+        "q": "What clinical feature characterizes end-stage parasympathetic overtraining syndrome?",
+        "opts": [
+          "Increased parasympathetic activity at rest and during exercise, representing chronic systemic exhaustion",
+          "Extremely elevated resting heart rate and chronic insomnia",
+          "Immediate 200% increase in maximal sprint speed",
+          "Acute hypertension exceeding 250 mmHg during sleep"
+        ],
+        "correct": 0,
+        "rationale": "Parasympathetic overtraining syndrome involves increased parasympathetic activity both at rest and during exercise, representing end-stage chronic exhaustion and systemic endocrine suppression."
+      },
+      {
+        "id": 7,
+        "q": "According to survey research cited in the textbook, what percentage of overtrained athletes participated in anaerobic sports requiring high strength, speed, or coordination?",
+        "opts": [
+          "77%",
+          "10%",
+          "35%",
+          "99%"
+        ],
+        "correct": 0,
+        "rationale": "Survey research of overtrained athletes demonstrated that 77% were involved in sports requiring high levels of strength, speed, or coordination (sympathetic overtraining)."
+      },
+      {
+        "id": 8,
+        "q": "What is the hallmark performance deficit observed in athletes suffering from overtraining syndrome (OTS)?",
+        "opts": [
+          "Inability to sustain high-intensity exercise when training load is maintained or increased",
+          "Inability to perform low-intensity walking for 5 minutes",
+          "Immediate total loss of bone mineral density",
+          "Complete loss of joint flexibility across all limbs"
+        ],
+        "correct": 0,
+        "rationale": "A predominant feature of OTS is the inability to sustain high-intensity exercise when training load is maintained or increased, resulting from prolonged NFOR."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which factors contribute to the accumulation of training stress leading to overtraining? (Select all that apply)",
+        "opts": [
+          "Excessive training frequency",
+          "Excessive training volume or intensity",
+          "Inadequate rest and recovery",
+          "Insufficient nutrient intake"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Overtraining results when training frequency, volume, or intensity is excessive without sufficient rest, recovery, and nutrient intake."
+      },
+      {
+        "id": 2,
+        "q": "Which characteristics accurately describe functional overreaching (FOR)? (Select all that apply)",
+        "opts": [
+          "Short-term temporary performance drop",
+          "Recovery achieved within days to a few weeks of rest",
+          "Can be intentionally prescribed prior to a taper to induce supercompensation",
+          "Results in permanent 6-month career-ending exhaustion"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "FOR is short-term overreaching requiring days to weeks for recovery, intentionally used in periodized plans to build tolerance and yield supercompensation post-taper."
+      },
+      {
+        "id": 3,
+        "q": "Which clinical manifestations distinguish sympathetic overtraining from parasympathetic overtraining? (Select all that apply)",
+        "opts": [
+          "Sympathetic OTS features increased resting sympathetic drive (insomnia, restlessness, elevated resting HR)",
+          "Sympathetic OTS predominates in younger speed/power athletes",
+          "Parasympathetic OTS features elevated resting and exercise parasympathetic tone",
+          "Parasympathetic OTS represents end-stage chronic exhaustion across physiological systems"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Sympathetic OTS involves heightened resting sympathetic drive in young speed/power athletes; parasympathetic OTS reflects end-stage systemic depression and parasympathetic dominance."
+      },
+      {
+        "id": 4,
+        "q": "Which alternative terms are commonly used in athletic literature to describe overtraining syndrome (OTS)? (Select all that apply)",
+        "opts": [
+          "Burnout",
+          "Chronic overwork",
+          "Staleness",
+          "Unexplained underperformance syndrome"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Textbook terminology identifies burnout, chronic overwork, staleness, unexplained underperformance syndrome, and overfatigue as terms describing OTS."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Short-term overreaching followed by an appropriate tapering period can lead to beneficial supercompensation in strength and power.",
+        "ans": true,
+        "feedback": "FOR can be intentionally prescribed as a planned phase to overwork muscle tissue, followed by a taper to elicit a performance supercompensation."
+      },
+      {
+        "id": 2,
+        "q": "Overtraining syndrome (OTS) can be fully resolved with 24 to 48 hours of complete bed rest.",
+        "ans": false,
+        "feedback": "OTS involves prolonged biological and neuroendocrine maladaptation lasting six months or beyond."
+      },
+      {
+        "id": 3,
+        "q": "Sympathetic overtraining syndrome is thought to develop before parasympathetic overtraining syndrome.",
+        "ans": true,
+        "feedback": "Sympathetic OTS develops early in speed/power athletes; unmanaged stress eventually progresses to parasympathetic OTS and systemic depression."
+      },
+      {
+        "id": 4,
+        "q": "Survey research indicates that overtraining occurs exclusively in aerobic endurance sports like marathons.",
+        "ans": false,
+        "feedback": "Research shows 77% of surveyed overtrained athletes participated in anaerobic sports requiring high strength, speed, or coordination."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Short-term overreaching followed by a taper induces **supercompensation**, whereas unmanaged overwork leads to **nonfunctional overreaching**.",
+        "targets": [
+          "supercompensation",
+          "nonfunctional overreaching"
+        ],
+        "optionsBank": [
+          "supercompensation",
+          "nonfunctional overreaching",
+          "parasympathetic collapse",
+          "hypertrophy",
+          "atrophy"
+        ],
+        "hint": "Identify the beneficial post-taper outcome versus the prolonged stagnation state."
+      },
+      {
+        "id": 2,
+        "statement": "Overtraining syndrome can last **6 months or beyond**, presenting as either **sympathetic** or parasympathetic types.",
+        "targets": [
+          "6 months or beyond",
+          "sympathetic"
+        ],
+        "optionsBank": [
+          "6 months or beyond",
+          "sympathetic",
+          "24 hours",
+          "hypertrophic",
+          "isometric"
+        ],
+        "hint": "Recall the diagnostic duration threshold and the early speed/power overtraining type."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain the progression along the training continuum from functional overreaching (FOR) to nonfunctional overreaching (NFOR) and overtraining syndrome (OTS), detailing the recovery timeline for each.",
+        "model": "1. Functional Overreaching (FOR): A temporary, short-term performance drop caused by planned excessive training stress. Recovery occurs within a few days to weeks, leading to a supercompensation in strength and power post-taper.\n2. Nonfunctional Overreaching (NFOR): Occurs when intensive loading continues without adequate recovery, causing performance stagnation or decrement lasting several weeks to months alongside fatigue and hormonal disturbances.\n3. Overtraining Syndrome (OTS): A severe, prolonged maladaptation of biological, neurochemical, and neuroendocrine systems lasting 6 months or beyond, capable of ending an athletic career.",
+        "criteria": [
+          "Define FOR as a short-term drop recovering in days to weeks with supercompensation post-taper.",
+          "Define NFOR as performance stagnation/drop lasting several weeks to months.",
+          "Define OTS as severe neuroendocrine/biological maladaptation lasting 6 months or beyond."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Contrast sympathetic overtraining syndrome with parasympathetic overtraining syndrome in terms of autonomic drive, athlete populations, and clinical presentation.",
+        "model": "1. Sympathetic Overtraining Syndrome: Characterized by heightened resting sympathetic nervous system activity. It develops early in the overtraining continuum and predominates in younger athletes involved in high-velocity speed, power, and strength sports. Symptoms include elevated resting heart rate, restlessness, and insomnia.\n2. Parasympathetic Overtraining Syndrome: Characterized by increased parasympathetic activity at rest and during exercise. It predominates in endurance athletes and represents end-stage chronic exhaustion, featuring low resting heart rate, lethargy, and systemic depression of neuroendocrine systems.",
+        "criteria": [
+          "Identify sympathetic OTS as elevated resting sympathetic drive in young speed/power/strength athletes.",
+          "Identify parasympathetic OTS as elevated parasympathetic drive in endurance sports representing end-stage exhaustion.",
+          "Contrast clinical symptoms (elevated resting HR/insomnia vs. low resting HR/lethargy)."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "In the short-term NFOR study by Fry et al. (8 sets of machine squats at 95% 1RM for 6 consecutive days), which performance variable was uniquely preserved?",
+        "opts": [
+          "1RM strength",
+          "Isokinetic torque production",
+          "Sprint speed",
+          "Agility times"
+        ],
+        "correct": 0,
+        "rationale": "Fry et al. reported that while 6 days of 95% 1RM machine squats decreased isokinetic torque, sprint speed, and agility, 1RM strength was uniquely preserved."
+      },
+      {
+        "id": 2,
+        "q": "In the subsequent daily 1RM squat study by Fry et al. (10 sets of 1RM daily for 7 days), what performance drop occurred in 73% of subjects?",
+        "opts": [
+          "A significant decrease of >9.9 lb (>4.5 kg) in 1RM squat strength",
+          "A 50% increase in 1RM strength",
+          "Complete inability to walk for 10 years",
+          "Zero change in any strength metric"
+        ],
+        "correct": 0,
+        "rationale": "Performing 10 sets of 1RM squats daily for 7 days resulted in a significant decrease exceeding 9.9 lb (4.5 kg) in 1RM squat strength in 73% of subjects."
+      },
+      {
+        "id": 3,
+        "q": "Why did 27% of subjects in the Fry et al. 7-day 1RM squat study fail to develop nonfunctional overreaching?",
+        "opts": [
+          "The onset of overreaching depends heavily on individual responses, training status, and genetic endowment",
+          "They were taking anti-gravity supplements",
+          "They performed 100 additional sets of squats at night",
+          "They had no nervous system"
+        ],
+        "correct": 0,
+        "rationale": "Individual variation in stress tolerance, previous training status, and genetic endowment dictate why some athletes enter NFOR quickly while others withstand high loads."
+      },
+      {
+        "id": 4,
+        "q": "What is a primary prescriptive mistake that leads to the development of anaerobic overtraining syndrome?",
+        "opts": [
+          "A rate of progressive overload that increases volume or intensity too rapidly with insufficient recovery",
+          "Including a 2-week active recovery period after every mesocycle",
+          "Increasing training load by 2% once every 6 months",
+          "Utilizing light weightlifting for warm-ups"
+        ],
+        "correct": 0,
+        "rationale": "Increasing volume or intensity too rapidly over weeks or months without sufficient recovery is a primary prescriptive mistake leading to structural damage and OTS."
+      },
+      {
+        "id": 5,
+        "q": "Which training variable combination creates the highest risk for anaerobic overtraining when repeatedly performed with limited rest?",
+        "opts": [
+          "High volume of heavy training loads paired with high training frequency and short rest",
+          "Low loading (20% 1RM) performed once per week",
+          "High set volume performed with 10-minute rest intervals once a month",
+          "Single-set resistance training performed twice a week"
+        ],
+        "correct": 0,
+        "rationale": "Pairing high training volume with heavy loads, high training frequency, and insufficient rest between workouts rapidly exceeds recovery capacity, inducing NFOR/OTS."
+      },
+      {
+        "id": 6,
+        "q": "How does high-velocity explosive power performance respond compared to slow-velocity 1RM strength during early overreaching?",
+        "opts": [
+          "High-velocity power (sprinting, agility, jump power) degrades earlier and more severely than slow-velocity 1RM strength",
+          "High-velocity power increases by 200% while 1RM strength drops to zero",
+          "Both metrics respond identically at every time point",
+          "Slow-velocity 1RM strength drops immediately while explosive power is unaffected"
+        ],
+        "correct": 0,
+        "rationale": "Experimental models demonstrate that high-velocity, explosive force output (sprints, agility, torque) suffers early decrements, whereas slow-velocity 1RM strength is resilient longer."
+      },
+      {
+        "id": 7,
+        "q": "What training methodology is essential for avoiding anaerobic overtraining while sustaining continued strength gains?",
+        "opts": [
+          "Careful periodization consisting of planned variations in loading, volume, and rest intervals",
+          "Performing 1RM lifts every day of the year without rest days",
+          "Eliminating all heavy loads forever",
+          "Restricting water intake during high-volume workouts"
+        ],
+        "correct": 0,
+        "rationale": "Training periodization with structured variations in volume, intensity, and recovery is critical to prevent fatigue accumulation from exceeding adaptive capacity."
+      },
+      {
+        "id": 8,
+        "q": "What neuromuscular damage or alteration is specifically associated with anaerobic overtraining?",
+        "opts": [
+          "Negative physiological alterations in motor unit recruitment, neural firing rates, and force expression",
+          "Permanent destruction of 100% of muscle cell DNA",
+          "Conversion of all motor nerves into blood vessels",
+          "Complete calcification of all sarcoplasmic reticula"
+        ],
+        "correct": 0,
+        "rationale": "Anaerobic overtraining damages neuromuscular function, blunting voluntary motor unit recruitment, rate coding, and maximal force expression."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which performance decrements were documented by Fry et al. (1994) following 6 days of 95% 1RM machine squats? (Select all that apply)",
+        "opts": [
+          "Decreased isokinetic torque production",
+          "Slower sprint times",
+          "Slower agility times",
+          "Preservation of 1RM strength"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Fry et al. (1994) documented decrements in isokinetic torque, sprint speed, and agility, alongside the specific preservation of 1RM squat strength."
+      },
+      {
+        "id": 2,
+        "q": "Which exercise prescription mistakes contribute directly to anaerobic overtraining? (Select all that apply)",
+        "opts": [
+          "Excessively rapid progressive overload in volume or intensity",
+          "Combining heavy loads with high volume and high frequency",
+          "Providing inadequate rest and recovery between workouts",
+          "Including planned tapering phases before competitions"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Rapid overload, high volume/intensity/frequency combinations, and inadequate rest drive OTS; planned tapering prevents OTS."
+      },
+      {
+        "id": 3,
+        "q": "Which factors account for why individual athletes respond differently to daily 1RM squat overloading? (Select all that apply)",
+        "opts": [
+          "Individual biological stress tolerance",
+          "Previous training status and chronic workload capacity",
+          "Genetic endowment",
+          "Phase of the moon"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Research highlights that individual training status, stress resilience, and genetic factors govern whether an athlete enters NFOR or continues adapting."
+      },
+      {
+        "id": 4,
+        "q": "Which physiological systems undergo damage or negative alterations during anaerobic overtraining? (Select all that apply)",
+        "opts": [
+          "Neuromuscular recruitment and motor unit firing rates",
+          "Excitation-contraction coupling mechanisms in active fibers",
+          "Connective tissue structural integrity",
+          "Autonomic neural regulation"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Anaerobic OTS alters neuromuscular recruitment, excitation-contraction coupling, connective tissues, and autonomic signaling."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "In the study by Fry et al. (1994), 6 days of 95% 1RM squats caused a 50% drop in 1RM strength.",
+        "ans": false,
+        "feedback": "Fry et al. (1994) found that 1RM strength was uniquely PRESERVED, even though sprint, agility, and torque metrics decreased."
+      },
+      {
+        "id": 2,
+        "q": "In the daily 1RM squat study by Fry et al. (1998), 73% of subjects experienced a significant decrease (>4.5 kg) in 1RM strength.",
+        "ans": true,
+        "feedback": "Daily 1RM squatting for 7 days caused a significant 1RM strength drop in 73% of subjects, demonstrating NFOR."
+      },
+      {
+        "id": 3,
+        "q": "High-velocity explosive power performance generally degrades earlier during overreaching than slow-velocity 1RM strength.",
+        "ans": true,
+        "feedback": "Sprint, agility, and explosive torque metrics show early decrements, whereas slow-velocity 1RM strength is preserved longer."
+      },
+      {
+        "id": 4,
+        "q": "Periodization is unnecessary in strength training because muscle tissue adapts equally well to constant maximal loading.",
+        "ans": false,
+        "feedback": "Periodization is essential to vary loading and rest, preventing excessive fatigue from exceeding adaptive and recovery capacities."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Fry et al. (1994) showed 6 days of 95% 1RM squats reduced sprint speed but preserved **1RM strength**, whereas 7 days of daily 1RM squats caused a **>4.5 kg decrease** in 73% of subjects.",
+        "targets": [
+          "1RM strength",
+          ">4.5 kg decrease"
+        ],
+        "optionsBank": [
+          "1RM strength",
+          ">4.5 kg decrease",
+          "50% increase",
+          "bone density",
+          "aerobic capacity"
+        ],
+        "hint": "Recall the preserved metric in 1994 and the strength drop magnitude in 1998."
+      },
+      {
+        "id": 2,
+        "statement": "Anaerobic overtraining stems from an excessive rate of **progressive overload** combined with inadequate **recovery**.",
+        "targets": [
+          "progressive overload",
+          "recovery"
+        ],
+        "optionsBank": [
+          "progressive overload",
+          "recovery",
+          "glycogen storage",
+          "stretching",
+          "atrophy"
+        ],
+        "hint": "Identify the primary program design error and missing variable."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Compare the experimental findings of Fry et al. (1994) and Fry et al. (1998) regarding short-term anaerobic overreaching, highlighting performance metric differences and individual variation.",
+        "model": "1. Fry et al. (1994): Subjects performed 8 sets of machine squats at 95% 1RM for 6 consecutive days. Results showed nonspecific performance decrements in high-velocity metrics (slower sprint and agility times, lower isokinetic torque), but 1RM strength was uniquely preserved.\n2. Fry et al. (1998): Subjects performed 10 sets of 1RM squats daily for 7 days. This higher-stress protocol caused a significant decrease (>4.5 kg) in 1RM squat strength in 73% of subjects.\n3. Individual Variation: In the 1998 study, 27% of subjects did not enter NFOR and continued making progress, proving that overreaching onset is heavily dependent on individual training status and genetic endowment.",
+        "criteria": [
+          "Detail Fry et al. (1994): 6 days of 95% 1RM decreased sprint/agility/torque but preserved 1RM strength.",
+          "Detail Fry et al. (1998): 7 days of daily 1RM squats caused a >4.5 kg 1RM drop in 73% of subjects.",
+          "Highlight that 27% resisted NFOR, demonstrating individual genetic/training status variation."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Identify three major exercise prescription errors that lead to anaerobic overtraining, and explain how periodization prevents these mistakes.",
+        "model": "1. Prescriptive Errors: (a) Excessive rate of progressive overload (increasing volume or intensity too rapidly over weeks/months); (b) Pairing heavy loading with high volume and high frequency; (c) Providing insufficient rest and recovery between workouts.\n2. Role of Periodization: Periodization systematically alternates training phases (varying volume, intensity, exercise selection, and rest intervals) and incorporates planned recovery/tapering mesocycles. This manages cumulative fatigue, prevents structural damage accumulation, and allows supercompensation without driving the athlete into NFOR or OTS.",
+        "criteria": [
+          "Identify rapid overload rate, excessive volume/intensity/frequency pairing, and inadequate rest.",
+          "Explain that periodization systematically varies volume, intensity, and rest intervals.",
+          "State that planned recovery/tapering mesocycles manage fatigue to allow supercompensation."
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "How do resting hormonal profiles differ between volume-related overtraining and intensity-related overtraining?",
+        "opts": [
+          "Volume-related OTS elevates resting cortisol and depresses resting testosterone; intensity-related OTS causes no significant changes in resting hormone baseline",
+          "Intensity-related OTS doubles resting testosterone while volume-related OTS eliminates cortisol",
+          "Both types produce identical 1,000% increases in resting growth hormone",
+          "Volume-related OTS alters no hormones while intensity-related OTS causes adrenal shutdown"
+        ],
+        "correct": 0,
+        "rationale": "Textbook evidence shows volume-related overtraining elevates resting cortisol and depresses resting testosterone and LH, whereas intensity-related overtraining alters no resting basal hormone concentrations."
+      },
+      {
+        "id": 2,
+        "q": "Why is the resting plasma testosterone-to-cortisol ratio no longer considered a definitive diagnostic marker for overtraining syndrome (OTS)?",
+        "opts": [
+          "It reflects only the actual physiological strain of training rather than serving as a diagnostic marker for OTS",
+          "Testosterone and cortisol do not exist in human blood",
+          "The ratio increases by 500% during total exhaustion",
+          "It measures only psychological anger levels"
+        ],
+        "correct": 0,
+        "rationale": "While the testosterone-to-cortisol ratio decreases with exercise intensity and duration, research confirms it indicates physiological training strain rather than providing a diagnostic confirmation of OTS."
+      },
+      {
+        "id": 3,
+        "q": "According to Meeusen et al., what neuroendocrine progression occurs in highly trained athletes during nonfunctional overreaching?",
+        "opts": [
+          "An initial hypersensitive sympathetic hormone surge, followed by suppression of pituitary hormone secretion due to receptor downregulation and exhaustion",
+          "Immediate permanent destruction of the thyroid gland within 1 second",
+          "Continuous linear 100-fold increase in ACTH for 10 years",
+          "Complete disappearance of the hypothalamus"
+        ],
+        "correct": 0,
+        "rationale": "Meeusen et al. reported a biphasic neuroendocrine response: an initial hypersensitive sympathetic hormone surge, followed by blunted pituitary secretion (ACTH, GH, LH, FSH) reflecting pituitary desensitization and exhaustion."
+      },
+      {
+        "id": 4,
+        "q": "What psychological assessment tool is widely utilized to monitor mood disturbances associated with overtraining?",
+        "opts": [
+          "Profile of Mood States (POMS)",
+          "Electrocardiogram (ECG)",
+          "Dual-energy X-ray absorptiometry (DEXA)",
+          "Functional magnetic resonance imaging (fMRI)"
+        ],
+        "correct": 0,
+        "rationale": "The Profile of Mood States (POMS) is the standard psychological questionnaire used to track mood disturbances, decreased vigor, and elevated fatigue in overtrained athletes."
+      },
+      {
+        "id": 5,
+        "q": "Why is psychological monitoring via POMS valuable for strength and conditioning coaches in preventing OTS?",
+        "opts": [
+          "Psychological alterations and mood disturbances often manifest before measurable performance decrements occur",
+          "POMS scores can replace all physical weightlifting sessions",
+          "POMS measures exact muscle fiber cross-sectional area",
+          "Psychological shifts occur only 10 years after an athlete retires"
+        ],
+        "correct": 0,
+        "rationale": "Athletes frequently experience altered mood states (decreased vigor/confidence, increased fatigue/confusion) prior to measurable physical performance drops, making POMS an early warning tool."
+      },
+      {
+        "id": 6,
+        "q": "What acute hormonal response is observed in trained individuals with previous exposure to overreaching when performing resistance exercise?",
+        "opts": [
+          "Augmented acute testosterone responses post-exercise",
+          "Complete absence of growth hormone secretion",
+          "Immediate 100% drop in blood glucose",
+          "Permanent shutdown of the adrenal cortex"
+        ],
+        "correct": 0,
+        "rationale": "In response to acute resistance exercise, trained athletes with previous overreaching exposure often exhibit augmented acute post-workout testosterone responses."
+      },
+      {
+        "id": 7,
+        "q": "Which pituitary hormones exhibit a blunted release in response to stressful stimuli during advanced neuroendocrine overtraining?",
+        "opts": [
+          "ACTH, Growth Hormone, Luteinizing Hormone (LH), and Follicle-Stimulating Hormone (FSH)",
+          "Insulin and Glucagon",
+          "Calcitonin and Parathyroid Hormone",
+          "Erythropoietin and Renin"
+        ],
+        "correct": 0,
+        "rationale": "Advanced overtraining blunts the anterior pituitary release of ACTH, GH, LH, and FSH in response to stress, reflecting central neuroendocrine exhaustion."
+      },
+      {
+        "id": 8,
+        "q": "What specific mood state shift is characteristically observed in athletes undergoing heavy resistance overtraining?",
+        "opts": [
+          "Decreased vigor, motivation, and confidence alongside elevated tension, depression, anger, fatigue, and confusion",
+          "Extremely high vigor combined with total absence of fatigue",
+          "Complete emotional euphoria and zero tension",
+          "Uncontrollable laughter during maximal 1RM attempts"
+        ],
+        "correct": 0,
+        "rationale": "Heavy resistance overtraining triggers a classic mood disturbance profile: reduced vigor, motivation, and confidence paired with heightened tension, depression, anger, fatigue, and confusion."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which endocrine changes characterize volume-related overtraining? (Select all that apply)",
+        "opts": [
+          "Increased resting cortisol concentrations",
+          "Decreased resting total testosterone concentrations",
+          "Decreased resting free testosterone concentrations",
+          "Decreased resting luteinizing hormone (LH) concentrations"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Volume-related overtraining increases resting cortisol and depresses total testosterone, free testosterone, and LH."
+      },
+      {
+        "id": 2,
+        "q": "Which statements regarding the resting testosterone-to-cortisol ratio are correct? (Select all that apply)",
+        "opts": [
+          "It decreases in relation to training intensity and duration",
+          "It reflects the actual physiological strain of training",
+          "It cannot be used as a standalone diagnostic marker for OTS",
+          "It permanently stays at 1.0 regardless of workout volume"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "The ratio drops with workload and measures training strain, but lacks diagnostic accuracy to independently confirm OTS."
+      },
+      {
+        "id": 3,
+        "q": "Which psychological alterations measured by POMS accompany heavy resistance overtraining? (Select all that apply)",
+        "opts": [
+          "Decreased vigor and motivation",
+          "Decreased self-confidence",
+          "Increased tension, anger, and depression",
+          "Increased fatigue, confusion, and irritability"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "POMS tracking in overtrained lifters demonstrates reduced vigor/confidence and elevated tension, depression, anger, fatigue, confusion, and irritability."
+      },
+      {
+        "id": 4,
+        "q": "Which neuroendocrine features characterize Meeusen's pituitary exhaustion model in overtrained athletes? (Select all that apply)",
+        "opts": [
+          "Initial hypersensitive sympathetic hormone surge in highly trained athletes",
+          "Subsequent suppression of circulating pituitary hormones (ACTH, GH, LH, FSH)",
+          "Downregulation of anterior pituitary receptor sensitivity",
+          "Permanent conversion of the pituitary gland into fat"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Meeusen's model details an initial hypersensitive sympathetic surge followed by pituitary desensitization and blunted ACTH, GH, LH, and FSH release."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Volume-related overtraining increases resting cortisol and depresses resting testosterone levels.",
+        "ans": true,
+        "feedback": "Excessive volume increases catabolic cortisol while suppressing anabolic total/free testosterone and LH."
+      },
+      {
+        "id": 2,
+        "q": "Intensity-related overtraining consistently causes severe drops in resting basal concentrations of testosterone, cortisol, and growth hormone.",
+        "ans": false,
+        "feedback": "Research by Fry et al. showed that intensity-related overtraining produces NO significant changes in resting baseline hormone levels."
+      },
+      {
+        "id": 3,
+        "q": "Psychological mood disturbances tracked by POMS often appear before measurable physical performance decrements occur.",
+        "ans": true,
+        "feedback": "Altered mental states (decreased vigor, raised fatigue/confusion) serve as an early warning signal before physical drops occur."
+      },
+      {
+        "id": 4,
+        "q": "The resting testosterone-to-cortisol ratio is a definitive, 100% accurate diagnostic marker for overtraining syndrome.",
+        "ans": false,
+        "feedback": "The ratio reflects training strain rather than acting as a standalone diagnostic tool for OTS."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Volume-related overtraining increases resting **cortisol** and depresses **testosterone**, whereas intensity-related overtraining causes no change in resting basal hormones.",
+        "targets": [
+          "cortisol",
+          "testosterone"
+        ],
+        "optionsBank": [
+          "cortisol",
+          "testosterone",
+          "insulin",
+          "thyroxine",
+          "epinephrine"
+        ],
+        "hint": "Identify the catabolic hormone that elevates and the anabolic hormone that decreases in volume OTS."
+      },
+      {
+        "id": 2,
+        "statement": "Psychological monitoring via **POMS** detects decreased **vigor** and elevated fatigue before physical performance decrements occur.",
+        "targets": [
+          "POMS",
+          "vigor"
+        ],
+        "optionsBank": [
+          "POMS",
+          "vigor",
+          "DEXA",
+          "bone density",
+          "myostatin"
+        ],
+        "hint": "Name the psychological profile tool and the positive mood metric that drops."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Distinguish between volume-related overtraining and intensity-related overtraining regarding their respective resting endocrine profiles, and explain why the testosterone-to-cortisol ratio is not a standalone diagnostic marker.",
+        "model": "1. Volume-Related Overtraining: Causes distinct resting endocrine shifts, specifically increasing resting plasma cortisol concentrations while depressing resting total testosterone, free testosterone, and luteinizing hormone (LH).\n2. Intensity-Related Overtraining: Produces no significant changes in resting baseline concentrations of circulating hormones (testosterone, free testosterone, cortisol, or growth hormone), as demonstrated by Fry et al.\n3. Testosterone-to-Cortisol Ratio: Although this ratio decreases with increased training workload and duration, it reflects the actual physiological strain of training rather than serving as a diagnostic tool for OTS.",
+        "criteria": [
+          "State that volume OTS elevates resting cortisol and depresses resting testosterone and LH.",
+          "State that intensity OTS causes no changes in resting baseline hormone concentrations.",
+          "Explain that the testosterone-to-cortisol ratio measures training strain, not diagnostic OTS."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Describe Meeusen's neuroendocrine model of pituitary exhaustion during nonfunctional overreaching, and explain the clinical value of POMS tracking for early detection.",
+        "model": "1. Meeusen's Neuroendocrine Model: In highly trained athletes undergoing NFOR, the neuroendocrine system initially experiences an intense, hypersensitive sympathetic hormone surge in response to stress. With continued unmanaged loading, pituitary gland sensitivity downregulates, resulting in pituitary exhaustion and blunted secretion of anterior pituitary hormones (ACTH, GH, LH, FSH).\n2. Clinical Value of POMS: The Profile of Mood States (POMS) tracks mood disturbances (decreased vigor, motivation, confidence; raised tension, depression, anger, fatigue, confusion). Because psychological shifts manifest before physical performance drops, POMS provides vital early detection to prevent NFOR from progressing into OTS.",
+        "criteria": [
+          "Detail Meeusen's model: initial hypersensitive sympathetic surge followed by downregulated pituitary sensitivity and blunted ACTH/GH/LH/FSH release.",
+          "Identify POMS as a psychological tracking tool for mood state shifts.",
+          "Explain that psychological alterations manifest before physical performance drops, enabling early NFOR detection."
+        ]
+      }
+    ]
+  }
+}

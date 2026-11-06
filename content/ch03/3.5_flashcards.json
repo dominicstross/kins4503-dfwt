@@ -1,0 +1,83 @@
+{
+    "chapterId": "3.5",
+    "title": "3.5 Oxygen Uptake and the Aerobic and Anaerobic Contributions to Exercise",
+    "cards": [
+        {
+            "id": "3.5-01",
+            "tag": "Oxygen Uptake Kinetics",
+            "reference": "Section 3.5",
+            "front": "What is <strong>oxygen uptake</strong> (VO<sub>2</sub>), and what physiological systems govern it?",
+            "back": "<strong>Oxygen uptake</strong> is a measure of a person's ability to take in oxygen via the respiratory system, deliver it to working tissues via the cardiovascular system, and the ability of working tissues (predominantly skeletal muscle) to use oxygen to produce energy."
+        },
+        {
+            "id": "3.5-02",
+            "tag": "Oxygen Uptake Kinetics",
+            "reference": "Section 3.5",
+            "front": "What occurs when an individual reaches <strong>steady state</strong> during constant submaximal exercise?",
+            "back": "During low-intensity exercise with a constant power output, oxygen uptake increases over the first few minutes until reaching <strong>steady state</strong>, where physiological oxygen demand exactly equals oxygen consumption."
+        },
+        {
+            "id": "3.5-03",
+            "tag": "Oxygen Deficit",
+            "reference": "Section 3.5",
+            "front": "What is the <strong>oxygen deficit</strong>, and why does it occur at the onset of exercise?",
+            "back": "The <strong>oxygen deficit</strong> is the anaerobic contribution to the total energy cost of exercise at exercise onset. It occurs because the aerobic system responds slowly to sudden increases in energy demand, requiring anaerobic mechanisms (phosphagen system and fast glycolysis) to supply ATP initially."
+        },
+        {
+            "id": "3.5-04",
+            "tag": "EPOC & Recovery",
+            "reference": "Section 3.5",
+            "front": "What is <strong>excess postexercise oxygen consumption (EPOC)</strong>, and what are its historical alternative terms?",
+            "back": "<strong>EPOC</strong> is the elevated oxygen uptake above resting values used to restore the body to its preexercise baseline condition. Historically, it has also been termed <em>oxygen debt</em> or <em>recovery O<sub>2</sub></em>."
+        },
+        {
+            "id": "3.5-05",
+            "tag": "EPOC & Recovery",
+            "reference": "Section 3.5",
+            "front": "What quantitative relationship exists between <strong>oxygen deficit</strong> and <strong>EPOC</strong>?",
+            "back": "Only <strong>small to moderate relationships</strong> exist between oxygen deficit and EPOC. While the oxygen deficit incurred at exercise onset influences the magnitude of EPOC, the two parameters are <strong>not equal</strong>."
+        },
+        {
+            "id": "3.5-06",
+            "tag": "EPOC Determinants",
+            "reference": "Section 3.5",
+            "front": "What primary physiological factors contribute to elevated <strong>EPOC</strong> following exercise?",
+            "back": "Factors affecting EPOC include:<ul><li>Resynthesis of ATP and creatine phosphate (CP) stores.</li><li>Resynthesis of glycogen from lactate.</li><li>Restoration of oxygen in blood (hemoglobin) and muscle (myoglobin).</li><li>Elevated body temperature, circulation, and ventilation.</li><li>Elevated hormone levels (e.g., catecholamines).</li></ul>"
+        },
+        {
+            "id": "3.5-07",
+            "tag": "Anaerobic Energy System",
+            "reference": "Section 3.5",
+            "front": "What metabolic mechanisms provide energy when exercise intensity exceeds <strong>maximal oxygen uptake</strong> (VO<sub>2</sub>max)?",
+            "back": "When exercise intensity is above an individual's VO<sub>2</sub>max, <strong>anaerobic mechanisms</strong> (phosphagen system and fast glycolysis) provide much of the energy for work. As the anaerobic contribution increases, maximal exercise duration decreases."
+        },
+        {
+            "id": "3.5-08",
+            "tag": "Bioenergetic Crossover",
+            "reference": "Section 3.5",
+            "front": "What is the bioenergetic <strong>crossover duration</strong> where energy supply transitions from anaerobic to aerobic dominance?",
+            "back": "Anaerobic mechanisms are the primary energy supplier for maximal sustained efforts up to <strong>60 seconds</strong> (50% anaerobic / 50% aerobic), after which <strong>aerobic metabolism</strong> becomes the primary energy provider."
+        },
+        {
+            "id": "3.5-09",
+            "tag": "Energy System Contributions",
+            "reference": "Section 3.5",
+            "front": "What are the approximate <strong>anaerobic vs. aerobic energy contributions</strong> during 10-second and 30-second maximal sustained efforts?",
+            "back": "<ul><li><strong>10-Second Maximal Effort:</strong> ~90% Anaerobic / ~10% Aerobic.</li><li><strong>30-Second Maximal Effort:</strong> ~80% Anaerobic / ~20% Aerobic.</li></ul>"
+        },
+        {
+            "id": "3.5-10",
+            "tag": "Energy System Contributions",
+            "reference": "Section 3.5",
+            "front": "What are the approximate <strong>anaerobic vs. aerobic energy contributions</strong> for 90-second and 120-180-second maximal sustained efforts?",
+            "back": "<ul><li><strong>90-Second Maximal Effort:</strong> ~30% Anaerobic / ~70% Aerobic.</li><li><strong>120 to 180-Second Maximal Effort:</strong> ~10-20% Anaerobic / ~80-90% Aerobic.</li></ul>"
+        },
+        {
+            "id": "3.5-11",
+            "tag": "Anaerobic Capacity",
+            "reference": "Section 3.5",
+            "front": "How is <strong>maximal anaerobic capacity</strong> defined in exercise bioenergetics?",
+            "back": "<strong>Maximal anaerobic capacity</strong> represents the maximal total energy contribution derived from anaerobic mechanisms (phosphagen system and fast glycolysis) during short-duration, high-intensity maximal sustained exertion."
+        }
+    ]
+}

@@ -1,0 +1,768 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Through which central metabolic pathways is ATP primarily produced during aerobic endurance conditioning?",
+        "opts": [
+          "Phosphagen system and anaerobic fast glycolysis",
+          "Krebs cycle and the electron transport chain",
+          "Myokinase reaction and adenylate kinase cascade",
+          "Sarcoplasmic reticulum calcium ATPase pathway"
+        ],
+        "correct": 1,
+        "rationale": "Aerobic metabolism generates ATP primarily through oxidative phosphorylation within the mitochondria via the Krebs cycle and the electron transport chain, using carbohydrates, fats, and proteins as fuel."
+      },
+      {
+        "id": 2,
+        "q": "Why is a well-developed aerobic endurance base critical for athletes competing in intermittent multi-sprint sports such as soccer or basketball?",
+        "opts": [
+          "It increases peak sprint velocity by converting Type I fibers to Type IIx fibers.",
+          "It provides continuous ATP for high-intensity movement and accelerates recovery between sprint bursts.",
+          "It eliminates the accumulation of blood lactate during maximal 30-meter sprints.",
+          "It downregulates anabolic hormonal responses during high-velocity play."
+        ],
+        "correct": 1,
+        "rationale": "In intermittent team and court sports (e.g., soccer, basketball, hockey), aerobic conditioning sustains continuous low-to-moderate intensity locomotion and accelerates PCr resynthesis and lactate clearance between high-intensity sprint bursts."
+      },
+      {
+        "id": 3,
+        "q": "What is the primary central cardiovascular adaptation responsible for increasing maximal oxygen uptake (VO2max) following aerobic endurance training?",
+        "opts": [
+          "A significant increase in maximal heart rate (HRmax)",
+          "A significant increase in maximal cardiac output (Qmax) driven by increased stroke volume",
+          "A reduction in arterial-venous oxygen difference (a-vO2 diff)",
+          "An elevation in peripheral vascular resistance during exercise"
+        ],
+        "correct": 1,
+        "rationale": "An increase in VO2max is primarily driven by an increase in maximal cardiac output (Qmax), which itself increases due to chronic increases in maximal stroke volume (SVmax)."
+      },
+      {
+        "id": 4,
+        "q": "What is the typical percentage range of VO2max improvement observed following chronic aerobic endurance conditioning?",
+        "opts": [
+          "1% to 3%",
+          "5% to 30%",
+          "40% to 60%",
+          "70% to 90%"
+        ],
+        "correct": 1,
+        "rationale": "Aerobic endurance training programs typically improve VO2max by 5% to 30%, depending on the individual's baseline fitness level and genetic adaptation ceiling."
+      },
+      {
+        "id": 5,
+        "q": "Within what training time frame do the vast majority of VO2max adaptations occur in response to structured aerobic conditioning?",
+        "opts": [
+          "2 to 4 weeks",
+          "6 to 12 months",
+          "3 to 5 years",
+          "8 to 10 years"
+        ],
+        "correct": 1,
+        "rationale": "Most adaptations in maximal oxygen uptake (VO2max) occur within a 6- to 12-month training period, after which VO2max tends to reach a plateau."
+      },
+      {
+        "id": 6,
+        "q": "When maximal oxygen uptake (VO2max) reaches a plateau in experienced endurance athletes, through what primary mechanisms can performance continue to improve?",
+        "opts": [
+          "Increased maximal heart rate and reduced stroke volume",
+          "Enhanced running economy and an elevated lactate threshold",
+          "Selective hypertrophy of Type IIx fast-twitch fibers",
+          "Reduced mitochondrial enzyme concentration"
+        ],
+        "correct": 1,
+        "rationale": "Once VO2max plateaus, further endurance performance improvements in trained athletes depend on increases in running economy and an upward shift in the lactate threshold."
+      },
+      {
+        "id": 7,
+        "q": "What energy substrate provides the primary source of acetyl-CoA for the Krebs cycle during prolonged, moderate-intensity aerobic exercise?",
+        "opts": [
+          "Free fatty acids via beta-oxidation and pyruvate from carbohydrates",
+          "Creatine phosphate breakdown products",
+          "Circulating blood lactate directly without conversion",
+          "Branched-chain amino acids exclusively"
+        ],
+        "correct": 0,
+        "rationale": "During prolonged aerobic exercise, acetyl-CoA enters the Krebs cycle derived from carbohydrate breakdown (glycolysis) and fatty acid oxidation (beta-oxidation)."
+      },
+      {
+        "id": 8,
+        "q": "How does aerobic conditioning affect the rate of phosphocreatine (PCr) resynthesis during short rest intervals in intermittent sports?",
+        "opts": [
+          "It slows PCr resynthesis by diverting blood flow away from active muscles.",
+          "It accelerates PCr resynthesis by enhancing aerobic ATP delivery in mitochondria during recovery.",
+          "It has no measurable effect on PCr kinetics.",
+          "It completely replaces PCr with direct anaerobic glycolysis."
+        ],
+        "correct": 1,
+        "rationale": "Aerobic energy production in mitochondria supplies the ATP required to rephosphorylate creatine into phosphocreatine (PCr) during recovery intervals between high-intensity work bouts."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following factors influence the magnitude of VO2max increase experienced by an individual following an aerobic endurance program? (Select all that apply)",
+        "opts": [
+          "Pre-training baseline fitness level",
+          "Genetic potential and physiological adaptation ceiling",
+          "Training intensity and specificity",
+          "Anatomical length of the femur",
+          "Duration and frequency of training sessions"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Baseline fitness level, genetic potential, training intensity, and program volume/duration dictate VO2max responsiveness. Femur length does not directly determine VO2max adaptation percentage."
+      },
+      {
+        "id": 2,
+        "q": "Which sports rely heavily on an established aerobic energy system base to sustain repetitive intermittent high-intensity efforts? (Select all that apply)",
+        "opts": [
+          "Soccer",
+          "Basketball",
+          "Ice hockey",
+          "Field hockey",
+          "Olympic weightlifting single-rep attempts"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Soccer, basketball, ice hockey, and field hockey are multi-sprint intermittent team sports requiring an aerobic base for recovery. Single-rep Olympic lifting relies almost exclusively on the phosphagen system without significant aerobic contribution during the lift."
+      },
+      {
+        "id": 3,
+        "q": "Which physiological changes contribute directly to the elevation of maximal cardiac output (Qmax) in conditioned endurance athletes? (Select all that apply)",
+        "opts": [
+          "Increased left ventricular end-diastolic volume (EDV)",
+          "Enhanced myocardial contractility",
+          "Chronic increase in maximal heart rate above 220 bpm",
+          "Increased plasma volume and total venous return",
+          "Decreased stroke volume during maximal exertion"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Increased chamber volume (EDV), enhanced contractility, and expanded plasma volume drive stroke volume and cardiac output. Maximal heart rate does not increase above age-predicted norms with training."
+      },
+      {
+        "id": 4,
+        "q": "What physiological advantages are gained when an athlete continues endurance training after VO2max has plateaued? (Select all that apply)",
+        "opts": [
+          "Improved mechanical efficiency and running economy",
+          "Higher percentage of VO2max sustained before blood lactate accumulates",
+          "Decreased capillary density in active motor units",
+          "Greater lipid oxidation at higher relative workloads",
+          "Complete cessation of mitochondrial enzyme synthesis"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Post-VO2max plateau gains occur through enhanced economy, higher lactate threshold (% VO2max), and greater fat oxidation, while capillary and mitochondrial adaptations remain elevated."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Maximal heart rate increases substantially following 6 to 12 months of aerobic endurance training to support elevated cardiac output.",
+        "ans": false,
+        "feedback": "Maximal heart rate remains unchanged or may slightly decrease with age and endurance training; the increase in maximal cardiac output is driven entirely by an increase in maximal stroke volume."
+      },
+      {
+        "id": 2,
+        "q": "Aerobic conditioning enhances inter-sprint recovery in team sport athletes by accelerating phosphocreatine (PCr) resynthesis and metabolic byproduct clearance.",
+        "ans": true,
+        "feedback": "Aerobic energy pathways within mitochondria provide the ATP required to rapidly rephosphorylate PCr and assist in clearing hydrogen ions and lactate between high-intensity sprint efforts."
+      },
+      {
+        "id": 3,
+        "q": "Untrained individuals typically display a higher percentage increase in VO2max following standardized aerobic conditioning than elite endurance athletes.",
+        "ans": true,
+        "feedback": "Untrained individuals have greater adaptive head-room and can improve VO2max by 20% to 30%, whereas elite athletes near their genetic ceiling typically see modest gains of 5% or less."
+      },
+      {
+        "id": 4,
+        "q": "Once an athlete's VO2max reaches a plateau, further athletic performance improvements in endurance events become impossible.",
+        "ans": false,
+        "feedback": "Athletes can continue to improve performance significantly after VO2max plateaus through adaptations in running economy, movement efficiency, and an elevated lactate threshold."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "An increase in maximal oxygen uptake is primarily driven by an increase in **maximal cardiac output**, which is determined by the product of heart rate and **stroke volume**.",
+        "targets": [
+          "maximal cardiac output",
+          "stroke volume"
+        ],
+        "optionsBank": [
+          "maximal cardiac output",
+          "stroke volume",
+          "arterial-venous difference",
+          "diastolic pressure",
+          "tidal volume"
+        ],
+        "hint": "Recall the central cardiovascular parameters of the Fick equation."
+      },
+      {
+        "id": 2,
+        "statement": "In experienced endurance athletes whose VO2max has plateaued, further performance gains are achieved through improvements in **running economy** and a rightward shift in the **lactate threshold**.",
+        "targets": [
+          "running economy",
+          "lactate threshold"
+        ],
+        "optionsBank": [
+          "running economy",
+          "lactate threshold",
+          "maximal heart rate",
+          "glycolytic capacity",
+          "muscle cross-sectional area"
+        ],
+        "hint": "Identify the two major submaximal physiological markers of endurance performance."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain why a mid-fielder in soccer benefits from a high level of aerobic endurance conditioning despite the match being characterized by brief, high-intensity sprints.",
+        "model": "A soccer midfielder covers extensive ground (10-12 km per match) using aerobic energy to sustain continuous low-to-moderate intensity locomotion. Furthermore, a high aerobic capacity accelerates oxygen kinetics during recovery intervals, enabling rapid phosphocreatine (PCr) resynthesis and buffering of hydrogen ions between high-intensity sprints. This prevents premature contractile fatigue and preserves late-game sprint velocity and skill execution.",
+        "criteria": [
+          "Mentions aerobic metabolism sustaining low-to-moderate locomotion over the match duration.",
+          "Identifies aerobic ATP delivery as the driver of rapid PCr resynthesis during rest intervals.",
+          "Notes enhanced clearance/buffering of metabolic byproducts to maintain late-game performance."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "A distance runner has trained for 18 months. Their VO2max increased significantly during months 1-10 but has remained unchanged at 68 ml/kg/min for the last 8 months. However, their 10k race times continue to improve. Explain the physiological mechanism accounting for this ongoing performance progress.",
+        "model": "The initial 10 months allowed the athlete to reach their central cardiovascular ceiling for VO2max (driven by maximal cardiac output and stroke volume). The ongoing performance improvements over the last 8 months are driven by peripheral and metabolic adaptations that improve running economy (less oxygen consumed at a given submaximal velocity) and elevate the lactate threshold (allowing the athlete to sustain a higher percentage of their VO2max without metabolic acidosis).",
+        "criteria": [
+          "States that VO2max reaches a genetic/central plateau typically within 6-12 months.",
+          "Explains improvements in running economy (submaximal energetic efficiency).",
+          "Explains the rightward shift in lactate threshold allowing a higher % VO2max race pace."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Which submaximal physiological variable represents the energy expenditure required to run at a given submaximal velocity?",
+        "opts": [
+          "Lactate threshold",
+          "Running economy",
+          "Maximal oxygen deficit",
+          "Ventilatory equivalent for carbon dioxide"
+        ],
+        "correct": 1,
+        "rationale": "Running economy refers to the metabolic cost or oxygen consumption required to maintain a given submaximal running speed; better economy means using less oxygen at that speed."
+      },
+      {
+        "id": 2,
+        "q": "How does the length of the interim rest period during high-intensity sprint intervals influence physical adaptations, according to Callister et al.?",
+        "opts": [
+          "Short rest intervals enhance VO2max and aerobic metabolic capacity, whereas long rest intervals maximize top sprint speed.",
+          "Short rest intervals maximize top sprint speed, whereas long rest intervals enhance VO2max.",
+          "Rest interval duration has no impact on metabolic or performance adaptations.",
+          "Long rest intervals cause rapid glycogen depletion and severe aerobic regression."
+        ],
+        "correct": 0,
+        "rationale": "Callister et al. demonstrated that sprint interval training with short recovery periods improves VO2max, aerobic power, and muscular oxidative capacity, while long recovery periods optimize peak velocity gains without significant aerobic adaptations."
+      },
+      {
+        "id": 3,
+        "q": "What muscle organelle adaptation occurs in response to chronic aerobic training to support greater oxidative phosphorylation capacity?",
+        "opts": [
+          "Increase in the size and number of mitochondria",
+          "Reduction in sarcoplasmic reticulum volume",
+          "Decrease in capillary-to-fiber ratio",
+          "Selective atrophy of Type I oxidative fibers"
+        ],
+        "correct": 0,
+        "rationale": "Chronic aerobic training increases mitochondrial size and density (biogenesis) within skeletal muscle fibers, elevating oxidative enzyme capacity."
+      },
+      {
+        "id": 4,
+        "q": "How does chronic aerobic endurance training affect blood lactate concentrations during submaximal exercise at a standardized absolute workload?",
+        "opts": [
+          "Blood lactate concentrations increase significantly.",
+          "Blood lactate concentrations decrease significantly.",
+          "Blood lactate concentrations remain unchanged.",
+          "Blood lactate completely replaces muscle glycogen as the sole fuel source."
+        ],
+        "correct": 1,
+        "rationale": "Trained athletes display lower blood lactate levels at absolute submaximal workloads due to enhanced mitochondrial oxidation of pyruvate and expanded clearance kinetics."
+      },
+      {
+        "id": 5,
+        "q": "What effect does chronic aerobic conditioning have on muscular capillary density in trained motor units?",
+        "opts": [
+          "It decreases capillary density to increase contraction speed.",
+          "It increases capillary density (angiogenesis) to enhance oxygen and nutrient delivery.",
+          "It leads to total capillary regression.",
+          "It converts continuous capillaries into fenestrated arterial walls."
+        ],
+        "correct": 1,
+        "rationale": "Aerobic endurance training stimulates angiogenesis, increasing the number of capillaries surrounding each muscle fiber to shorten diffusion distance and extend transit time for gas exchange."
+      },
+      {
+        "id": 6,
+        "q": "Which variable is considered the single most important training parameter for expanding aerobic power and improving submaximal metabolic efficiency?",
+        "opts": [
+          "Training frequency",
+          "Training duration",
+          "Training intensity",
+          "Rest interval length between weekly workouts"
+        ],
+        "correct": 2,
+        "rationale": "Training intensity is the primary driver of cardiovascular and metabolic adaptations that increase VO2max, oxidative enzyme activity, and lactate threshold."
+      },
+      {
+        "id": 7,
+        "q": "What happens to oxidative enzyme activities (e.g., citrate synthase, succinate dehydrogenase) within skeletal muscle following chronic aerobic training?",
+        "opts": [
+          "They decrease by 50%.",
+          "They increase significantly to support greater Krebs cycle flux.",
+          "They remain completely static.",
+          "They are converted into glycolytic enzymes."
+        ],
+        "correct": 1,
+        "rationale": "Aerobic training elevates the concentration and activity of key Krebs cycle and electron transport chain enzymes, including citrate synthase and succinate dehydrogenase."
+      },
+      {
+        "id": 8,
+        "q": "Why does an athlete with superior running economy consume less oxygen at a submaximal pace of 8 mph than an athlete with poor running economy?",
+        "opts": [
+          "The economical athlete has superior biomechanical efficiency, kinetic energy storage, and cellular metabolic efficiency.",
+          "The economical athlete relies entirely on anaerobic fast glycolysis at 8 mph.",
+          "The economical athlete has a higher maximal heart rate.",
+          "The economical athlete possesses fewer mitochondria in active fibers."
+        ],
+        "correct": 0,
+        "rationale": "Running economy reflects the interaction of stride biomechanics, tendon elastic recoil, and cellular metabolic efficiency, enabling the athlete to perform the work with less ATP turnover and lower VO2."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which muscular and cellular adaptations occur as a result of chronic aerobic endurance training? (Select all that apply)",
+        "opts": [
+          "Increased size and number of mitochondria",
+          "Increased capillary density surrounding muscle fibers",
+          "Elevated oxidative enzyme activity (e.g., citrate synthase)",
+          "Selective atrophy of Type I muscle fibers",
+          "Lower submaximal blood lactate concentrations"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Aerobic training expands mitochondria, capillary networks, oxidative enzymes, and submaximal lactate clearance. Type I fibers undergo selective hypertrophy, not atrophy."
+      },
+      {
+        "id": 2,
+        "q": "According to research on interval training rest periods (e.g., Callister et al.), which adaptations result specifically from sprint intervals performed with SHORT recovery periods? (Select all that apply)",
+        "opts": [
+          "Increased VO2max",
+          "Enhanced aerobic metabolic capacity in skeletal muscle",
+          "Greater stimulus for aerobic power development",
+          "Maximized top-end unresisted sprint velocity without aerobic gains",
+          "Elevated respiratory capacity"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Short rest periods keep oxidative demands elevated, boosting VO2max, aerobic capacity, and respiratory dynamics. Long rest intervals isolate top sprint speed without aerobic expansion."
+      },
+      {
+        "id": 3,
+        "q": "Which factors contribute to an elevated lactate threshold in well-conditioned endurance athletes? (Select all that apply)",
+        "opts": [
+          "Increased mitochondrial density and oxidative enzyme capacity",
+          "Enhanced lipid oxidation sparing muscle glycogen",
+          "Greater lactate clearance by non-working muscles, heart, and liver",
+          "Decreased capillary density in active motor units",
+          "Reduced reliance on fast-twitch glycolytic motor units at submaximal speeds"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Lactate threshold rises due to greater pyruvate oxidation in expanded mitochondria, increased lipid use, enhanced clearance pathways, and reduced glycolytic recruitment. Capillary density increases, not decreases."
+      },
+      {
+        "id": 4,
+        "q": "Which parameters define an athlete's running economy? (Select all that apply)",
+        "opts": [
+          "Oxygen consumption (VO2) at a specified submaximal running velocity",
+          "Biomechanical technique and stride mechanics",
+          "Elastic energy recoil from tendons and connective tissues",
+          "Maximal heart rate during all-out sprinting",
+          "Neuromuscular efficiency in motor unit activation"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Running economy is determined by submaximal VO2, biomechanics, elastic energy utilization, and neuromuscular efficiency. Maximal heart rate does not determine submaximal economy."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "High-intensity interval sprints performed with long recovery periods produce greater increases in VO2max than the same sprints performed with short recovery periods.",
+        "ans": false,
+        "feedback": "Short recovery periods keep the cardiorespiratory system elevated and drive greater VO2max and aerobic metabolic adaptations, whereas long rest periods favor top sprint velocity development."
+      },
+      {
+        "id": 2,
+        "q": "An athlete with a lower oxygen uptake (VO2) at a given submaximal running speed possesses better running economy than an athlete with a higher VO2 at the same speed.",
+        "ans": true,
+        "feedback": "Lower VO2 at a standardized speed indicates greater energetic and biomechanical efficiency, meaning less oxygen is required to sustain that pace."
+      },
+      {
+        "id": 3,
+        "q": "Chronic aerobic training leads to a reduction in muscular oxidative enzyme activity to preserve glycogen stores.",
+        "ans": false,
+        "feedback": "Chronic aerobic conditioning significantly increases oxidative enzyme activity (e.g., citrate synthase, SDH), enhancing the capacity to oxidize both lipids and carbohydrates."
+      },
+      {
+        "id": 4,
+        "q": "Training intensity is recognized as a central variable in expanding aerobic power and shifting the lactate threshold.",
+        "ans": true,
+        "feedback": "Sufficient training intensity is required to overload the cardiorespiratory and muscular systems to drive increases in VO2max, mitochondrial biogenesis, and lactate threshold."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Sprint interval training performed with **short rest periods** enhances VO2max and aerobic capacity, whereas intervals with **long rest periods** primarily optimize peak sprint velocity.",
+        "targets": [
+          "short rest periods",
+          "long rest periods"
+        ],
+        "optionsBank": [
+          "short rest periods",
+          "long rest periods",
+          "continuous loading",
+          "submaximal volume",
+          "eccentric loading"
+        ],
+        "hint": "Consider how rest interval length dictates metabolic specificity."
+      },
+      {
+        "id": 2,
+        "statement": "At the cellular level, aerobic endurance training increases **mitochondrial density** and expands the surrounding **capillary density** to improve oxygen delivery and utilization.",
+        "targets": [
+          "mitochondrial density",
+          "capillary density"
+        ],
+        "optionsBank": [
+          "mitochondrial density",
+          "capillary density",
+          "glycolytic power",
+          "myofibrillar area",
+          "fast-twitch ratio"
+        ],
+        "hint": "Identify the primary organelle and vascular adaptations in skeletal muscle."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Contrast the physiological adaptations resulting from high-intensity interval training (HIIT) utilizing a 1:1 work-to-rest ratio (e.g., 30s sprint / 30s rest) versus a 1:6 work-to-rest ratio (e.g., 10s sprint / 60s rest).",
+        "model": "A 1:1 work-to-rest ratio with short rest intervals maintains high heart rate, cardiac output, and VO2 throughout the session, creating a potent stimulus for expanding VO2max, mitochondrial density, and aerobic oxidative enzymes. In contrast, a 1:6 ratio with long rest periods allows full PCr recovery and neuromuscular rest, optimizing top-end sprint velocity and phosphagen power without driving substantial cardiorespiratory or aerobic metabolic adaptations.",
+        "criteria": [
+          "Explains that short rest (1:1) maintains elevated VO2 and drives cardiorespiratory/aerobic capacity adaptations.",
+          "Explains that long rest (1:6) permits PCr/neuromuscular recovery, targeting peak velocity/anaerobic power.",
+          "References Callister et al. concepts regarding rest interval influence on adaptation."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Two marathon runners both possess a VO2max of 65 ml/kg/min. Runner A completes the marathon in 2 hours 30 minutes, while Runner B completes it in 2 hours 50 minutes. Explain two submaximal physiological factors that likely account for Runner A's superior performance.",
+        "model": "First, Runner A likely possesses superior running economy, consuming less oxygen (ml/kg/min) at a given race pace due to better biomechanics and tendon elastic recoil. Second, Runner A likely has a higher lactate threshold (e.g., occurring at 85% VO2max vs 75% for Runner B), allowing Runner A to sustain a faster absolute velocity for 26.2 miles without inducing metabolic acidosis and glycogen depletion.",
+        "criteria": [
+          "Identifies running economy as a key differentiator (lower energetic cost at submaximal speed).",
+          "Identifies lactate threshold as a key differentiator (% VO2max sustained without acidosis).",
+          "Explains how these submaximal drivers operate independently of identical absolute VO2max values."
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What effect does chronic aerobic endurance training typically have on body composition in adult athletes?",
+        "opts": [
+          "It significantly increases fat-free mass while increasing body fat.",
+          "It decreases relative percentage of body fat with little or no change in fat-free mass.",
+          "It causes massive myofibrillar hypertrophy across all muscle groups.",
+          "It increases visceral fat stores while decreasing subcutaneous fat."
+        ],
+        "correct": 1,
+        "rationale": "Aerobic endurance conditioning increases caloric expenditure and lipid oxidation, reducing relative body fat percentage while having minimal impact on fat-free mass (muscle mass)."
+      },
+      {
+        "id": 2,
+        "q": "What is the primary risk associated with excessive volume in aerobic endurance training without adequate recovery?",
+        "opts": [
+          "Excessive myofibrillar hypertrophy",
+          "Catabolic state dominance and disruption of anabolic-catabolic balance",
+          "Pathological elevation in bone mineral density",
+          "Permanent suppression of lipid oxidation"
+        ],
+        "correct": 1,
+        "rationale": "Excessive training volume can elevate stress hormones (e.g., cortisol) and lead to catabolic protein breakdown, disturbing the anabolic-catabolic balance and risking overtraining syndrome."
+      },
+      {
+        "id": 3,
+        "q": "In Table 6.2 (Short-Term Adaptations to Aerobic Endurance Training), how do adaptation magnitudes after 3-6 months compare between previously untrained individuals and elite athletes?",
+        "opts": [
+          "Untrained individuals show major percentage increases, whereas elite athletes show small incremental changes due to baseline proximity to genetic ceiling.",
+          "Elite athletes improve VO2max by 50%, whereas untrained individuals show no change.",
+          "Neither group shows any measurable adaptation within 3-6 months.",
+          "Untrained individuals decrease cardiac output, whereas elite athletes double their heart rate."
+        ],
+        "correct": 0,
+        "rationale": "Previously untrained individuals have high adaptive headroom and display large percentage increases in VO2max, SV, and capillary density in 3-6 months. Elite athletes, being near their ceiling, exhibit minor percentage refinements."
+      },
+      {
+        "id": 4,
+        "q": "Why does chronic aerobic endurance training produce minimal myofibrillar hypertrophy compared to heavy resistance training?",
+        "opts": [
+          "Aerobic exercise fails to recruit high-threshold Type II motor units and activates signaling pathways (e.g., AMPK) that favor mitochondrial over myofibrillar protein synthesis.",
+          "Aerobic exercise completely destroys all Type I motor units.",
+          "Aerobic exercise increases testosterone to levels that inhibit muscle growth.",
+          "Aerobic exercise operates exclusively without calcium release."
+        ],
+        "correct": 0,
+        "rationale": "Aerobic training involves low mechanical tension and high metabolic flux, stimulating AMPK signaling that upregulates mitochondrial biogenesis while inhibiting mTORC1-mediated myofibrillar protein synthesis."
+      },
+      {
+        "id": 5,
+        "q": "What happens to body fat stores during a structured 12-week aerobic endurance program combined with balanced nutrition?",
+        "opts": [
+          "Relative body fat percentage decreases due to increased overall caloric expenditure and lipid oxidation.",
+          "Body fat increases to insulate working muscle fibers.",
+          "Body fat is converted directly into bone mineral matrix.",
+          "Body fat stores remain entirely unaffected regardless of energy balance."
+        ],
+        "correct": 0,
+        "rationale": "Aerobic exercise elevates daily energy expenditure and enhances intramuscular and systemic lipid oxidation rates, leading to reductions in body fat percentage."
+      },
+      {
+        "id": 6,
+        "q": "Which of the following describes the effect of chronic aerobic training on skeletal muscle fat-free mass?",
+        "opts": [
+          "It typically causes a 20% to 30% increase in muscle cross-sectional area.",
+          "It maintains or slightly preserves fat-free mass without significant hypertrophy.",
+          "It causes complete muscular degeneration in all limbs.",
+          "It triples the diameter of Type IIx fibers."
+        ],
+        "correct": 1,
+        "rationale": "Aerobic endurance conditioning generally maintains fat-free mass or produces modest selective Type I fiber hypertrophy, but does not induce major overall muscle mass expansion."
+      },
+      {
+        "id": 7,
+        "q": "How does excessive aerobic training volume impact protein turnover in skeletal muscle?",
+        "opts": [
+          "It shifts the net balance toward muscle protein breakdown (catabolism).",
+          "It maximizes anabolic myofibrillar protein synthesis.",
+          "It completely halts all cellular enzymatic turnover.",
+          "It converts collagen into contractile actin filaments."
+        ],
+        "correct": 0,
+        "rationale": "Unchecked excessive volume elevates circulating glucocorticoids (cortisol) and inflammatory cytokines, increasing the rate of muscle protein degradation over synthesis."
+      },
+      {
+        "id": 8,
+        "q": "According to short-term adaptation norms, what happens to submaximal heart rate at a given absolute workload after 3 to 6 months of aerobic conditioning in untrained adults?",
+        "opts": [
+          "Submaximal heart rate decreases significantly.",
+          "Submaximal heart rate increases by 30 bpm.",
+          "Submaximal heart rate fluctuates erratically.",
+          "Submaximal heart rate equals maximal heart rate."
+        ],
+        "correct": 0,
+        "rationale": "As stroke volume increases over 3 to 6 months of conditioning, heart rate at any absolute submaximal workload decreases to maintain the required cardiac output more efficiently."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which body composition and metabolic changes are expected following 3 to 6 months of structured aerobic endurance training? (Select all that apply)",
+        "opts": [
+          "Decreased relative percentage of body fat",
+          "Preservation or maintenance of fat-free mass",
+          "Increased reliance on fat oxidation during submaximal exercise",
+          "Massive upper-body myofibrillar hypertrophy",
+          "Reduced submaximal heart rate at a standardized workload"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Aerobic conditioning reduces body fat, maintains fat-free mass, increases lipid oxidation, and lowers submaximal heart rate. It does not produce massive myofibrillar hypertrophy."
+      },
+      {
+        "id": 2,
+        "q": "Which factors contribute to a catabolic state during excessive aerobic endurance training? (Select all that apply)",
+        "opts": [
+          "High training volume without adequate caloric and carbohydrate intake",
+          "Insufficient rest and recovery between intense sessions",
+          "Chronically elevated circulating cortisol levels",
+          "Excessive anabolic testosterone-to-cortisol ratio",
+          "Inadequate sleep and chronic systemic stress"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Inadequate fueling, insufficient rest, elevated cortisol, and lack of sleep drive catabolism. A high testosterone-to-cortisol ratio indicates an anabolic state, not catabolic."
+      },
+      {
+        "id": 3,
+        "q": "Why do short-term (3-6 month) adaptation magnitudes differ between untrained individuals and elite endurance athletes? (Select all that apply)",
+        "opts": [
+          "Untrained individuals start further from their genetic physiological ceiling.",
+          "Elite athletes already possess high baseline cardiac output, capillary density, and mitochondrial volume.",
+          "Elite athletes experience diminishing returns from additional training volume.",
+          "Untrained individuals cannot adapt to aerobic exercise due to genetic limitations.",
+          "Short-term training produces rapid neural and metabolic gains in previously sedentary muscle."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Adaptive magnitude depends on initial fitness status; untrained individuals have high headroom, while elite athletes face genetic proximity ceilings and diminishing returns. Sedentary individuals adapt rapidly."
+      },
+      {
+        "id": 4,
+        "q": "Which physiological markers indicate a positive adaptation to a 3-month aerobic endurance program in a previously sedentary adult? (Select all that apply)",
+        "opts": [
+          "Increased resting and maximal stroke volume",
+          "Decreased resting heart rate (resting bradycardia shift)",
+          "Increased maximal oxygen uptake (VO2max)",
+          "Decreased submaximal blood lactate concentration",
+          "Increased body fat percentage"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Positive adaptations include higher SV, lower resting HR, increased VO2max, and reduced submaximal lactate. Body fat percentage decreases, not increases."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Aerobic endurance training leads to significant reductions in fat-free mass in most healthy adult athletes.",
+        "ans": false,
+        "feedback": "Aerobic training typically preserves fat-free mass while selectively reducing body fat stores; significant loss of fat-free mass only occurs under severe caloric deficits or overtraining."
+      },
+      {
+        "id": 2,
+        "q": "Chronically excessive aerobic training volume without adequate rest can disturb the anabolic-catabolic hormone balance, leading to muscle protein breakdown.",
+        "ans": true,
+        "feedback": "Uncontrolled volume elevates stress hormones like cortisol, shifting net protein balance toward catabolism and breakdown of contractile/structural proteins."
+      },
+      {
+        "id": 3,
+        "q": "Elite endurance athletes typically experience a 20% to 30% increase in VO2max after 3 months of additional training.",
+        "ans": false,
+        "feedback": "Elite athletes operate near their genetic ceiling and typically see small incremental improvements (1% to 5%); 20% to 30% increases occur in previously untrained individuals."
+      },
+      {
+        "id": 4,
+        "q": "Submaximal heart rate at a standardized running speed decreases as an individual becomes aerobically conditioned.",
+        "ans": true,
+        "feedback": "Increased stroke volume allows the heart to deliver the required cardiac output at a lower pump frequency (heart rate) during submaximal work."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Aerobic endurance conditioning decreases relative **body fat percentage** while maintaining or preserving **fat-free mass** in healthy adults.",
+        "targets": [
+          "body fat percentage",
+          "fat-free mass"
+        ],
+        "optionsBank": [
+          "body fat percentage",
+          "fat-free mass",
+          "bone length",
+          "glycolytic power",
+          "myofibrillar volume"
+        ],
+        "hint": "Identify the two primary body composition components affected by aerobic training."
+      },
+      {
+        "id": 2,
+        "statement": "Excessive training volume without sufficient recovery induces a **catabolic state** that disrupts the physiological **anabolic-catabolic balance**.",
+        "targets": [
+          "catabolic state",
+          "anabolic-catabolic balance"
+        ],
+        "optionsBank": [
+          "catabolic state",
+          "anabolic-catabolic balance",
+          "hypertrophic drive",
+          "phosphagen surge",
+          "glycogen overload"
+        ],
+        "hint": "Consider the hormonal and protein turnover risks of overtraining."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "An endurance coach increases a runner's weekly mileage from 40 miles to 90 miles over a 3-week period. The athlete presents with persistent fatigue, muscle soreness, elevated resting heart rate, and weight loss. Explain the physiological risks of this progression regarding body composition and catabolic balance.",
+        "model": "Rapid, extreme increases in volume without adequate recovery provoke chronic elevations in cortisol and systemic stress cytokines. This shifts net protein balance into a catabolic state, causing breakdown of skeletal muscle tissue (loss of fat-free mass) rather than positive mitochondrial adaptation. The elevated resting heart rate and persistent fatigue signal nonfunctional overreaching or overtraining syndrome driven by anabolic-catabolic hormone disruption.",
+        "criteria": [
+          "Identifies the shift toward a catabolic state driven by elevated stress hormones (cortisol).",
+          "Explains the risk of muscle protein breakdown and loss of fat-free mass.",
+          "Connects symptoms (elevated resting HR, fatigue) to overreaching/overtraining syndrome from excessive volume."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Compare the expected short-term (3-6 month) adaptation responses in VO2max, stroke volume, and body composition between a sedentary 25-year-old adult and an elite Olympic marathon runner starting a new training cycle.",
+        "model": "The sedentary adult has significant adaptive headroom and will experience large percentage gains: VO2max (+15% to 25%), stroke volume (+15% to 20%), submaximal HR reduction, and notable body fat loss. The elite runner operates near their physiological ceiling; their VO2max and stroke volume will show minimal percentage shifts (1% to 3%), with training focusing on subtle refinements in running economy, lactate threshold, and peaking body composition.",
+        "criteria": [
+          "Contrasts baseline headroom: untrained adult has large adaptive potential, elite athlete operates near ceiling.",
+          "Quantifies expected VO2max gains (large 15-25% for untrained vs small 1-3% for elite).",
+          "Describes body composition and submaximal economy differences between the two profiles."
+        ]
+      }
+    ]
+  }
+}

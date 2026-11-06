@@ -1,0 +1,751 @@
+{
+    "p1": {
+        "mcq": [
+            {
+                "id": 1,
+                "q": "What is the primary rationale for using predetermined work-to-rest ratios during interval training?",
+                "opts": [
+                    "To allow more total work to be accomplished at higher exercise intensities with the same or less fatigue",
+                    "To permanently shift all Type II muscle fibers into slow-twitch Type I fibers",
+                    "To completely eliminate the activation of aerobic metabolic pathways during high-intensity exercise",
+                    "To prevent any glycogen usage during high-power sprint intervals"
+                ],
+                "correct": 0,
+                "rationale": "Interval training uses predetermined work and rest intervals to allow more work to be accomplished at higher exercise intensities with the same or less fatigue than continuous training at the same relative intensity."
+            },
+            {
+                "id": 2,
+                "q": "In the landmark 1960 study by Christensen and colleagues, what total running distance were subjects able to complete during interval running with a 2:1 work-to-rest ratio over 30 minutes, compared to continuous running to exhaustion (0.81 miles)?",
+                "opts": [
+                    "0.81 miles (1.30 km)",
+                    "1.50 miles (2.41 km)",
+                    "4.14 miles (6.66 km)",
+                    "10.0 miles (16.09 km)"
+                ],
+                "correct": 2,
+                "rationale": "During the 30-minute interval protocol with a 2:1 work-to-rest ratio at the fast pace, subjects completed 4.14 miles (6.66 km), compared to only 0.81 miles before exhaustion during continuous running."
+            },
+            {
+                "id": 3,
+                "q": "Why do short-duration, maximal-intensity exercise intervals (e.g., 5 to 10 seconds) require large work-to-rest ratios such as 1:12 to 1:20?",
+                "opts": [
+                    "To allow aerobic mechanisms sufficient time to resynthesize depleted creatine phosphate (CP) stores",
+                    "To ensure complete depletion of liver glycogen stores before the next set",
+                    "To allow lactate dehydrogenase to convert all pyruvate into acetyl-CoA",
+                    "To force the body to rely exclusively on fat oxidation during active work"
+                ],
+                "correct": 0,
+                "rationale": "After a maximal bout that depletes CP, complete resynthesis of CP takes up to 8 minutes via aerobic mechanisms; thus short-duration high-intensity exercise targeting the phosphagen system requires greater work-to-rest ratios (1:12 to 1:20)."
+            },
+            {
+                "id": 4,
+                "q": "Which work-to-rest ratio and work duration range is recommended to specifically target the fast glycolysis energy system?",
+                "opts": [
+                    "5 to 10 seconds work with 1:12 to 1:20 work-to-rest ratio",
+                    "15 to 30 seconds work with 1:3 to 1:5 work-to-rest ratio",
+                    "1 to 3 minutes work with 1:1 to 1:2 work-to-rest ratio",
+                    "More than 3 minutes work with 1:20 work-to-rest ratio"
+                ],
+                "correct": 1,
+                "rationale": "Table 3.6 outlines that fast glycolysis is targeted with work durations of 15 to 30 seconds and work-to-rest ratios of 1:3 to 1:5."
+            },
+            {
+                "id": 5,
+                "q": "What performance adaptation was observed following short-term (2-week) interval training consisting of six sessions of 30-second maximal cycling sprints with a 1:8 work-to-rest ratio?",
+                "opts": [
+                    "Doubled aerobic endurance capacity and improved muscle buffering capacity",
+                    "Complete loss of Type II muscle fibers and reduced muscle activation",
+                    "Immediate 50% decline in resting muscle glycogen content",
+                    "Permanent suppression of cardiac output during submaximal cycling"
+                ],
+                "correct": 0,
+                "rationale": "Short-term interval training studies using 30-second maximal sprints (1:8 work-to-rest ratio) demonstrated doubled aerobic endurance capacity, improved buffering capacity, elevated glycogen content, and enhanced time-trial performance."
+            },
+            {
+                "id": 6,
+                "q": "According to research by Wakefield and Glaister, what interval running protocol yielded the greatest total time above 95% \\text{VO}_2\\text{max}?",
+                "opts": [
+                    "Running at 105% \\text{VO}_2\\text{max} with 30-second work duration and 20-second rest",
+                    "Running at 115% \\text{VO}_2\\text{max} with 20-second work duration and 60-second rest",
+                    "Running at 50% \\text{VO}_2\\text{max} with 5-minute work duration and 5-minute rest",
+                    "Continuous jogging at 60% \\text{VO}_2\\text{max} for 45 minutes"
+                ],
+                "correct": 0,
+                "rationale": "Wakefield and Glaister reported a greater amount of time above 95% VO2max during running at 105% VO2max rather than 115% VO2max with a work duration of 30 seconds (rest = 20 seconds)."
+            },
+            {
+                "id": 7,
+                "q": "In elite cyclists comparing 40:20-second versus 30:30-second work-to-rest protocols at a fixed work rate, what were the key findings for the 30:30-second protocol?",
+                "opts": [
+                    "It provided sustained metabolic values for a considerably longer time to exhaustion and achieved greater total work",
+                    "It caused immediate exhaustion within 2 minutes due to severe acidosis",
+                    "It produced zero blood lactate accumulation throughout the trial",
+                    "It resulted in significantly reduced total work compared to the 40:20-second protocol"
+                ],
+                "correct": 0,
+                "rationale": "The 30:30-second work-to-rest ratio provided sustained, slightly lower metabolic values for a considerably longer period of time, whereas the 40:20-second ratio resulted in significantly reduced total work and earlier exhaustion."
+            },
+            {
+                "id": 8,
+                "q": "What general trend occurs to recommended work-to-rest ratios as the goals of training shift to longer-duration, lower-intensity tasks?",
+                "opts": [
+                    "Work interval durations increase, rest periods shorten relative to work, and work-to-rest ratios decrease (e.g., 1:1 to 1:3)",
+                    "Work-to-rest ratios increase dramatically to 1:20",
+                    "Rest intervals must be multiplied by 100",
+                    "Work intervals are eliminated completely in favor of passive rest"
+                ],
+                "correct": 0,
+                "rationale": "As training goals change to longer-duration, lower-intensity tasks, work interval durations can be longer; this decreases the work-to-rest ratios (e.g., 1:1 to 1:3 for oxidative tasks vs. 1:12 to 1:20 for phosphagen tasks)."
+            }
+        ],
+        "ms": [
+            {
+                "id": 1,
+                "q": "Which of the following physiological adaptations result from short-term interval training protocols? (Select all that apply)",
+                "opts": [
+                    "Increased muscle oxidative potential and mitochondrial enzyme activity",
+                    "Enhanced muscle buffering capacity against hydrogen ion accumulation",
+                    "Increased resting muscle glycogen content",
+                    "Doubled aerobic endurance capacity"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "Studies cited in Section 3.6.1 demonstrated improvements in muscle oxidative potential, buffering capacity, glycogen content, time-trial performance, and a doubling of aerobic endurance capacity following short-term interval training."
+            },
+            {
+                "id": 2,
+                "q": "Which of the following match the correct work-to-rest guidelines provided in Table 3.6? (Select all that apply)",
+                "opts": [
+                    "Phosphagen (5 to 10 s work): 1:12 to 1:20 work-to-rest ratio",
+                    "Fast Glycolysis (15 to 30 s work): 1:3 to 1:5 work-to-rest ratio",
+                    "Fast Glycolysis and Oxidative (1 to 3 min work): 1:3 to 1:4 work-to-rest ratio",
+                    "Oxidative (>3 min work): 1:1 to 1:3 work-to-rest ratio"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "All listed energy system work-to-rest guidelines correspond exactly to textbook Table 3.6."
+            },
+            {
+                "id": 3,
+                "q": "Which factors dictate the selection of appropriate work-to-rest ratios during interval training? (Select all that apply)",
+                "opts": [
+                    "Intensity of the active work interval",
+                    "Duration of the work interval",
+                    "Targeted primary energy system and its recovery time course",
+                    "Eye color and shoe brand of the athlete"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Work-to-rest ratios are selected based on exercise intensity, work duration, and the time course of recovery/substrate resynthesis for the targeted energy system."
+            },
+            {
+                "id": 4,
+                "q": "Why is continuous long-distance running of limited benefit to athletes in sports like American football, basketball, and hockey? (Select all that apply)",
+                "opts": [
+                    "These sports consist of repeated high-intensity bursts requiring power outputs exceeding maximal aerobic power",
+                    "Continuous long-distance running neglects anaerobic power and anaerobic capacity adaptations",
+                    "Intermittent sports match the metabolic profiles of high-intensity exercise interspersed with rest",
+                    "Continuous running increases phosphagen stores by 1000%"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Team sports require repeated high-intensity power outputs above maximal aerobic power; continuous long-distance training fails to develop anaerobic power/capacity and does not reflect actual sport demands."
+            }
+        ],
+        "tf": [
+            {
+                "id": 1,
+                "q": "Interval training allows an athlete to accomplish a greater total volume of high-intensity work with equivalent or less fatigue compared to continuous training.",
+                "ans": true,
+                "feedback": "Properly spaced work-to-rest intervals enable significantly more work to be completed at higher power outputs with less fatigue than continuous exercise at the same intensity."
+            },
+            {
+                "id": 2,
+                "q": "Complete resynthesis of muscle creatine phosphate (CP) following maximal exertion can take up to 8 minutes.",
+                "ans": true,
+                "feedback": "Mitochondrial aerobic metabolism requires up to 8 minutes to completely resynthesize depleted CP stores post-exercise."
+            },
+            {
+                "id": 3,
+                "q": "A work-to-rest ratio of 1:12 to 1:20 is recommended when targeting the oxidative energy system during work intervals exceeding 3 minutes.",
+                "ans": false,
+                "feedback": "A 1:12 to 1:20 ratio is recommended for short-duration phosphagen training (5 to 10 s work). Oxidative training (>3 min work) uses a 1:1 to 1:3 ratio."
+            },
+            {
+                "id": 4,
+                "q": "Increasing aerobic endurance through long-distance running enhances performance in pure anaerobic power sports such as baseball.",
+                "ans": false,
+                "feedback": "Running long distances provides little benefit to baseball players because it neglects anaerobic power and capacity, which dictate baseball performance."
+            }
+        ],
+        "cloze": [
+            {
+                "id": 1,
+                "statement": "Targeting the phosphagen system requires a work-to-rest ratio of **1:12 to 1:20**, whereas targeting fast glycolysis requires a ratio of **1:3 to 1:5**.",
+                "targets": [
+                    "1:12 to 1:20",
+                    "1:3 to 1:5"
+                ],
+                "optionsBank": [
+                    "1:12 to 1:20",
+                    "1:3 to 1:5",
+                    "1:1 to 1:3",
+                    "1:100",
+                    "5:1"
+                ],
+                "hint": "Recall Table 3.6 work-to-rest guidelines for the phosphagen and fast glycolytic systems."
+            },
+            {
+                "id": 2,
+                "statement": "Complete resynthesis of intramuscular **creatine phosphate** post-exercise can take up to **8 minutes** via aerobic mechanisms.",
+                "targets": [
+                    "creatine phosphate",
+                    "8 minutes"
+                ],
+                "optionsBank": [
+                    "creatine phosphate",
+                    "8 minutes",
+                    "lactate",
+                    "30 seconds",
+                    "glucose"
+                ],
+                "hint": "Identify the high-energy phosphagen substrate and the complete aerobic repletion timeframe."
+            }
+        ],
+        "sa": [
+            {
+                "id": 1,
+                "prompt": "Explain the bioenergetic rationale for using interval training rather than continuous running to train team sport athletes (e.g., football, basketball, hockey).",
+                "model": "Team sports consist of repeated, intermittent bursts of high-intensity effort interspersed with recovery periods, demanding power outputs far exceeding maximal aerobic capacity. Continuous running trains predominantly aerobic metabolism while neglecting anaerobic power and capacity. Interval training uses structured work-to-rest ratios to allow athletes to perform a much greater volume of high-intensity anaerobic work with equal or less fatigue, matching the actual metabolic specificity of intermittent sports.",
+                "criteria": [
+                    "Identify team sports as intermittent activities requiring power outputs above maximal aerobic power.",
+                    "Explain that continuous training neglects anaerobic power and capacity.",
+                    "Explain that interval training allows greater total work volume at high intensities with less fatigue."
+                ]
+            },
+            {
+                "id": 2,
+                "prompt": "Detail the recommended work-to-rest ratios and work interval durations for targeting the phosphagen system versus fast glycolysis.",
+                "model": "1. Phosphagen System: Work interval duration of 5 to 10 seconds with a 1:12 to 1:20 work-to-rest ratio. The extended rest is required because complete aerobic resynthesis of depleted creatine phosphate takes up to 8 minutes.\n2. Fast Glycolysis: Work interval duration of 15 to 30 seconds with a 1:3 to 1:5 work-to-rest ratio, providing sufficient recovery for hydrogen ion buffering and glycolytic flux.",
+                "criteria": [
+                    "State Phosphagen system parameters: 5-10s work, 1:12 to 1:20 work-to-rest ratio.",
+                    "Explain that phosphagen rest intervals allow aerobic CP resynthesis (up to 8 min).",
+                    "State Fast Glycolysis parameters: 15-30s work, 1:3 to 1:5 work-to-rest ratio."
+                ]
+            }
+        ]
+    },
+    "p2": {
+        "mcq": [
+            {
+                "id": 1,
+                "q": "What is High-Intensity Interval Training (HIIT) defined as in exercise physiology?",
+                "opts": [
+                    "Brief repeated bouts of high-intensity exercise interspersed with lower-intensity recovery periods (duty cycles)",
+                    "Continuous steady-state cycling for 4 hours at 40% VO2max",
+                    "Static isometric wall-sits performed to complete respiratory arrest",
+                    "Passive stretching interspersed with deep breathing exercises"
+                ],
+                "correct": 0,
+                "rationale": "High-intensity interval training (HIIT) involves brief repeated bouts of high-intensity exercise with intermittent recovery periods, structured as duty cycles."
+            },
+            {
+                "id": 2,
+                "q": "To optimize HIIT training adaptations for athletes, what cumulative intensity and duration should the active duty cycles achieve?",
+                "opts": [
+                    "Several minutes spent above 90% of VO2max",
+                    "30 minutes spent below 30% of VO2max",
+                    "Exclusively 100% 1RM maximal isometric force",
+                    "Zero increase in heart rate above resting baseline"
+                ],
+                "correct": 0,
+                "rationale": "To optimize HIIT adaptations, the cumulative duration and intensity of the active portions of duty cycles should equate to several minutes above 90% of VO2max."
+            },
+            {
+                "id": 3,
+                "q": "How many key variables can be manipulated in a HIIT program to achieve precise metabolic specificity according to Buchheit and Laursen?",
+                "opts": [
+                    "2",
+                    "5",
+                    "9",
+                    "15"
+                ],
+                "correct": 2,
+                "rationale": "Buchheit and Laursen suggested that nine different HIIT variables can be manipulated to achieve precise metabolic specificity."
+            },
+            {
+                "id": 4,
+                "q": "Which two HIIT duty cycle variables are identified as the most important factors governing training response?",
+                "opts": [
+                    "Intensities and durations of the active and recovery portions of each duty cycle",
+                    "Brand of footwear and time of day",
+                    "Ambient room temperature and humidity",
+                    "Athlete body weight and height"
+                ],
+                "correct": 0,
+                "rationale": "Buchheit and Laursen indicated that the intensities and durations of the active and recovery portions of each duty cycle are the most important factors to consider."
+            },
+            {
+                "id": 5,
+                "q": "What dual physiological stimulus explains the comprehensive cardiac and oxidative muscle adaptations produced by HIIT above 90% VO2max?",
+                "opts": [
+                    "Concurrent recruitment of large motor units (Type II fibers) and near-maximal cardiac output",
+                    "Complete suppression of stroke volume and motor unit recruitment",
+                    "Conversion of myocytes into smooth muscle tissue",
+                    "Selective atrophy of Type II muscle fibers"
+                ],
+                "correct": 0,
+                "rationale": "Repeatedly eliciting a very high percentage of VO2max concurrently recruits large motor units and near-maximal cardiac output, stimulating both oxidative muscle fiber adaptation and myocardial hypertrophy."
+            },
+            {
+                "id": 6,
+                "q": "In the study by Gibala and colleagues, how did HIIT (4-6 x 30s cycling sprints at 250% VO2peak) compare to long slow distance cycling (90-120 min at 65% VO2peak)?",
+                "opts": [
+                    "HIIT yielded equivalent gains in buffering capacity, glycogen content, and time-trial performance in a fraction of the time",
+                    "HIIT caused severe muscle atrophy and decreased time-trial performance by 50%",
+                    "Long slow distance training was 10 times more effective in increasing glycogen",
+                    "HIIT produced zero cardiopulmonary or metabolic adaptations"
+                ],
+                "correct": 0,
+                "rationale": "Gibala et al. reported equivalent improvements in muscle buffering capacity, glycogen content, and cycling time-trial performance (10.1% vs 7.5% improvement) for HIIT compared to 90-120 min of continuous cycling, providing time-efficient adaptations."
+            },
+            {
+                "id": 7,
+                "q": "How should a HIIT program be modified when designing conditioning for a 400 m sprinter versus a 3,200 m (2-mile) runner?",
+                "opts": [
+                    "The 400 m sprinter requires a HIIT program geared toward anaerobic-based durations and intensities",
+                    "The 400 m sprinter should perform only low-intensity walking",
+                    "The 3,200 m runner requires 100% phosphagen 5-second sprints exclusively",
+                    "Both athletes should use identical work-to-rest ratios and exercise modes"
+                ],
+                "correct": 0,
+                "rationale": "Training adaptations are sport-specific; a 400 m sprinter needs a HIIT program geared toward anaerobic-based durations and intensities, whereas a 3,200 m runner requires longer aerobic-dominant duty cycles."
+            },
+            {
+                "id": 8,
+                "q": "Why must strength and conditioning professionals carefully periodize HIIT sessions when integrated into an athlete's schedule alongside team practices?",
+                "opts": [
+                    "To avoid excessive cumulative stress and reduce the risk of overtraining or injury",
+                    "Because HIIT cannot be performed on grass fields",
+                    "Because team practices eliminate the need for recovery",
+                    "To force all athletes to train at 100% 1RM every day"
+                ],
+                "correct": 0,
+                "rationale": "HIIT sessions performed concurrently with team practices increase overall stress and overtraining risk; careful periodization prevents excessive cumulative load and injury."
+            }
+        ],
+        "ms": [
+            {
+                "id": 1,
+                "q": "Which of the following are among the nine variables that can be manipulated in HIIT programming? (Select all that apply)",
+                "opts": [
+                    "Intensity and duration of the active portion of each duty cycle",
+                    "Intensity and duration of the recovery portion of each duty cycle",
+                    "Number of duty cycles per set and number of sets",
+                    "Rest time and recovery intensity between sets"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "All listed items are explicit components of the nine programmable HIIT variables identified by Buchheit and Laursen (including exercise mode)."
+            },
+            {
+                "id": 2,
+                "q": "Which physiological adaptations occur in response to high-intensity interval training (HIIT)? (Select all that apply)",
+                "opts": [
+                    "Increases in VO2max and peak power output",
+                    "Enhanced proton buffering capacity and increased muscle glycogen content",
+                    "Shift of lactate and anaerobic thresholds to higher workloads",
+                    "Myocardial hypertrophy and increased cardiac output"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "HIIT elicits cardiopulmonary, metabolic, and neuromuscular adaptations, including increased VO2max, buffering capacity, glycogen stores, threshold shifts, and myocardial hypertrophy."
+            },
+            {
+                "id": 3,
+                "q": "Which features describe a HIIT duty cycle? (Select all that apply)",
+                "opts": [
+                    "Consists of a high-intensity work phase followed by a lower-intensity recovery phase",
+                    "Active work phases aim to accumulate time above 90% VO2max",
+                    "Recovery phases can be active (low intensity) or passive",
+                    "Requires continuous non-stop exertion at 100% 1RM for 4 hours"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "A HIIT duty cycle combines high-intensity work (target >90% VO2max) and lower-intensity active/passive recovery. Continuous 4-hour 1RM work is impossible."
+            },
+            {
+                "id": 4,
+                "q": "Which statements regarding HIIT periodization and programming are accurate? (Select all that apply)",
+                "opts": [
+                    "Periodization allows general aerobic/anaerobic development in preseason, transitioning to sport-specific HIIT in-season",
+                    "HIIT combined with team practices increases overall stress and injury/overtraining risk if unmanaged",
+                    "HIIT provides time-efficient adaptations comparable to long slow distance endurance training",
+                    "HIIT should never be performed by sprinters under any circumstances"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "HIIT provides time-efficient adaptations, should be periodized from general to sport-specific, and requires volume management to prevent overtraining during team practice blocks. Sprinters benefit from anaerobic-focused HIIT."
+            }
+        ],
+        "tf": [
+            {
+                "id": 1,
+                "q": "To optimize HIIT adaptations, active duty cycles should accumulate several minutes at an intensity above 90% of VO2max.",
+                "ans": true,
+                "feedback": "Optimizing HIIT adaptations requires maximizing cumulative time spent at or near VO2max, specifically several minutes above 90% VO2max."
+            },
+            {
+                "id": 2,
+                "q": "High-intensity interval training stimulates both oxidative muscle fiber adaptations and myocardial hypertrophy.",
+                "ans": true,
+                "feedback": "Concurrently recruiting large motor units and near-maximal cardiac output during HIIT provides a stimulus for both oxidative muscle adaptations and myocardial hypertrophy."
+            },
+            {
+                "id": 3,
+                "q": "Long slow distance endurance training is significantly more time-efficient than HIIT for improving muscle buffering capacity.",
+                "ans": false,
+                "feedback": "HIIT provides equivalent buffering and glycogen adaptations in a fraction of the total time commitment compared to long slow distance training."
+            },
+            {
+                "id": 4,
+                "q": "The mode of exercise is one of the nine variables that can be manipulated in HIIT programming.",
+                "ans": true,
+                "feedback": "Mode of exercise (e.g., running vs. cycling) is explicitly listed as one of the nine programmable HIIT variables."
+            }
+        ],
+        "cloze": [
+            {
+                "id": 1,
+                "statement": "Optimal HIIT sessions maximize time spent near VO2max, specifically accumulating several minutes above **90%** of VO2max during active **duty cycles**.",
+                "targets": [
+                    "90%",
+                    "duty cycles"
+                ],
+                "optionsBank": [
+                    "90%",
+                    "duty cycles",
+                    "50%",
+                    "isometric sets",
+                    "10%"
+                ],
+                "hint": "Identify the target VO2max percentage threshold and the structured work-recovery unit name."
+            },
+            {
+                "id": 2,
+                "statement": "HIIT stimulates concurrent recruitment of **large motor units** and near-maximal **cardiac output**.",
+                "targets": [
+                    "large motor units",
+                    "cardiac output"
+                ],
+                "optionsBank": [
+                    "large motor units",
+                    "cardiac output",
+                    "smooth muscle",
+                    "blood pressure",
+                    "tendons"
+                ],
+                "hint": "Identify the fast-twitch muscle component and the cardiovascular pump volume metric."
+            }
+        ],
+        "sa": [
+            {
+                "id": 1,
+                "prompt": "Explain the dual neuromuscular and cardiovascular mechanisms that drive physiological adaptations during HIIT above 90% VO2max.",
+                "model": "Repeatedly exercising above 90% VO2max forces the nervous system to recruit large motor units (Type II fast-twitch muscle fibers) while simultaneously demanding near-maximal cardiac output from the heart. This dual stimulus drives molecular oxidative adaptations within fast-twitch muscle fibers (increased buffering capacity, glycogen content, and threshold shifts) while inducing myocardial hypertrophy and enhanced stroke volume in the heart.",
+                "criteria": [
+                    "Identify recruitment of large motor units (Type II fast-twitch fibers) as the neuromuscular stimulus.",
+                    "Identify near-maximal cardiac output as the cardiovascular stimulus.",
+                    "Explain that this drives both oxidative fiber adaptations and myocardial hypertrophy."
+                ]
+            },
+            {
+                "id": 2,
+                "prompt": "List six of the nine programmable HIIT variables and explain why duty cycle intensities and durations are the most critical.",
+                "model": "Six programmable HIIT variables include: (1) active portion intensity, (2) active portion duration, (3) recovery portion intensity, (4) recovery portion duration, (5) number of duty cycles per set, and (6) number of sets (others: rest time between sets, recovery intensity between sets, exercise mode). Active and recovery intensities and durations are most critical because they directly dictate the primary energy system utilized, the extent of proton accumulation, cardiac output demand, and whether the athlete achieves the target >90% VO2max threshold.",
+                "criteria": [
+                    "Correctly list six HIIT variables from the text.",
+                    "Explain that active/recovery intensities and durations govern metabolic demand, pathway selection, and time above 90% VO2max."
+                ]
+            }
+        ]
+    },
+    "p3": {
+        "mcq": [
+            {
+                "id": 1,
+                "q": "What is combination training (cross-training) defined as in exercise physiology?",
+                "opts": [
+                    "Adding aerobic endurance training to the training regimen of anaerobic athletes",
+                    "Combining resistance training with static stretching only",
+                    "Replacing all strength training with low-intensity walking",
+                    "Performing high-intensity sprints with zero rest for 5 hours"
+                ],
+                "correct": 0,
+                "rationale": "Combination training (or cross-training) involves adding aerobic endurance training to the training of anaerobic athletes."
+            },
+            {
+                "id": 2,
+                "q": "What phenomenon occurs when extensive aerobic endurance training is combined with heavy strength and power training?",
+                "opts": [
+                    "The interference effect, where anaerobic strength, power, and muscle girth gains are attenuated",
+                    "A 500% increase in 1RM squat strength within 2 weeks",
+                    "Complete destruction of all cardiac muscle tissue",
+                    "Immediate doubling of Type IIx fiber speed"
+                ],
+                "correct": 0,
+                "rationale": "Combined anaerobic and aerobic endurance training can reduce gains in muscle girth, maximum strength, and speed/power performance—a phenomenon known as the interference effect."
+            },
+            {
+                "id": 3,
+                "q": "In the landmark concurrent training study by Hickson and colleagues, what pattern of strength adaptation was observed during 10 weeks of combined heavy resistance and endurance training?",
+                "opts": [
+                    "Strength increased during weeks 1-7, plateaued in weeks 8-9, and decreased in weeks 9-10",
+                    "Strength decreased continuously from day 1 to week 10",
+                    "Strength increased exponentially without any plateau or decline",
+                    "Strength remained completely unchanged throughout the 10 weeks"
+                ],
+                "correct": 0,
+                "rationale": "Hickson et al. reported significant improvements in squat strength during the first 7 weeks, followed by a plateau (weeks 8-9) and a subsequent decrease in strength during weeks 9-10."
+            },
+            {
+                "id": 4,
+                "q": "Which neuromuscular mechanism is suggested to hinder strength development during combination training?",
+                "opts": [
+                    "Decreased rapid voluntary muscle activation (reduced rate of force development)",
+                    "Excessive increase in Type IIx fast-twitch fiber cross-sectional area",
+                    "Permanent suppression of motor neuron action potentials",
+                    "Hyper-activation of muscle spindles"
+                ],
+                "correct": 0,
+                "rationale": "Mechanisms suggested to hinder strength development during combination training include decreasing rapid voluntary activation, chronically lower muscle glycogen levels, and fiber type shifts toward slow twitch."
+            },
+            {
+                "id": 5,
+                "q": "How does chronically lower muscle glycogen resulting from high-volume endurance training affect strength adaptations during concurrent resistance training?",
+                "opts": [
+                    "It can limit intracellular anabolic signaling responses during resistance training",
+                    "It doubles protein synthesis rates in Type II fibers",
+                    "It prevents metabolic acidosis during maximal 1RM attempts",
+                    "It increases creatine phosphate stores by 300%"
+                ],
+                "correct": 0,
+                "rationale": "Chronically lower muscle glycogen levels resulting from endurance volume can limit intracellular signaling responses (e.g., anabolic pathways) during resistance exercise."
+            },
+            {
+                "id": 6,
+                "q": "In contrast to power athletes, how does concurrent resistance and plyometric training affect highly trained distance runners (Sedano et al.)?",
+                "opts": [
+                    "Improves maximal strength, peak running velocity, and 3 km time-trial performance without reducing VO2max",
+                    "Reduces VO2max by 50% and impairs endurance running economy",
+                    "Causes immediate bone mineral density loss",
+                    "Eliminates mitochondrial volume in cardiac tissue"
+                ],
+                "correct": 0,
+                "rationale": "Sedano et al. reported that 12 weeks of concurrent resistance, endurance, and plyometric training in distance runners improved maximal strength, peak running velocity, and 3 km time-trial performance with no reduction in VO2max."
+            },
+            {
+                "id": 7,
+                "q": "Why is extensive aerobic endurance training unnecessary for enhancing recovery in pure strength and power athletes?",
+                "opts": [
+                    "Because specific anaerobic training itself stimulates increases in aerobic power and recovery markers without compromising power",
+                    "Because power athletes do not utilize oxygen during post-exercise recovery",
+                    "Because PCr resynthesis relies exclusively on anaerobic glycolysis",
+                    "Because aerobic training converts all Type I fibers into fast-twitch fibers"
+                ],
+                "correct": 0,
+                "rationale": "Specific anaerobic training can stimulate increases in aerobic power and enhance recovery markers; thus, extensive aerobic endurance training is unnecessary and counterproductive for strength/power athletes."
+            },
+            {
+                "id": 8,
+                "q": "Which primary factors determine which energy system supplies energy for muscular contraction during exercise?",
+                "opts": [
+                    "Primarily exercise intensity, and secondarily exercise duration",
+                    "Primarily exercise duration, and secondarily athlete age",
+                    "Strictly room temperature and altitude",
+                    "Exclusively dietary protein intake"
+                ],
+                "correct": 0,
+                "rationale": "Which energy system is used to supply energy for muscular contraction is determined primarily by exercise intensity and secondarily by exercise duration."
+            }
+        ],
+        "ms": [
+            {
+                "id": 1,
+                "q": "Which negative performance outcomes can result from combining extensive aerobic endurance training with heavy strength training in power athletes? (Select all that apply)",
+                "opts": [
+                    "Reduced gain in muscle girth (hypertrophy)",
+                    "Attenuated maximum strength gains and strength plateaus/declines",
+                    "Impaired speed- and power-related performance",
+                    "Reduced anaerobic energy production capabilities"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "Combination training in power athletes can reduce muscle girth gains, maximum strength, speed/power performance, and anaerobic energy production capabilities."
+            },
+            {
+                "id": 2,
+                "q": "Which physiological mechanisms explain the interference effect during combination training? (Select all that apply)",
+                "opts": [
+                    "Increased overall volume leading to overtraining",
+                    "Decreased rapid voluntary muscle activation",
+                    "Chronically lower muscle glycogen limiting intracellular signaling",
+                    "Fiber type transitions toward slow-twitch phenotypes"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "rationale": "All four listed mechanisms (overtraining volume, reduced rapid voluntary activation, glycogen depletion signaling inhibition, and slow-twitch fiber shifts) are explicitly cited in Section 3.6.3."
+            },
+            {
+                "id": 3,
+                "q": "Which physiological recovery processes following heavy anaerobic exercise rely on oxidative metabolism? (Select all that apply)",
+                "opts": [
+                    "Post-exercise elevated oxygen consumption (EPOC)",
+                    "Lactate clearance and oxidation",
+                    "Resynthesis of creatine phosphate (PCr) stores",
+                    "Hydrolysis of ATP during active contraction"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Oxidative metabolism powers post-exercise elevated VO2, lactate removal, and PCr restoration. Active contraction ATP hydrolysis is the energy-consuming work phase."
+            },
+            {
+                "id": 4,
+                "q": "Which benefits occur when endurance runners incorporate strength and plyometric training? (Select all that apply)",
+                "opts": [
+                    "Improved maximal strength and peak running velocity",
+                    "Improved 3 km time-trial performance",
+                    "Preserved VO2max with no aerobic impairment",
+                    "Complete loss of running economy"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Concurrent strength and plyometric training in distance runners enhances maximal strength, peak velocity, and 3 km time-trial performance while preserving VO2max."
+            }
+        ],
+        "tf": [
+            {
+                "id": 1,
+                "q": "Combining progressive aerobic endurance training with heavy resistance training can cause a plateau and eventual decline in maximal strength gains.",
+                "ans": true,
+                "feedback": "Hickson et al. demonstrated that combination training initially improved squat strength, followed by a plateau and a significant strength decrease."
+            },
+            {
+                "id": 2,
+                "q": "Adding strength and plyometric training to a distance runner's program reduces their VO2max and impairs endurance performance.",
+                "ans": false,
+                "feedback": "Sedano et al. showed that strength and plyometric training improved maximal strength, peak running velocity, and 3 km time-trial performance with no reduction in VO2max."
+            },
+            {
+                "id": 3,
+                "q": "Specific high-intensity anaerobic training can stimulate increases in aerobic power and enhance recovery markers without extensive long-distance running.",
+                "ans": true,
+                "feedback": "Specific anaerobic training stimulates aerobic power and recovery markers, making extensive aerobic training unnecessary for strength/power athletes."
+            },
+            {
+                "id": 4,
+                "q": "Exercise intensity is the secondary determinant of energy system utilization, while duration is the primary determinant.",
+                "ans": false,
+                "feedback": "Exercise intensity is the PRIMARY determinant of energy system selection, and exercise duration is the SECONDARY determinant."
+            }
+        ],
+        "cloze": [
+            {
+                "id": 1,
+                "statement": "Combining extensive aerobic endurance training with strength training causes the **interference effect**, which attenuates gains in maximal **strength** and muscle girth.",
+                "targets": [
+                    "interference effect",
+                    "strength"
+                ],
+                "optionsBank": [
+                    "interference effect",
+                    "strength",
+                    "hypertrophy spike",
+                    "VO2max",
+                    "flexibility"
+                ],
+                "hint": "Identify the term for concurrent training adaptation conflict and the compromised fitness parameter."
+            },
+            {
+                "id": 2,
+                "statement": "Energy system selection during exercise is determined primarily by **intensity** and secondarily by **duration**.",
+                "targets": [
+                    "intensity",
+                    "duration"
+                ],
+                "optionsBank": [
+                    "intensity",
+                    "duration",
+                    "frequency",
+                    "mode",
+                    "altitude"
+                ],
+                "hint": "Recall the primary and secondary determinants of energy system selection."
+            }
+        ],
+        "sa": [
+            {
+                "id": 1,
+                "prompt": "Define combination training and explain four physiological mechanisms that contribute to the interference effect on strength and power.",
+                "model": "Combination training (cross-training) is the addition of aerobic endurance training to the regimen of anaerobic athletes. The interference effect describes how extensive aerobic training attenuates strength, power, and muscle hypertrophy. Four mechanisms include:\n1. Overtraining Syndrome: High overall training volume overwhelms recovery capacity.\n2. Impaired Neuromuscular Activation: Reduced rate of force development and rapid voluntary muscle activation.\n3. Glycogen Depletion: Chronically lower glycogen suppresses intracellular anabolic signaling (mTOR).\n4. Fiber Type Shifts: Transition of Type IIx fast-twitch fibers toward slower Type IIa/I phenotypes.",
+                "criteria": [
+                    "Define combination training as adding aerobic endurance training to anaerobic routines.",
+                    "Identify overtraining volume and reduced rapid voluntary activation as mechanisms.",
+                    "Identify glycogen depletion signaling inhibition and slow-twitch fiber type shifts as mechanisms."
+                ]
+            },
+            {
+                "id": 2,
+                "prompt": "Contrast the effects of combination training on a powerlifter versus a distance runner, and summarize why extensive aerobic running is counterproductive for power athletes.",
+                "model": "In powerlifters/power athletes, extensive aerobic training induces the interference effect, attenuating 1RM strength, explosive power, and muscle hypertrophy while shifting fast-twitch fibers toward slower phenotypes. In distance runners, concurrent resistance and plyometric training improves maximal strength, peak running velocity, and 3 km time-trial performance with zero loss of VO2max. Extensive aerobic running is counterproductive for power athletes because specific anaerobic training alone sufficiently develops aerobic recovery pathways without sacrificing maximal strength or power.",
+                "criteria": [
+                    "Explain that power athletes experience strength/power attenuation and slow-twitch fiber shifts.",
+                    "Explain that distance runners gain strength and time-trial performance without losing VO2max.",
+                    "Conclude that specific anaerobic training provides recovery benefits without strength/power loss."
+                ]
+            }
+        ]
+    }
+}

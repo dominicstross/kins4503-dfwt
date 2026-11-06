@@ -1,0 +1,498 @@
+{
+    "p1": {
+        "mcq": [
+            {
+                "id": 1,
+                "q": "Which energy substrates are most frequently associated with exercise fatigue during physical activity?",
+                "opts": [
+                    "Phosphagens (ATP and CP) and glycogen",
+                    "Free fatty acids and lactate",
+                    "Amino acids and ketone bodies",
+                    "Lactic acid and blood triglycerides"
+                ],
+                "correct": 0,
+                "rationale": "Fatigue experienced during many physical activities is frequently associated with the depletion of phosphagens (ATP and CP) and glycogen. Depletion of free fatty acids, lactate, and amino acids typically does not occur to the extent that performance is limited."
+            },
+            {
+                "id": 2,
+                "q": "Creatine phosphate (CP) concentrations in skeletal muscle decrease by what percentage during the first 5 to 30 seconds of high-intensity exercise?",
+                "opts": [
+                    "10% to 20%",
+                    "30% to 40%",
+                    "50% to 70%",
+                    "90% to 100%"
+                ],
+                "correct": 2,
+                "rationale": "Creatine phosphate can decrease markedly by 50% to 70% during the first stage of high-intensity exercise of short and moderate duration (5-30 seconds) and can be almost completely depleted during exhaustive exercise."
+            },
+            {
+                "id": 3,
+                "q": "During experimentally induced exhaustion, intramuscular ATP concentrations may decline by up to what maximum percentage of preexercise values?",
+                "opts": [
+                    "10% to 20%",
+                    "30% to 40%",
+                    "50% to 60%",
+                    "90% to 100%"
+                ],
+                "correct": 2,
+                "rationale": "Muscle ATP concentrations may decrease only slightly or may decrease up to 50% to 60% of preexercise levels during experimentally induced fatigue, as ATP is tightly regulated for basic cellular survival."
+            },
+            {
+                "id": 4,
+                "q": "How do dynamic muscle actions compare to static isometric muscle actions at equivalent force outputs regarding phosphagen depletion?",
+                "opts": [
+                    "Dynamic muscle actions use more metabolic energy and deplete phosphagens to a greater extent",
+                    "Isometric actions consume significantly more energy and deplete CP faster",
+                    "Both action types deplete phosphagens at identical absolute rates",
+                    "Isometric actions rely exclusively on fat oxidation rather than phosphagens"
+                ],
+                "correct": 0,
+                "rationale": "Dynamic muscle actions that produce external work use more metabolic energy and typically deplete phosphagens to a greater extent than do isometric muscle actions."
+            },
+            {
+                "id": 5,
+                "q": "Complete post-exercise resynthesis of ATP and creatine phosphate (CP) typically occurs within which respective timeframes?",
+                "opts": [
+                    "ATP within 30 seconds; CP within 1 minute",
+                    "ATP within 3 to 5 minutes; CP within 8 minutes",
+                    "ATP within 10 to 15 minutes; CP within 30 minutes",
+                    "ATP and CP both require exactly 24 hours"
+                ],
+                "correct": 1,
+                "rationale": "Complete resynthesis of ATP appears to occur within 3 to 5 minutes post-exercise, and complete CP resynthesis can occur within 8 minutes."
+            },
+            {
+                "id": 6,
+                "q": "Which energy system is primarily responsible for driving post-exercise phosphagen repletion?",
+                "opts": [
+                    "Fast glycolysis in the sarcoplasm",
+                    "Aerobic metabolism (mitochondrial oxidative phosphorylation)",
+                    "Beta oxidation of amino acids",
+                    "Substrate-level phosphorylation in the liver"
+                ],
+                "correct": 1,
+                "rationale": "Repletion of phosphagens post-exercise is largely accomplished as a result of aerobic metabolism, though fast glycolysis can contribute after high-intensity exercise."
+            },
+            {
+                "id": 7,
+                "q": "What adaptation in resting phosphagen content is observed following short-term sprint training (8 weeks) or resistance training (6 months)?",
+                "opts": [
+                    "Resting CP concentration per gram of muscle increases by 300%",
+                    "Concentration per unit mass remains unchanged, but total phosphagen content increases due to muscle hypertrophy",
+                    "Intramuscular ATP stores are reduced to zero at rest",
+                    "Type I fibers lose all phosphagen content"
+                ],
+                "correct": 1,
+                "rationale": "Short-term sprint and resistance training studies have not shown alterations in resting phosphagen concentrations per unit mass; however, total phosphagen content can be larger due to increases in overall muscle mass."
+            },
+            {
+                "id": 8,
+                "q": "Why can 5 weeks of resistance training increase resting phosphagen concentrations in specific muscles like the triceps brachii?",
+                "opts": [
+                    "Due to selective hypertrophy of Type II muscle fibers, which contain higher baseline phosphagen concentrations than Type I fibers",
+                    "Because Type I slow-twitch fibers convert entirely into adipocytes",
+                    "Through decreased mitochondrial volume in fast-twitch fibers",
+                    "Because creatine kinase enzyme activity is permanently inhibited"
+                ],
+                "correct": 0,
+                "rationale": "Resistance training increases resting phosphagen concentrations in specific muscles due to selective hypertrophy of Type II (fast-twitch) muscle fibers, which naturally contain higher phosphagen concentrations than Type I fibers."
+            }
+        ],
+        "ms": [
+            {
+                "id": 1,
+                "q": "Which of the following statements regarding phosphagen depletion during exercise are correct? (Select all that apply)",
+                "opts": [
+                    "Creatine phosphate decreases by 50% to 70% during 5-30 seconds of high-intensity exercise",
+                    "ATP stores decrease by a maximum of 50% to 60% during induced fatigue",
+                    "Intramuscular ATP is completely depleted to 0% during routine warm-ups",
+                    "Dynamic muscle actions deplete phosphagens to a greater extent than isometric actions"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    3
+                ],
+                "rationale": "CP decreases by 50-70% in 5-30s and can be almost fully depleted. ATP drops by at most 50-60%. Dynamic actions deplete more phosphagens than isometric actions. ATP is never fully depleted to 0% due to cellular survival requirements."
+            },
+            {
+                "id": 2,
+                "q": "Which physiological processes contribute to maintaining intramuscular ATP levels during exercise as CP is depleted? (Select all that apply)",
+                "opts": [
+                    "Adenylate kinase (myokinase) reaction (2 ADP <-> ATP + AMP)",
+                    "Glycogenolysis and fast glycolysis",
+                    "Oxidation of energy sources such as glycogen and free fatty acids",
+                    "Direct absorption of ambient nitrogen gas"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Intramuscular ATP concentration is largely sustained during exercise as a consequence of CP depletion, the myokinase reaction, and additional ATP from glycogenolysis, glycolysis, and fatty acid oxidation."
+            },
+            {
+                "id": 3,
+                "q": "Which of the following describe post-exercise phosphagen repletion dynamics? (Select all that apply)",
+                "opts": [
+                    "Complete ATP resynthesis occurs within 3 to 5 minutes",
+                    "Complete CP resynthesis occurs within 8 minutes",
+                    "Repletion is accomplished primarily as a result of aerobic metabolism",
+                    "Complete CP repletion requires 48 hours of bed rest"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "ATP resynthesizes fully within 3-5 minutes, CP resynthesizes fully within 8 minutes, and the process is powered primarily by aerobic metabolism."
+            },
+            {
+                "id": 4,
+                "q": "Which statements regarding training adaptations and phosphagen stores are accurate? (Select all that apply)",
+                "opts": [
+                    "Aerobic endurance training may reduce the rate of phosphagen depletion at a given absolute submaximal workload",
+                    "Sprint training increases total absolute phosphagen content by increasing muscle mass",
+                    "8 weeks of sprint training doubles resting ATP concentration per unit of wet muscle mass",
+                    "Type II muscle fibers generally contain higher phosphagen concentrations than Type I fibers"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    3
+                ],
+                "rationale": "Aerobic training reduces phosphagen depletion rate at absolute submaximal workloads. Hypertrophy from sprint/resistance training increases total absolute phosphagen content. Type II fibers store more phosphagens than Type I fibers. Short-term sprint training does not double resting concentration per unit mass."
+            }
+        ],
+        "tf": [
+            {
+                "id": 1,
+                "q": "Depletion of free fatty acids, lactate, and amino acids is the primary factor limiting performance during maximal sprint exercise.",
+                "ans": false,
+                "feedback": "Depletion of free fatty acids, lactate, and amino acids typically does not occur to the extent that performance is limited; fatigue is primarily linked to phosphagen and glycogen depletion."
+            },
+            {
+                "id": 2,
+                "q": "Complete resynthesis of intramuscular ATP occurs within 3 to 5 minutes post-exercise, whereas complete CP resynthesis requires up to 8 minutes.",
+                "ans": true,
+                "feedback": "ATP resynthesizes fully within 3 to 5 minutes, while CP resynthesis requires up to 8 minutes."
+            },
+            {
+                "id": 3,
+                "q": "Isometric muscle actions consume more metabolic energy and deplete phosphagens to a greater extent than dynamic muscle actions performing external work.",
+                "ans": false,
+                "feedback": "Dynamic muscle actions that produce external work consume more metabolic energy and deplete phosphagens to a greater extent than static isometric actions."
+            },
+            {
+                "id": 4,
+                "q": "Aerobic metabolism is the primary energy pathway driving post-exercise phosphagen resynthesis.",
+                "ans": true,
+                "feedback": "Postexercise phosphagen repletion is largely accomplished through aerobic metabolism (mitochondrial oxidative phosphorylation)."
+            }
+        ],
+        "cloze": [
+            {
+                "id": 1,
+                "statement": "Creatine phosphate stores can decrease by **50% to 70%** during the first 5 to 30 seconds of high-intensity exercise, while complete CP resynthesis occurs within **8 minutes** post-exercise.",
+                "targets": [
+                    "50% to 70%",
+                    "8 minutes"
+                ],
+                "optionsBank": [
+                    "50% to 70%",
+                    "8 minutes",
+                    "10% to 20%",
+                    "24 hours",
+                    "3 to 5 minutes"
+                ],
+                "hint": "Recall the percentage range of CP depletion during initial high-intensity work and the timeframe for total CP recovery."
+            },
+            {
+                "id": 2,
+                "statement": "Intramuscular ATP resynthesis during recovery is primarily accomplished via **aerobic** metabolism, while selective hypertrophy of Type **II** muscle fibers increases localized phosphagen capacity.",
+                "targets": [
+                    "aerobic",
+                    "II"
+                ],
+                "optionsBank": [
+                    "aerobic",
+                    "II",
+                    "anaerobic",
+                    "I",
+                    "glycolytic"
+                ],
+                "hint": "Identify the primary metabolic repletion pathway and the fast-twitch muscle fiber type with higher CP content."
+            }
+        ],
+        "sa": [
+            {
+                "id": 1,
+                "prompt": "Explain the depletion and repletion kinetics of ATP and creatine phosphate (CP) during and after high-intensity anaerobic exercise.",
+                "model": "During high-intensity exercise (5-30s), CP stores rapidly decrease by 50% to 70% to buffer ATP levels, and can be nearly completely depleted during exhaustive work. ATP concentrations are tightly maintained for cellular survival, dropping by a maximum of 50% to 60% during fatigue. Following exercise, ATP is completely resynthesized within 3 to 5 minutes, while CP is completely resynthesized within 8 minutes, powered primarily by aerobic metabolism in the mitochondria.",
+                "criteria": [
+                    "State that CP drops by 50-70% in 5-30s and can be nearly completely depleted.",
+                    "State that ATP decreases by a maximum of 50-60% during exhaustion.",
+                    "Detail repletion timeframes: ATP in 3-5 min, CP in 8 min via aerobic metabolism."
+                ]
+            },
+            {
+                "id": 2,
+                "prompt": "Contrast the energy cost and phosphagen depletion between dynamic and isometric muscle actions, and explain how resistance training alters resting phosphagen content.",
+                "model": "Dynamic muscle actions performing external work consume more metabolic energy and deplete phosphagens to a greater extent than static isometric actions at equivalent force outputs. Short-term sprint or resistance training does not alter phosphagen concentration per unit of muscle mass; however, total absolute phosphagen content increases due to muscle hypertrophy. Furthermore, selective hypertrophy of Type II fibers (which store higher baseline CP concentrations than Type I) increases localized phosphagen capacity.",
+                "criteria": [
+                    "Note that dynamic muscle actions deplete phosphagens more than isometric actions.",
+                    "Explain that resistance training increases total phosphagen content via muscle mass gains rather than concentration changes per unit mass.",
+                    "Highlight selective Type II fiber hypertrophy as a mechanism for increased localized resting CP."
+                ]
+            }
+        ]
+    },
+    "p2": {
+        "mcq": [
+            {
+                "id": 1,
+                "q": "How much total glycogen is approximately stored in human muscle and liver tissue under normal resting conditions?",
+                "opts": [
+                    "300 to 400 g in muscle; 70 to 100 g in liver",
+                    "50 to 100 g in muscle; 500 to 600 g in liver",
+                    "1000 g in muscle; 1000 g in liver",
+                    "10 to 20 g in muscle; 1 to 2 g in liver"
+                ],
+                "correct": 0,
+                "rationale": "Approximately 300 to 400 g of glycogen are stored in total muscle tissue, and about 70 to 100 g are stored in the liver."
+            },
+            {
+                "id": 2,
+                "q": "How does the rate of muscle glycogenolysis change when relative exercise intensity increases from 50% to 75% and 100% of VO2max?",
+                "opts": [
+                    "Decreases to 0.1 mmol\u00b7kg^-1\u00b7min^-1",
+                    "Increases from 0.7 to 1.4 and 3.4 mmol\u00b7kg^-1\u00b7min^-1",
+                    "Remains constant at 10.0 mmol\u00b7kg^-1\u00b7min^-1",
+                    "Ceases completely above 50% VO2max"
+                ],
+                "correct": 1,
+                "rationale": "Increases in relative exercise intensity of 50%, 75%, and 100% of maximal oxygen uptake result in muscle glycogenolysis rates of 0.7, 1.4, and 3.4 mmol\u00b7kg^-1\u00b7min^-1, respectively."
+            },
+            {
+                "id": 3,
+                "q": "At what relative exercise intensity does muscle glycogen become an increasingly important substrate, leading to potential complete depletion of specific muscle fibers?",
+                "opts": [
+                    "Above 10% of VO2max",
+                    "Above 25% of VO2max",
+                    "Above 60% of VO2max",
+                    "Only at 100% 1RM static hold"
+                ],
+                "correct": 2,
+                "rationale": "At relative intensities of exercise above 60% of maximal oxygen uptake, muscle glycogen becomes an increasingly important energy substrate, and entire muscle cells can become depleted."
+            },
+            {
+                "id": 4,
+                "q": "What blood glucose concentration range results from reduced liver carbohydrate stores during prolonged exercise (>90 min) and causes decreased carbohydrate oxidation and exhaustion?",
+                "opts": [
+                    "8.0 to 10.0 mmol/L",
+                    "5.5 to 6.5 mmol/L",
+                    "2.5 to 3.0 mmol/L",
+                    "0.1 to 0.5 mmol/L"
+                ],
+                "correct": 2,
+                "rationale": "A decline in blood glucose to around 2.5 to 3.0 mmol/L results from reduced liver carbohydrate stores during long-term exercise and causes decreased carbohydrate oxidation and eventual exhaustion."
+            },
+            {
+                "id": 5,
+                "q": "Exercise-induced blood glucose declines below what clinical threshold define a hypoglycemic reaction?",
+                "opts": [
+                    "Less than 5.0 mmol/L",
+                    "Less than 4.0 mmol/L",
+                    "Less than 2.5 mmol/L",
+                    "Less than 1.0 mmol/L"
+                ],
+                "correct": 2,
+                "rationale": "Hypoglycemic reactions may occur in some people with exercise-induced blood glucose values less than 2.5 mmol/L."
+            },
+            {
+                "id": 6,
+                "q": "High-intensity intermittent resistance training can cause what percentage of muscle glycogen depletion with relatively few sets?",
+                "opts": [
+                    "0% to 5%",
+                    "20% to 60%",
+                    "80% to 100%",
+                    "Exactly 100% in all fibers"
+                ],
+                "correct": 1,
+                "rationale": "Very high-intensity, intermittent exercise, such as high-intensity resistance training, can cause substantial depletion of muscle glycogen (decreases of 20% to 60%) with relatively few sets."
+            },
+            {
+                "id": 7,
+                "q": "What carbohydrate ingestion protocol optimizes post-exercise muscle glycogen repletion?",
+                "opts": [
+                    "Ingesting 0.1 g of protein per kg once every 24 hours",
+                    "Ingesting 0.7 to 3.0 g of carbohydrate per kg of body weight every 2 hours",
+                    "Drinking plain water only for 48 hours",
+                    "Ingesting 10 g of fat per kg every 30 minutes"
+                ],
+                "correct": 1,
+                "rationale": "Repletion appears to be optimal if 0.7 to 3.0 g of carbohydrate per kilogram of body weight is ingested every 2 hours following exercise, reaching repletion rates of 5 to 6 mmol/g wet muscle per hour."
+            },
+            {
+                "id": 8,
+                "q": "Why does exercise containing a significant eccentric loading component require more than 24 hours for complete muscle glycogen replenishment?",
+                "opts": [
+                    "Because eccentric exercise causes exercise-induced muscle damage that impairs glycogen resynthesis",
+                    "Because eccentric exercise destroys liver enzymes permanently",
+                    "Because eccentric movement generates zero ATP demand",
+                    "Because carbohydrate absorption in the gut is blocked by gravity"
+                ],
+                "correct": 0,
+                "rationale": "If exercise has a high eccentric component (associated with exercise-induced muscle damage), more time (>24 hours) may be required to completely replenish muscle glycogen."
+            }
+        ],
+        "ms": [
+            {
+                "id": 1,
+                "q": "Which statements regarding muscle and liver glycogen stores during exercise are correct? (Select all that apply)",
+                "opts": [
+                    "Total resting muscle glycogen is ~300-400 g, and liver glycogen is ~70-100 g",
+                    "Muscle glycogen is more important during moderate- and high-intensity exercise",
+                    "Liver glycogen is more important during low-intensity exercise and increases in contribution as duration increases",
+                    "Liver glycogen stores are completely unlimited and can never be depleted"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Muscle glycogen stores (300-400g) dominate in moderate/high intensity work; liver glycogen (70-100g) maintains blood glucose during low intensity and long duration work. Liver glycogen stores are limited and can be depleted during long exercise (>90 min)."
+            },
+            {
+                "id": 2,
+                "q": "Which factors influence the rate and magnitude of muscle glycogen depletion during resistance training? (Select all that apply)",
+                "opts": [
+                    "Exercise intensity (higher intensity accelerates the rate of glycogenolysis)",
+                    "Total work performed (equal work results in equal absolute glycogen depletion)",
+                    "The ambient room temperature during quiet sitting",
+                    "Total number of sets and volume of exercise"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    3
+                ],
+                "rationale": "Rate of glycogenolysis depends on intensity. However, when total work is equal, absolute glycogen depletion is equal regardless of intensity. Higher volume/sets cause greater total depletion (20-60%)."
+            },
+            {
+                "id": 3,
+                "q": "Which of the following describe blood glucose dynamics during prolonged exercise (>90 minutes)? (Select all that apply)",
+                "opts": [
+                    "Blood glucose is maintained by liver glycogen breakdown at submaximal intensities",
+                    "Blood glucose concentrations fall as liver glycogen becomes depleted",
+                    "Blood glucose spikes to 15.0 mmol/L upon liver glycogen exhaustion",
+                    "Blood glucose drops to 2.5-3.0 mmol/L trigger reduced carbohydrate oxidation and exhaustion"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    3
+                ],
+                "rationale": "Liver glycogen maintains blood glucose. Extended exercise (>90 min) depletes liver glycogen, causing blood glucose to drop to 2.5-3.0 mmol/L, reducing carbohydrate oxidation and inducing exhaustion."
+            },
+            {
+                "id": 4,
+                "q": "Which statements regarding post-exercise muscle glycogen repletion kinetics are accurate? (Select all that apply)",
+                "opts": [
+                    "Post-exercise ingestion of 0.7 to 3.0 g/kg carbohydrate every 2 hours maximizes resynthesis",
+                    "Repletion rate reaches 5 to 6 mmol/g wet muscle per hour during the first 4 to 6 hours",
+                    "Complete repletion occurs within 24 hours under optimal carbohydrate intake",
+                    "Eccentric muscle damage accelerates glycogen resynthesis to under 2 hours"
+                ],
+                "correctArray": [
+                    0,
+                    1,
+                    2
+                ],
+                "rationale": "Carbohydrate ingestion of 0.7-3.0 g/kg every 2 hours maximizes resynthesis (5-6 mmol/g wet muscle/hr), allowing complete recovery in 24 hours. Eccentric muscle damage delays (not accelerates) repletion beyond 24 hours."
+            }
+        ],
+        "tf": [
+            {
+                "id": 1,
+                "q": "Muscle glycogen is the predominant energy source during moderate- and high-intensity exercise, whereas liver glycogen becomes increasingly important during low-intensity, long-duration exercise.",
+                "ans": true,
+                "feedback": "Muscle glycogen powers moderate- and high-intensity work; liver glycogen maintains blood glucose during low-intensity exercise as duration extends."
+            },
+            {
+                "id": 2,
+                "q": "Increasing relative exercise intensity from 50% to 100% VO2max increases the rate of muscle glycogenolysis from 0.7 to 3.4 mmol\u00b7kg^-1\u00b7min^-1.",
+                "ans": true,
+                "feedback": "Glycogenolysis rates increase stepwise from 0.7 (50% VO2max) to 1.4 (75% VO2max) and 3.4 mmol\u00b7kg^-1\u00b7min^-1 (100% VO2max)."
+            },
+            {
+                "id": 3,
+                "q": "Blood glucose levels below 2.5 mmol/L result in hypoglycemic reactions during prolonged exercise.",
+                "ans": true,
+                "feedback": "Exercise-induced blood glucose drops below 2.5 mmol/L trigger clinical hypoglycemic reactions."
+            },
+            {
+                "id": 4,
+                "q": "When total work performed during resistance training is equal, higher intensity sets cause significantly greater absolute glycogen depletion than lower intensity sets.",
+                "ans": false,
+                "feedback": "When total work performed is equal, the absolute amount of glycogen depletion is the same, regardless of resistance training intensity."
+            }
+        ],
+        "cloze": [
+            {
+                "id": 1,
+                "statement": "The rate of muscle glycogenolysis increases from 0.7 to **3.4** mmol\u00b7kg^-1\u00b7min^-1 as exercise intensity increases to 100% VO2max, while blood glucose levels below **2.5** mmol/L induce hypoglycemia.",
+                "targets": [
+                    "3.4",
+                    "2.5"
+                ],
+                "optionsBank": [
+                    "3.4",
+                    "2.5",
+                    "10.0",
+                    "5.0",
+                    "0.1"
+                ],
+                "hint": "Identify the glycogenolysis rate at 100% VO2max and the clinical hypoglycemia blood glucose cutoff."
+            },
+            {
+                "id": 2,
+                "statement": "Optimizing muscle glycogen repletion requires ingesting 0.7 to **3.0** g of carbohydrate per kg of body weight every 2 hours, achieving complete repletion within **24** hours.",
+                "targets": [
+                    "3.0",
+                    "24"
+                ],
+                "optionsBank": [
+                    "3.0",
+                    "24",
+                    "15.0",
+                    "48",
+                    "0.1"
+                ],
+                "hint": "Recall the upper bound for carbohydrate dosing (g/kg) and the standard hours required for complete glycogen recovery."
+            }
+        ],
+        "sa": [
+            {
+                "id": 1,
+                "prompt": "Describe the relationship between exercise intensity, duration, and muscle/liver glycogen depletion during endurance and resistance training.",
+                "model": "Muscle glycogen depletion rate depends on exercise intensity: relative intensities of 50%, 75%, and 100% VO2max increase glycogenolysis rates by 0.7, 1.4, and 3.4 mmol\u00b7kg^-1\u00b7min^-1, respectively. Muscle glycogen is the main substrate for moderate-to-high intensity exercise, while liver glycogen maintains blood glucose during lower intensity and long duration work. During prolonged exercise (>90 min), liver glycogen depletion drops blood glucose to 2.5-3.0 mmol/L, causing exhaustion and hypoglycemia (<2.5 mmol/L). In resistance training, high-volume sets cause 20-60% muscle glycogen depletion, preferentially targeting Type II fibers.",
+                "criteria": [
+                    "Detail glycogenolysis rates at 50%, 75%, and 100% VO2max (0.7, 1.4, 3.4 mmol/kg/min).",
+                    "Contrast muscle glycogen (high intensity) vs liver glycogen (blood glucose maintenance, long duration).",
+                    "Identify blood glucose drop thresholds (2.5-3.0 mmol/L exhaustion, <2.5 mmol/L hypoglycemia) and resistance training depletion (20-60%)."
+                ]
+            },
+            {
+                "id": 2,
+                "prompt": "Explain the optimal dietary carbohydrate repletion protocol following exercise, and describe how exercise-induced muscle damage affects this recovery timeline.",
+                "model": "Muscle glycogen repletion is optimized by ingesting 0.7 to 3.0 g of carbohydrate per kilogram of body weight every 2 hours post-exercise. This protocol achieves maximal repletion rates of 5 to 6 mmol/g wet muscle mass per hour during the first 4 to 6 hours post-exercise, leading to complete repletion within 24 hours. However, if the exercise session includes significant eccentric muscle actions causing structural muscle damage, glycogen resynthesis is impaired and complete replenishment requires more than 24 hours.",
+                "criteria": [
+                    "State optimal carbohydrate dosing (0.7 to 3.0 g/kg every 2 hours).",
+                    "Identify repletion rate (5 to 6 mmol/g wet muscle/hr) and 24-hour complete recovery timeline.",
+                    "Explain that eccentric muscle damage delays repletion beyond 24 hours."
+                ]
+            }
+        ]
+    }
+}

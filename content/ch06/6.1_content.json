@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "course": "DFWT - KINS 4503 Design of Fitness & WT",
+    "chapter": "6",
+    "section": "6.1",
+    "ch": "6",
+    "mod": "6.1",
+    "moduleTitle": "6.1 Acute Responses to Aerobic Exercise"
+  },
+  "pages": [
+    {
+      "id": "p1",
+      "title": "Part 1: Acute Cardiovascular Responses and Hemodynamics",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Acute Cardiovascular Responses and Hemodynamics</h2><p>A single bout of aerobic exercise imposes immediate, substantial metabolic demands on the human body. The primary functions of the cardiovascular system during acute exercise are to deliver oxygen and essential substrates to active skeletal muscle tissue while rapidly removing metabolic end-products and carbon dioxide. To meet these elevated tissue requirements, the cardiovascular system undergoes coordinated adjustments in cardiac output, stroke volume, heart rate, blood pressure, and regional blood flow distribution.</p><h3>Cardiac Output ($Q$) and Stroke Volume Kinetics</h3><p><strong>Cardiac output ($Q$)</strong> represents the total volume of blood pumped by the heart per minute, measured in liters per minute ($\\text{L/min}$). Cardiac output is mathematically defined as the product of stroke volume and heart rate:</p><p>$$Q = \\text{Stroke Volume (SV)} \\times \\text{Heart Rate (HR)}$$</p><p>At rest, baseline cardiac output averages approximately $5.0\\text{ L/min}$. At the onset of aerobic exercise, cardiac output increases rapidly, followed by a more gradual rise until reaching a steady-state plateau during submaximal work. During maximal aerobic exertion, cardiac output can increase to four times resting levels, reaching maximal values of $20\\text{ to } 22\\text{ L/min}$ in healthy young adults.</p><ul><li><strong>Stroke Volume ($SV$):</strong> Stroke volume is the quantity of blood ejected from the left ventricle per contraction, measured in milliliters per beat ($\\text{ml/beat}$). Stroke volume rises rapidly from exercise onset until oxygen consumption reaches approximately $40\\%\\text{ to } 50\\%$ of maximal oxygen uptake ($\\dot{V}\\text{O}_2\\text{max}$), after which stroke volume plateaus.</li><li><strong>Population & Training Differences:</strong> Maximal stroke volume in sedentary college-aged men averages $100\\text{ to } 120\\text{ ml/beat}$, whereas sedentary college-aged women average approximately $25\\%$ lower ($75\\text{ to } 90\\text{ ml/beat}$) due to smaller average body mass and cardiac chamber dimensions. In endurance-trained individuals, maximal stroke volume increases dramatically, reaching $150\\text{ to } 160\\text{ ml/beat}$ in trained men and $100\\text{ to } 110\\text{ ml/beat}$ in trained women.</li></ul><h3>Mechanisms Regulating Stroke Volume and the Frank-Starling Law</h3><p>Two main physiological mechanisms regulate stroke volume during acute aerobic exercise:</p><ol><li><strong>End-Diastolic Volume (EDV) & Frank-Starling Mechanism:</strong> EDV is the total volume of blood present in the left ventricle at the end of diastole. During exercise, <em>venous return</em> increases due to sympathetic venoconstriction, the skeletal muscle pump (muscular contractions forcing blood through one-way venous valves), and the respiratory pump (thoracic pressure swings). The increased EDV stretches myocardial muscle fibers, producing a more forceful systolic contraction according to the <strong>Frank-Starling mechanism</strong>. This enhanced contractile force elevates the <strong>ejection fraction</strong>\u2014the proportion of EDV ejected during contraction.</li><li><strong>Sympathetic Neuroendocrine Activation:</strong> Anticipatory and exercise-induced sympathetic nervous system stimulation releases catecholamines (epinephrine and norepinephrine), directly enhancing myocardial contractility and stroke volume.</li></ol><h3>Heart Rate Kinetics and Maximal Heart Rate Estimation</h3><p>Heart rate increases linearly with aerobic exercise intensity. Just prior to exercise onset, an anticipatory reflex surge in sympathetic output elevates resting heart rate. Maximal heart rate ($HR_{\\text{max}}$) can be estimated using standard physiological formulas:</p><ul><li><strong>Traditional Formula:</strong> $HR_{\\text{max}} = 220 - \\text{age}$ (Standard deviation $\\pm 10\\text{ to } 12\\text{ beats/min}$). For example, a 47-year-old athlete has an estimated $HR_{\\text{max}}$ of $173\\text{ beats/min}$ (range $161\\text{ to } 185\\text{ beats/min}$).</li><li><strong>Tanaka Meta-Analysis Formula:</strong> $HR_{\\text{max}} = 208 - (0.7 \\times \\text{age})$, providing enhanced predictive accuracy in healthy adults.</li></ul><h3>Oxygen Uptake ($\\dot{V}\\text{O}_2$) and the Fick Equation</h3><p><strong>Oxygen uptake ($\\dot{V}\\text{O}_2$)</strong> measures the volume of oxygen consumed by tissue metabolism. Resting oxygen uptake is estimated at $3.5\\text{ ml}\\cdot\\text{kg}^{-1}\\cdot\\text{min}^{-1}$, defined as $1\\text{ metabolic equivalent (MET)}$. Maximal oxygen uptake ($\\dot{V}\\text{O}_2\\text{max}$) ranges from $25\\text{ to } 80\\text{ ml}\\cdot\\text{kg}^{-1}\\cdot\\text{min}^{-1}$ ($7.1\\text{ to } 22.9\\text{ METs}$) depending on age and conditioning level. Oxygen uptake is calculated via the <strong>Fick equation</strong>:</p><p>$$\\dot{V}\\text{O}_2 = Q \\times a\\text{-}\\bar{v}\\text{O}_2\\text{ difference} = \\text{HR} \\times \\text{SV} \\times a\\text{-}\\bar{v}\\text{O}_2\\text{ difference}$$</p><p>where $a\\text{-}\\bar{v}\\text{O}_2\\text{ difference}$ is the <strong>arteriovenous oxygen difference</strong> (oxygen content discrepancy between arterial and mixed venous blood per $100\\text{ ml}$ of blood).</p><h3>Blood Pressure, Rate-Pressure Product, and Local Blood Flow Control</h3><p>During acute exercise, <strong>systolic blood pressure (SBP)</strong> increases from baseline ($110\\text{ to } 139\\text{ mmHg}$) up to $220\\text{ to } 260\\text{ mmHg}$ at maximal intensity. Conversely, <strong>diastolic blood pressure (DBP)</strong> ($60\\text{ to } 89\\text{ mmHg}$) remains constant or decreases slightly due to arteriolar vasodilation. Myocardial work is estimated by the <strong>rate-pressure product (RPP)</strong>: $\\text{RPP} = \\text{HR} \\times \\text{SBP}$. Average systemic blood pressure is described by <strong>mean arterial pressure (MAP)</strong>:</p><p>$$\\text{MAP} = \\left[ \\frac{\\text{SBP} - \\text{DBP}}{3} \\right] + \\text{DBP}$$</p><p>Local blood flow to active skeletal muscle is regulated via selective arteriolar vasodilation, increasing muscle blood flow distribution from $15\\%\\text{ to } 20\\%$ of cardiac output at rest up to $90\\%$ during maximal exertion.</p><div class=\"callout-box\"><div class=\"callout-title\">Coaching /Sport  Application</div><p>Understanding that stroke volume plateaus at $40\\%\\text{ to } 50\\%\\text{ } \\dot{V}\\text{O}_2\\text{max}$ helps strength and conditioning coaches optimize endurance programming. Submaximal aerobic recovery workouts stimulate optimal cardiac filling and venous return via the Frank-Starling mechanism without inducing severe central fatigue. Furthermore, tracking rate-pressure product ($\text{HR} \\times \\text{SBP}$) allows practitioners to evaluate myocardial oxygen demand during clinical or athletic conditioning.</p></div><table class=\"data-table\"><thead><tr><th>Cardiovascular Parameter</th><th>Resting Value</th><th>Maximal Aerobic Exercise Value</th></tr></thead><tbody><tr><td><strong>Cardiac Output ($Q$)</strong></td><td>$5.0\\text{ L/min}$</td><td>$20.0\\text{ to } 22.0\\text{ L/min}$</td></tr><tr><td><strong>Stroke Volume (Untrained Men)</strong></td><td>$50\\text{ to } 70\\text{ ml/beat}$</td><td>$100\\text{ to } 120\\text{ ml/beat}$</td></tr><tr><td><strong>Stroke Volume (Trained Men)</strong></td><td>$70\\text{ to } 90\\text{ ml/beat}$</td><td>$150\\text{ to } 160\\text{ ml/beat}$</td></tr><tr><td><strong>Systolic Blood Pressure (SBP)</strong></td><td>$110\\text{ to } 139\\text{ mmHg}$</td><td>$220\\text{ to } 260\\text{ mmHg}$</td></tr><tr><td><strong>Diastolic Blood Pressure (DBP)</strong></td><td>$60\\text{ to } 89\\text{ mmHg}$</td><td>Unchanged or slightly decreased</td></tr><tr><td><strong>Skeletal Muscle Blood Flow %</strong></td><td>$15\\%\\text{ to } 20\\%\\text{ of } Q$</td><td>Up to $90\\%\\text{ of } Q$</td></tr></tbody></table>"
+    },
+    {
+      "id": "p2",
+      "title": "Part 2: Respiratory Mechanics and Pulmonary Gas Exchange",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Respiratory Mechanics and Pulmonary Gas Exchange</h2><p>Acute aerobic exercise places extensive demands on the respiratory system to maintain alveolar gas homeostasis. Significant increases in oxygen delivery to working skeletal muscles and rapid removal of metabolic carbon dioxide are accomplished through changes in respiratory frequency, tidal volume, minute ventilation, and gas diffusion kinetics.</p><h3>Minute Ventilation Dynamics and Ventilatory Equivalent</h3><p><strong>Minute ventilation ($\\dot{V}_E$)</strong> is the total volume of air breathed per minute, calculated as the product of tidal volume (TV) and breathing frequency ($f_b$):</p><p>$$\\dot{V}_E = \\text{Tidal Volume (TV)} \\times \\text{Breathing Frequency } (f_b)$$</p><ul><li><strong>Breathing Frequency ($f_b$):</strong> Increases from resting rates of $12\\text{ to } 15\\text{ breaths/min}$ up to $35\\text{ to } 45\\text{ breaths/min}$ during strenuous exercise.</li><li><strong>Tidal Volume (TV):</strong> Rises from resting values of $0.4\\text{ to } 1.0\\text{ L}$ up to $3.0\\text{ L}$ or greater.</li><li><strong>Total Minute Ventilation:</strong> Increases $15\\text{ to } 25\\text{ times}$ over resting levels, reaching maximal operational values of $90\\text{ to } 150\\text{ L/min}$.</li></ul><p>The ratio of minute ventilation to oxygen uptake is termed the <strong>ventilatory equivalent</strong> ($\\dot{V}_E / \\dot{V}\\text{O}_2$). During low- to moderate-intensity exertion, $\\dot{V}_E / \\dot{V}\\text{O}_2$ ranges between $20\\text{ and } 25\\text{ L of air per L of O}_2$ consumed, driven primarily by increases in tidal volume. At higher exercise intensities ($>45\\%\\text{ to } 65\\%\\text{ } \\dot{V}\\text{O}_2\\text{max}$ in untrained, $70\\%\\text{ to } 90\\%$ in trained athletes), breathing frequency dominates, and minute ventilation rises disproportionately to buffer rising blood lactate, elevating $\\dot{V}_E / \\dot{V}\\text{O}_2$ to $35\\text{ to } 40\\text{ L air / L O}_2$.</p><h3>Anatomical vs. Physiological Dead Space</h3><p>Gas exchange kinetics within the pulmonary system are strongly influenced by respiratory dead space compartments:</p><ul><li><strong>Anatomical Dead Space:</strong> Comprises non-functional conducting airways (nose, mouth, pharynx, trachea, bronchi, bronchioles) where gas exchange cannot occur. Volume averages approximately $150\\text{ ml}$ in young adults. Although deep breathing stretches conducting passages and slightly increases anatomical dead space, the proportional increase in tidal volume is far greater. Consequently, increasing tidal volume (deeper breathing) provides far more efficient alveolar ventilation than increasing breathing frequency alone.</li><li><strong>Physiological Dead Space:</strong> Refers to non-functional or poorly perfused alveoli. In healthy individuals, physiological dead space is negligible. However, pulmonary pathologies (e.g., COPD, pneumonia) can increase physiological dead space up to $10\\text{ times}$ the volume of anatomical dead space.</li></ul><h3>Gas Diffusion and Pressure Gradients</h3><p><strong>Diffusion</strong> is the passive movement of oxygen and carbon dioxide across alveolar-capillary and capillary-tissue membranes down partial pressure gradients ($P_{\\text{O}_2}$ and $P_{\\text{CO}_2}$):</p><ul><li><strong>Resting Partial Pressures:</strong> Arterial blood $P_{\\text{O}_2}$ is $100\\text{ mmHg}$ and $P_{\\text{CO}_2}$ is $40\\text{ mmHg}$. In resting interstitial fluid, $P_{\\text{O}_2}$ drops to $40\\text{ mmHg}$ while $P_{\\text{CO}_2}$ elevates to $46\\text{ mmHg}$.</li><li><strong>High-Intensity Exercise Partial Pressures:</strong> Intensive muscle metabolism reduces interstitial $P_{\\text{O}_2}$ down to $3\\text{ mmHg}$ and elevates interstitial $P_{\\text{CO}_2}$ up to $90\\text{ mmHg}$. These steep pressure gradients dramatically accelerate gas diffusion rates across cell membranes.</li></ul><div class=\"callout-box\"><div class=\"callout-title\">Coaching /Sport  Application</div><p>Coaches should instruct endurance athletes to emphasize deep, diaphragmatic breathing during submaximal steady-state exercise. Because anatomical dead space remains fixed at approximately $150\\text{ ml}$, deeper breaths increase alveolar ventilation significantly more than shallow, rapid breathing patterns. Monitoring the ventilatory equivalent breakdown points provides a non-invasive marker for identifying lactate and ventilatory thresholds during field testing.</p></div><table class=\"data-table\"><thead><tr><th>Respiratory Parameter</th><th>Resting Baseline</th><th>Strenuous Aerobic Exercise</th></tr></thead><tbody><tr><td><strong>Breathing Frequency ($f_b$)</strong></td><td>$12\\text{ to } 15\\text{ breaths/min}$</td><td>$35\\text{ to } 45\\text{ breaths/min}$</td></tr><tr><td><strong>Tidal Volume (TV)</strong></td><td>$0.4\\text{ to } 1.0\\text{ L}$</td><td>Up to $3.0\\text{ L}$ or greater</td></tr><tr><td><strong>Minute Ventilation ($\\dot{V}_E$)</strong></td><td>$6\\text{ to } 15\\text{ L/min}$</td><td>$90\\text{ to } 150\\text{ L/min}$</td></tr><tr><td><strong>Ventilatory Equivalent ($\\dot{V}_E / \\dot{V}\\text{O}_2$)</strong></td><td>$20\\text{ to } 25\\text{ L air / L O}_2$</td><td>$35\\text{ to } 40\\text{ L air / L O}_2$</td></tr><tr><td><strong>Interstitial $P_{\\text{O}_2}$ Gradient</strong></td><td>$40\\text{ mmHg}$</td><td>Down to $3\\text{ mmHg}$</td></tr><tr><td><strong>Interstitial $P_{\\text{CO}_2}$ Gradient</strong></td><td>$46\\text{ mmHg}$</td><td>Up to $90\\text{ mmHg}$</td></tr></tbody></table>"
+    },
+    {
+      "id": "p3",
+      "title": "Part 3: Blood Transport of Gases and Metabolic By-Products",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Blood Transport of Gases and Metabolic By-Products</h2><p>The blood circulation serves as the essential transport medium for dissolved and chemically bound respiratory gases between the pulmonary alveoli and peripheral skeletal muscle cells. Furthermore, blood transport mechanisms buffer metabolic by-products generated during intense aerobic exertion to preserve systemic acid-base homeostasis.</p><h3>Oxygen Transport in Blood</h3><p>Oxygen is transported in blood via two mechanisms:</p><ol><li><strong>Dissolved in Plasma:</strong> Because oxygen possesses low solubility in fluid, only $3\\text{ ml of O}_2$ is dissolved per liter of plasma. Despite this low volume, dissolved oxygen establishes the partial pressure of oxygen ($P_{\\text{O}_2}$) in blood and fluids, driving arterial-tissue diffusion.</li><li><strong>Combined with Hemoglobin:</strong> The vast majority of oxygen is bound to <strong>hemoglobin</strong>. Men average $15\\text{ to } 16\\text{ g Hb / 100 ml blood}$, whereas women average approximately $14\\text{ g Hb / 100 ml blood}$. Because $1\\text{ g of Hb}$ carries $1.34\\text{ ml of O}_2$, the maximal oxygen-carrying capacity of $100\\text{ ml}$ of arterial blood is approximately $20\\text{ ml of O}_2$ in men and slightly lower in women.</li></ol><h3>Carbon Dioxide Transport Pathways</h3><p>Carbon dioxide generated during cellular metabolism diffuses into blood and is transported to the lungs via three pathways:</p><ul><li><strong>Plasma Dissolution ($\\approx 5\\%$):</strong> A small fraction dissolves in plasma, establishing arterial $P_{\\text{CO}_2}$.</li><li><strong>Carbaminohemoglobin Formation:</strong> A minor portion binds directly to terminal amino groups on hemoglobin molecules.</li><li><strong>Bicarbonate Ion ($\\text{HCO}_3^-$) Pathway ($\\approx 70\\%$):</strong> The dominant transport pathway. $\\text{CO}_2$ combines with $\\text{H}_2\\text{O}$ inside red blood cells to form carbonic acid ($\\text{H}_2\\text{CO}_3$), catalyzed rapidly by <strong>carbonic anhydrase</strong>. Carbonic acid dissociates into hydrogen ions ($\\text{H}^+$) and bicarbonate ions ($\\text{HCO}_3^-$):</li></ul><p>$$\\text{CO}_2 + \\text{H}_2\\text{O} \\xrightleftharpoons{\\text{carbonic anhydrase}} \\text{H}_2\\text{CO}_3 \\rightleftharpoons \\text{H}^+ + \\text{HCO}_3^-$$</p><p>To buffer blood pH, $\\text{H}^+$ ions bind to hemoglobin. Bicarbonate ions diffuses out of red blood cells into plasma, while chloride ions ($\\text{Cl}^-$) diffuse into red blood cells to maintain electrical neutrality (the <em>chloride shift</em>).</p><h3>Lactate Kinetics, the Cori Cycle, and OBLA</h3><p>During low- to moderate-intensity exercise, aerobic metabolism fulfills cellular ATP demands, and blood lactate levels remain low because clearance rates equal or exceed production rates. Lactate clearance includes the <strong>Cori cycle</strong>, wherein muscle-derived lactate is transported via blood to the liver and converted back to glucose via gluconeogenesis. At high work intensities where aerobic ATP production becomes insufficient, blood lactate accumulation rises abruptly, reaching the <strong>onset of blood lactate accumulation (OBLA)</strong>.</p><div class=\"callout-box\"><div class=\"callout-title\">Coaching /Sport  Application</div><p>Coaches should utilize targeted aerobic interval training around OBLA to enhance lactate clearance rates and upregulate muscular carbonic anhydrase and hemoglobin/myoglobin buffering capacity. Furthermore, ensuring adequate dietary iron intake is vital for maintaining optimal hemoglobin concentration ($1.34\\text{ ml O}_2 / \\text{g Hb}$), preventing sports anemia and maintaining arterial oxygen-carrying capacity.</p></div><table class=\"data-table\"><thead><tr><th>Gas / By-Product</th><th>Transport Mechanism / Pathway</th><th>Quantitative Share / Capacity</th></tr></thead><tbody><tr><td><strong>Oxygen</strong></td><td>Bound to Hemoglobin</td><td>Major pathway ($1.34\\text{ ml O}_2 / \\text{g Hb} \\approx 20\\text{ ml O}_2 / 100\\text{ ml blood}$)</td></tr><tr><td><strong>Oxygen</strong></td><td>Dissolved in Plasma</td><td>Minor pathway ($3\\text{ ml O}_2 / \\text{L plasma}$; drives diffusion gradient)</td></tr><tr><td><strong>Carbon Dioxide</strong></td><td>Bicarbonate Ion ($\\text{HCO}_3^-$)</td><td>$\\,70\\%\\text{ of total } \\text{CO}_2\\text{ transport}$ (via Carbonic Anhydrase)</td></tr><tr><td><strong>Carbon Dioxide</strong></td><td>Carbaminohemoglobin & Plasma</td><td>$\\,30\\%\\text{ combined (}\\approx 5\\%\\text{ dissolved in plasma)}$</td></tr><tr><td><strong>Lactate</strong></td><td>Cori Cycle (Hepatic Gluconeogenesis)</td><td>Primary submaximal clearance pathway</td></tr></tbody></table>"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Cardiac output",
+      "def": "The amount of blood pumped by the heart in liters per minute, calculated as stroke volume multiplied by heart rate ($Q = \\text{SV} \\times \\text{HR}$)."
+    },
+    {
+      "term": "Stroke volume",
+      "def": "The quantity of blood ejected from the left ventricle with each heart beat, measured in milliliters per beat."
+    },
+    {
+      "term": "Heart rate",
+      "def": "The frequency of myocardial contractions, measured in beats per minute."
+    },
+    {
+      "term": "End-diastolic volume",
+      "def": "The volume of blood present in the left ventricle at the end of the filling phase (diastole)."
+    },
+    {
+      "term": "Frank-Starling mechanism",
+      "def": "The physiological principle stating that an increase in end-diastolic volume stretches myocardial fibers, producing a more forceful ventricular contraction and greater stroke volume."
+    },
+    {
+      "term": "Ejection fraction",
+      "def": "The fraction or percentage of end-diastolic volume ejected from the left ventricle during systole."
+    },
+    {
+      "term": "Maximal oxygen uptake",
+      "def": "The greatest volume of oxygen that can be consumed and utilized at the cellular level for the entire body, recognized as the primary measure of cardiorespiratory fitness."
+    },
+    {
+      "term": "Metabolic equivalent (MET)",
+      "def": "A unit of resting oxygen uptake, defined as $3.5\\text{ ml of O}_2\\text{ per kilogram of body weight per minute } (\\text{ml}\\cdot\\text{kg}^{-1}\\cdot\\text{min}^{-1})$."
+    },
+    {
+      "term": "Fick equation",
+      "def": "The mathematical equation expressing oxygen uptake as the product of cardiac output and arteriovenous oxygen difference ($\\dot{V}\\text{O}_2 = Q \\times a\\text{-}\\bar{v}\\text{O}_2\\text{ difference}$)."
+    },
+    {
+      "term": "Arteriovenous oxygen difference",
+      "def": "The difference in oxygen content between arterial blood and mixed venous blood, measured in milliliters of $\\text{O}_2$ per $100\\text{ ml of blood}$."
+    },
+    {
+      "term": "Systolic blood pressure",
+      "def": "The pressure exerted against arterial walls during ventricular contraction (systole)."
+    },
+    {
+      "term": "Diastolic blood pressure",
+      "def": "The pressure exerted against arterial walls during ventricular relaxation (diastole) when no blood is forcefully ejected."
+    },
+    {
+      "term": "Rate-pressure product",
+      "def": "An estimate of myocardial oxygen consumption and work, calculated as heart rate multiplied by systolic blood pressure ($\\text{RPP} = \\text{HR} \\times \\text{SBP}$)."
+    },
+    {
+      "term": "Mean arterial pressure",
+      "def": "The average blood pressure throughout the cardiac cycle, calculated as $\\text{MAP} = [(\\text{SBP} - \\text{DBP})/3] + \\text{DBP}$."
+    },
+    {
+      "term": "Minute ventilation",
+      "def": "The volume of air breathed into or out of the lungs per minute, calculated as tidal volume multiplied by breathing frequency ($\\dot{V}_E = \\text{TV} \\times f_b$)."
+    },
+    {
+      "term": "Tidal volume",
+      "def": "The volume of air inhaled and exhaled with each breath."
+    },
+    {
+      "term": "Anatomical dead space",
+      "def": "The volume of non-functional respiratory conduits (nose, mouth, trachea, bronchi) where gas exchange cannot occur, averaging approximately $150\\text{ ml}$ in young adults."
+    },
+    {
+      "term": "Physiological dead space",
+      "def": "Alveoli that are non-functional for gas exchange due to inadequate blood flow, poor ventilation, or disease."
+    },
+    {
+      "term": "Ventilatory equivalent",
+      "def": "The ratio of minute ventilation to oxygen uptake ($\\dot{V}_E / \\dot{V}\\text{O}_2$), reflecting pulmonary ventilatory efficiency."
+    },
+    {
+      "term": "Diffusion",
+      "def": "The passive movement of gas molecules across cell membranes from an area of higher partial pressure to an area of lower partial pressure."
+    }
+  ]
+}
