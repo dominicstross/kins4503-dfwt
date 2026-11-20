@@ -1,0 +1,76 @@
+{
+    "chapterId": "18.2",
+    "title": "18.2 Plyometric Program Design",
+    "cards": [
+        {
+            "id": "18.2-01",
+            "tag": "Program Design Variables and Needs Analysis",
+            "reference": "Section 18.2",
+            "front": "What fundamental variables govern plyometric program design, and what three components comprise the athlete's <strong>needs analysis</strong>?",
+            "back": "Plyometric programs are structured using eight core variables: <em>mode, intensity, frequency, recovery, volume, program length, progression,</em> and <em>warm-up</em>.<br><br>The initial <strong>needs analysis</strong> must analyze three areas: <ol><li><strong>The Sport:</strong> Demands, movement planes, and primary injury risks.</li><li><strong>The Position:</strong> Specific kinetic requirements (e.g., vertical jumping for basketball centers vs. multi-directional agility for guards).</li><li><strong>The Athlete's Training Status:</strong> Training age, past injury history, and prior plyometric exposure.</li></ol>"
+        },
+        {
+            "id": "18.2-02",
+            "tag": "Lower Body Plyometric Modes & Endurance Application",
+            "reference": "Section 18.2",
+            "front": "What drill categories comprise <strong>lower body plyometrics</strong>, and how do they benefit distance runners and cyclists?",
+            "back": "Lower body modes progress across six drill types: <ul><li><em>Jumps in place, standing jumps, multiple hops and jumps, bounds, box drills,</em> and <em>depth jumps</em>.</li></ul><strong>Endurance Application:</strong> In distance runners and cyclists, plyometric training enhances lower body force production and rate of force development (RFD), allowing the neuromuscular system to generate identical or greater propulsive forces with <strong>reduced metabolic energy expenditure</strong>, thereby improving movement economy."
+        },
+        {
+            "id": "18.2-03",
+            "tag": "Upper Body Plyometric Demands & Rotational Velocity",
+            "reference": "Section 18.2",
+            "front": "Which sports demand <strong>upper body plyometrics</strong>, and what extreme rotational velocity occurs at the shoulder during baseball pitching?",
+            "back": "Upper body plyometrics (medicine ball throws, catches, plyometric push-ups) are critical for throwing, swinging, and striking sports including <strong>baseball, softball, tennis, golf,</strong> and <strong>track field events</strong>.<br><br>During an 80 to 100 mph baseball pitch, internal shoulder rotation velocity exceeds <strong>6,000&deg;/s</strong>, requiring exceptional dynamic neuromuscular stability from the rotator cuff to dissipate joint distraction forces."
+        },
+        {
+            "id": "18.2-04",
+            "tag": "Trunk Plyometrics & Stretch Reflex Latency Constraints",
+            "reference": "Section 18.2",
+            "front": "Why do traditional trunk exercises fail to elicit a true <strong>stretch reflex</strong>, and how must they be modified to become plyometric?",
+            "back": "Traditional trunk exercises involve <strong>large movement amplitudes</strong> and <strong>prolonged durations</strong> that allow stored elastic energy to dissipate as heat before contraction occurs.<br><br>Because conduction distances from the spine to abdominal muscles are short, the stretch reflex latency is very brief (compared to 20–30 ms in quadriceps and 30–45 ms in gastrocnemius). To potentiate trunk muscles via the stretch reflex, movements must be modified to be <strong>shorter in range</strong> and executed with <strong>substantially higher velocity</strong>."
+        },
+        {
+            "id": "18.2-05",
+            "tag": "Plyometric Intensity Factors (Table 18.3)",
+            "reference": "Section 18.2",
+            "front": "How is <strong>plyometric intensity</strong> defined, and what four primary factors control drill intensity?",
+            "back": "<strong>Intensity</strong> is defined as the amount of stress placed on muscles, connective tissues, and joints.<br><br>According to Table 18.3, intensity is controlled by four key factors: <ol><li><strong>Points of Contact:</strong> Single-leg drills impose significantly greater stress than double-leg drills.</li><li><strong>Speed:</strong> Greater movement velocity increases drill intensity.</li><li><strong>Height of Drill:</strong> Higher centers of gravity or elevated drop heights increase impact force.</li><li><strong>Body Weight:</strong> Greater participant mass (or added external weight) increases mechanical stress.</li></ol>"
+        },
+        {
+            "id": "18.2-06",
+            "tag": "Volume-Intensity Inverse Relationship & Work-to-Rest Ratios",
+            "reference": "Section 18.2",
+            "front": "What fundamental relationship exists between <strong>intensity and volume</strong>, and what intra-session work-to-rest ratios are required?",
+            "back": "<strong>Inverse Relationship:</strong> As plyometric drill intensity increases, prescribed training volume must systematically decrease.<br><br><strong>Intra-Session Rest:</strong> <ul><li><strong>Inter-Repetition Rest:</strong> 5 to 10 seconds between repetitions of high-intensity drills (e.g., depth jumps).</li><li><strong>Inter-Set Rest:</strong> Work-to-rest ratios of <strong>1:5 to 1:10</strong> (translating to <strong>2 to 3 minutes</strong> between sets) to ensure near-complete ATP-PCr resynthesis. Plyometrics must <em>never</em> be performed as cardiorespiratory conditioning.</li></ul>"
+        },
+        {
+            "id": "18.2-07",
+            "tag": "Training Frequency & Inter-Session Recovery Guidelines",
+            "reference": "Section 18.2",
+            "front": "What are the recommended recovery intervals and weekly session frequencies for plyometric training?",
+            "back": "<strong>Inter-Session Recovery:</strong> <strong>48 to 72 hours</strong> (2 to 4 days) of recovery is required between workouts.<br><br><strong>Safety Rule:</strong> Drills utilizing the same body segment/muscles must <strong>never be performed two days in succession</strong>.<br><br><strong>Frequency:</strong> Typically <strong>1 to 3 sessions per week</strong>, varying by sport and macrocycle phase (e.g., football: 1/week in-season, 2–3/week off-season; track and field: 2–3/week in-season, 3–4/week off-season)."
+        },
+        {
+            "id": "18.2-08",
+            "tag": "Quantifying Volume by Experience Level (Table 18.4)",
+            "reference": "Section 18.2",
+            "front": "How is plyometric volume quantified, and what are the recommended session volume limits by experience level?",
+            "back": "<strong>Volume Metrics:</strong> Lower body volume is measured in <strong>foot contacts per workout</strong> (or distance for bounding: 98–328 ft [30–100 m]); upper body volume is measured in throws or catches per session.<br><br><strong>Guidelines by Experience (Table 18.4):</strong> <ul><li><strong>Beginner (No experience):</strong> 80 to 100 foot contacts</li><li><strong>Intermediate (Some experience):</strong> 100 to 120 foot contacts</li><li><strong>Advanced (Considerable experience):</strong> 120 to 140 foot contacts</li></ul>"
+        },
+        {
+            "id": "18.2-09",
+            "tag": "Program Length, Adaptation Timeline, & Progressive Overload",
+            "reference": "Section 18.2",
+            "front": "What is the standard duration of a plyometric training cycle, how quickly do adaptations occur, and how is progressive overload applied?",
+            "back": "<strong>Duration & Adaptations:</strong> Most macrocycle blocks range from <strong>6 to 10 weeks</strong>, though significant vertical jump improvements appear in as few as <strong>4 weeks</strong>.<br><br><strong>Progressive Overload:</strong> Follows systematic phase progression: <em>low-to-moderate volume of low-intensity</em> &rarr; <em>low-to-moderate volume of moderate-intensity</em> &rarr; <em>low-to-moderate volume of moderate-to-high intensity</em>, managed by adjusting drill complexity, height, and contacts."
+        },
+        {
+            "id": "18.2-10",
+            "tag": "Dynamic Warm-Up Drills & Progression (Table 18.5)",
+            "reference": "Section 18.2",
+            "front": "What comprises an effective dynamic warm-up before plyometric exercise, and what specific drills are recommended in Table 18.5?",
+            "back": "A plyometric warm-up begins with a general warm-up and dynamic stretching, followed by low-intensity, sport-specific movement drills to elevate muscle temperature and neural conduction velocity.<br><br><strong>Recommended Specific Drills (Table 18.5):</strong> <ul><li><strong>Marching:</strong> Exaggerates running mechanics and mimics foot-strike posture.</li><li><strong>Jogging Variations:</strong> Toe-touch, straight-leg jog, and butt-kicker drills.</li><li><strong>Skipping:</strong> Exaggerates vertical and horizontal push-off mechanics.</li><li><strong>Footwork:</strong> Agility ladder drills, shuttle runs, and carioca.</li><li><strong>Lunging:</strong> Forward, reverse, and multi-directional walking lunges.</li></ul>"
+        }
+    ]
+}

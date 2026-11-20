@@ -1,0 +1,76 @@
+{
+    "chapterId": "18.5",
+    "title": "18.5 Safety Considerations",
+    "cards": [
+        {
+            "id": "18.5-01",
+            "tag": "Pretraining Evaluation & Foundational Requirements",
+            "reference": "Section 18.5",
+            "front": "What pretraining qualities must an athlete demonstrate before engaging in a plyometric training program?",
+            "back": "To minimize injury risk and optimize performance, an athlete must: <ul><li>Understand and demonstrate <strong>proper plyometric technique</strong>.</li><li>Possess a sufficient foundational base of <strong>strength, speed, and balance</strong>.</li><li>Demonstrate adequate <strong>physical and psychological maturity</strong> to follow instructions and respect safety guidelines.</li></ul>"
+        },
+        {
+            "id": "18.5-02",
+            "tag": "Landing Mechanics & Dynamic Knee Valgus",
+            "reference": "Section 18.5",
+            "front": "What biomechanical alignments define proper landing technique, and what severe injury risk is linked to <strong>dynamic knee valgus</strong>?",
+            "back": "<strong>Proper Landing Alignment:</strong> <ul><li>Shoulders should be positioned over the knees, and knees over the toes, achieved through synchronized <strong>flexion of the ankles, knees, and hips</strong> (triple flexion).</li><li>The center of gravity must remain directly over the base of support.</li></ul><strong>Dynamic Knee Valgus:</strong> Inward movement/collapse of the knees in the frontal plane is a major risk factor for patellofemoral pain and <strong>tears or ruptures of the anterior cruciate ligament (ACL)</strong>."
+        },
+        {
+            "id": "18.5-03",
+            "tag": "Strength Prerequisites: Historical Rule vs. Modern View",
+            "reference": "Section 18.5",
+            "front": "How do modern strength and conditioning recommendations contrast with historical 1RM squat strength prerequisites for plyometrics?",
+            "back": "<strong>Historical Guideline:</strong> Previous recommendations held that an athlete's <strong>1RM squat should be at least 1.5 times their body weight</strong>.<br><br><strong>Modern Consensus:</strong> <strong>Technique and movement mechanics are far more critical</strong> than an arbitrary strength ratio. Progressively teaching proper alignment, landing, and deceleration mechanics has repeatedly been shown to <em>decrease</em> injury risk during sports competition, making progressive plyometrics safe and appropriate for young and novice athletes."
+        },
+        {
+            "id": "18.5-04",
+            "tag": "Standardized Balance Testing Guidelines (Table 18.7)",
+            "reference": "Section 18.5",
+            "front": "How is <strong>balance</strong> evaluated prior to plyometrics, and what testing standards apply to beginners versus advanced athletes?",
+            "back": "Balance is tested across three progressively challenging tiers (standing, quarter squat, half squat) held for <strong>30 seconds without falling</strong> (Table 18.7): <ul><li><strong>Beginner Athlete:</strong> Must successfully stand on one leg (single-leg standing) for 30 seconds without falling.</li><li><strong>Advanced Athlete:</strong> Must maintain a <strong>single-leg half squat for 30 seconds</strong> without falling before starting high-intensity programs.</li><li><strong>Testing Surface:</strong> Must be performed on the <strong>exact same surface</strong> used for the plyometric drills.</li></ul>"
+        },
+        {
+            "id": "18.5-05",
+            "tag": "Large Athletes (>220 lbs / 100 kg) Safety Guidelines",
+            "reference": "Section 18.5",
+            "front": "What training modifications and depth jump height restrictions apply to athletes weighing <strong>more than 220 pounds (100 kg)</strong>?",
+            "back": "Greater body mass significantly elevates compressive impact forces on joint structures. Consequently, athletes over 220 pounds (100 kg) must: <ul><li>Avoid high-volume, high-intensity plyometric exercises.</li><li>Restrict depth jumps to a box height of <strong>18 inches (46 cm) or less</strong>.</li></ul>"
+        },
+        {
+            "id": "18.5-06",
+            "tag": "Orthopedic Screening & Spinal Contraindications",
+            "reference": "Section 18.5",
+            "front": "Which preexisting orthopedic conditions and musculoskeletal histories require extreme caution before initiating plyometrics?",
+            "back": "Athletes must be screened for: <ul><li>A history of recurrent <strong>muscle strains</strong>.</li><li><strong>Pathological joint laxity</strong> (ligamentous instability).</li><li><strong>Spinal dysfunction</strong>, specifically including vertebral disk compression, disk herniation/dysfunction, or structural abnormalities of the spine.</li></ul>"
+        },
+        {
+            "id": "18.5-07",
+            "tag": "Landing Surfaces & Amortization Phase Mechanics",
+            "reference": "Section 18.5",
+            "front": "What landing surfaces are recommended for lower body plyometrics, and why are <strong>thick mats (&ge;6 inches) and mini-trampolines contraindicated</strong> for power training?",
+            "back": "<strong>Recommended Surfaces:</strong> Grass fields, suspended floors, or dense rubber mats (providing adequate shock absorption without excessive compliance).<br><br><strong>Surfaces to Avoid:</strong> Concrete, tile, and unyielding hardwood lack shock-absorbing capacity.<br><br><strong>Thick Mats (&ge;6 in [15 cm]) & Mini-Trampolines:</strong> Cause deep foot sinking that <strong>extends the amortization phase</strong>. A prolonged transition prevents the stretch reflex from potentiating muscle activity and causes stored elastic strain energy to dissipate as heat."
+        },
+        {
+            "id": "18.5-08",
+            "tag": "Training Facility Dimensions & Ceiling Clearances",
+            "reference": "Section 18.5",
+            "front": "What spatial dimensions and ceiling height clearances are required for plyometric training facilities?",
+            "back": "<ul><li><strong>Running & Bounding Straightaways:</strong> Require at least <strong>30 meters (33 yards)</strong> of clear straightaway, and up to <strong>100 meters (109 yards)</strong> for advanced bounding drills.</li><li><strong>Ceiling Height:</strong> Standing, box, and depth jumps require an unobstructed ceiling height of <strong>3 to 4 meters (9.8 to 13.1 feet)</strong>.</li></ul>"
+        },
+        {
+            "id": "18.5-09",
+            "tag": "Jump Box Construction & Footwear Specifications",
+            "reference": "Section 18.5",
+            "front": "What specifications are required for <strong>plyometric boxes</strong> and <strong>athletic footwear</strong>?",
+            "back": "<strong>Box Specifications:</strong> <ul><li>Height range: <strong>6 to 42 inches (15 to 107 cm)</strong>.</li><li>Landing platform: at least <strong>18 by 24 inches (46 by 61 cm)</strong>.</li><li>Construction: sturdy 3/4-inch (1.9 cm) plywood or heavy-gauge metal with a nonslip surface (treads, sand mixed in paint, or rubberized flooring).</li></ul><strong>Footwear:</strong> Requires good ankle/foot support, solid lateral stability, and a wide, nonslip sole. Running shoes are contraindicated due to narrow soles and lack of lateral support, which invite ankle inversion injuries."
+        },
+        {
+            "id": "18.5-10",
+            "tag": "Depth Jumping Height Standards & Biomechanical Limits",
+            "reference": "Section 18.5",
+            "front": "What are the recommended heights for depth jumping, and why is a <strong>48-inch (1.2 m) drop height contraindicated</strong>?",
+            "back": "<strong>Depth Jump Heights:</strong> <ul><li><strong>Recommended Range:</strong> <strong>16 to 42 inches (41 to 107 cm)</strong>.</li><li><strong>Standard Norm:</strong> <strong>30 to 32 inches (76 to 81 cm)</strong>.</li><li><strong>Athletes > 220 lbs:</strong> &le; 18 inches (46 cm).</li></ul><strong>Contraindication of 48-Inch Drops:</strong> A 48-inch (1.2 m) drop imposes an excessive impact load that forces excessive joint flexion, dangerously <strong>prolonging the amortization phase</strong>, causing stored elastic energy to dissipate as heat, and defeating the neuromuscular purpose of the drill while dramatically escalating injury risk."
+        }
+    ]
+}

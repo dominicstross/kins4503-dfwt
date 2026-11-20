@@ -1,0 +1,544 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What has been the traditional misconception regarding the target demographic for plyometric training programs?",
+        "opts": [
+          "Plyometrics were considered appropriate only for elderly clinical populations",
+          "Plyometrics were commonly viewed as appropriate only for conditioning elite adult athletes",
+          "Plyometrics were considered exclusively beneficial for prepubescent children",
+          "Plyometrics were believed to be effective only for sedentary individuals"
+        ],
+        "correct": 1,
+        "rationale": "Although plyometrics have commonly been viewed as appropriate only for conditioning elite adult athletes, prepubescent and adolescent children may also benefit from appropriately designed plyometric-like exercises."
+      },
+      {
+        "id": 2,
+        "q": "In addition to muscular power and bone strength adaptations, what primary benefit does plyometric training provide for young athletes?",
+        "opts": [
+          "Accelerating the complete ossification and closure of epiphyseal plates",
+          "Enhancing neuromuscular control and performance to better prepare them for sport practice and competition",
+          "Doubling resting levels of circulating anabolic hormones",
+          "Completely eliminating the need for sport-specific warm-ups"
+        ],
+        "correct": 1,
+        "rationale": "Besides providing muscular power and bone strength adaptations, regular participation in an appropriately designed plyometric program enhances neuromuscular control and athletic performance."
+      },
+      {
+        "id": 3,
+        "q": "Why are depth jumps and other high-intensity lower body plyometric drills strictly contraindicated for prepubescent children?",
+        "opts": [
+          "Because children lack glycogen stores required for glycolytic power",
+          "Because the epiphyseal plates of their bones have yet to close, and high impact can cause premature closure",
+          "Because children cannot perform eccentric muscle actions",
+          "Because the stretch reflex does not exist prior to pubertal development"
+        ],
+        "correct": 1,
+        "rationale": "Because the epiphyseal plates of the bones of prepubescent children have yet to close, depth jumps and other high-intensity lower body drills are contraindicated to avoid premature growth plate closure."
+      },
+      {
+        "id": 4,
+        "q": "What permanent anatomical complication can result if high-intensity trauma or injury causes premature epiphyseal plate closure in a growing child?",
+        "opts": [
+          "Chronic synovial fluid hypersecretion",
+          "Limb length discrepancies",
+          "Accelerated linear height accretion",
+          "Sarcoplasmic reticulum hypertrophy"
+        ],
+        "correct": 1,
+        "rationale": "While growth plates are open, highly intense activity and traumatic injury may cause them to close prematurely, resulting in limb length discrepancies."
+      },
+      {
+        "id": 5,
+        "q": "What non-physiological factor is essential before a child begins a progressive plyometric training program?",
+        "opts": [
+          "Achieving a minimum chronological age of 14 years",
+          "Possessing the emotional maturity to accept and follow directions and appreciate benefits and concerns",
+          "Attaining a 1RM back squat equal to 1.5 times body weight",
+          "Achieving complete Tanner stage 5 pubertal maturation"
+        ],
+        "correct": 1,
+        "rationale": "Boys and girls should have the emotional maturity to accept and follow directions and should be able to appreciate the benefits and concerns associated with this training method."
+      },
+      {
+        "id": 6,
+        "q": "What does empirical training evidence reveal regarding the earliest age at which children have successfully participated in progressive plyometric programs?",
+        "opts": [
+          "Children cannot participate until at least 12 years of age",
+          "7- and 8-year-olds have been successfully trained in progressive plyometric programs",
+          "Training is safe only after chronological age 16",
+          "Only post-pubescent 15-year-olds have been studied"
+        ],
+        "correct": 1,
+        "rationale": "Empirically, 7- and 8-year-olds have been trained in progressive plyometric programs, and they continue to lead active, healthy athletic lives as teenagers and adults."
+      },
+      {
+        "id": 7,
+        "q": "What dangerous lower extremity alignment flaw dramatically increases a young athlete's risk of severe knee injury during landing?",
+        "opts": [
+          "Excessive outward (varus) tibial rotation",
+          "Excessive inward (valgus) movement of the knees",
+          "Neutral knee positioning aligned over the second toe",
+          "Plantarflexion during initial ground contact"
+        ],
+        "correct": 1,
+        "rationale": "Excessive inward (valgus) movement of the knees during landing dramatically increases an athlete's risk of lower extremity and knee injuries."
+      },
+      {
+        "id": 8,
+        "q": "What is the recommended minimum recovery time between plyometric workouts for prepubescent and adolescent athletes?",
+        "opts": [
+          "12 to 24 hours (daily sessions)",
+          "A minimum of two or three days (48 to 72 hours)",
+          "5 to 7 days",
+          "10 to 14 days"
+        ],
+        "correct": 1,
+        "rationale": "A minimum of two or three days between plyometric workouts should be considered essential to optimize adaptations to the training program and minimize the athlete's risk of injury."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which physiological and performance adaptations are well-documented benefits of youth participation in plyometrics? (Select all that apply)",
+        "opts": [
+          "Increased muscular power",
+          "Enhanced bone strength and mineral accretion",
+          "Improved neuromuscular control",
+          "Accelerated premature closure of open epiphyseal plates",
+          "Safer participation in sports practice and competition"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Documented benefits include muscular power, bone strength, enhanced neuromuscular control, and safer athletic participation. Accelerated closure of growth plates is an adverse risk of contraindicated high-intensity drills, not a beneficial adaptation."
+      },
+      {
+        "id": 2,
+        "q": "Which plyometric drills and loading parameters are contraindicated for prepubescent children? (Select all that apply)",
+        "opts": [
+          "High-intensity depth jumps",
+          "Low-intensity skips and jumps in place",
+          "High-intensity lower body drop landings",
+          "Submaximal horizontal hops focused on proper landing technique",
+          "Weighted depth drops from elevated boxes"
+        ],
+        "correctArray": [
+          0,
+          2,
+          4
+        ],
+        "rationale": "Depth jumps, high-intensity lower body drills, and weighted drop landings are contraindicated for prepubescent children due to open epiphyseal plates. Low-intensity jumps in place and controlled hops with proper mechanics are permitted."
+      },
+      {
+        "id": 3,
+        "q": "What essential guidelines must strength and conditioning professionals enforce when coaching pediatric plyometrics? (Select all that apply)",
+        "opts": [
+          "Supervise athletes closely and enforce strict adherence to directions",
+          "Emphasize movement quality, including proper body alignment and speed",
+          "Gradually progress exercises from relatively simple to more complex drills",
+          "Eliminate knee valgus positioning during all landing deceleration tasks",
+          "Prioritize maximum volume and high fatigue over movement mechanics"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Youth plyometrics demand strict supervision, emphasis on movement quality, gradual simple-to-complex progression, and vigilant elimination of knee valgus. Volume must never take precedence over mechanical quality."
+      },
+      {
+        "id": 4,
+        "q": "Which factors should dictate the recovery time allocated between plyometric workouts for young athletes? (Select all that apply)",
+        "opts": [
+          "The intensity of the training program",
+          "The athlete's skills, abilities, and physical tolerances",
+          "The time of the competitive year (off-season, preseason, in-season)",
+          "The color of the athletic footwear worn",
+          "A minimum baseline threshold of two or three days"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Recovery varies based on program intensity, individual athletic ability and tolerance, seasonal phase, and requires a foundational minimum of 2 to 3 days between sessions. Footwear color has no physiological bearing."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Prepubescent children should never perform plyometric or plyometric-like exercises under any circumstances.",
+        "ans": false,
+        "feedback": "Under proper supervision and with an appropriately designed program, prepubescent children may safely perform plyometrics and gain substantial neuromuscular and bone strength benefits."
+      },
+      {
+        "id": 2,
+        "q": "Depth jumps are contraindicated for prepubescent children because their epiphyseal growth plates have not yet closed.",
+        "ans": true,
+        "feedback": "Open epiphyseal plates can close prematurely if subjected to high-impact trauma such as depth jumps, leading to limb length discrepancies."
+      },
+      {
+        "id": 3,
+        "q": "Research has established a universal chronological age at which all children are physically capable of beginning plyometric exercise.",
+        "ans": false,
+        "feedback": "Research has yet to determine a universal age; readiness depends on developmental status and emotional maturity rather than a strict chronological cutoff."
+      },
+      {
+        "id": 4,
+        "q": "Inward (valgus) knee collapse during landing is a benign alignment variant that does not increase injury risk in young athletes.",
+        "ans": false,
+        "feedback": "Excessive inward (valgus) movement of the knees dramatically increases an athlete's risk of severe knee injury."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Because the **epiphyseal plates** of prepubescent children are open, **depth jumps** and other high-intensity lower body drills are contraindicated.",
+        "targets": [
+          "epiphyseal plates",
+          "depth jumps"
+        ],
+        "optionsBank": [
+          "epiphyseal plates",
+          "depth jumps",
+          "apophyses",
+          "skipping drills",
+          "ankle joints"
+        ],
+        "hint": "Open epiphyseal plates prohibit the use of depth jumps in prepubescent youth to prevent growth plate damage."
+      },
+      {
+        "id": 2,
+        "statement": "Premature growth plate closure from high-intensity injury can cause permanent **limb length discrepancies**, making **emotional maturity** and supervision critical.",
+        "targets": [
+          "limb length discrepancies",
+          "emotional maturity"
+        ],
+        "optionsBank": [
+          "limb length discrepancies",
+          "emotional maturity",
+          "bone mineral depletion",
+          "cardiac arrest",
+          "chronological age"
+        ],
+        "hint": "Premature epiphyseal closure leads to limb length discrepancies; emotional readiness to follow instructions ensures safe participation."
+      },
+      {
+        "id": 3,
+        "statement": "Youth plyometric programs must emphasize movement quality to eliminate knee **valgus** and require a minimum of **two or three days** of recovery between workouts.",
+        "targets": [
+          "valgus",
+          "two or three days"
+        ],
+        "optionsBank": [
+          "valgus",
+          "two or three days",
+          "varus",
+          "twelve hours",
+          "five minutes"
+        ],
+        "hint": "Preventing knee valgus mitigates knee trauma, and 2 to 3 days of rest provides the recovery needed for developing musculoskeletal tissues."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain why depth jumps and high-intensity lower body plyometrics are contraindicated for prepubescent children, detailing the underlying skeletal anatomy and potential clinical consequences of growth plate injury.",
+        "model": "In prepubescent children, the long bones are actively growing and the epiphyseal plates (cartilaginous growth plates located at the ends of long bones) have not yet ossified or closed. High-intensity lower body plyometric drills\u2014most notably depth jumps, which generate extreme impact forces during rapid deceleration\u2014place tremendous compressive and shear stress on these vulnerable cartilaginous zones. If a child sustains microtrauma or acute fracture across an open epiphyseal plate, the damage can trigger premature epiphyseal fusion. Premature closure halts normal longitudinal bone growth in that specific limb, potentially resulting in permanent limb length discrepancies or severe angular skeletal deformities that compromise lifelong musculoskeletal function. Consequently, high-intensity plyometric loading is strictly contraindicated until skeletal maturity is reached.",
+        "criteria": [
+          "Identify open epiphyseal (growth) plates as the vulnerable anatomical structure in prepubescent children.",
+          "Explain that depth jumps generate severe impact/deceleration forces that can fracture or disrupt open plates.",
+          "Detail the clinical outcome of growth plate trauma: premature closure leading to permanent limb length discrepancies or angular deformities."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Discuss the biomechanical importance of landing technique in pediatric plyometric programs, specifically addressing knee valgus positioning and the coaching strategies used to ensure safe movement progression.",
+        "model": "Landing technique serves as the foundational safety mechanism in pediatric plyometrics, training dynamic neuromuscular control during high-velocity eccentric ground impact. A critical biomechanical flaw frequently observed in young athletes is dynamic knee valgus\u2014the excessive inward collapse of the knees toward the midline during deceleration. Knee valgus creates high abduction and torsional moments at the knee joint, placing excessive strain on the anterior cruciate ligament (ACL) and patellofemoral structures, thereby dramatically increasing lower extremity injury risk. Strength and conditioning professionals must enforce proper lower extremity alignment (knees tracking directly over the toes with hips and ankles flexing symmetrically to absorb force). Coaching strategies must prioritize movement quality and technical mastery over intensity or volume, progressing children systematically from simple low-intensity tasks (e.g., jumps in place, controlled double-leg landings) to more complex multi-directional hops only after flawless mechanics are consistently demonstrated.",
+        "criteria": [
+          "Define dynamic knee valgus as excessive inward knee collapse during landing and deceleration.",
+          "Explain the clinical risks of valgus: high knee joint stress and dramatically increased risk of ligamentous (ACL) injury.",
+          "Outline coaching strategies: enforcing knee-over-toe alignment, prioritizing movement quality over volume/intensity, and progressing gradually from simple to complex drills."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What primary goal drives many masters athletes to incorporate plyometric exercise into their training programs?",
+        "opts": [
+          "To reverse skeletal maturity and reopen growth plates",
+          "To maintain physical capabilities and explosive power late into life",
+          "To replace all aerobic and cardiovascular endurance conditioning",
+          "To induce rapid muscular hypertrophy comparable to adolescent growth spurts"
+        ],
+        "correct": 1,
+        "rationale": "Masters athletes find that they can maintain their physical capabilities late into life and look for training insights to safely preserve power and athleticism."
+      },
+      {
+        "id": 2,
+        "q": "What primary clinical issues must the strength and conditioning professional evaluate before designing a plyometric regimen for a masters athlete?",
+        "opts": [
+          "Previous scholastic athletic honors and sprint records",
+          "Preexisting orthopedic conditions (such as osteoarthritis) and surgical joint interventions or degeneration",
+          "Morning resting salivary amylase concentrations",
+          "Isometric finger grip endurance"
+        ],
+        "correct": 1,
+        "rationale": "Primary issues to consider when screening masters athletes include preexisting orthopedic conditions (e.g., osteoarthritis, surgical joint interventions) and joint degeneration."
+      },
+      {
+        "id": 3,
+        "q": "For a healthy masters runner with no prior joint surgeries who desires to improve running performance, which plyometric drills represent the most appropriate choices?",
+        "opts": [
+          "Maximal-height depth jumps from a 42-inch box",
+          "Double-leg hopping and alternate-leg bounding",
+          "Repeated single-leg drop jumps onto concrete",
+          "Continuous single-leg zig-zag bounds over high hurdles"
+        ],
+        "correct": 1,
+        "rationale": "A healthy masters athlete without surgical history should use depth jumps and single-leg drills cautiously; alternate-leg bounding and double-leg hopping are much better choices."
+      },
+      {
+        "id": 4,
+        "q": "How should depth jumps and single-leg plyometric exercises be categorized for a masters athlete with a history of knee surgery (e.g., partial meniscus removal) or significant joint degeneration?",
+        "opts": [
+          "Recommended daily as mandatory rehabilitation exercises",
+          "Strictly contraindicated",
+          "Performed exclusively with weighted vests",
+          "Recommended as the primary method of dynamic warm-up"
+        ],
+        "correct": 1,
+        "rationale": "A masters runner with a history of knee surgery, such as partial meniscus removal, or with significant joint degeneration, should regard depth jumps and single-leg plyometrics as contraindicated."
+      },
+      {
+        "id": 5,
+        "q": "What is the maximum number of low- to moderate-intensity exercises recommended per workout session for a masters athlete?",
+        "opts": [
+          "No more than two exercises",
+          "No more than five exercises",
+          "Exactly eight to ten exercises",
+          "Twelve to fifteen exercises"
+        ],
+        "correct": 1,
+        "rationale": "The plyometric program for masters athletes should include no more than five low- to moderate-intensity exercises per workout session."
+      },
+      {
+        "id": 6,
+        "q": "How should training volume be modified for a masters athlete compared to standard adult plyometric guidelines?",
+        "opts": [
+          "Volume should be doubled to compensate for age-related muscle loss",
+          "Volume should be lower, utilizing fewer total foot contacts per workout",
+          "Volume should remain identical to elite collegiate athletes",
+          "Volume should be measured in kilometers rather than foot contacts"
+        ],
+        "correct": 1,
+        "rationale": "The volume for a masters plyometric program should be lower, that is, should include fewer total foot contacts than a standard plyometric training program."
+      },
+      {
+        "id": 7,
+        "q": "What is the recommended recovery duration between plyometric workouts for masters athletes?",
+        "opts": [
+          "24 hours (daily training)",
+          "Three or four days (72 to 96 hours)",
+          "7 to 10 days",
+          "Two weeks"
+        ],
+        "correct": 1,
+        "rationale": "The recovery time between plyometric workouts for masters athletes should be three or four days to allow adequate tissue remodeling."
+      },
+      {
+        "id": 8,
+        "q": "Under what post-workout symptomatic condition must a masters plyometric program be immediately modified?",
+        "opts": [
+          "Mild, transient delayed-onset muscle soreness in the calves",
+          "Presence of chronic or excessive pain, joint swelling, or discomfort",
+          "Normal exercise-induced sweating and fatigue",
+          "Increased resting appetite following a workout"
+        ],
+        "correct": 1,
+        "rationale": "While normal muscle soreness may occur, the plyometric program should be modified if chronic or excessive pain or discomfort is present."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which preexisting musculoskeletal conditions necessitate heightened caution or contraindicate high-impact plyometrics in masters athletes? (Select all that apply)",
+        "opts": [
+          "Articular cartilage degeneration",
+          "Osteoarthritis",
+          "History of partial meniscus removal surgery",
+          "Prior surgical joint reconstruction",
+          "Resting blood pressure within normal adult limits"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Osteoarthritis, prior joint interventions (like meniscectomy), and joint degeneration call for extreme caution and contraindicate high-impact drills. Normal blood pressure is not an orthopedic contraindication."
+      },
+      {
+        "id": 2,
+        "q": "Which specific programming modifications distinguish a masters plyometric routine from a standard adult protocol? (Select all that apply)",
+        "opts": [
+          "Limiting the session to no more than five exercises",
+          "Restricting exercise selection to low- to moderate-intensity drills",
+          "Prescribing lower training volume with fewer total foot contacts",
+          "Extending recovery time between sessions to three or four days",
+          "Mandating 100-foot depth jumps to test bone mineral density"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Modifications for masters athletes include: no more than 5 exercises, low-to-moderate intensity, fewer foot contacts (lower volume), and extended recovery of 3 to 4 days. Depth jumps are avoided or contraindicated."
+      },
+      {
+        "id": 3,
+        "q": "For a masters athlete with surgically repaired knees or articular cartilage degeneration, which plyometric activities are contraindicated? (Select all that apply)",
+        "opts": [
+          "High-impact depth jumps",
+          "Single-leg high-intensity hops",
+          "Low-impact double-leg jumping in place with strict supervision",
+          "Uncontrolled single-leg landings from elevated boxes",
+          "Low-intensity upper body medicine ball chest passes"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Depth jumps and single-leg lower body drills are strictly contraindicated for masters athletes with surgical joint histories or degeneration. Controlled double-leg low-intensity drills and upper body medicine ball exercises may be cautiously permitted."
+      },
+      {
+        "id": 4,
+        "q": "Which statements accurately describe recovery and subjective symptom monitoring in masters plyometric training? (Select all that apply)",
+        "opts": [
+          "Three to four days of recovery between workouts is recommended for masters athletes.",
+          "Mild, transient muscle soreness is an expected physiological response to plyometrics.",
+          "The program must be modified if chronic or excessive joint pain is reported.",
+          "Masters athletes recover faster than adolescents due to greater collagen density.",
+          "Coaches should regularly assess how the athlete feels after training and recovery."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Masters athletes require 3\u20134 days of recovery, mild soreness is normal, chronic/excessive joint pain mandates modification, and regular subjective monitoring is essential. Masters athletes recover more slowly, not faster, than youth."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Masters athletes can maintain their physical capabilities and explosive power late into life through appropriately designed plyometric exercise.",
+        "ans": true,
+        "feedback": "Masters athletes can maintain physical capabilities late into life when plyometric programs are tailored to their orthopedic status."
+      },
+      {
+        "id": 2,
+        "q": "A masters runner with a history of knee surgery, such as partial meniscus removal, can safely perform high-intensity single-leg depth jumps without restriction.",
+        "ans": false,
+        "feedback": "For masters runners with knee surgery or joint degeneration, depth jumps and single-leg plyometric exercises are strictly contraindicated."
+      },
+      {
+        "id": 3,
+        "q": "A plyometric training program for a masters athlete should include no more than five low- to moderate-intensity exercises per workout session.",
+        "ans": true,
+        "feedback": "NSCA guidelines explicitly limit masters plyometric programs to no more than five low- to moderate-intensity exercises per workout."
+      },
+      {
+        "id": 4,
+        "q": "Masters athletes require shorter recovery times between plyometric workouts (1 to 2 days) compared to younger adult athletes.",
+        "ans": false,
+        "feedback": "Masters athletes require longer recovery times\u2014specifically three or four days between workouts\u2014to accommodate age-related connective tissue changes."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "When designing plyometrics for masters athletes, coaches must screen for **osteoarthritis** and prior **surgical joint interventions**.",
+        "targets": [
+          "osteoarthritis",
+          "surgical joint interventions"
+        ],
+        "optionsBank": [
+          "osteoarthritis",
+          "surgical joint interventions",
+          "epiphyseal closure",
+          "resting heart rate",
+          "running shoes"
+        ],
+        "hint": "Preexisting osteoarthritis and past joint surgeries dictate exercise safety and drill contraindications in masters athletes."
+      },
+      {
+        "id": 2,
+        "statement": "A masters plyometric routine should incorporate no more than **five** low- to moderate-intensity exercises and feature lower **volume** than standard adult programs.",
+        "targets": [
+          "five",
+          "volume"
+        ],
+        "optionsBank": [
+          "five",
+          "volume",
+          "ten",
+          "velocity",
+          "twelve"
+        ],
+        "hint": "Masters programs are capped at 5 low-to-moderate intensity exercises and utilize reduced volume (fewer foot contacts)."
+      },
+      {
+        "id": 3,
+        "statement": "Recovery between plyometric workouts for masters athletes should be **three or four days**, and the program must be adjusted if **chronic or excessive pain** arises.",
+        "targets": [
+          "three or four days",
+          "chronic or excessive pain"
+        ],
+        "optionsBank": [
+          "three or four days",
+          "chronic or excessive pain",
+          "24 hours",
+          "mild soreness",
+          "one week"
+        ],
+        "hint": "Masters require 3 to 4 days between sessions, and persistent joint pain or discomfort warrants prompt program modification."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Contrast the plyometric exercise recommendations for a healthy masters athlete with those for a masters athlete possessing a history of knee joint surgery or degeneration, highlighting specific drill selections and contraindications.",
+        "model": "When designing plyometric programs for masters athletes, drill selection is strictly governed by joint health and surgical history:  \n* **Healthy Masters Athlete (No Surgical History): An older athlete with healthy joints can participate in plyometrics to improve athleticism and power, but should still approach depth jumps and single-leg drills with extreme caution due to age-related changes in connective tissue compliance. Safer, highly effective alternatives include double-leg hopping and alternate-leg bounding, which distribute impact forces evenly across both limbs and minimize unilateral peak joint loading.  \n* **Masters Athlete with Surgical History or Joint Degeneration: For an athlete with a history of knee surgery (e.g., partial meniscectomy, ligament reconstruction) or advanced articular cartilage degeneration (osteoarthritis), depth jumps and single-leg plyometric drills are strictly contraindicated. The reduced shock-absorbing capacity of compromised cartilage and menisci cannot withstand high-impact decelerations. These athletes should utilize only low-intensity, double-leg drills (or upper body medicine ball exercises) with extended rest, ensuring mechanical stress remains well within joint tolerance.",
+        "criteria": [
+          "Contrast healthy masters (caution with depth jumps/single-leg; favor double-leg hops and alternate-leg bounding) with surgically compromised masters.",
+          "Explicitly state that depth jumps and single-leg drills are strictly contraindicated for athletes with knee surgery or degeneration.",
+          "Explain the physiological rationale: degraded articular cartilage and compromised joint structures cannot tolerate unilateral impact forces."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Outline the four foundational program modifications required when adapting standard adult plyometric guidelines for a masters athlete, and discuss the protocol for monitoring post-training recovery.",
+        "model": "To accommodate slower connective tissue remodeling, reduced joint vascularity, and greater susceptibility to overuse injury, standard adult plyometric programs must be adapted for masters athletes using four key modifications:  \n* **1. Exercise Number Cap**: The program must include no more than five exercises per workout session.  \n* **2. Intensity Restriction**: Drills must be limited to low- to moderate-intensity exercises, avoiding high-impact depth jumps and excessive unilateral loading.  \n* **3. Volume Reduction**: Prescribed volume must be significantly lower than standard adult guidelines, utilizing fewer total foot contacts per workout session.  \n* **4. Extended Inter-Session Recovery**: Recovery between plyometric workouts must be extended to three or four days (72 to 96 hours), compared to the 48 to 72 hours typical for younger adults.  \nRecovery Monitoring Protocol: Strength and conditioning professionals must systematically track how the masters athlete responds during the 72 to 96 hours post-workout. While mild, transient delayed-onset muscle soreness is expected, the coach must immediately modify the program (reducing foot contacts, lowering intensity, or replacing aggravating drills) if the athlete reports chronic, localized, or excessive joint pain, effusion, or persistent discomfort.",
+        "criteria": [
+          "Detail the four program modifications: max 5 exercises, low-to-moderate intensity, reduced volume (fewer foot contacts), and 3 to 4 days recovery between workouts.",
+          "Differentiate between normal post-exercise muscle soreness and abnormal chronic/excessive joint pain or swelling.",
+          "State the immediate coaching intervention when joint pain occurs: reduce volume, lower intensity, or modify/substitute exercises."
+        ]
+      }
+    ]
+  }
+}

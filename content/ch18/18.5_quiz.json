@@ -1,0 +1,546 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "According to the text, under what primary circumstances do injuries typically occur during plyometric training?",
+        "opts": [
+          "Because plyometric exercise is inherently dangerous and exceeds physiological tissue limits",
+          "When proper training procedures are violated, such as an insufficient strength base, poor landing mechanics, or inappropriate volume and intensity",
+          "Exclusively due to unavoidable random athletic accidents",
+          "When athletes perform low-intensity skipping warm-up drills"
+        ],
+        "correct": 1,
+        "rationale": "Injuries typically occur when proper training procedures are violated, which may result from an insufficient strength and conditioning base, inadequate warm-up, improper progression of lead-up drills, inappropriate volume or intensity, poor shoes or surface, or a lack of skill."
+      },
+      {
+        "id": 2,
+        "q": "In the sagittal plane, what alignment defines proper landing technique during lower body plyometrics?",
+        "opts": [
+          "Shoulders leaned far behind the hips with completely extended, locked knees",
+          "Shoulders positioned over the knees and knees positioned over the toes, achieved through flexion of the ankles, knees, and hips",
+          "Trunk hyperextended with weight placed exclusively on the lateral borders of the heels",
+          "Hips fully extended with all impact absorbed by the lumbar spine"
+        ],
+        "correct": 1,
+        "rationale": "The shoulders should be over the knees and the knees over the toes during landing, which the jumper accomplishes through synchronized flexion of the ankles, knees, and hips (triple flexion) while maintaining the center of gravity over the base of support."
+      },
+      {
+        "id": 3,
+        "q": "When observing an athlete's landing mechanics in the frontal plane, what alignment flaw represents a major risk factor for patellofemoral pain and ACL tears?",
+        "opts": [
+          "Knee flexion greater than 45 degrees",
+          "Dynamic valgus (inward movement or collapse of the knees)",
+          "Ankle dorsiflexion aligned with the second toe",
+          "Slight external rotation of the hip during takeoff"
+        ],
+        "correct": 1,
+        "rationale": "Inward movement of the knees\u2014termed dynamic valgus\u2014is a significant risk factor for knee injuries of all types, including patellofemoral pain and tears or ruptures of the anterior cruciate ligament (ACL)."
+      },
+      {
+        "id": 4,
+        "q": "What was the historical strength prerequisite recommended before an athlete performed lower body plyometrics?",
+        "opts": [
+          "The athlete's 1RM bench press should equal 1.0 times body weight",
+          "The athlete's 1RM squat should be at least 1.5 times his or her body weight",
+          "The athlete must complete 50 continuous bodyweight lunges",
+          "The athlete's deadlift 1RM must equal 2.5 times body weight"
+        ],
+        "correct": 1,
+        "rationale": "Previous recommendations held that the athlete's 1RM squat should be at least 1.5 times his or her body weight before participating in lower body plyometrics."
+      },
+      {
+        "id": 5,
+        "q": "What is the modern consensus regarding the relative importance of absolute strength versus movement technique for initiating plyometrics?",
+        "opts": [
+          "Absolute 1RM squat strength is the sole determinant of plyometric safety",
+          "Movement technique and proper alignment mechanics are a more important consideration than an arbitrary 1RM squat threshold",
+          "Strength should never be assessed under any circumstance",
+          "Athletes must achieve a double-bodyweight squat before performing basic skips"
+        ],
+        "correct": 1,
+        "rationale": "The authors suggest that a more important consideration than a 1.5\u00d7 body weight 1RM squat is technique; many plyometric activities can be safely taught to young and novice athletes to develop proper mechanics."
+      },
+      {
+        "id": 6,
+        "q": "How does standardized balance testing evaluate an athlete's readiness for plyometric exercise (Table 18.7)?",
+        "opts": [
+          "By measuring maximal eyes-closed single-leg hop distance",
+          "By requiring the athlete to maintain specific stationary balance test positions for 30 seconds without falling",
+          "By having the athlete perform 30 rapid squats on an unstable wobble board",
+          "By timing a 40-yard backward sprint"
+        ],
+        "correct": 1,
+        "rationale": "Balance is tested across three tiers listed in order of difficulty; each test position must be held for 30 seconds without falling."
+      },
+      {
+        "id": 7,
+        "q": "What specific balance test must an experienced athlete pass before beginning an advanced plyometric training program (Table 18.7)?",
+        "opts": [
+          "Standing on two legs with eyes closed for 10 seconds",
+          "Maintaining a single-leg half squat for 30 seconds without falling",
+          "Performing a single-leg pistol squat for 5 repetitions",
+          "Standing on a mini-trampoline for 1 minute"
+        ],
+        "correct": 1,
+        "rationale": "An experienced athlete beginning an advanced plyometric training program must maintain a single-leg half squat for 30 seconds without falling."
+      },
+      {
+        "id": 8,
+        "q": "What safety restrictions apply to athletes who weigh more than 220 pounds (100 kg) when performing plyometrics?",
+        "opts": [
+          "They must perform high-volume depth jumps from 42-inch boxes daily",
+          "They should avoid high-volume, high-intensity plyometrics and restrict depth jump heights to 18 inches (46 cm) or less",
+          "They must perform all plyometric drills while wearing a weighted vest",
+          "They are completely prohibited from performing any jumping or skipping activities"
+        ],
+        "correct": 1,
+        "rationale": "Due to increased compressive forces on joints, athletes weighing over 220 pounds (100 kg) should avoid high-volume, high-intensity plyometric exercises and depth jumps from heights greater than 18 inches (46 cm)."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following factors are identified as common procedural violations that cause plyometric training injuries? (Select all that apply)",
+        "opts": [
+          "Insufficient strength and conditioning base",
+          "Inadequate warm-up or lack of skill",
+          "Improper progression of lead-up drills",
+          "Inappropriate volume or intensity for the training phase",
+          "Executing drills on a grass field or suspended floor"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Insufficient strength base, inadequate warm-up, improper progression, inappropriate volume/intensity, poor shoes/surface, and lack of skill cause injuries. Grass fields and suspended floors are recommended safe surfaces."
+      },
+      {
+        "id": 2,
+        "q": "Which biomechanical alignments are essential for safe, proper lower body plyometric landing mechanics? (Select all that apply)",
+        "opts": [
+          "Center of gravity maintained directly over the base of support",
+          "Shoulders positioned over the knees in the sagittal plane",
+          "Knees positioned over the toes in both sagittal and frontal planes",
+          "Triple flexion through synchronized bending at the ankles, knees, and hips",
+          "Dynamic medial collapse of the knee joints to dissipate force"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Proper landing requires center of gravity over base of support, shoulders over knees, knees over toes via ankle/knee/hip flexion, and avoiding dynamic valgus collapse."
+      },
+      {
+        "id": 3,
+        "q": "Which conditions must be met when administering standardized balance tests before plyometrics (Table 18.7)? (Select all that apply)",
+        "opts": [
+          "The athlete must hold each testing position for 30 seconds without falling.",
+          "A novice athlete must successfully complete a single-leg standing balance test.",
+          "Testing must be performed on the same surface used for plyometric drills.",
+          "An advanced athlete must maintain a single-leg half squat for 30 seconds.",
+          "Testing must always be performed while wearing heavily cushioned running shoes."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Positions must be held for 30 seconds without falling, beginners must pass single-leg standing, advanced athletes must pass single-leg half squat, and testing must take place on the identical training surface. Footwear should be stable cross-trainers, not unstable running shoes."
+      },
+      {
+        "id": 4,
+        "q": "Which preexisting orthopedic conditions warrant extreme caution before an athlete begins a plyometric training program? (Select all that apply)",
+        "opts": [
+          "History of muscle strains",
+          "Pathological joint laxity",
+          "Spinal dysfunction, including vertebral disk dysfunction or compression",
+          "Prior structural abnormalities of the extremities",
+          "Well-developed resting calf muscle cross-sectional area"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Muscle strains, pathological joint laxity, spinal dysfunction (disk dysfunction or compression), and previous injuries or structural abnormalities increase injury risk and require caution. Muscle development is a positive adaptation."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Plyometric exercise is inherently dangerous and causes unavoidable chronic joint trauma even when executed with proper technique.",
+        "ans": false,
+        "feedback": "Plyometric exercise is not inherently dangerous; injuries typically occur when proper training procedures, progressions, or mechanical guidelines are violated."
+      },
+      {
+        "id": 2,
+        "q": "Dynamic valgus\u2014the inward movement or collapse of the knees during landing\u2014is a major risk factor for anterior cruciate ligament (ACL) tears.",
+        "ans": true,
+        "feedback": "Dynamic valgus is explicitly identified as a significant risk factor for patellofemoral pain and tears or ruptures of the ACL."
+      },
+      {
+        "id": 3,
+        "q": "Modern recommendations indicate that teaching proper movement mechanics and landing technique through progressive plyometrics reduces sports injury risk.",
+        "ans": true,
+        "feedback": "Research has repeatedly demonstrated that teaching proper alignment and movement mechanics through plyometrics decreases the athlete's risk of injury during practices and games."
+      },
+      {
+        "id": 4,
+        "q": "An athlete weighing 240 pounds (109 kg) may safely perform depth jumps from a 36-inch box without restriction.",
+        "ans": false,
+        "feedback": "Athletes weighing over 220 pounds (100 kg) should restrict depth jump heights to 18 inches (46 cm) or less due to high joint compressive forces."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Proper landing technique requires the shoulders to be over the **knees** and the knees over the **toes**, accomplished through flexion of the ankles, knees, and hips.",
+        "targets": [
+          "knees",
+          "toes"
+        ],
+        "optionsBank": [
+          "knees",
+          "toes",
+          "hips",
+          "elbows",
+          "heels"
+        ],
+        "hint": "Sagittal alignment dictates shoulders over knees and knees over toes via triple flexion."
+      },
+      {
+        "id": 2,
+        "statement": "In the frontal plane, inward movement of the knees during landing is termed **dynamic valgus**, which greatly increases the risk of **ACL** tears.",
+        "targets": [
+          "dynamic valgus",
+          "ACL"
+        ],
+        "optionsBank": [
+          "dynamic valgus",
+          "ACL",
+          "dynamic varus",
+          "PCL",
+          "ankle inversion"
+        ],
+        "hint": "Inward knee collapse is dynamic valgus, a primary risk factor for patellofemoral pain and ACL ruptures."
+      },
+      {
+        "id": 3,
+        "statement": "Standardized balance tests require holding a position for **30 seconds**, and athletes weighing over 220 pounds must limit depth jumps to **18 inches** or less.",
+        "targets": [
+          "30 seconds",
+          "18 inches"
+        ],
+        "optionsBank": [
+          "30 seconds",
+          "18 inches",
+          "60 seconds",
+          "42 inches",
+          "5 seconds"
+        ],
+        "hint": "Balance test positions must be sustained for 30 s, and athletes over 220 lbs are restricted to depth jump heights of 18 in (46 cm) or less."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Describe the biomechanical alignment characteristics of proper lower body landing mechanics in both the sagittal and frontal planes, and explain the injury consequences of dynamic knee valgus.",
+        "model": "In the sagittal plane, proper landing mechanics require the athlete to maintain their center of gravity directly over their base of support. The shoulders should be positioned directly over the knees, and the knees positioned over the toes. This alignment is accomplished through synchronized, active flexion of the ankles, knees, and hips (triple flexion), which allows eccentric muscular work to dissipate ground reaction forces. In the frontal plane, the knees must track directly over the toes without medial or lateral deviation. Inward movement or medial collapse of the knees\u2014termed dynamic knee valgus\u2014places excessive shear and rotational stress on the tibiofemoral joint, dramatically elevating the risk of patellofemoral pain syndrome and catastrophic tears or ruptures of the anterior cruciate ligament (ACL).",
+        "criteria": [
+          "Detail sagittal alignment: shoulders over knees, knees over toes, center of gravity over base of support via triple flexion (ankle, knee, hip).",
+          "Detail frontal alignment: knees tracking directly over toes without medial collapse.",
+          "Define dynamic valgus and identify its clinical consequences: patellofemoral pain and ACL tears/ruptures."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Contrast the historical 1RM squat strength recommendation for plyometrics with modern evidence-based guidelines, and outline the balance testing protocol described in Table 18.7.",
+        "model": "Historically, strength and conditioning guidelines held that an athlete must possess a 1RM back squat of at least 1.5 times their body weight before being permitted to perform lower body plyometrics. Modern evidence-based practice recognizes that movement quality, technical proficiency, and proper landing mechanics are far more critical than an arbitrary strength threshold. Progressively teaching landing alignment and deceleration has repeatedly been shown to decrease injury rates in practices and games, making progressive plyometrics safe and beneficial even for novice and youth athletes. To ensure adequate postural stability, Table 18.7 outlines a standardized balance testing protocol consisting of three 30-second tests: standing, quarter squat, and half squat, performed on the same surface as training. Beginners must hold a single-leg standing position for 30 seconds without falling, whereas advanced athletes entering high-intensity cycles must hold a single-leg half squat for 30 seconds.",
+        "criteria": [
+          "State historical strength rule: 1RM squat >= 1.5x body weight.",
+          "Explain modern view: technique, landing mechanics, and progressive overload supersede arbitrary 1RM ratios, safely reducing injury risk.",
+          "Detail Table 18.7 balance protocol: 30-second hold duration on training surface; contrast beginner (single-leg standing) with advanced (single-leg half squat)."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Which landing surfaces are recommended for lower body plyometric drills due to their adequate shock-absorbing properties?",
+        "opts": [
+          "Concrete slabs and ceramic tile",
+          "Grass fields, suspended floors, and dense rubber mats",
+          "Unyielding solid hardwood and asphalt tracks",
+          "Ice rinks and loose pea gravel"
+        ],
+        "correct": 1,
+        "rationale": "To prevent injuries, the landing surface used for lower body plyometrics must possess adequate shock-absorbing properties; a grass field, suspended floor, or rubber mat is a good surface choice."
+      },
+      {
+        "id": 2,
+        "q": "Why are excessively thick exercise mats (6 inches [15 cm] or thicker) contraindicated for athletic plyometric training?",
+        "opts": [
+          "They cause acute bone microfractures upon foot strike",
+          "They extend the amortization phase and prevent efficient use of the stretch reflex",
+          "They completely eliminate blood flow to the lower extremity",
+          "They increase concentric contraction velocity beyond physiological limits"
+        ],
+        "correct": 1,
+        "rationale": "Excessively thick exercise mats (6 inches [15 cm] or thicker) may extend the amortization phase and thus not allow efficient use of the stretch reflex, causing stored elastic energy to dissipate as heat."
+      },
+      {
+        "id": 3,
+        "q": "While mini-trampolines are useful in rehabilitation, why are they ineffective for power training in uninjured athletes?",
+        "opts": [
+          "The elastic surface extends the amortization phase, blunting stretch reflex potentiation",
+          "They generate excessive gravitational impact forces that shatter bones",
+          "They prevent the athlete from recruiting fast-twitch muscle fibers",
+          "They induce permanent vestibular dysfunction"
+        ],
+        "correct": 0,
+        "rationale": "Mini-trampolines, like thick exercise mats, are not effective for plyometric training of uninjured athletes because the amortization phase is extended while the athlete is in contact with the elastic surface."
+      },
+      {
+        "id": 4,
+        "q": "What minimum ceiling height clearance is required for standing, box, and depth jumps?",
+        "opts": [
+          "2.0 to 2.5 m (6.6 to 8.2 feet)",
+          "3 to 4 m (9.8 to 13.1 feet)",
+          "5 to 6 m (16.4 to 19.7 feet)",
+          "Exactly 10 m (32.8 feet)"
+        ],
+        "correct": 1,
+        "rationale": "For most standing, box, and depth jumps, only a minimal surface area is needed, but the ceiling height must be 3 to 4 m (9.8 to 13.1 feet) in order to be adequate."
+      },
+      {
+        "id": 5,
+        "q": "What are the recommended landing surface dimensions for sturdy plyometric jump boxes?",
+        "opts": [
+          "At least 10 by 12 inches (25 by 30 cm)",
+          "At least 18 by 24 inches (46 by 61 cm)",
+          "Exactly 36 by 48 inches (91 by 122 cm)",
+          "At least 48 by 60 inches (122 by 152 cm)"
+        ],
+        "correct": 1,
+        "rationale": "Boxes used for box jumps and depth jumps should range in height from 6 to 42 inches (15 to 107 cm) and should have landing surfaces of at least 18 by 24 inches (46 by 61 cm)."
+      },
+      {
+        "id": 6,
+        "q": "Why are typical running shoes considered inappropriate footwear for lower body plyometrics?",
+        "opts": [
+          "They provide excessive ankle rigidity that prevents dorsiflexion",
+          "They have narrow soles and poor upper support, inviting ankle injuries during lateral movements",
+          "They are too heavy for high-velocity power drills",
+          "Their thick soles eliminate all sensory feedback from muscle spindles"
+        ],
+        "correct": 1,
+        "rationale": "Shoes with a narrow sole and poor upper support (e.g., running shoes) may invite ankle problems, especially with lateral movements; footwear must offer good lateral stability and wide nonslip soles."
+      },
+      {
+        "id": 7,
+        "q": "What is the standard norm height for depth jumping in conditioned athletes?",
+        "opts": [
+          "12 to 14 inches (30 to 35 cm)",
+          "30 to 32 inches (76 to 81 cm)",
+          "48 to 52 inches (122 to 132 cm)",
+          "60 inches (152 cm)"
+        ],
+        "correct": 1,
+        "rationale": "The recommended height for depth jumps ranges from 16 to 42 inches (41 to 107 cm), with 30 to 32 inches (76 to 81 cm) being the norm."
+      },
+      {
+        "id": 8,
+        "q": "Why is a depth jump drop height of 48 inches (1.2 m) contraindicated for athletic power development?",
+        "opts": [
+          "The landing impact is so great that the amortization phase is extended, defeating the purpose of the drill",
+          "It causes an instantaneous tear of the gastrocnemius tendon in all athletes",
+          "The flight time is too short to allow neural preparation",
+          "It causes immediate ossification of the patellar tendon"
+        ],
+        "correct": 0,
+        "rationale": "A height of 48 inches (1.2 m) provides resistance too great to overcome with correct technique; the force extends the amortization phase, defeating the exercise's purpose while escalating injury risk."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which landing surfaces should be avoided for plyometric training due to ineffective shock-absorbing properties? (Select all that apply)",
+        "opts": [
+          "Concrete",
+          "Ceramic tile",
+          "Hardwood (unyielding non-suspended)",
+          "Suspended wood floor",
+          "Dense rubber athletic mat"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Concrete, tile, and rigid hardwood lack shock absorption and must be avoided. Suspended floors and rubber mats possess appropriate shock-absorbing properties."
+      },
+      {
+        "id": 2,
+        "q": "What structural features must a plyometric jump box possess to maximize safety? (Select all that apply)",
+        "opts": [
+          "Sturdy construction using 3/4-inch plywood or heavy-gauge metal",
+          "Landing surface area of at least 18 by 24 inches (46 by 61 cm)",
+          "Nonslip top surface (e.g., nonslip treads, sand in paint, or rubberized flooring)",
+          "Box height ranging between 6 and 42 inches (15 to 107 cm)",
+          "Highly polished, slick enamel finish for low friction"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Jump boxes must be sturdy (3/4-inch plywood or heavy-gauge metal), feature at least 18x24 in landing area, have nonslip tops, and range in height from 6 to 42 inches. Slick finishes cause slips and serious injury."
+      },
+      {
+        "id": 3,
+        "q": "Which design characteristics are essential for athletic footwear used in plyometrics? (Select all that apply)",
+        "opts": [
+          "Good ankle and foot support",
+          "Good lateral stability",
+          "Wide, nonslip sole",
+          "Sufficient cushioning to protect knee and hip joints",
+          "Narrow sole with highly flexible, unsupportive upper mesh"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Proper footwear demands ankle/foot support, lateral stability, wide nonslip soles, and sufficient cushioning. Narrow, unsupportive shoes (like running shoes) invite lateral ankle inversion injuries."
+      },
+      {
+        "id": 4,
+        "q": "Which statements regarding depth jump safety and height guidelines are correct? (Select all that apply)",
+        "opts": [
+          "The recommended height range for depth jumps is 16 to 42 inches (41 to 107 cm).",
+          "The standard norm for depth jumping is 30 to 32 inches (76 to 81 cm).",
+          "Athletes weighing over 220 pounds (100 kg) should jump from 18 inches (46 cm) or less.",
+          "A 48-inch (1.2 m) drop height is recommended for all power athletes to maximize overload.",
+          "Dropping from excessive height prolongs amortization, causing elastic energy to dissipate as heat."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "The recommended range is 16\u201342 in, the norm is 30\u201332 in, heavy athletes (>220 lbs) are capped at 18 in, and excessive height prolongs amortization. A 48-inch drop is contraindicated."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Grass fields, suspended wood floors, and rubber mats are recommended landing surfaces for lower body plyometrics because they provide adequate shock absorption.",
+        "ans": true,
+        "feedback": "These surfaces possess shock-absorbing properties that mitigate excessive joint impact forces while maintaining efficient stretch-shortening cycle mechanics."
+      },
+      {
+        "id": 2,
+        "q": "Mini-trampolines and 8-inch exercise mats are ideal training surfaces for elite athletes seeking to maximize explosive power and rate of force development.",
+        "ans": false,
+        "feedback": "Overly compliant surfaces extend the amortization phase, dissipating stored elastic energy as heat and negating stretch reflex potentiation."
+      },
+      {
+        "id": 3,
+        "q": "Most plyometric bounding and running drills require at least 30 meters (33 yards) of straightaway, with some advanced drills requiring up to 100 meters (109 yards).",
+        "ans": true,
+        "feedback": "Running and bounding drills require 30 m straightaways, up to 100 m for advanced bounding variations."
+      },
+      {
+        "id": 4,
+        "q": "Depth jump box heights of 48 inches (1.2 m) enhance explosive power by shortening the amortization phase.",
+        "ans": false,
+        "feedback": "A 48-inch height imposes excessive impact that forces excessive joint flexion, prolonging the amortization phase and defeating the exercise's purpose."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Recommended landing surfaces include grass fields, **suspended** floors, and rubber mats, whereas rigid surfaces like **concrete** lack shock absorption.",
+        "targets": [
+          "suspended",
+          "concrete"
+        ],
+        "optionsBank": [
+          "suspended",
+          "concrete",
+          "asphalt",
+          "mini-trampoline",
+          "6-inch mat"
+        ],
+        "hint": "Suspended floors and rubber mats absorb shock, whereas concrete is rigid and elevates injury risk."
+      },
+      {
+        "id": 2,
+        "statement": "Plyometric boxes require a landing surface of at least **18 by 24 inches**, and bounding drills require at least **30 meters** of straightaway.",
+        "targets": [
+          "18 by 24 inches",
+          "30 meters"
+        ],
+        "optionsBank": [
+          "18 by 24 inches",
+          "30 meters",
+          "12 by 12 inches",
+          "100 meters",
+          "5 meters"
+        ],
+        "hint": "Box tops must measure at least 18x24 in (46x61 cm), and straightaways require at least 30 m (33 yd)."
+      },
+      {
+        "id": 3,
+        "statement": "The standard norm height for depth jumps is **30 to 32 inches**, but athletes over 220 pounds must use boxes of **18 inches** or less.",
+        "targets": [
+          "30 to 32 inches",
+          "18 inches"
+        ],
+        "optionsBank": [
+          "30 to 32 inches",
+          "18 inches",
+          "48 inches",
+          "12 inches",
+          "42 inches"
+        ],
+        "hint": "The standard depth jump norm is 30\u201332 in (76\u201381 cm), and heavy athletes are limited to 18 in (46 cm) or less."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain the biomechanical and physiological reasons why excessively thick mats (>= 6 inches) and mini-trampolines are contraindicated for power development in uninjured athletes, despite their utility in rehabilitation.",
+        "model": "In rehabilitation, mini-trampolines and thick compliant mats provide a low-impact environment suitable for progressive joint reloading and balance retraining. However, they are contraindicated for athletic power development because plyometric efficacy depends strictly on a rapid stretch-shortening cycle (SSC) with an exceptionally brief amortization phase. When an uninjured athlete lands on an excessively thick mat (>= 6 inches [15 cm]) or a mini-trampoline, the compliant surface deforms and prolongs ground contact time, dramatically extending the amortization phase. Consequently, the strain elastic energy stored within the series elastic component (SEC/tendons) during the eccentric phase dissipates into the surrounding tissues as heat rather than contributing to concentric recoil. Furthermore, the electromechanical delay exceeds the physiological latency of the stretch reflex, preventing alpha motor neuron potentiation.",
+        "criteria": [
+          "Distinguish rehabilitation utility (low impact, balance) from power training goals.",
+          "Explain that compliant surfaces extend contact time and prolong the amortization phase.",
+          "State the physiological consequences: SEC elastic energy dissipates as heat, and stretch reflex potentiation is lost."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Detail the equipment and facility guidelines for plyometric jump boxes and depth jumping, including box dimensions, construction standards, recommended drop height ranges, and restrictions for heavy athletes.",
+        "model": "Jump boxes used for box and depth jumps must be constructed from sturdy 3/4-inch (1.9 cm) plywood or heavy-gauge metal to prevent collapse under impact. The landing top must measure at least 18 by 24 inches (46 by 61 cm) and feature a nonslip surface created by rubberized flooring, nonslip treads, or sand mixed into paint. Box heights range from 6 to 42 inches (15 to 107 cm). For depth jumps, the recommended height range is 16 to 42 inches (41 to 107 cm), with 30 to 32 inches (76 to 81 cm) serving as the standard norm for conditioned athletes. Heights of 48 inches (1.2 m) are contraindicated because the excessive impact force prolongs the amortization phase and defeats the purpose of the drill. Finally, athletes weighing over 220 pounds (100 kg) must not perform depth jumps from heights greater than 18 inches (46 cm) due to elevated joint compressive loads.",
+        "criteria": [
+          "Detail box construction (3/4-inch plywood or heavy metal), surface area (>= 18x24 in), and nonslip surface methods.",
+          "State depth jump height range (16\u201342 in) and standard norm (30\u201332 in).",
+          "Explain why 48-inch drops are contraindicated (excessive impact, prolonged amortization).",
+          "State the height restriction for athletes > 220 lbs (<= 18 inches)."
+        ]
+      }
+    ]
+  }
+}

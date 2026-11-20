@@ -1,0 +1,546 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Why must plyometric exercise be integrated with other training modalities in an athlete's comprehensive training program?",
+        "opts": [
+          "Because plyometrics only target Type I slow-twitch muscle fibers",
+          "Because many sports require multiple biological energy systems and varied physical capabilities",
+          "Because plyometric exercise permanently suppresses resting metabolic rate",
+          "Because resistance training cannot produce force without daily plyometrics"
+        ],
+        "correct": 1,
+        "rationale": "Plyometric exercise is only one part of an athlete's overall training program; many sports and activities use multiple energy systems or require other forms of exercise to properly prepare athletes for competition."
+      },
+      {
+        "id": 2,
+        "q": "According to standard programming guidelines (Table 18.6), how should resistance training and plyometrics be combined across a weekly training cycle?",
+        "opts": [
+          "Combine lower body resistance training with lower body plyometrics on the same day",
+          "Combine lower body resistance training with upper body plyometrics, and upper body resistance training with lower body plyometrics",
+          "Perform upper and lower body plyometrics exclusively on rest days from lifting",
+          "Alternate upper body plyometrics with upper body resistance training in the same afternoon"
+        ],
+        "correct": 1,
+        "rationale": "Guidelines recommend combining lower body resistance training with upper body plyometrics, and upper body resistance training with lower body plyometrics to maximize efficiency and recovery."
+      },
+      {
+        "id": 3,
+        "q": "What is the general recommendation regarding performing heavy resistance training and plyometrics on the same day?",
+        "opts": [
+          "It is mandatory for all beginner and youth athletes",
+          "It is not usually recommended due to excessive neuromuscular fatigue and strain",
+          "It is recommended only if performed without any interset rest intervals",
+          "It should be performed twice daily five days per week"
+        ],
+        "correct": 1,
+        "rationale": "Performing heavy resistance training and plyometrics on the same day is not usually recommended."
+      },
+      {
+        "id": 4,
+        "q": "What is the definition of 'complex training' in advanced strength and conditioning?",
+        "opts": [
+          "Alternating steady-state distance running with static stretching",
+          "A combination of high-intensity resistance training followed by plyometrics",
+          "Performing high-repetition bodyweight calisthenics until muscular failure",
+          "Combining aerobic cycling with underwater isometric contractions"
+        ],
+        "correct": 1,
+        "rationale": "Complex training is defined as an advanced combination of high-intensity resistance training followed by plyometric exercise."
+      },
+      {
+        "id": 5,
+        "q": "What critical recovery parameter must be respected when athletes perform complex training protocols?",
+        "opts": [
+          "Athletes must eliminate all recovery time between sets to induce metabolic acidosis",
+          "Adequate recovery is needed between plyometrics and other high-intensity training",
+          "Recovery must be restricted to no more than 10 seconds between maximum lifts and bounds",
+          "Athletes require at least 14 days of total bed rest between complex sessions"
+        ],
+        "correct": 1,
+        "rationale": "If athletes perform complex training, adequate recovery is needed between plyometrics and other high-intensity training to maintain explosive neuromuscular output."
+      },
+      {
+        "id": 6,
+        "q": "How can traditional resistance training exercises be specifically combined with plyometrics to enhance gains in muscular power?",
+        "opts": [
+          "By performing maximal isometric holds for 60 seconds followed by walking lunges",
+          "By performing explosive movements such as squat jumps with an external resistance load",
+          "By lifting 100% 1RM loads at very slow concentric tempos",
+          "By eliminating the eccentric phase completely through hydraulic resistance machines"
+        ],
+        "correct": 1,
+        "rationale": "Traditional resistance training exercises may be combined with plyometric movements to further enhance gains in muscular power, such as performing squat jumps with external resistance."
+      },
+      {
+        "id": 7,
+        "q": "What specific external load intensity is recommended when performing weighted squat jumps to increase power performance?",
+        "opts": [
+          "Approximately 10% of squat 1RM",
+          "Approximately 30% of squat 1RM",
+          "Approximately 70% of squat 1RM",
+          "Exactly 95% of squat 1RM"
+        ],
+        "correct": 1,
+        "rationale": "Performing a squat jump with approximately 30% of one's squat 1-repetition maximum (1RM) as an external resistance further increases performance."
+      },
+      {
+        "id": 8,
+        "q": "Which athlete demographic is eligible to perform loaded jump squats with external resistance (30% 1RM)?",
+        "opts": [
+          "Prepubescent children seeking to accelerate growth plate development",
+          "Novice athletes in their first week of resistance training",
+          "Advanced athletes who have previously participated in high-intensity plyometric training programs",
+          "Sedentary adults initiating an injury rehabilitation protocol"
+        ],
+        "correct": 2,
+        "rationale": "Performing squat jumps with external resistance is an advanced form of complex training that is appropriate only for athletes who have previously participated in high-intensity plyometric training programs."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following guidelines represent sound principles for combining plyometrics and resistance training? (Select all that apply)",
+        "opts": [
+          "Combine lower body resistance training with upper body plyometrics.",
+          "Combine upper body resistance training with lower body plyometrics.",
+          "Heavy resistance training and plyometrics on the same day is not usually recommended for general athletes.",
+          "Heavy resistance training and depth jumps should always be performed concurrently by beginners.",
+          "Complex training can combine high-intensity resistance training followed by plyometrics for eligible athletes."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Proper guidelines include combining lower body lifting with upper body plyos, upper body lifting with lower body plyos, avoiding same-day heavy lifting and plyos for most athletes, and utilizing complex training for appropriate athletes. Beginners should never perform heavy lifting and depth jumps concurrently."
+      },
+      {
+        "id": 2,
+        "q": "Which statements accurately characterize complex training protocols? (Select all that apply)",
+        "opts": [
+          "It combines high-intensity resistance training followed by plyometric exercise.",
+          "It requires adequate recovery between high-intensity resistance training and plyometric sets.",
+          "It is an entry-level protocol recommended for prepubescent children.",
+          "It can enhance gains in explosive muscular power.",
+          "It allows athletes to exploit post-activation neuromuscular mechanisms."
+        ],
+        "correctArray": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "rationale": "Complex training couples heavy lifting with plyometrics, demands adequate recovery between modalities, enhances power gains, and exploits post-activation enhancement. It is an advanced modality, not for prepubescent children."
+      },
+      {
+        "id": 3,
+        "q": "Which physiological and performance criteria apply to performing squat jumps with external resistance? (Select all that apply)",
+        "opts": [
+          "Uses approximately 30% of the athlete's squat 1RM as external resistance.",
+          "Further increases muscular power performance beyond unweighted jumps.",
+          "Is an advanced form of complex training.",
+          "Is appropriate only for athletes with prior high-intensity plyometric experience.",
+          "Should be performed with 90% of 1RM to maximize concentric velocity."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Loaded squat jumps utilize ~30% 1RM external resistance, augment power, represent advanced complex training, and require prior high-intensity plyometric experience. 90% 1RM is far too heavy for explosive jump training."
+      },
+      {
+        "id": 4,
+        "q": "Why is performing heavy resistance training and high-intensity plyometrics on the same day generally discouraged for most athletes? (Select all that apply)",
+        "opts": [
+          "It can induce excessive central nervous system and neuromuscular fatigue.",
+          "High fatigue blunts movement velocity and the rate of force development.",
+          "It dramatically increases the risk of acute musculoskeletal injury.",
+          "It permanently converts Type IIx muscle fibers into cardiac tissue.",
+          "It impairs technical execution during high-velocity landings."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Same-day heavy lifting and plyometrics induce severe neuromuscular fatigue, slow movement velocity, elevate injury risk, and compromise landing mechanics. It does not convert skeletal muscle into cardiac tissue."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Combining lower body resistance training with upper body plyometrics helps prevent excessive same-day fatigue on a single muscle group.",
+        "ans": true,
+        "feedback": "Alternating lower body lifting with upper body plyometrics (and vice versa) optimizes recovery and training efficiency across muscle groups."
+      },
+      {
+        "id": 2,
+        "q": "Performing heavy resistance training and high-intensity plyometric drills on the same day is the standard recommendation for all athletes.",
+        "ans": false,
+        "feedback": "Performing heavy resistance training and plyometrics on the same day is not usually recommended."
+      },
+      {
+        "id": 3,
+        "q": "Complex training involves pairing high-intensity resistance training followed by plyometric movements.",
+        "ans": true,
+        "feedback": "Complex training refers specifically to the combination of high-intensity resistance training followed by plyometrics."
+      },
+      {
+        "id": 4,
+        "q": "Performing weighted squat jumps with 30% of squat 1RM is appropriate for beginner athletes with no prior plyometric experience.",
+        "ans": false,
+        "feedback": "This weighted squat jump is an advanced form of complex training appropriate only for athletes who have previously participated in high-intensity plyometric programs."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "To optimize training efficiency, coaches should combine lower body resistance training with **upper body plyometrics**, and upper body resistance training with **lower body plyometrics**.",
+        "targets": [
+          "upper body plyometrics",
+          "lower body plyometrics"
+        ],
+        "optionsBank": [
+          "upper body plyometrics",
+          "lower body plyometrics",
+          "steady-state running",
+          "isometric holds",
+          "maximal sprint intervals"
+        ],
+        "hint": "Recall the body-segment pairing rules for combined training."
+      },
+      {
+        "id": 2,
+        "statement": "Advanced athletes may utilize **complex training**, which combines high-intensity resistance training followed by **plyometrics**.",
+        "targets": [
+          "complex training",
+          "plyometrics"
+        ],
+        "optionsBank": [
+          "complex training",
+          "plyometrics",
+          "aerobic endurance",
+          "passive stretching",
+          "absolute bed rest"
+        ],
+        "hint": "Recall the definition and pairing components of complex training."
+      },
+      {
+        "id": 3,
+        "statement": "Performing squat jumps with approximately **30%** of squat 1RM as external resistance is an advanced protocol restricted to athletes with prior **high-intensity** plyometric experience.",
+        "targets": [
+          "30%",
+          "high-intensity"
+        ],
+        "optionsBank": [
+          "30%",
+          "high-intensity",
+          "80%",
+          "low-intensity",
+          "5%"
+        ],
+        "hint": "Recall the percentage of 1RM and required experience level for loaded jump squats."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Describe the recommended upper and lower body split strategy when combining resistance training and plyometrics within a weekly training cycle, and explain its physiological benefits.",
+        "model": "The recommended strategy for combining resistance training and plyometrics across a microcycle is an alternating body-segment split: pairing lower body resistance training with upper body plyometrics on one day, and upper body resistance training with lower body plyometrics on another day. This organizational structure provides two primary physiological benefits: first, it prevents excessive, compounding mechanical and neuromuscular fatigue on the same muscle groups and joints within a single workout; second, it allows high-velocity plyometric movements to be executed with uncompromised power and technique because the active musculature has not been pre-exhausted by heavy lifting.",
+        "criteria": [
+          "State the split rule: lower body resistance with upper body plyometrics, and upper body resistance with lower body plyometrics.",
+          "Explain that it prevents localized cumulative fatigue in active muscle groups and joint structures.",
+          "Detail how it preserves high movement velocity and technical precision during plyometric drills."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Define complex training, describe the specific external loading protocol for jump squats cited in the text, and identify the prerequisite athlete training status required for this method.",
+        "model": "Complex training is an advanced training methodology that combines high-intensity resistance training followed by biomechanically similar plyometric exercises. To further enhance power adaptations, traditional resistance exercises can be coupled directly with plyometrics using external loading, such as performing a squat jump with an external resistance load equal to approximately 30% of the athlete's squat 1-repetition maximum (1RM). Because this external load substantially amplifies eccentric impact forces upon landing and demands extreme neuromuscular stability, this is an advanced form of complex training that is appropriate only for advanced athletes who have previously participated in high-intensity plyometric training programs.",
+        "criteria": [
+          "Define complex training as high-intensity resistance training followed by plyometrics with adequate recovery.",
+          "State the jump squat loading parameter: approximately 30% of squat 1RM as external resistance.",
+          "Identify the required prerequisite: restricted strictly to advanced athletes with prior high-intensity plyometric training experience."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Which sports are specifically cited as requiring both an anaerobic (power) and an aerobic energy component?",
+        "opts": [
+          "Powerlifting and Olympic weightlifting",
+          "Basketball and soccer",
+          "Archery and rifle shooting",
+          "100-meter sprint and shot put"
+        ],
+        "correct": 1,
+        "rationale": "Many sports\u2014such as basketball and soccer\u2014have both an anaerobic (i.e., power) and an aerobic component."
+      },
+      {
+        "id": 2,
+        "q": "Why must athletes competing in sports like soccer and basketball combine multiple distinct training modalities?",
+        "opts": [
+          "Because a single training modality cannot concurrently address both anaerobic power and aerobic endurance demands",
+          "Because basketball rules require players to jog 10 miles prior to tip-off",
+          "Because aerobic training eliminates the need for stretch reflex potentiation",
+          "Because resistance training alone produces maximal VO2max adaptations"
+        ],
+        "correct": 0,
+        "rationale": "Because sports like basketball and soccer involve both anaerobic power and aerobic endurance, multiple types of training must be combined to best prepare athletes for competition."
+      },
+      {
+        "id": 3,
+        "q": "According to research cited in the text, what impact can aerobic endurance exercise have on muscular power production?",
+        "opts": [
+          "It substantially increases peak rate of force development",
+          "It may have a negative effect on power production",
+          "It permanently doubles stretch-shortening cycle efficiency",
+          "It has zero physiological effect on neuromuscular velocity"
+        ],
+        "correct": 1,
+        "rationale": "Research shows that aerobic exercise may have a negative effect on power production (the interference effect)."
+      },
+      {
+        "id": 4,
+        "q": "When plyometrics and aerobic endurance training are performed on the same day, what is the recommended exercise sequence?",
+        "opts": [
+          "Perform aerobic endurance training before plyometric exercise",
+          "Perform plyometric exercise before aerobic endurance training",
+          "Perform high-intensity aerobic intervals simultaneously during plyometric sets",
+          "Sequence order does not matter as long as total volume is completed"
+        ],
+        "correct": 1,
+        "rationale": "Because aerobic exercise may have a negative effect on power production, it is advisable to perform plyometric exercise before aerobic endurance training."
+      },
+      {
+        "id": 5,
+        "q": "What happens to the fundamental plyometric program design variables (mode, intensity, volume, recovery) when combining plyometrics with aerobic training?",
+        "opts": [
+          "They must all be reduced by 90%",
+          "The design variables do not change and should complement each other",
+          "Rest periods between plyometric sets must be eliminated",
+          "Volume must be doubled to compensate for aerobic interference"
+        ],
+        "correct": 1,
+        "rationale": "The design variables do not change and should complement each other to most effectively train athletes for competition."
+      },
+      {
+        "id": 6,
+        "q": "Why does performing prolonged aerobic endurance training prior to plyometrics impair plyometric performance?",
+        "opts": [
+          "Aerobic exercise completely depletes intramuscular glycogen and causes hypothermia",
+          "Residual aerobic fatigue impairs rapid force development, increases amortization time, and compromises movement velocity",
+          "Aerobic exercise permanently stiffens all skeletal joint capsules",
+          "Aerobic exercise converts bone hydroxyapatite into connective tissue"
+        ],
+        "correct": 1,
+        "rationale": "Performing aerobic exercise first induces muscular and central fatigue that compromises power output, slows stretch-shortening cycle kinetics, and increases injury risk during explosive plyometrics."
+      },
+      {
+        "id": 7,
+        "q": "What is the overarching objective when structuring concurrent plyometric and aerobic training programs?",
+        "opts": [
+          "To convert all fast-twitch muscle fibers into slow-twitch oxidative fibers",
+          "To prepare athletes effectively for competition by developing both energy pathways while minimizing interference",
+          "To maximize cardiovascular fatigue during plyometric drills",
+          "To eliminate all strength and power training during the competitive season"
+        ],
+        "correct": 1,
+        "rationale": "Multiple types of training must be combined to best prepare athletes for dual-energy sports, ensuring design variables complement each other for competitive success."
+      },
+      {
+        "id": 8,
+        "q": "In a combined training session for a collegiate soccer player, which schedule follows the recommended sequencing guidelines?",
+        "opts": [
+          "45-minute continuous steady-state run followed immediately by maximal depth jumps",
+          "Low-to-moderate volume plyometric drills followed by soccer-specific aerobic endurance conditioning",
+          "High-intensity shuttle runs to exhaustion followed by medicine ball throws",
+          "10 km cross-country run followed by standing long jumps"
+        ],
+        "correct": 1,
+        "rationale": "Performing plyometric exercise before aerobic conditioning preserves explosive neuromuscular capabilities and adheres to proper sequencing."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which characteristics describe sports that require concurrent plyometric and aerobic conditioning? (Select all that apply)",
+        "opts": [
+          "They require explosive anaerobic power for jumping, sprinting, and change of direction.",
+          "They require aerobic endurance to maintain work output and recover across matches.",
+          "Basketball and soccer are classic examples of such multi-energy sports.",
+          "They require exclusively aerobic metabolism with zero anaerobic contribution.",
+          "Multiple training modes must be structured to complement one another."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Sports like soccer and basketball require both explosive anaerobic power and aerobic endurance, necessitating complementary multi-modal training programs."
+      },
+      {
+        "id": 2,
+        "q": "Which statements accurately describe the neuromuscular relationship between aerobic exercise and power production? (Select all that apply)",
+        "opts": [
+          "Aerobic exercise may exert a negative effect on power production.",
+          "Performing plyometrics while aerobically fatigued impairs explosive force expression.",
+          "Aerobic endurance training prior to plyometrics can prolong amortization phase duration.",
+          "Aerobic exercise always enhances peak concentric jump velocity.",
+          "Performing plyometrics before aerobic conditioning minimizes the negative interference effect."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Aerobic exercise can negatively impact power, prolong amortization, and reduce explosive velocity if performed first. Performing plyometrics prior to aerobic training mitigates this interference."
+      },
+      {
+        "id": 3,
+        "q": "What program design rules govern the combination of plyometric and aerobic training? (Select all that apply)",
+        "opts": [
+          "Perform plyometric exercise before aerobic endurance training.",
+          "Ensure that plyometric program design variables remain unchanged and complementary.",
+          "Perform plyometrics at the conclusion of exhausting aerobic conditioning runs.",
+          "Structure training to effectively prepare athletes for both energy system demands.",
+          "Eliminate recovery intervals between plyometric sets when aerobic training is planned."
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Plyometrics should precede aerobic training, design variables remain unchanged and complementary, and programs must address both energy systems. Plyometrics should never follow exhausting aerobic work or have rest eliminated."
+      },
+      {
+        "id": 4,
+        "q": "What negative consequences can arise if an athlete performs high-intensity plyometrics in an acutely fatigued state following aerobic endurance training? (Select all that apply)",
+        "opts": [
+          "Breakdown of proper landing mechanics and dynamic alignment.",
+          "Increased risk of dynamic knee valgus and lower extremity injury.",
+          "Inability to generate rapid rates of force development.",
+          "Accelerated bone mineral accretion and tendon stiffness gains.",
+          "Dissipation of stored elastic energy as heat due to slowed transitions."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Acute aerobic fatigue causes landing technique degradation, knee valgus collapse, reduced RFD, and delayed amortization (dissipating elastic energy as heat). It does not accelerate bone or tendon adaptations."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Sports such as basketball and soccer require both anaerobic power and aerobic endurance components.",
+        "ans": true,
+        "feedback": "Many sports\u2014such as basketball and soccer\u2014have both an anaerobic (power) and an aerobic component."
+      },
+      {
+        "id": 2,
+        "q": "Research indicates that aerobic exercise may have a negative effect on explosive muscular power production.",
+        "ans": true,
+        "feedback": "Research cited in the text confirms that aerobic exercise may have a negative effect on power production."
+      },
+      {
+        "id": 3,
+        "q": "When combining modalities on the same day, athletes should perform aerobic endurance training prior to plyometric drills.",
+        "ans": false,
+        "feedback": "It is advisable to perform plyometric exercise before aerobic endurance training because aerobic fatigue compromises power."
+      },
+      {
+        "id": 4,
+        "q": "When adding aerobic training to an athletic program, the fundamental design variables of the plyometric program must be completely altered.",
+        "ans": false,
+        "feedback": "The design variables for plyometric exercise do not change and should complement the aerobic training program."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Sports such as basketball and soccer have both an **anaerobic** power component and an **aerobic** endurance component.",
+        "targets": [
+          "anaerobic",
+          "aerobic"
+        ],
+        "optionsBank": [
+          "anaerobic",
+          "aerobic",
+          "isometric",
+          "static",
+          "passive"
+        ],
+        "hint": "Identify the dual energy system contributions of court and field sports."
+      },
+      {
+        "id": 2,
+        "statement": "Because aerobic exercise may have a **negative** effect on power production, it is advisable to perform plyometric exercise **before** aerobic endurance training.",
+        "targets": [
+          "negative",
+          "before"
+        ],
+        "optionsBank": [
+          "negative",
+          "before",
+          "positive",
+          "after",
+          "neutral"
+        ],
+        "hint": "Recall the interference effect and mandatory exercise sequence."
+      },
+      {
+        "id": 3,
+        "statement": "When combining training modes, the plyometric design variables do not **change** and should **complement** each other to prepare athletes for competition.",
+        "targets": [
+          "change",
+          "complement"
+        ],
+        "optionsBank": [
+          "change",
+          "complement",
+          "conflict",
+          "increase",
+          "double"
+        ],
+        "hint": "Recall how plyometric variables should align with aerobic conditioning."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain the physiological rationale for performing plyometric exercise before aerobic endurance training when both modalities are scheduled on the same day.",
+        "model": "Plyometric exercise relies on the rapid recruitment of high-threshold Type II motor units, maximal rates of force development (RFD), and rapid stretch-shortening cycle (SSC) kinetics with minimal amortization duration. Performing aerobic endurance training first induces central nervous system fatigue, metabolic byproduct accumulation, and localized muscular fatigue. If plyometrics are performed in this pre-exhausted state, the muscle cannot achieve maximal contraction speed, the amortization phase is prolonged (causing stored elastic energy in the series elastic component to dissipate as heat), and landing mechanics deteriorate, elevating injury risk. Therefore, performing plyometrics before aerobic exercise ensures that explosive drills are executed while the nervous system is completely fresh, maximizing power adaptations while mitigating the interference effect.",
+        "criteria": [
+          "Explain that plyometrics require maximal motor unit recruitment, high contraction velocity, and rapid SSC transition.",
+          "Detail the physiological consequences of prior aerobic fatigue: reduced RFD, prolonged amortization, elastic energy dissipation as heat, and compromised landing mechanics.",
+          "Conclude that scheduling plyometrics first preserves power development and reduces injury risk."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Discuss how strength and conditioning professionals should integrate concurrent plyometric and aerobic training for athletes in dual-energy-system sports like soccer or basketball.",
+        "model": "In sports like soccer and basketball, athletes must repeatedly express explosive power (jumping, sprinting, change of direction) across an extended match duration that heavily taxes the aerobic system. Strength and conditioning professionals must design a concurrent training regimen that addresses both energy pathways without causing maladaptive interference. Key integration guidelines include: (1) preserving the core design variables of plyometrics (maintaining proper intensity, volume, and full work-to-rest recovery); (2) sequencing plyometrics before aerobic conditioning within a workout or scheduling them on separate days; and (3) ensuring that aerobic conditioning complements rather than compromises power development. This coordinated approach optimizes competitive readiness by elevating explosive athleticism while building the cardiovascular stamina necessary for sustained match performance.",
+        "criteria": [
+          "Identify soccer and basketball as multi-energy sports requiring both anaerobic power and aerobic endurance.",
+          "Explain that plyometric design variables (intensity, volume, recovery) must be preserved rather than degraded.",
+          "State the sequencing and scheduling rule: plyometrics before aerobic conditioning or separated temporally.",
+          "Emphasize that the two modalities must be designed to complement each other for competitive readiness."
+        ]
+      }
+    ]
+  }
+}
