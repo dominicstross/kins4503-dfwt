@@ -1,34 +1,292 @@
 {
   "courseCode": "KINS 4503",
-  "courseTitle": "Design of Fitness and WT",
+  "courseTitle": "Design of Fitness & WT",
   "institution": "SEU Kinesiology",
   "description": "Interactive online learning modules (OLMs)",
   "units": [
     {
-      "unitTitle": "Unit 1: Foundations",
-      "unitTag": "Weeks 1-4",
+      "unitTitle": "Course Chapters",
+      "unitTag": "KINS 4503",
       "chapters": [
         {
           "num": "01",
-          "title": "Chapter 1: Foundational Principles",
+          "title": "Chapter 1",
           "modules": [
             {
               "id": "1.1",
-              "title": "Core Mechanisms & Dynamics",
+              "title": "1.1 Musculoskeletal System",
               "href": "viewer.html?ch=01&mod=1.1"
             },
             {
-              "num": "03",
-              "title": "Chapter 3: Bioenergetics of Exercise and Training",
-              "modules": [
-                {
-                  "id": "3.1",
-                  "title": "Essential Terminology",
-                  "href": "viewer.html?ch=03&mod=3.1"
-                }
-              ]
+              "id": "1.2",
+              "title": "1.2 Neuromuscular System",
+              "href": "viewer.html?ch=01&mod=1.2"
+            },
+            {
+              "id": "1.3",
+              "title": "1.3 Cardiovascular System",
+              "href": "viewer.html?ch=01&mod=1.3"
+            },
+            {
+              "id": "1.4",
+              "title": "1.4 Respiratory System",
+              "href": "viewer.html?ch=01&mod=1.4"
+            }
+          ]
+        },
+        {
+          "num": "02",
+          "title": "Chapter 2",
+          "modules": [
+            {
+              "id": "2.1",
+              "title": "2.1 Skeletal Musculature",
+              "href": "viewer.html?ch=02&mod=2.1"
+            },
+            {
+              "id": "2.2",
+              "title": "2.2 Anatomical Planes and Major Body Movements",
+              "href": "viewer.html?ch=02&mod=2.2"
+            }
+          ]
+        },
+        {
+          "num": "03",
+          "title": "Chapter 3",
+          "modules": [
+            {
+              "id": "3.1",
+              "title": "3.1 Essential Terminology",
+              "href": "viewer.html?ch=03&mod=3.1"
+            },
+            {
+              "id": "3.2",
+              "title": "3.2 Biological Energy Systems",
+              "href": "viewer.html?ch=03&mod=3.2"
+            },
+            {
+              "id": "3.3",
+              "title": "3.3 Substrate Depletion and Repletion",
+              "href": "viewer.html?ch=03&mod=3.3"
+            },
+            {
+              "id": "3.4",
+              "title": "3.4 Bioenergetic Limiting Factors in Exercise Performance",
+              "href": "viewer.html?ch=03&mod=3.4"
+            },
+            {
+              "id": "3.5",
+              "title": "3.5 Oxygen Uptake and the Aerobic and Anaerobic Contributions to Exercise",
+              "href": "viewer.html?ch=03&mod=3.5"
+            },
+            {
+              "id": "3.6",
+              "title": "3.6 Metabolic Specificity of Training",
+              "href": "viewer.html?ch=03&mod=3.6"
+            }
+          ]
+        },
+        {
+          "num": "05",
+          "title": "Chapter 5",
+          "modules": [
+            {
+              "id": "5.1",
+              "title": "5.1 Neural Adaptations",
+              "href": "viewer.html?ch=05&mod=5.1"
+            },
+            {
+              "id": "5.2",
+              "title": "5.2 Muscular Adaptations",
+              "href": "viewer.html?ch=05&mod=5.2"
+            },
+            {
+              "id": "5.3",
+              "title": "5.3 Connective Tissue Adaptations",
+              "href": "viewer.html?ch=05&mod=5.3"
+            },
+            {
+              "id": "5.4",
+              "title": "5.4 Endocrine Responses and Adaptations to Anaerobic Training",
+              "href": "viewer.html?ch=05&mod=5.4"
+            },
+            {
+              "id": "5.5",
+              "title": "5.5 Cardiovascular and Respiratory Responses to Anaerobic Exercise",
+              "href": "viewer.html?ch=05&mod=5.5"
+            },
+            {
+              "id": "5.6",
+              "title": "5.6 Compatibility of Aerobic and Anaerobic Modes of Training",
+              "href": "viewer.html?ch=05&mod=5.6"
+            },
+            {
+              "id": "5.7",
+              "title": "5.7 Overtraining",
+              "href": "viewer.html?ch=05&mod=5.7"
+            },
+            {
+              "id": "5.8",
+              "title": "5.8 Detraining",
+              "href": "viewer.html?ch=05&mod=5.8"
+            }
+          ]
+        },
+        {
+          "num": "06",
+          "title": "Chapter 6",
+          "modules": [
+            {
+              "id": "6.1",
+              "title": "6.1 Acute Responses to Aerobic Exercise",
+              "href": "viewer.html?ch=06&mod=6.1"
+            },
+            {
+              "id": "6.2",
+              "title": "6.2 Chronic Adaptations to Aerobic Exercise",
+              "href": "viewer.html?ch=06&mod=6.2"
+            },
+            {
+              "id": "6.3",
+              "title": "6.3 Adaptations to Aerobic Endurance Training",
+              "href": "viewer.html?ch=06&mod=6.3"
+            },
+            {
+              "id": "6.4",
+              "title": "6.4 External and Individual Factors Influencing Adaptations to Aerobic Endurance Training",
+              "href": "viewer.html?ch=06&mod=6.4"
+            },
+            {
+              "id": "6.5",
+              "title": "6.5 Overtraining Definition, Prevalence, Diagnosis, and Potential Markers",
+              "href": "viewer.html?ch=06&mod=6.5"
+            }
+          ]
+        },
+        {
+          "num": "17",
+          "title": "Chapter 17",
+          "modules": [
+            {
+              "id": "17.1",
+              "title": "17.1 Step 1: Needs Analysis",
+              "href": "viewer.html?ch=17&mod=17.1"
+            },
+            {
+              "id": "17.2",
+              "title": "17.2 Step 2: Exercise Selection",
+              "href": "viewer.html?ch=17&mod=17.2"
+            },
+            {
+              "id": "17.3",
+              "title": "17.3 Step 3: Training Frequency",
+              "href": "viewer.html?ch=17&mod=17.3"
+            },
+            {
+              "id": "17.4",
+              "title": "17.4 Step 4: Exercise Order",
+              "href": "viewer.html?ch=17&mod=17.4"
+            },
+            {
+              "id": "17.5",
+              "title": "17.5 Step 5: Training Load and Repetitions",
+              "href": "viewer.html?ch=17&mod=17.5"
+            },
+            {
+              "id": "17.6",
+              "title": "17.6 Step 6: Volume",
+              "href": "viewer.html?ch=17&mod=17.6"
+            },
+            {
+              "id": "17.7",
+              "title": "17.7 Step 7: Rest Periods",
+              "href": "viewer.html?ch=17&mod=17.7"
+            }
+          ]
+        },
+        {
+          "num": "18",
+          "title": "Chapter 18",
+          "modules": [
+            {
+              "id": "18.1",
+              "title": "18.1 Plyometric Mechanics and Physiology",
+              "href": "viewer.html?ch=18&mod=18.1"
+            },
+            {
+              "id": "18.2",
+              "title": "18.2 Plyometric Program Design",
+              "href": "viewer.html?ch=18&mod=18.2"
+            },
+            {
+              "id": "18.3",
+              "title": "18.3 Age Considerations",
+              "href": "viewer.html?ch=18&mod=18.3"
+            },
+            {
+              "id": "18.4",
+              "title": "18.4 Plyometrics and Other Forms of Exercise",
+              "href": "viewer.html?ch=18&mod=18.4"
+            },
+            {
+              "id": "18.5",
+              "title": "18.5 Safety Considerations",
+              "href": "viewer.html?ch=18&mod=18.5"
+            }
+          ]
+        },
+        {
+          "num": "19",
+          "title": "Chapter 19",
+          "modules": [
+            {
+              "id": "19.1",
+              "title": "19.1 Speed and Agility Mechanics and Terminology",
+              "href": "viewer.html?ch=19&mod=19.1"
+            },
+            {
+              "id": "19.2",
+              "title": "19.2 Neurophysiological Basis for Speed",
+              "href": "viewer.html?ch=19&mod=19.2"
+            },
+            {
+              "id": "19.3",
+              "title": "19.3 Running Speed",
+              "href": "viewer.html?ch=19&mod=19.3"
+            },
+            {
+              "id": "19.4",
+              "title": "19.4 Agility Performance and Change-of-Direction Ability",
+              "href": "viewer.html?ch=19&mod=19.4"
+            },
+            {
+              "id": "19.5",
+              "title": "19.5 Methods of Developing Speed",
+              "href": "viewer.html?ch=19&mod=19.5"
+            },
+            {
+              "id": "19.6",
+              "title": "19.6 Methods of Developing Agility",
+              "href": "viewer.html?ch=19&mod=19.6"
+            },
+            {
+              "id": "19.7",
+              "title": "19.7 Program Design",
+              "href": "viewer.html?ch=19&mod=19.7"
+            },
+            {
+              "id": "19.8",
+              "title": "19.8 Speed Development Strategies",
+              "href": "viewer.html?ch=19&mod=19.8"
+            },
+            {
+              "id": "19.9",
+              "title": "19.9 Agility Development Strategies",
+              "href": "viewer.html?ch=19&mod=19.9"
             }
           ]
         }
       ]
     }
+  ]
+}
