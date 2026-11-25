@@ -1,50 +1,130 @@
 {
   "meta": {
-    "course": "KINS 2203: Introduction to Kinesiology",
-    "moduleTitle": "1.1 The Nature of Human Movement & Sub-disciplines",
-    "chapter": "01",
-    "module": "1.1"
+    "course": "DFWT - KINS 4503 Design of Fitness & WT",
+    "chapter": "1",
+    "section": "1.1",
+    "ch": "1",
+    "mod": "1.1",
+    "moduleTitle": "1.1 Musculoskeletal System"
   },
-  "activities": [
-    {
-      "id": "act-ch01",
-      "title": "Sub-Discipline Continuum Explorer",
-      "type": "sim",
-      "desc": "Interactive decision matrix mapping clinical, performance, and behavioral cases to core kinesiology sub-disciplines.",
-      "file": "content/ch01/activities/starter_simulation.html"
-    }
-  ],
   "pages": [
     {
       "id": "p1",
-      "title": "1.1 The Nature of Human Movement & Sub-disciplines",
+      "title": "Part 1: Skeletal Architecture, Joint Articulations, and Bone Modeling Dynamics",
       "sampleCounts": {
-        "mcq": 1,
-        "ms": 1,
-        "tf": 1,
-        "cloze": 1,
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
         "sa": 1
       },
-      "readingHtml": "<h3>Defining Kinesiology and Physical Activity</h3><p>Kinesiology is the academic discipline focused on the art and science of human movement. Rather than viewing physical movement merely as mechanics or exercise, kinesiology investigates physical activity across experiential, theoretical, and professional spheres.</p><h3>The Three Primary Spheres</h3><p>The discipline integrates three primary pillars of knowledge:</p><ul><li><strong>Biophysical:</strong> Exercise physiology, biomechanics, and sports medicine.</li><li><strong>Behavioral:</strong> Sport and exercise psychology, motor learning, and motor development.</li><li><strong>Socio-cultural:</strong> History, philosophy, and sociology of physical activity and sport.</li></ul><p>Each sub-discipline provides unique conceptual lenses for evaluating athletic performance, clinical rehabilitation, and lifelong wellness.</p>",
-      "activities": [
-        {
-          "id": "act-ch01",
-          "title": "Sub-Discipline Continuum Explorer",
-          "type": "sim",
-          "desc": "Interactive decision matrix mapping clinical, performance, and behavioral cases to core kinesiology sub-disciplines.",
-          "file": "content/ch01/activities/starter_simulation.html"
-        }
-      ]
+      "readingHtml": "<h2>Skeletal Architecture and Bony Lever Dynamics</h2><p>The human musculoskeletal system is an integrated structural apparatus consisting of bones, joints, muscles, and tendons configured to produce purposeful movement, stabilize posture, and transmit kinetic energy to the external environment. Skeletal muscles do not act directly to exert force upon the ground or external objects; instead, they function exclusively by pulling against bones. These bones rotate about joint axes to act as anatomical lever systems, transforming internal muscular tensile forces into external pulling or pushing forces.</p><h3>Axial and Appendicular Skeletal Divisions</h3><p>The adult human skeleton typically comprises approximately <strong>206 bones</strong> (subject to slight anatomical variations), providing structural leverage, visceral protection, and mineral storage. The skeleton is organized into two primary divisions:</p><ul><li><strong>Axial Skeleton:</strong> Forms the central longitudinal axis of the body and includes the <em>skull (cranium)</em>, the <em>vertebral column</em> (vertebra C1 through the coccyx), the <em>ribs</em>, and the <em>sternum</em>.</li><li><strong>Appendicular Skeleton:</strong> Comprises the limbs and supporting structural girdles:<ul><li><em>Pectoral (Shoulder) Girdle:</em> Left and right scapulae and clavicles, anchoring the upper extremities to the axial trunk.</li><li><em>Upper Extremity Bones:</em> Left and right humerus, radius, ulna, carpals, metacarpals, and phalanges.</li><li><em>Pelvic Girdle:</em> Left and right coxal (innominate) bones, transferring ground reaction forces between the trunk and lower limbs.</li><li><em>Lower Extremity Bones:</em> Left and right femur, patella, tibia, fibula, tarsals, metatarsals, and phalanges.</li></ul></li></ul><h3>Vertebral Column Segmentation</h3><p>The vertebral column consists of individual vertebrae separated by flexible cartilaginous intervertebral disks that allow multi-planar spinal articulation while attenuating compressive shock. The column is divided into five distinct anatomical regions:</p><ol><li><strong>Cervical Vertebrae (7):</strong> Located in the neck region (C1–C7), supporting the cranium and providing extensive rotational mobility.</li><li><strong>Thoracic Vertebrae (12):</strong> Positioned in the upper and mid-back (T1–T12), articulating with the ribs to form the protective thoracic cage.</li><li><strong>Lumbar Vertebrae (5):</strong> Located in the lower back (L1–L5), featuring large vertebral bodies designed to bear substantial compressive and shear loads during axial loading.</li><li><strong>Sacral Vertebrae (5):</strong> Five vertebrae fused into a rigid triangular unit (the sacrum) that forms the posterior aspect of the pelvic girdle.</li><li><strong>Coccygeal Vertebrae (3 to 5):</strong> Rudimentary, fused segment forming the coccyx (tailbone) extending inferiorly from the pelvis.</li></ol><h3>Joint Classifications and Degrees of Freedom</h3><p>Junctions between articulating bones are termed <strong>joints (articulations)</strong>. Joints are categorized by structural tissue composition and movement potential:</p><ul><li><strong>Fibrous Joints:</strong> Held tightly by dense fibrous connective tissue, permitting virtually no movement (e.g., cranial sutures of the skull).</li><li><strong>Cartilaginous Joints:</strong> United by fibrocartilage or hyaline cartilage, allowing limited shock-absorbing movement (e.g., intervertebral disks, pubic symphysis).</li><li><strong>Synovial Joints:</strong> Freely movable articulations designed for low friction and large ranges of motion, comprising the vast majority of sport and exercise movements. Synovial joints are characterized by smooth articulating bone surfaces capped with <em>hyaline cartilage</em> and encapsulated in a fibrous joint capsule lined with synovial membrane and filled with lubricating <em>synovial fluid</em>, reinforced by external ligaments and fibrocartilaginous pads (menisci).</li></ul><p>Synovial joints are further classified by their rotational axes (degrees of freedom):</p><ul><li><strong>Uniaxial Joints:</strong> Operate essentially as hinges, rotating about a single perpendicular axis (e.g., the elbow humeroulnar joint). <em>Note:</em> The knee is often colloquially termed a hinge joint, but its rotational axis shifts dynamically throughout its range of motion.</li><li><strong>Biaxial Joints:</strong> Permit movement about two perpendicular axes, enabling flexion/extension and abduction/adduction (e.g., the wrist radiocarpal joint and ankle talocrural complex).</li><li><strong>Multiaxial Joints:</strong> Ball-and-socket configurations permitting rotation about all three perpendicular spatial axes, allowing flexion/extension, abduction/adduction, internal/external rotation, and circumduction (e.g., the glenohumeral shoulder joint and coxofemoral hip joint).</li></ul><h3>Mechanisms Influencing Skeletal Growth and Bone Adaptation</h3><p>Bone is dynamic living tissue that adapts structurally to mechanical loading. In adults, bone remodeling is strongly influenced by muscular tension and physical impact:</p><ul><li><strong>Heavy Resistance Loading:</strong> Exerting heavy compressive, bending, and shear loads stimulates osteoblasts to elevate bone mineral content and bone mineral density (BMD).</li><li><strong>High-Impact Ballistics:</strong> Explosive, high-velocity movements and hard landings (e.g., artistic gymnastics, plyometrics, Olympic weightlifting) generate peak ground reaction forces that produce exceptional bone density adaptations.</li><li><strong>Axial Skeletal Loading:</strong> Exercises that load the axial skeleton directly (e.g., back squats, standing overhead presses) provide systemic osteogenic stimuli across the spinal column and pelvic girdle.</li><li><strong>Stimulus Periodization:</strong> Because the physiological remodeling cycle of bone is substantially longer than that of skeletal muscle tissue, practitioners must vary mechanical stimuli across frequency, intensity, and loading modality to stimulate continuous skeletal adaptation.</li></ul><div class=\"callout-box\"><div class=\"callout-title\">Coaching / Sport Application</div><p>Strength and conditioning professionals designing training programs for bone health and athletic durability must prioritize axial, multi-joint resistance exercises (such as squats, deadlifts, and overhead presses) combined with high-impact plyometric jumping. Because adult bone mineral deposition requires mechanical strain exceeding habitual daily thresholds, loading intensity and impact rate are far more osteogenic than high-repetition, low-load aerobic conditioning.</p></div><table class=\"data-table\"><thead><tr><th>Joint Type</th><th>Structural Tissue</th><th>Mobility Level</th><th>Axes of Rotation</th><th>Anatomical Examples</th></tr></thead><tbody><tr><td><strong>Fibrous</strong></td><td>Dense collagenous fibers</td><td>Synarthrodial (immovable)</td><td>0 (Non-axial)</td><td>Sutures of the cranium</td></tr><tr><td><strong>Cartilaginous</strong></td><td>Fibrocartilage / hyaline cartilage</td><td>Amphiarthrodial (limited)</td><td>Limited multi-planar</td><td>Intervertebral disks, pubic symphysis</td></tr><tr><td><strong>Synovial (Uniaxial)</strong></td><td>Hyaline cartilage & synovial fluid</td><td>Diarthrodial (freely movable)</td><td>1 (Single axis)</td><td>Elbow (humeroulnar joint)</td></tr><tr><td><strong>Synovial (Biaxial)</strong></td><td>Hyaline cartilage & synovial fluid</td><td>Diarthrodial (freely movable)</td><td>2 (Perpendicular axes)</td><td>Wrist (radiocarpal), ankle</td></tr><tr><td><strong>Synovial (Multiaxial)</strong></td><td>Hyaline cartilage & synovial fluid</td><td>Diarthrodial (freely movable)</td><td>3 (Three spatial axes)</td><td>Shoulder (glenohumeral), hip (coxofemoral)</td></tr></tbody></table>"
+    },
+    {
+      "id": "p2",
+      "title": "Part 2: Musculoskeletal Macrostructure, Connective Tissue, and Sarcomere Anatomy",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Musculoskeletal Macrostructure, Connective Tissue, and Sarcomere Anatomy</h2><p>Each of the human body's more than <strong>430 skeletal muscles</strong> represents a distinct anatomical organ composed of muscle fibers, connective tissue sheaths, peripheral motor nerves, and microvascular blood networks. Skeletal muscles span joints and attach to bones at both ends, converting biochemical energy into contractile force that displaces bony levers.</p><h3>Connective Tissue Hierarchy and Force Transmission</h3><p>Muscle fibers are bound together and protected by three continuous concentric layers of specialized fibrous connective tissue that merge seamlessly with tendons at the muscle's origins and insertions:</p><ol><li><strong>Epimysium:</strong> The outermost sheath of dense fibrous connective tissue that envelops the entire muscle belly. The epimysium is contiguous with the deep fascia and terminates in tendons that insert into bone <em>periosteum</em> (the dense, vascular fibrous membrane covering all bones). Contraction pulls on the epimysium, transmitting tension to the tendon and rotating the bone.</li><li><strong>Perimysium:</strong> Connective tissue septa that branch inward from the epimysium to subdivide the muscle into distinct bundles called <strong>fasciculi (fascicles)</strong>. Each fasciculus contains up to <strong>150 individual muscle fibers</strong>.</li><li><strong>Endomysium:</strong> A delicate layer of connective tissue surrounding each individual muscle fiber. The endomysium is contiguous with the muscle fiber's underlying cell membrane, the <strong>sarcolemma</strong>.</li></ol><h3>Anatomical Attachments</h3><p>Limb muscles attach to bones at two anatomical sites: the <strong>proximal attachment</strong> (closer to the trunk) and the <strong>distal attachment</strong> (farther from the trunk). Trunk muscles feature <strong>superior attachments</strong> (closer to the head) and <strong>inferior attachments</strong> (closer to the feet).</p><h3>Muscle Fiber Microstructure and the Sarcoplasm</h3><p>Muscle cells, termed <strong>muscle fibers</strong>, are long, cylindrical, multi-nucleated cells measuring approximately <strong>50 to 100 µm in diameter</strong> (comparable to the thickness of a human hair) that often run the entire longitudinal length of a muscle. Their multiple nuclei are situated along the periphery beneath the sarcolemma, and their internal cytoplasm is designated the <strong>sarcoplasm</strong>.</p><p>The sarcoplasm contains non-contractile cellular machinery, including:</p><ul><li>Stored <em>glycogen</em> and <em>intramuscular lipid (fat) droplets</em> for substrate metabolism.</li><li>Abundant <em>mitochondria</em> for oxidative phosphorylation.</li><li>Myoglobin, glycolytic and oxidative enzymes, and structural cytoskeletal proteins.</li><li>An intricate tubular network: the <strong>sarcoplasmic reticulum (SR)</strong>, which parallels each myofibril and terminates as enlarged storage vesicles (terminal cisternae) adjacent to transverse tubules near the Z-lines. The SR vesicles store high concentrations of calcium ions (\\(\\text{Ca}^{2+}\\)), which tightly regulate muscular contraction.</li><li><strong>Transverse Tubules (T-tubules):</strong> Perpendicular invaginations of the sarcolemma running deep into the interior of the muscle fiber between terminal cisternae. T-tubules ensure that action potentials arriving at the sarcolemma propagate almost instantaneously to the deepest myofibrils, triggering synchronized calcium release across the entire fiber.</li></ul><h3>The Neuromuscular Junction and Motor Unit Concept</h3><p>The specialized synaptic interface between a somatic motor neuron (alpha motor nerve cell) and the muscle fibers it innervates is termed the <strong>neuromuscular junction (NMJ)</strong> or <em>motor end plate</em>. Each muscle fiber possesses only <strong>one neuromuscular junction</strong>, located near its midpoint. A motor neuron and all the muscle fibers it innervates constitute a <strong>motor unit</strong>. In accordance with the all-or-none principle, when an action potential discharges from the motor neuron, all muscle fibers belonging to that motor unit contract simultaneously and with maximal force.</p><h3>Sarcomere Architecture and Myofilament Organization</h3><p>Hundreds to thousands of cylindrical <strong>myofibrils</strong> (each \\(\\sim 1\\text{ µm}\\) in diameter, approximately \\(1/100\\) the width of a hair) pack the sarcoplasm. Myofibrils contain the contractile myofilaments:</p><ul><li><strong>Myosin (Thick Filaments):</strong> Approximately \\(16\\text{ nm}\\) in diameter (about \\(1/10{,}000\\) the diameter of a hair). Each thick filament consists of up to <strong>200 myosin molecules</strong> bundled together. A myosin molecule features a fibrous tail, an elastic hinge point, and a pair of globular heads protruding outward at regular intervals to form <em>crossbridges</em> that bind with actin.</li><li><strong>Actin (Thin Filaments):</strong> Approximately \\(6\\text{ nm}\\) in diameter, arranged as two polymer strands twisted in a double helix. Six actin filaments symmetrically surround each myosin filament, and each actin filament is surrounded by three myosin filaments.</li><li><strong>The Sarcomere:</strong> The basic, repeating functional contractile unit of skeletal muscle, averaging approximately <strong>2.5 µm in length</strong> in a resting fiber (roughly <strong>4,500 sarcomeres per centimeter</strong> of muscle length).</li></ul><p>The spatial overlap of myofilaments creates the alternating dark and light striations visible under light microscopy:</p><ul><li><strong>A-band (Dark Band):</strong> Corresponds to the full length of the thick myosin filaments, including regions of overlap with thin actin filaments.</li><li><strong>I-band (Light Band):</strong> The region spanning two adjacent sarcomeres containing exclusively thin actin filaments. During muscle contraction, the I-band shortens.</li><li><strong>Z-line:</strong> A thin, dark protein anchor running transversely through the center of each I-band, defining the lateral borders of each sarcomere and anchoring the actin filaments.</li><li><strong>H-zone:</strong> The central region of the sarcomere containing solely thick myosin filaments without actin overlap. During contraction, the H-zone narrows as actin slides inward.</li><li><strong>M-bridge:</strong> The central transverse protein structure in the middle of the H-zone that anchors adjacent myosin filaments together.</li></ul><div class=\"callout-box\"><div class=\"callout-title\">Coaching / Sport Application</div><p>Understanding the architectural continuity of connective tissue (epimysium, perimysium, endomysium) into tendons highlights the importance of structural tendon stiffness in strength and power sports. Mechanical tension generated within individual sarcomeres is transmitted laterally through the costameric cytoskeleton to the endomysium and longitudinally to the tendon. Chronic heavy resistance training enhances collagen density and cross-linking across these connective sheaths, improving force transmission efficiency and protecting against muscle strain injuries.</p></div><table class=\"data-table\"><thead><tr><th>Sarcomere Band / Structure</th><th>Myofilament Composition</th><th>Spatial Position</th><th>Behavior During Muscle Contraction</th></tr></thead><tbody><tr><td><strong>A-Band</strong></td><td>Myosin (thick) and overlapping actin</td><td>Central sarcomere region</td><td>Length remains completely unchanged</td></tr><tr><td><strong>I-Band</strong></td><td>Actin (thin) filaments only</td><td>Spans borders of adjacent sarcomeres</td><td>Decreases in width (shortens)</td></tr><tr><td><strong>H-Zone</strong></td><td>Myosin (thick) filaments only</td><td>Center of A-band (no actin overlap)</td><td>Decreases in width (may disappear entirely)</td></tr><tr><td><strong>Z-Line</strong></td><td>Structural anchoring proteins</td><td>Lateral boundaries of sarcomere</td><td>Pulled closer together toward center</td></tr><tr><td><strong>M-Bridge</strong></td><td>Central anchoring lattice</td><td>Exact center of H-zone / sarcomere</td><td>Maintains structural alignment of myosin</td></tr></tbody></table>"
+    },
+    {
+      "id": "p3",
+      "title": "Part 3: The Sliding-Filament Theory and Stages of Muscular Contraction",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>The Sliding-Filament Theory and Stages of Muscular Contraction</h2><p>The mechanical basis of muscular force production is explained by the <strong>sliding-filament theory of muscular contraction</strong>. In its fundamental form, the theory states that actin filaments at each end of the sarcomere slide inward on myosin filaments, pulling the Z-lines toward the center of the sarcomere and shortening the muscle fiber. As actin filaments slide over myosin filaments toward the center, the <strong>H-zone</strong> and <strong>I-band</strong> narrow, while the <strong>A-band</strong> remains constant in length.</p><p>Muscular movement is driven by the cyclic flexion of myosin crossbridges pulling on actin filaments. Because each flexion produces only an infinitesimal displacement, measurable joint movement requires rapid, repeated crossbridge cycles across millions of sarcomeres simultaneously. The amount of mechanical force generated by a muscle at any given instant is directly determined by the <strong>total number of active myosin crossbridges bound to actin filaments cross-sectionally</strong> at that exact moment.</p><h3>Sequential Phases of Muscular Contraction</h3><p>Muscular contraction and subsequent relaxation proceed through five distinct physiological phases:</p><ol><li><strong>Resting Phase:</strong> Under normal resting conditions, intracellular calcium ion concentrations within the myofibril remain extremely low because calcium is sequestered inside the vesicles of the sarcoplasmic reticulum. The active binding sites on actin are physically blocked by tropomyosin, preventing strong crossbridge attachment. Only weak, non-force-generating interactions exist between myosin and actin.</li><li><strong>Excitation–Contraction Coupling Phase:</strong><ul><li>When an electrical action potential propagates along the motor neuron to the neuromuscular junction, acetylcholine is released into the synaptic cleft, depolarizing the sarcolemma.</li><li>The action potential travels deep into the muscle fiber via the <strong>transverse tubules (T-tubules)</strong>, stimulating the sarcoplasmic reticulum to release high concentrations of stored <strong>calcium ions (\\(\\text{Ca}^{2+}\\))</strong> into the myofibrillar space.</li><li>Calcium binds with <strong>troponin</strong>, a regulatory protein positioned at regular intervals along the actin filament that possesses a high binding affinity for calcium.</li><li>The binding of calcium to troponin induces a conformational shift in <strong>tropomyosin</strong>, which runs along the groove of the actin double helix. This shift pulls tropomyosin away, fully exposing the active binding sites on the actin filament.</li><li>The globular head of the myosin crossbridge rapidly binds to the exposed actin site, transitioning the weak bond into a strong, force-producing actomyosin bond.</li></ul></li><li><strong>Contraction Phase (Power Stroke):</strong><ul><li>The chemical energy required for the pulling motion, or <strong>power stroke</strong>, is derived from the enzymatic hydrolysis of <strong>adenosine triphosphate (ATP)</strong> into <em>adenosine diphosphate (ADP)</em> and an inorganic phosphate (\\(\\text{P}_i\\)), catalyzed by the enzyme <strong>myosin adenosine triphosphatase (myosin ATPase)</strong> located on the myosin head.</li><li>Following the power stroke, a fresh molecule of ATP must bind to the myosin globular head to break the bond and detach the head from the actin active site.</li><li>Myosin ATPase hydrolyzes the new ATP, recocking the myosin head back to its energized resting orientation. This allows crossbridge cycling to repeat if calcium remains available.</li><li><em>Systemic Calcium Roles:</em> Beyond regulating muscular contraction, calcium ions play vital regulatory roles in activating glycolytic and oxidative metabolic enzymes, as well as modulating muscle protein synthesis and degradation pathways.</li></ul></li><li><strong>Recharge Phase:</strong> Measurable muscle shortening and force generation occur only when the cycle—calcium binding to troponin, crossbridge attachment, power stroke, ATP binding and detachment, and recocking of the myosin head—repeats hundreds of times throughout the muscle fiber. This continuous turnover requires:<ul><li>Adequate calcium availability in the sarcoplasm.</li><li>Adequate cellular ATP availability to uncouple crossbridges and fuel active transport.</li><li>Sufficiently active myosin ATPase enzyme to catalyze rapid ATP breakdown.</li></ul></li><li><strong>Relaxation Phase:</strong> Muscular relaxation begins when electrical motor nerve stimulation ceases. Calcium is actively pumped out of the sarcoplasm and back into the terminal cisternae of the sarcoplasmic reticulum via ATP-dependent calcium pumps (SERCA). With calcium cleared, troponin returns to its original configuration, allowing tropomyosin to slide back over the actin binding sites. The crossbridge link between actin and myosin is severed, returning filaments to their relaxed, unbound state.</li></ol><h3>Length–Tension Dynamics and Crossbridge Alignment</h3><p>The mechanical force potential of a muscle fiber varies significantly across its length:</p><ul><li><strong>Stretched Muscle:</strong> When a muscle is excessively stretched prior to contraction, the I-bands and H-zone are elongated, resulting in reduced overlap between actin and myosin. With fewer crossbridges aligned with binding sites, active force potential is substantially reduced.</li><li><strong>Optimal Resting Length:</strong> At near-resting sarcomere length (\\(\\sim 2.0\\text{ to }2.2\\text{ µm}\\)), maximal crossbridge–actin alignment exists, permitting the greatest number of crossbridges to bind and maximizing peak isometric force output.</li><li><strong>Overly Shortened / Contracted Muscle:</strong> In a fully contracted muscle, thin actin filaments overlap at the center of the sarcomere, and thick filaments collide with Z-lines, interfering with crossbridge binding and causing force potential to diminish sharply.</li></ul><div class=\"callout-box\"><div class=\"callout-title\">Coaching / Sport Application</div><p>The biological dependency of muscular contraction on both calcium and ATP explains the immediate onset of <em>rigor mortis</em> following death (where calcium leaks from the sarcoplasmic reticulum but absent ATP prevents crossbridge detachment, locking muscles in a contracted state). In athletic conditioning, maintaining intracellular glycogen stores ensures continuous ATP regeneration via glycolysis and oxidative phosphorylation, preventing premature muscular fatigue and failure of the sarcoplasmic reticulum's calcium reuptake pumps.</p></div><table class=\"data-table\"><thead><tr><th>Contraction Stage</th><th>Primary Molecular Events</th><th>Key Substrates / Ions</th><th>Mechanical State</th></tr></thead><tbody><tr><td><strong>1. Resting Phase</strong></td><td>Tropomyosin covers actin binding sites; minimal crossbridge attachment</td><td>Calcium sequestered in SR; ATP bound to myosin</td><td>Muscle relaxed, low resting tension</td></tr><tr><td><strong>2. Excitation–Coupling</strong></td><td>AP depolarizes T-tubules; Ca2+ released from SR, binds troponin, exposing actin sites</td><td>Action potential, Calcium (\\(\\text{Ca}^{2+}\\)), troponin, tropomyosin</td><td>Actomyosin crossbridge coupling formed</td></tr><tr><td><strong>3. Contraction Phase</strong></td><td>ATP hydrolyzed by myosin ATPase; crossbridge flexes (power stroke); fresh ATP detaches head</td><td>ATP, ADP + Pi, myosin ATPase</td><td>Sarcomere shortens; mechanical force developed</td></tr><tr><td><strong>4. Recharge Phase</strong></td><td>Continuous crossbridge cycling, detachment, recocking, and re-attachment</td><td>Abundant ATP, high sarcoplasmic \\(\\text{Ca}^{2+}\\), active ATPase</td><td>Sustained muscular force output / joint movement</td></tr><tr><td><strong>5. Relaxation Phase</strong></td><td>Nerve stimulus stops; Ca2+ pumped back into SR; tropomyosin recovers actin sites</td><td>ATP-dependent calcium pumps (SERCA)</td><td>Crossbridges dissociate; sarcomere returns to rest</td></tr></tbody></table>"
     }
   ],
   "glossary": [
     {
-      "term": "Kinesiology",
-      "def": "The academic discipline that studies human movement and physical activity."
+      "term": "Axial skeleton",
+      "def": "The central structural division of the skeleton comprising the skull (cranium), vertebral column (C1 through coccyx), ribs, and sternum."
     },
     {
-      "term": "Physical Activity",
-      "def": "Intentional, voluntary movement directed toward achieving an identifiable goal."
+      "term": "Appendicular skeleton",
+      "def": "The division of the skeleton comprising the pectoral (shoulder) girdle, pelvic girdle, and bones of the upper and lower extremities."
+    },
+    {
+      "term": "Fibrous joints",
+      "def": "Immovable (synarthrodial) bone junctions held by dense fibrous connective tissue, such as cranial sutures."
+    },
+    {
+      "term": "Cartilaginous joints",
+      "def": "Slightly movable (amphiarthrodial) bone junctions united by fibrocartilage or hyaline cartilage, such as intervertebral disks."
+    },
+    {
+      "term": "Synovial joints",
+      "def": "Freely movable (diarthrodial) joints characterized by articulating bone ends covered with hyaline cartilage, enclosed in a capsule filled with lubricating synovial fluid."
+    },
+    {
+      "term": "Uniaxial joint",
+      "def": "A synovial joint operating as a hinge that rotates about only one primary axis, such as the elbow."
+    },
+    {
+      "term": "Biaxial joint",
+      "def": "A synovial joint permitting rotational movement about two perpendicular axes, such as the wrist and ankle."
+    },
+    {
+      "term": "Multiaxial joint",
+      "def": "A ball-and-socket synovial joint allowing movement about all three perpendicular spatial axes, such as the shoulder and hip."
+    },
+    {
+      "term": "Epimysium",
+      "def": "The outer sheath of dense fibrous connective tissue enveloping the entire muscle belly, contiguous with tendons inserting into bone periosteum."
+    },
+    {
+      "term": "Perimysium",
+      "def": "Connective tissue septa surrounding muscle fasciculi (bundles of up to 150 muscle fibers)."
+    },
+    {
+      "term": "Endomysium",
+      "def": "Delicate connective tissue surrounding individual muscle fibers, contiguous with the sarcolemma."
+    },
+    {
+      "term": "Motor unit",
+      "def": "A motor neuron and all the muscle fibers it innervates, contracting synchronously in an all-or-none manner."
+    },
+    {
+      "term": "Sarcomere",
+      "def": "The smallest functional contractile unit of skeletal muscle, bounded by Z-lines and repeating along the length of myofibrils."
+    },
+    {
+      "term": "Myosin",
+      "def": "The thick myofilament containing globular heads with ATPase activity that form crossbridges to bind with actin."
+    },
+    {
+      "term": "Actin",
+      "def": "The thin myofilament arranged in a double helix, containing regular binding sites for myosin regulated by troponin and tropomyosin."
+    },
+    {
+      "term": "Sarcoplasmic reticulum",
+      "def": "A specialized system of tubules surrounding myofibrils that stores and releases calcium ions to regulate muscle contraction."
+    },
+    {
+      "term": "Transverse tubules (T-tubules)",
+      "def": "Perpendicular tubular invaginations of the sarcolemma that rapidly conduct action potentials into the interior of the muscle fiber."
+    },
+    {
+      "term": "Sliding-filament theory",
+      "def": "The principle stating that actin filaments slide inward over myosin filaments toward the center of the sarcomere, shortening the muscle fiber."
+    },
+    {
+      "term": "Troponin",
+      "def": "A regulatory protein situated at regular intervals along actin filaments with high affinity for calcium ions, driving the displacement of tropomyosin."
+    },
+    {
+      "term": "Tropomyosin",
+      "def": "A filamentous protein lying along the groove of actin that physically blocks myosin binding sites in resting muscle."
     }
   ]
 }

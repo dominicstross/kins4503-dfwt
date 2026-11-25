@@ -1,0 +1,549 @@
+{
+  "module": "19.2",
+  "pages": {
+    "p1": {
+      "mcq": [
+        {
+          "id": 1,
+          "q": "How is 'neural drive' physiologically defined in the context of neuromuscular adaptations to speed training?",
+          "opts": [
+            "The metabolic rate of ATP hydrolysis within fast-twitch sarcoplasmic reticulum",
+            "The rate and amplitude of action potential impulses transmitted from the nervous system to target muscles",
+            "The passive mechanical compliance of collagen microfibrils within tendon sheaths",
+            "The ratio of slow-twitch motor unit recruitment relative to total muscle cross-sectional area"
+          ],
+          "correct": 1,
+          "rationale": "Neural drive is explicitly defined as the rate and amplitude of impulses being sent from the nervous system to the target muscles. Increases in neural drive reflect an increased rate of action potentials, augmenting muscular force and RFD."
+        },
+        {
+          "id": 2,
+          "q": "Which specific neuromuscular adaptation is demonstrated following progressive plyometric training?",
+          "opts": [
+            "Increases in the excitability of high-threshold motor neurons",
+            "Selective hypertrophy of slow-twitch Type I motor units",
+            "Downregulation of muscle spindle sensitivity during ground contact",
+            "Prolongation of electromechanical delay across the neuromuscular junction"
+          ],
+          "correct": 0,
+          "rationale": "Plyometric training demonstrates increases in the excitability of high-threshold motor neurons, which enhances neural drive and contributes to increases in RFD and impulse generation."
+        },
+        {
+          "id": 3,
+          "q": "What core physiological phenomenon defines the stretch\u2013shortening cycle (SSC)?",
+          "opts": [
+            "A sustained isometric contraction followed by slow eccentric lengthening",
+            "An eccentric\u2013concentric coupling phenomenon where muscle\u2013tendon complexes are rapidly stretch-loaded and immediately shortened in an elastic manner",
+            "A concentric contraction followed immediately by passive muscular relaxation without elastic recoil",
+            "A prolonged electromechanical delay designed to dissipate kinetic energy as heat"
+          ],
+          "correct": 1,
+          "rationale": "The stretch\u2013shortening cycle (SSC) is defined as an eccentric\u2013concentric coupling phenomenon in which muscle\u2013tendon complexes are rapidly and forcibly lengthened (stretch-loaded) and immediately shortened in a reactive or elastic manner."
+        },
+        {
+          "id": 4,
+          "q": "In elite athletic populations, what is the relationship between stretch\u2013shortening cycle (SSC) performance and maximal voluntary strength?",
+          "opts": [
+            "SSC performance is entirely dependent on and perfectly correlated with 1RM back squat strength",
+            "SSC performance is a distinct athletic capability that is independent of maximal strength",
+            "Maximal strength completely eliminates the stretch-reflex response during high-velocity running",
+            "High 1RM strength replaces the need for intrinsic muscle\u2013tendon elastic energy storage"
+          ],
+          "correct": 1,
+          "rationale": "Research indicates that in elite athletes, SSC performance is a distinct capability that is independent of maximal strength, relying on intrinsic elastic behavior and reflex potentiation rather than purely static maximum force."
+        },
+        {
+          "id": 5,
+          "q": "What two physiological phenomena are exploited during stretch\u2013shortening cycle (SSC) actions to enhance force output?",
+          "opts": [
+            "Intrinsic muscle\u2013tendon behavior and force/length reflex feedback to the nervous system",
+            "Anaerobic glycolysis and selective decruitment of Type IIx motor units",
+            "Passive ligamentous creep and Golgi tendon organ autogenic inhibition",
+            "Capillary angiogenesis and mitochondrial biogenesis"
+          ],
+          "correct": 0,
+          "rationale": "Stretch\u2013shortening cycle actions exploit two distinct phenomena: (1) intrinsic muscle\u2013tendon behavior (elastic energy storage and recovery) and (2) force and length reflex feedback to the nervous system (muscle spindle excitation)."
+        },
+        {
+          "id": 6,
+          "q": "What are the primary chronic physiological adaptations resulting from systematic stretch\u2013shortening cycle (SSC) training?",
+          "opts": [
+            "Upregulated muscle stiffness and enhanced neuromuscular activation",
+            "Increased electromechanical delay and reduced tendon compliance",
+            "Conversion of fast-twitch Type II fibers into slow-twitch Type I fibers",
+            "Complete suppression of muscle spindle afferent feedback loops"
+          ],
+          "correct": 0,
+          "rationale": "Acutely, SSC actions increase mechanical efficiency and impulse via elastic energy recovery; chronically, they upregulate muscle stiffness and enhance neuromuscular activation."
+        },
+        {
+          "id": 7,
+          "q": "To optimize training quality and manage fatigue, how should exercises designed to improve SSC performance be structured?",
+          "opts": [
+            "Continuous high-repetition sets taken to absolute muscular failure without rest pauses",
+            "Skillful, multijoint movements organized into brief work bouts or clusters separated by frequent rest pauses",
+            "Single-joint isolation exercises performed with very slow, controlled eccentric tempos",
+            "Extended endurance bouts exceeding 30 minutes to challenge metabolic buffering capacity"
+          ],
+          "correct": 1,
+          "rationale": "Training activities aimed at improving SSC performance should involve skillful, multijoint movements that transmit forces through the kinetic chain and should be structured around brief work bouts or clusters separated by frequent rest pauses."
+        },
+        {
+          "id": 8,
+          "q": "What acute neurophysiological phenomenon underpins the effectiveness of 'complex training' in advanced athletes?",
+          "opts": [
+            "Autogenic inhibition",
+            "Postactivation potentiation (PAP)",
+            "Electromechanical dissociation",
+            "Reciprocal Renshaw cell inhibition"
+          ],
+          "correct": 1,
+          "rationale": "Complex training alternates heavy resistance exercises with biomechanically similar SSC tasks within the same session. The basis of this method is an acute aftereffect phenomenon referred to as postactivation potentiation (PAP)."
+        }
+      ],
+      "ms": [
+        {
+          "id": 1,
+          "q": "Which neuromuscular adaptations occur in response to combined strength, plyometric, and sprint training? (Select all that apply)",
+          "opts": [
+            "Increased rate and amplitude of nerve impulses (neural drive)",
+            "Increased excitability of high-threshold motor neurons",
+            "Elevated action potential firing frequencies",
+            "Permanent inhibition of all muscle spindle reflex pathways",
+            "Enhanced rate of force development (RFD) and impulse generation"
+          ],
+          "correctArray": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "rationale": "Combined training enhances neural drive (rate and amplitude of impulses), increases high-threshold motor neuron excitability, elevates action potential firing rates, and enhances RFD and impulse generation. It sensitizes, rather than inhibits, muscle spindle pathways."
+        },
+        {
+          "id": 2,
+          "q": "Which characteristics correctly describe the Stretch\u2013Shortening Cycle (SSC)? (Select all that apply)",
+          "opts": [
+            "It involves an eccentric\u2013concentric coupling phenomenon",
+            "Muscle\u2013tendon complexes are rapidly stretch-loaded and immediately shortened in an elastic manner",
+            "It is particularly prevalent in sports involving sprinting, jumping, and explosive velocity changes",
+            "It represents a performance capability that is completely dependent upon an athlete's 1RM bench press",
+            "It exploits both intrinsic tissue elasticity and sensory reflex feedback loops"
+          ],
+          "correctArray": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "rationale": "The SSC involves eccentric-concentric coupling, rapid stretch-loading with reactive shortening, is prevalent in sprinting and jumping, and exploits tissue elasticity and reflex feedback. It is independent of maximal strength in elite athletes."
+        },
+        {
+          "id": 3,
+          "q": "Which criteria must training activities fulfill to successfully enhance SSC performance? (Select all that apply)",
+          "opts": [
+            "They should involve skillful, multijoint movements transmitting forces through the kinetic chain",
+            "They should exploit elastic\u2013reflexive mechanisms",
+            "They must be performed in states of extreme cardiovascular exhaustion to build mental toughness",
+            "They should be structured around brief work bouts or clusters separated by frequent rest pauses",
+            "They must emphasize movement quality and technical proficiency while managing fatigue"
+          ],
+          "correctArray": [
+            0,
+            1,
+            3,
+            4
+          ],
+          "rationale": "SSC training requires skillful multijoint movements that exploit elastic-reflexive mechanisms and must be structured in brief clusters with frequent rest pauses to manage fatigue and prioritize technique."
+        },
+        {
+          "id": 4,
+          "q": "Which statements regarding complex training and postactivation potentiation (PAP) are accurate? (Select all that apply)",
+          "opts": [
+            "Complex training alternates heavy resistance exercises with SSC tasks within the same training session",
+            "The physiological mechanism underlying complex training is postactivation potentiation",
+            "Complex training is universally recommended as the primary training modality for prepubescent novices",
+            "The alternating structure is designed to enhance the working effect of explosive movements",
+            "Complex training is an advanced training modality that may be inappropriate for youths or novices"
+          ],
+          "correctArray": [
+            0,
+            1,
+            3,
+            4
+          ],
+          "rationale": "Complex training alternates heavy resistance with SSC tasks via postactivation potentiation to enhance working effect. Because of high neurological and mechanical demands, it is suited for advanced athletes and is inappropriate for novices or youths."
+        }
+      ],
+      "tf": [
+        {
+          "id": 1,
+          "q": "Increases in neural drive reflect an increased rate of action potentials, which directly correlates with increases in both muscular force and rate of force development.",
+          "ans": true,
+          "feedback": "Neural drive represents the rate and amplitude of nerve impulses; higher action potential frequencies directly elevate muscular force production and RFD."
+        },
+        {
+          "id": 2,
+          "q": "In elite athletic populations, stretch\u2013shortening cycle performance is entirely dependent on absolute maximal strength.",
+          "ans": false,
+          "feedback": "Research demonstrates that stretch\u2013shortening cycle performance is a distinct athletic capability that is independent of maximal strength in elite athletes."
+        },
+        {
+          "id": 3,
+          "q": "Acutely, stretch\u2013shortening cycle actions enhance mechanical efficiency and impulse generation via elastic energy recovery.",
+          "ans": true,
+          "feedback": "Acutely, the recovery of stored elastic strain energy during the rapid transition from eccentric to concentric action elevates mechanical efficiency and impulse."
+        },
+        {
+          "id": 4,
+          "q": "Complex training is an introductory exercise modality recommended primarily for youth athletes and untrained beginners.",
+          "ans": false,
+          "feedback": "Complex training is an advanced training method exploiting postactivation potentiation; it is considered inappropriate for novices or youth athletes."
+        }
+      ],
+      "cloze": [
+        {
+          "id": 1,
+          "statement": "Strength training enhances **neural drive**, whereas plyometric training demonstrates increases in the excitability of **high-threshold** motor neurons.",
+          "targets": [
+            "neural drive",
+            "high-threshold"
+          ],
+          "optionsBank": [
+            "neural drive",
+            "high-threshold",
+            "autogenic inhibition",
+            "low-threshold",
+            "tendon compliance"
+          ],
+          "hint": "Identify the rate of CNS impulses and the specific motor unit class excited by plyometrics."
+        },
+        {
+          "id": 2,
+          "statement": "The stretch\u2013shortening cycle is an **eccentric-concentric** coupling phenomenon that exploits intrinsic muscle\u2013tendon behavior and **reflex feedback** to the nervous system.",
+          "targets": [
+            "eccentric-concentric",
+            "reflex feedback"
+          ],
+          "optionsBank": [
+            "eccentric-concentric",
+            "reflex feedback",
+            "isometric-isotonic",
+            "metabolic fatigue",
+            "glycolytic capacity"
+          ],
+          "hint": "Identify the muscle action coupling and the neurological feedback loop involved in the SSC."
+        },
+        {
+          "id": 3,
+          "statement": "Complex training alternates SSC tasks with heavy resistance exercises within the same session to exploit **postactivation potentiation**, but it may be inappropriate for **novices** or youths.",
+          "targets": [
+            "postactivation potentiation",
+            "novices"
+          ],
+          "optionsBank": [
+            "postactivation potentiation",
+            "novices",
+            "autogenic inhibition",
+            "elite sprinters",
+            "glycogen sparing"
+          ],
+          "hint": "Identify the acute neuromuscular aftereffect and the athlete population for whom it is contraindicated."
+        }
+      ],
+      "sa": [
+        {
+          "id": 1,
+          "prompt": "Define the stretch\u2013shortening cycle (SSC), identify the two physiological phenomena it exploits, and contrast its acute versus chronic adaptations.",
+          "model": "The stretch\u2013shortening cycle (SSC) is an eccentric\u2013concentric coupling phenomenon in which muscle\u2013tendon complexes are rapidly and forcibly lengthened (stretch-loaded) during an eccentric action and immediately shortened in a reactive, elastic concentric contraction. SSC actions exploit two physiological phenomena: (1) intrinsic muscle\u2013tendon behavior (elastic strain energy storage in the series elastic component and rapid recoil) and (2) force and length reflex feedback to the nervous system (muscle spindle excitation triggering an afferent stretch reflex). Acutely, SSC actions enhance mechanical efficiency and impulse through the recovery of stored elastic energy. Chronically, repeated SSC training upregulates musculotendinous stiffness and enhances neuromuscular activation and motor unit synchronization.",
+          "criteria": [
+            "Define SSC as an eccentric-concentric coupling phenomenon with rapid lengthening and immediate reactive shortening.",
+            "Identify the two phenomena exploited: intrinsic muscle-tendon behavior and reflex feedback to the nervous system.",
+            "Contrast acute adaptations (increased mechanical efficiency and impulse via elastic energy recovery) with chronic adaptations (upregulated muscle stiffness and enhanced neuromuscular activation)."
+          ]
+        },
+        {
+          "id": 2,
+          "prompt": "Explain the concept of complex training, identify the acute aftereffect phenomenon that underpins it, and discuss why its prescription must be restricted by training status.",
+          "model": "Complex training is an advanced training modality that alternates heavy resistance exercises with biomechanically similar stretch\u2013shortening cycle (SSC) or plyometric tasks within the same training session (e.g., heavy back squats paired with countermovement box jumps). The physiological basis of this method is an acute aftereffect phenomenon known as postactivation potentiation (PAP), wherein a high-load voluntary contraction transiently enhances the mechanical performance and force production of subsequent explosive movements. However, complex training requires substantial neurological, muscular, and connective tissue integrity to manage the combined fatigue and high impact forces. Consequently, it is becoming increasingly popular for enhancing elite and advanced athletic performance, but it may be inappropriate for novices or youth athletes who lack the strength base and technical skill required to tolerate and benefit from PAP.",
+          "criteria": [
+            "Define complex training as alternating heavy resistance exercise with SSC tasks within the same session.",
+            "Identify postactivation potentiation (PAP) as the underlying acute aftereffect mechanism.",
+            "Explain that it is designed for advanced athletes to enhance explosive performance, but is inappropriate for novices or youth athletes due to high fatigue, mechanical strain, and prerequisite strength demands."
+          ]
+        }
+      ]
+    },
+    "p2": {
+      "mcq": [
+        {
+          "id": 1,
+          "q": "What neuromuscular adaptation provides physiological support to the stretch\u2013shortening cycle and underpins the spring\u2013mass model?",
+          "opts": [
+            "Increased muscle preactivation and improved feedback latency from sensitized muscle spindles",
+            "Reduced baseline muscle stiffness coupled with chronic hypermobility",
+            "Complete suppression of gamma motor neuron efferent output",
+            "Selective atrophy of high-threshold gluteal motor units"
+          ],
+          "correct": 0,
+          "rationale": "Exposure to strength and speed training increases muscle preactivation before ground contact. This onset of pre-tension is related to increased muscle spindle sensitivity, improving feedback time to increase muscle stiffness and tendon compliance, supporting the SSC."
+        },
+        {
+          "id": 2,
+          "q": "How does the spring\u2013mass model (SMM) mathematically portray human sprinting locomotion?",
+          "opts": [
+            "As an unyielding rigid lever system that transfers kinetic energy exclusively through bone-on-bone collision",
+            "As body mass displacement resulting from energy delivered through the collective coiling and extension of spring-like muscle-tendon architecture",
+            "As an exclusively metabolic model dictated by anaerobic lactate buffering capacity",
+            "As a series of disconnected, independent vertical impacts with zero horizontal force transmission"
+          ],
+          "correct": 1,
+          "rationale": "The SMM is a mathematical model that depicts sprinting as human locomotion in which the displacement of body mass is the aftereffect from energy delivered through the collective coiling and extension of spring-like actions within muscle architecture."
+        },
+        {
+          "id": 3,
+          "q": "Within the spring\u2013mass model, what mechanical event corresponds to 'midstance' during an upright sprint stride?",
+          "opts": [
+            "Initial foot strike where horizontal propulsive forces reach their peak",
+            "The instant where the spring is compressed to its lowest point, coinciding with a lowered center of mass",
+            "Complete takeoff where the body enters unassisted projectile flight",
+            "Terminal swing phase where the knee achieves maximum flexion before contact"
+          ],
+          "correct": 1,
+          "rationale": "As the center of mass moves ahead of the foot, the sprinter reaches midstance. Within the SMM, the spring is compressed to its lowest point, which coincides with a lowered center of mass."
+        },
+        {
+          "id": 4,
+          "q": "How do elite sprinters deviate from the classic symmetrical spring\u2013mass model during the maximal-velocity phase?",
+          "opts": [
+            "They produce the vast majority of their vertical force during the first half of ground contact",
+            "They generate perfectly symmetrical bell-shaped vertical force curves across the entire contact duration",
+            "They completely eliminate vertical force production and rely exclusively on horizontal braking",
+            "They maintain ground contact times exceeding 0.30 seconds"
+          ],
+          "correct": 0,
+          "rationale": "Elite sprinters deviate from the classic symmetrical SMM during maximal velocity by producing much of their vertical force in the first half of ground contact, whereas non-elite sprinters display more symmetrical force curves."
+        },
+        {
+          "id": 5,
+          "q": "What mechanical feature of the lower limb spring must increase as stride frequency increases at a given running speed?",
+          "opts": [
+            "Tendon hysteresis",
+            "Muscle stiffness",
+            "Ground contact time",
+            "Ankle joint dorsiflexion compliance"
+          ],
+          "correct": 1,
+          "rationale": "Research indicates that as stride frequency increases at a given running speed, one of the most important features of the leg spring is an increase in muscle stiffness."
+        },
+        {
+          "id": 6,
+          "q": "What is the typical ground contact time during the maximal-velocity phase of sprinting in elite runners?",
+          "opts": [
+            "0.09 to 0.11 seconds",
+            "0.17 to 0.20 seconds",
+            "0.23 to 0.25 seconds",
+            "0.44 to 0.722 seconds"
+          ],
+          "correct": 0,
+          "rationale": "Typical ground contact times during the maximal-velocity phase of sprinting are very brief, lasting only 0.09 to 0.11 seconds."
+        },
+        {
+          "id": 7,
+          "q": "How do ground contact times during change-of-direction (0.44\u20130.722 s) and agility plant phases (0.23\u20130.25 s) compare to sprint ground contact times?",
+          "opts": [
+            "They are substantially shorter than maximal-velocity sprint contact times",
+            "They are identical in duration to maximal-velocity sprint contact times",
+            "They exceed the ground contact times of both sprint acceleration and maximal-velocity phases",
+            "They require zero eccentric braking or stretch\u2013shortening cycle activity"
+          ],
+          "correct": 2,
+          "rationale": "During the plant phase, ground contact times for agility (0.23 to 0.25 s) and change of direction (0.44 to 0.722 s) exceed those of sprint acceleration (0.17 to 0.20 s) and maximal velocity (0.09 to 0.11 s)."
+        },
+        {
+          "id": 8,
+          "q": "Why must strength and conditioning professionals prescribe high-velocity, high-force eccentric training to improve agility braking mechanics?",
+          "opts": [
+            "Eccentric contractions recruit identical motor unit pathways as slow concentric contractions",
+            "Eccentric contractions call upon different motor unit recruitment pathways and elicit velocity-specific adaptations",
+            "Eccentric training converts fast-twitch muscle fibers into passive fibrous connective tissue",
+            "Eccentric training eliminates the need for perceptual-cognitive anticipation"
+          ],
+          "correct": 1,
+          "rationale": "Eccentric neuromuscular training is critical for agility braking because: (1) motor unit recruitment pathways during eccentric contractions differ from concentric contractions, and (2) adaptations to eccentric training are specific to the velocity of loading."
+        }
+      ],
+      "ms": [
+        {
+          "id": 1,
+          "q": "Which statements regarding muscle preactivation and the Spring\u2013Mass Model (SMM) are correct? (Select all that apply)",
+          "opts": [
+            "Strength and speed training increase preactivation of sprinting musculature prior to foot strike",
+            "Preactivation increases the sensitivity of associated muscle spindles",
+            "Improved feedback timing results in greater muscle stiffness and optimal tendon compliance",
+            "The SMM depicts sprinting as body mass displacement via coiling and extension of muscle-tendon springs",
+            "The spring is at its point of lowest compression during initial foot strike"
+          ],
+          "correctArray": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rationale": "Preactivation increases before foot strike, sensitizing spindles and improving feedback timing to elevate stiffness and compliance within the SMM framework. The spring reaches its lowest compression at midstance, not foot strike."
+        },
+        {
+          "id": 2,
+          "q": "Which characteristics correctly differentiate elite sprinters from non-elite athletes within the context of the Spring\u2013Mass Model? (Select all that apply)",
+          "opts": [
+            "Non-elite team-sport athletes display symmetrical vertical force curves described well by the classic SMM",
+            "Elite sprinters produce much of their vertical force in the first half of ground contact",
+            "Elite sprinters maintain longer ground contact times (>0.20 s) at top speed to maximize impulse",
+            "As running stride frequency increases, leg spring muscle stiffness must increase",
+            "Elite sprinters deviate from the classic symmetrical vertical force curve of the SMM"
+          ],
+          "correctArray": [
+            0,
+            1,
+            3,
+            4
+          ],
+          "rationale": "Non-elite sprinters show symmetrical force curves matching the classic SMM, whereas elite sprinters deviate by front-loading vertical force in the first half of contact. Stiffening the leg spring is vital as stride frequency increases. Elite sprinters have very short contact times (0.09\u20130.11 s)."
+        },
+        {
+          "id": 3,
+          "q": "Which ground contact time values accurately reflect typical locomotor phases? (Select all that apply)",
+          "opts": [
+            "Maximal-velocity sprinting: 0.09 to 0.11 seconds",
+            "Sprint acceleration phase: 0.17 to 0.20 seconds",
+            "Agility plant phase: 0.23 to 0.25 seconds",
+            "Change-of-direction plant phase: 0.44 to 0.722 seconds",
+            "Maximal-velocity sprinting: 0.44 to 0.722 seconds"
+          ],
+          "correctArray": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rationale": "Maximal velocity has the shortest ground contact (0.09\u20130.11 s), followed by acceleration (0.17\u20130.20 s), agility plant (0.23\u20130.25 s), and COD plant phase (0.44\u20130.722 s)."
+        },
+        {
+          "id": 4,
+          "q": "Which factors demonstrate why agility performance extends beyond basic physical change-of-direction mechanics? (Select all that apply)",
+          "opts": [
+            "Agility requires perceptual\u2013cognitive abilities including visual scanning, anticipation, and decision making",
+            "Tactical context (offensive vs. defensive situation) changes the brain processing strategy required",
+            "Agility plant phases require substantial braking impulse and high-velocity eccentric force capacity",
+            "Agility is completely independent of the nervous system and governed purely by skeletal dimensions",
+            "Reaction time to a dynamic stimulus places severe temporal constraints on force production"
+          ],
+          "correctArray": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "rationale": "Agility requires perceptual-cognitive processing (scanning, anticipation, decision making), shifts neurological processing strategies based on tactical roles (offensive vs. defensive), demands heavy eccentric braking, and is constrained by reaction time. It is heavily dependent on the nervous system."
+        }
+      ],
+      "tf": [
+        {
+          "id": 1,
+          "q": "Within the spring\u2013mass model, the leg spring is compressed to its lowest point at midstance, coinciding with the athlete's lowest center of mass.",
+          "ans": true,
+          "feedback": "At midstance, the sprinter's center of mass moves over the foot, compressing the spring to its lowest point and lowering the center of mass before elastic energy recoil projects the runner forward."
+        },
+        {
+          "id": 2,
+          "q": "Elite sprinters display a symmetrical vertical ground reaction force curve that matches the classic spring\u2013mass model during maximal-velocity sprinting.",
+          "ans": false,
+          "feedback": "Elite sprinters deviate from the classic symmetrical SMM by producing the vast majority of their vertical force during the first half of ground contact."
+        },
+        {
+          "id": 3,
+          "q": "Typical ground contact times during change-of-direction and agility plant phases are longer than those during the sprint acceleration and maximal-velocity phases.",
+          "ans": true,
+          "feedback": "Agility (0.23\u20130.25 s) and COD (0.44\u20130.722 s) plant phases have longer ground contact times than sprint acceleration (0.17\u20130.20 s) and top speed (0.09\u20130.11 s)."
+        },
+        {
+          "id": 4,
+          "q": "Whether an athlete is in an offensive versus defensive tactical situation alters the brain processing strategy required for agility performance.",
+          "ans": true,
+          "feedback": "Research confirms that the tactical situation (offensive vs. defensive role) fundamentally changes the perceptual-cognitive brain processing strategy used by the athlete."
+        }
+      ],
+      "cloze": [
+        {
+          "id": 1,
+          "statement": "The spring\u2013mass model depicts sprinting as mass displacement driven by the coiling and extension of springs, reaching its lowest point of compression at **midstance** before returning energy at **push-off**.",
+          "targets": [
+            "midstance",
+            "push-off"
+          ],
+          "optionsBank": [
+            "midstance",
+            "push-off",
+            "foot strike",
+            "initial flight",
+            "terminal swing"
+          ],
+          "hint": "Identify the stance sub-phase of lowest center of mass and the final propulsion phase."
+        },
+        {
+          "id": 2,
+          "statement": "While non-elite runners display symmetrical vertical force curves, elite sprinters produce much of their vertical force in the **first half** of ground contact, maintaining contact times of **0.09 to 0.11 seconds** at maximal velocity.",
+          "targets": [
+            "first half",
+            "0.09 to 0.11 seconds"
+          ],
+          "optionsBank": [
+            "first half",
+            "0.09 to 0.11 seconds",
+            "second half",
+            "0.44 to 0.722 seconds",
+            "midstance pause"
+          ],
+          "hint": "Identify the front-loaded force distribution and top-speed contact duration."
+        },
+        {
+          "id": 3,
+          "statement": "Effective agility braking requires eccentric training because eccentric muscle actions call upon unique motor unit pathways and demonstrate adaptations specific to the **velocity** of eccentric loading, while cognitive strategies shift based on the **tactical situation**.",
+          "targets": [
+            "velocity",
+            "tactical situation"
+          ],
+          "optionsBank": [
+            "velocity",
+            "tactical situation",
+            "frequency",
+            "ambient temperature",
+            "lactic threshold"
+          ],
+          "hint": "Identify the eccentric loading variable and the game context that alters brain processing."
+        }
+      ],
+      "sa": [
+        {
+          "id": 1,
+          "prompt": "Describe the spring\u2013mass model (SMM) of sprinting locomotion, detailing the mechanical events that occur during initial foot strike, midstance, and push-off, and explain how elite sprinters deviate from this model.",
+          "model": "The spring\u2013mass model (SMM) is a mathematical framework that portrays sprinting as human locomotion where body mass displacement is the aftereffect of energy delivered through the collective coiling (compression) and extension (recoil) of spring-like muscle-tendon architecture. During a stride cycle, at initial foot strike, the leg spring begins compressing, resulting in brief horizontal braking forces that assist in propelling the opposite swing leg forward. As the center of mass moves over the foot into midstance, the spring is compressed to its lowest vertical point, coinciding with a lowered center of mass. Finally, during push-off, stored elastic strain energy is returned through the rapid extension of the coiled spring, projecting the runner forward into flight. While non-elite runners display a symmetrical vertical force curve matching the classic SMM, elite sprinters deviate significantly during maximal-velocity sprinting by delivering an asymmetrical force profile, generating the vast majority of their vertical force in the first half of ground contact to rapidly reverse downward momentum within very brief contact times (0.09 to 0.11 seconds).",
+          "criteria": [
+            "Define the SMM as energy storage and recoil through spring-like muscle architecture.",
+            "Detail initial foot strike (compression begins, horizontal braking forces assist swing leg), midstance (peak spring compression, lowest center of mass), and push-off (elastic energy recoil projecting runner forward).",
+            "Explain how elite sprinters deviate: non-elites show symmetrical vertical force curves, whereas elite sprinters produce an asymmetrical profile with the vast majority of vertical force applied in the first half of contact."
+          ]
+        },
+        {
+          "id": 2,
+          "prompt": "Compare the ground contact times of maximal-velocity sprinting, acceleration, agility, and change-of-direction maneuvers, and explain why high-velocity eccentric training and perceptual\u2013cognitive development are essential for agility.",
+          "model": "Ground contact times follow a distinct hierarchy across locomotor tasks: maximal-velocity sprinting is the shortest at 0.09 to 0.11 seconds (fast SSC), followed by the sprint acceleration phase at 0.17 to 0.20 seconds. In contrast, the plant phase during agility lasts 0.23 to 0.25 seconds, and a change-of-direction (COD) plant phase lasts 0.44 to 0.722 seconds, requiring extended, long-duration SSC activities. Because COD and agility involve absorbing high momentum over longer plant phases, effective braking is paramount. Neuromuscular training must emphasize high-velocity, high-force eccentric contractions because eccentric muscle actions recruit different motor unit pathways than concentric contractions and elicit velocity-specific structural adaptations. Furthermore, agility performance requires perceptual\u2013cognitive abilities (visual search scanning, pattern anticipation, decision making, and reaction time) that impose severe temporal constraints on movement execution, with brain processing strategies fundamentally shifting depending on whether the athlete is in an offensive maneuvering or defensive containment tactical situation.",
+          "criteria": [
+            "Detail the ground contact time continuum: maximal velocity (0.09\u20130.11 s), acceleration (0.17\u20130.20 s), agility plant (0.23\u20130.25 s), and COD plant (0.44\u20130.722 s).",
+            "Explain why eccentric training is needed for braking: different motor unit recruitment pathways and velocity-specific eccentric adaptations.",
+            "Discuss perceptual-cognitive demands: visual scanning, anticipation, decision making, reaction time constraints, and brain processing strategy shifts based on tactical situation (offensive vs. defensive)."
+          ]
+        }
+      ]
+    }
+  }
+}

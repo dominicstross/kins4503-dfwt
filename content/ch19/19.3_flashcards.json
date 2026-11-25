@@ -1,0 +1,76 @@
+{
+    "chapterId": "19.3",
+    "title": "19.3 Running Speed",
+    "cards": [
+        {
+            "id": "19.3-01",
+            "tag": "Sprint Speed Equation & Limiting Factors",
+            "reference": "Section 19.3",
+            "front": "How is <strong>sprint speed</strong> classically defined, and what underlying physiological factor determines an athlete's ability to maximize it?",
+            "back": "<strong>Classical Equation:</strong><br>$$\\text{Sprint Speed} = \\text{Stride Length} \\times \\text{Stride Frequency}$$.<br><br><strong>Underlying Limiting Factor:</strong> While sprint speed can logically be increased by expanding stride length or elevating stride frequency, both variables are fundamentally governed by <strong>rapid force production into the ground (Rate of Force Development, RFD)</strong> and proper biomechanical force application."
+        },
+        {
+            "id": "19.3-02",
+            "tag": "Vertical Force Application & Elite vs. Novice Distinction",
+            "reference": "Section 19.3",
+            "front": "What single kinetic component represents the most critical differentiator between <strong>elite</strong> and <strong>novice sprinters</strong>?",
+            "back": "The <strong>magnitude of vertical force applied to the ground during the stance phase</strong> is the primary differentiator. Furthermore, elite sprinters distinguish themselves by applying these greater vertical forces in the <strong>shortest possible duration</strong> (demonstrating an extremely high rate of force development, RFD)."
+        },
+        {
+            "id": "19.3-03",
+            "tag": "Stride Length & Mass Displacement Kinetics",
+            "reference": "Section 19.3",
+            "front": "What does <strong>stride length</strong> represent biomechanically, and how does it quantitatively differ between elite and novice male sprinters at maximum velocity?",
+            "back": "<strong>Biomechanical Meaning:</strong> Stride length represents the horizontal displacement of an athlete's body mass during the flight phase resulting from ground reaction forces.<br><br><strong>Quantitative Comparison:</strong><ul><li><strong>Elite Male Sprinters:</strong> Achieve a stride length of <strong>2.70 m</strong> at maximum velocity.</li><li><strong>Novice Sprinters:</strong> Achieve a stride length of <strong>2.56 m</strong> at maximum velocity.</li></ul>"
+        },
+        {
+            "id": "19.3-04",
+            "tag": "Stride Rate, Ground Contact Time, and Flight Kinetics",
+            "reference": "Section 19.3",
+            "front": "How do <strong>stride frequency</strong> and <strong>ground contact time</strong> differ between elite and novice sprinters, and why do faster sprinters spend more time in the air?",
+            "back": "<ul><li><strong>Stride Rate:</strong> Elite male sprinters produce stride rates near <strong>4.63 steps/s</strong>, compared to <strong>4.43 steps/s</strong> in novice sprinters.</li><li><strong>Ground Contact Time:</strong> Faster sprinters require <strong>less ground contact time</strong> to exert the force needed to displace body mass.</li><li><strong>Flight Time:</strong> Because elite sprinters spend less time on the ground during each stance phase, they spend a <strong>greater proportion of total sprinting time in the air</strong>.</li></ul>"
+        },
+        {
+            "id": "19.3-05",
+            "tag": "Swing Leg Kinematics: Recovery Time Constancy",
+            "reference": "Section 19.3",
+            "front": "Does faster <strong>swing leg turnover in the air</strong> distinguish elite sprinters from novice sprinters?",
+            "back": "<strong>No.</strong> Research demonstrates that the time required to reposition the swing leg through the air in preparation for the subsequent ground contact is <strong>virtually identical</strong> between elite sprinters and their slower counterparts. Elite sprinting speed is determined by stance phase ground force production, not swing leg speed during flight."
+        },
+        {
+            "id": "19.3-06",
+            "tag": "Knee Recovery Height & Front-Loaded Force Production (Mann's Model)",
+            "reference": "Section 19.3",
+            "front": "According to Mann, how does <strong>knee height at maximal flexion</strong> of the recovering leg facilitate elite sprint velocity?",
+            "back": "An optimized, high knee position provides two decisive mechanical advantages:<ul><li>It creates a <strong>greater vertical excursion and time period for force production</strong> and subsequent ground clearance.</li><li>It enables properly directed downward vertical forces, allowing elite sprinters to produce the vast majority of their ground force within the <strong>first half of the stance phase</strong>, propelling elite male sprinters to velocities near <strong>12.55 m/s</strong> (versus <strong>11.25 m/s</strong> in novices).</li></ul>"
+        },
+        {
+            "id": "19.3-07",
+            "tag": "Subtasks and Structural Phases of Linear Sprinting",
+            "reference": "Section 19.3",
+            "front": "What are the three distinct <strong>subtasks</strong> of linear sprinting, and how are the <strong>stance</strong> and <strong>flight</strong> phases segmented?",
+            "back": "<strong>Three Sprint Subtasks:</strong> The Start, Acceleration, and Top Speed (Maximum Velocity).<br><br><strong>Phase Segmentation:</strong><ul><li><strong>Stance Phase (Support):</strong> An initial <em>eccentric braking period</em> followed immediately by a concentric <em>propulsive period</em>.</li><li><strong>Flight Phase:</strong> The <em>recovery segment</em> (hip and knee flexion) and the <em>ground preparation segment</em> of the swing leg prior to foot strike.</li></ul>"
+        },
+        {
+            "id": "19.3-08",
+            "tag": "Acceleration vs. Maximum-Velocity Biomechanics",
+            "reference": "Section 19.3",
+            "front": "How do posture and mechanical mechanisms differ between the <strong>acceleration phase</strong> and the <strong>maximum-velocity phase</strong> of a sprint?",
+            "back": "<ul><li><strong>Acceleration Phase:</strong> Forward-inclined posture; large propulsive horizontal forces drive acceleration and progressively elevate the hips above the ground until speed gains taper off.</li><li><strong>Maximum-Velocity Phase:</strong> Upright posture; the athlete utilizes the <strong>stretch–shortening cycle (SSC)</strong> through active <strong>musculotendinous stiffness regulation</strong> to maintain horizontal center-of-mass momentum down the track.</li></ul>"
+        },
+        {
+            "id": "19.3-09",
+            "tag": "Technical Coaching Errors & The Overstriding Fallacy",
+            "reference": "Section 19.3",
+            "front": "What causes <strong>overstriding</strong> during sprinting, and why is it mechanically detrimental to running speed?",
+            "back": "<strong>Causes:</strong> Flawed coaching cues (e.g., reaching for successively longer marks on the track to gain speed) or an athlete consciously attempting to \"catch up\" to a competitor.<br><br><strong>Detriments:</strong> Landing with the foot placed excessively far in front of the center of mass causes severe <strong>braking forces</strong>, prolongs ground contact time, disrupts natural gait cycle mechanics, and substantially increases hamstring strain injury risk."
+        },
+        {
+            "id": "19.3-10",
+            "tag": "Fundamental Training Objectives for Speed Development",
+            "reference": "Section 19.3",
+            "front": "What are the primary <strong>training objectives</strong> for developing sprint speed, and what role do <strong>weightlifting movements</strong> play?",
+            "back": "<strong>Primary Training Objectives:</strong><ol><li><strong>Emphasize Brief Ground Support Times:</strong> Cultivates rapid stride rates by developing high-velocity RFD and explosive strength.</li><li><strong>Overload the Stretch–Shortening Cycle (SSC):</strong> Maximizes the amplitude of impulse generated during each foot contact.</li></ol><strong>Role of Weightlifting:</strong> Complete Olympic weightlifting movements and their derivatives (cleans, snatches, jerks, and pulls) are essential exercises that <strong>overload the SSC with forces greater than those produced during an unresisted open sprint</strong>."
+        }
+    ]
+}

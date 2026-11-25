@@ -1,0 +1,821 @@
+{
+  "p1": {
+    "title": "Part 1: The Standard Anatomical Position and the Cardinal Anatomical Planes",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "How is a person positioned when standing in the standard anatomical position?",
+        "opts": [
+          "Body erect, arms abducted at 90 degrees, and palms facing backward",
+          "Body erect, arms down at the sides, and palms facing forward",
+          "Body prone, arms extended overhead, and palms facing downward",
+          "Body supine, knees flexed at 90 degrees, and palms resting on the torso"
+        ],
+        "correct": 1,
+        "rationale": "In the standard anatomical position, the body is erect, the arms are down at the sides, and the palms face forward."
+      },
+      {
+        "id": 2,
+        "q": "Which anatomical plane divides the human body into left and right sections?",
+        "opts": [
+          "Frontal plane",
+          "Sagittal plane",
+          "Transverse plane",
+          "Horizontal plane"
+        ],
+        "correct": 1,
+        "rationale": "The sagittal plane slices the body into left and right sections, not necessarily at the anatomical midpoint."
+      },
+      {
+        "id": 3,
+        "q": "Which anatomical plane slices the human body into front and back (anterior and posterior) sections?",
+        "opts": [
+          "Transverse plane",
+          "Frontal plane",
+          "Sagittal plane",
+          "Oblique plane"
+        ],
+        "correct": 1,
+        "rationale": "The frontal (or coronal) plane divides the body into front and back (anterior and posterior) sections."
+      },
+      {
+        "id": 4,
+        "q": "Into which anatomical sections does the transverse plane divide the human body?",
+        "opts": [
+          "Medial and lateral sections",
+          "Anterior and posterior sections",
+          "Upper and lower sections",
+          "Proximal and distal sections"
+        ],
+        "correct": 2,
+        "rationale": "The transverse (horizontal) plane slices the body into upper and lower (superior and inferior) sections, not necessarily at the midpoint."
+      },
+      {
+        "id": 5,
+        "q": "What imaging modality is explicitly noted in the text as commonly presenting views of the body in the sagittal, frontal, and transverse planes?",
+        "opts": [
+          "Dual-energy X-ray absorptiometry (DEXA)",
+          "Magnetic resonance imaging (MRI)",
+          "Computed tomography fluoroscopy",
+          "B-mode diagnostic ultrasound"
+        ],
+        "correct": 1,
+        "rationale": "Anatomical views of the body, as in magnetic resonance imaging (MRI), are generally shown in the sagittal, frontal, and transverse planes."
+      },
+      {
+        "id": 6,
+        "q": "Which of the following exercises is cited as an example of a movement taking place primarily in the sagittal plane?",
+        "opts": [
+          "Standing lateral dumbbell raise",
+          "Standing barbell curl",
+          "Dumbbell chest fly",
+          "Seated Russian twist"
+        ],
+        "correct": 1,
+        "rationale": "The textbook explicitly lists the standing barbell curl as an example of an exercise movement that takes place in the sagittal plane."
+      },
+      {
+        "id": 7,
+        "q": "In which anatomical plane does the standing lateral dumbbell raise primarily occur?",
+        "opts": [
+          "Sagittal plane",
+          "Frontal plane",
+          "Transverse plane",
+          "Oblique plane"
+        ],
+        "correct": 1,
+        "rationale": "The standing lateral dumbbell raise involves shoulder abduction and occurs primarily within the frontal plane."
+      },
+      {
+        "id": 8,
+        "q": "Which exercise movement is cited in the text as an example of an action occurring in the transverse plane?",
+        "opts": [
+          "Standing barbell curl",
+          "Standing lateral dumbbell raise",
+          "Dumbbell fly",
+          "Romanian deadlift"
+        ],
+        "correct": 2,
+        "rationale": "The textbook cites the dumbbell fly (horizontal adduction and abduction) as a classic exercise movement taking place in the transverse plane."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which characteristics accurately describe the standard anatomical position? (Select all that apply)",
+        "opts": [
+          "The body is erect",
+          "The arms are raised overhead",
+          "The arms are down at the sides",
+          "The palms face forward",
+          "The feet are positioned in active dorsiflexion"
+        ],
+        "correctArray": [
+          0,
+          2,
+          3
+        ],
+        "rationale": "The standard anatomical position requires that the body is erect, the arms are down at the sides, and the palms face forward."
+      },
+      {
+        "id": 2,
+        "q": "Which statements regarding the three cardinal anatomical planes are correct? (Select all that apply)",
+        "opts": [
+          "The sagittal plane slices the body into left and right sections",
+          "The frontal plane slices the body into front and back sections",
+          "The transverse plane slices the body into upper and lower sections",
+          "The planes must strictly divide the body at its exact anatomical midpoint",
+          "The planes are useful for describing major human body movements"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "The sagittal plane divides left-right, frontal divides front-back, and transverse divides upper-lower. They slice the body into these sections, but not necessarily at the midpoint. They provide a foundational framework for describing body movements."
+      },
+      {
+        "id": 3,
+        "q": "Which pairs correctly match an exercise with its primary anatomical plane of movement as identified in Section 2.2? (Select all that apply)",
+        "opts": [
+          "Standing barbell curl \u2014 Sagittal plane",
+          "Standing lateral dumbbell raise \u2014 Frontal plane",
+          "Dumbbell fly \u2014 Transverse plane",
+          "Standing barbell curl \u2014 Transverse plane",
+          "Standing lateral dumbbell raise \u2014 Sagittal plane"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "The textbook specifies: standing barbell curl takes place in the sagittal plane, standing lateral dumbbell raise in the frontal plane, and dumbbell fly in the transverse plane."
+      },
+      {
+        "id": 4,
+        "q": "Which spatial orientations and slicing planes are utilized in anatomical views such as magnetic resonance imaging (MRI)? (Select all that apply)",
+        "opts": [
+          "Sagittal plane",
+          "Frontal plane",
+          "Transverse plane",
+          "Sagittal sections slicing front-to-back",
+          "Transverse sections slicing upper-and-lower"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "MRI views are shown in sagittal (left-right), frontal (front-back), and transverse (upper-lower) planes. Sagittal slices left-right, not front-to-back."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "In the standard anatomical position, the palms of the hands face backward toward the posterior aspect of the body.",
+        "ans": false,
+        "feedback": "In the standard anatomical position, the arms are down at the sides and the palms face forward (anteriorly)."
+      },
+      {
+        "id": 2,
+        "q": "The sagittal, frontal, and transverse planes must always slice the human body precisely at its geometric midpoint.",
+        "ans": false,
+        "feedback": "The textbook explicitly states that the sagittal, frontal, and transverse planes slice the body into sections \"not necessarily at the midpoint.\""
+      },
+      {
+        "id": 3,
+        "q": "The standing lateral dumbbell raise is an exercise that takes place primarily in the frontal plane.",
+        "ans": true,
+        "feedback": "Lateral raises involve limb movement parallel to the frontal plane (abduction in the front-back division)."
+      },
+      {
+        "id": 4,
+        "q": "The transverse plane divides the human body into superior (upper) and inferior (lower) portions.",
+        "ans": true,
+        "feedback": "The transverse plane slices the body into upper and lower sections."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "In the standard anatomical position, the body is **erect**, the arms are down at the sides, and the palms face **forward**.",
+        "targets": [
+          "erect",
+          "forward"
+        ],
+        "optionsBank": [
+          "erect",
+          "forward",
+          "backward",
+          "supine",
+          "overhead"
+        ],
+        "hint": "The anatomical baseline position features an erect body with arms at sides and palms facing forward."
+      },
+      {
+        "id": 2,
+        "statement": "The **sagittal** plane slices the body into left and right sections, whereas the **frontal** plane slices the body into front and back sections.",
+        "targets": [
+          "sagittal",
+          "frontal"
+        ],
+        "optionsBank": [
+          "sagittal",
+          "frontal",
+          "transverse",
+          "horizontal",
+          "oblique"
+        ],
+        "hint": "Sagittal creates left-right sections, and frontal creates front-back sections."
+      },
+      {
+        "id": 3,
+        "statement": "The standing barbell curl takes place in the **sagittal** plane, while the dumbbell fly occurs in the **transverse** plane.",
+        "targets": [
+          "sagittal",
+          "transverse"
+        ],
+        "optionsBank": [
+          "sagittal",
+          "transverse",
+          "frontal",
+          "cardinal",
+          "neutral"
+        ],
+        "hint": "Barbell curls involve sagittal flexion/extension, and dumbbell flies involve transverse horizontal adduction/abduction."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Describe the posture and orientation of the human body in the standard anatomical position, and explain why this standardized baseline is essential in kinesiology.",
+        "model": "In the standard anatomical position, the individual stands erect with the head facing forward, arms positioned straight down at the sides, and palms facing forward (fully supinated), with the lower limbs parallel and feet pointing forward. This standardized posture is essential in biomechanics and kinesiology because it establishes a universal, unambiguous spatial baseline. Without a standardized reference point, directional terms (such as anterior, posterior, medial, and lateral) and descriptions of joint articulations would become contradictory and dependent on arbitrary subject positioning.",
+        "criteria": [
+          "State that the body is erect.",
+          "State that the arms are down at the sides with palms facing forward.",
+          "Explain that it serves as a universal, standardized spatial reference baseline.",
+          "Detail how it ensures clarity and consistency when describing directional movements and planes."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Define the three cardinal anatomical planes of the human body, identifying the spatial sections created by each and providing the textbook exercise example that corresponds to each plane.",
+        "model": "The three cardinal anatomical planes are: (1) The Sagittal Plane, which slices the body vertically into left and right sections (not necessarily at the midpoint) and governs forward-backward flexion and extension movements; the text cites the standing barbell curl as a sagittal exercise. (2) The Frontal (Coronal) Plane, which slices the body vertically into front and back (anterior and posterior) sections and governs lateral side-to-side movements such as abduction and adduction; the text cites the standing lateral dumbbell raise as a frontal exercise. (3) The Transverse (Horizontal) Plane, which slices the body horizontally into upper and lower (superior and inferior) sections and governs rotational and horizontal limb motions; the text cites the dumbbell fly as a transverse exercise.",
+        "criteria": [
+          "Define the sagittal plane (left-right division) and associate it with the standing barbell curl.",
+          "Define the frontal plane (front-back division) and associate it with the standing lateral dumbbell raise.",
+          "Define the transverse plane (upper-lower division) and associate it with the dumbbell fly.",
+          "Note that planar slices do not necessarily occur at the anatomical midpoint."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "title": "Part 2: Biomechanical Movement Analysis, Qualitative Observation, and Training Specificity",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "According to the textbook, what can be used to quantitatively analyze a target athletic or sport activity?",
+        "opts": [
+          "Manual palpation and goniometry",
+          "Biomechanical analysis of human movement",
+          "Simple visual observation without recording",
+          "Rating of perceived exertion scales"
+        ],
+        "correct": 1,
+        "rationale": "The textbook states that biomechanical analysis of human movement can be used to quantitatively analyze the target activity."
+      },
+      {
+        "id": 2,
+        "q": "In the absence of specialized equipment and biomechanical expertise, what observational approach is adequate for identifying the basic features of a sport movement?",
+        "opts": [
+          "High-speed 3D radiographic fluoroscopy",
+          "Simple visual observation",
+          "Isokinetic dynamometry",
+          "Surface electromyographic spectral analysis"
+        ],
+        "correct": 1,
+        "rationale": "Section 2.2 states: \"In the absence of the requisite equipment and expertise, however, simple visual observation is adequate for identifying the basic features of a sport movement.\""
+      },
+      {
+        "id": 3,
+        "q": "How does identifying the movement around joints through visual observation enhance exercise prescription?",
+        "opts": [
+          "By eliminating the need for resistance training altogether",
+          "By allowing exercises to be selected that involve similar movement around the same joints, incorporating specificity of training",
+          "By guaranteeing that all exercises will be performed in the transverse plane",
+          "By converting third-class levers into first-class levers"
+        ],
+        "correct": 1,
+        "rationale": "Exercises can be selected that involve similar movement around the same joints, thereby incorporating specificity of training into the athlete's program."
+      },
+      {
+        "id": 4,
+        "q": "What recording method is specifically highlighted in the text as a practical tool to facilitate qualitative movement observation?",
+        "opts": [
+          "Multi-angle 3D infrared optical capture",
+          "Slow-motion videotape",
+          "Isometric force-plate recordings",
+          "Standard speed 24-fps analog film"
+        ],
+        "correct": 1,
+        "rationale": "The textbook explicitly notes that \"Slow-motion videotape can facilitate the observation.\""
+      },
+      {
+        "id": 5,
+        "q": "How does commercially available software assist strength and conditioning professionals in analyzing athletic movement?",
+        "opts": [
+          "By replacing the athlete's muscular effort with robotic actuators",
+          "By enabling more detailed analysis of sport movements captured in digital video",
+          "By calculating hormonal concentrations from pixel contrast",
+          "By automatically preventing all forms of sports injury"
+        ],
+        "correct": 1,
+        "rationale": "The text states: \"Also, commercially available software enables more detailed analysis of sport movements captured in digital video.\""
+      },
+      {
+        "id": 6,
+        "q": "Why does Figure 2.10 consider only movements occurring in the frontal, sagittal, and transverse planes?",
+        "opts": [
+          "Human joints are physically incapable of multi-planar motion",
+          "It provides a manageable framework, and training within the planes provides enough overlap of training effects to strengthen movements between planes",
+          "Athletic movements in competition never occur outside the sagittal plane",
+          "Commercial software can only render graphics in two dimensions"
+        ],
+        "correct": 1,
+        "rationale": "The textbook explains that although few body movements occur only in these three major planes, there is enough overlap of training effects that exercising muscles within the planes also strengthens them for movements between the planes."
+      },
+      {
+        "id": 7,
+        "q": "What is the fundamental biomechanical principle that connects movement observation to exercise selection in strength and conditioning?",
+        "opts": [
+          "Principle of diminishing returns",
+          "Specificity of training",
+          "Principle of reversibility",
+          "Size principle of motor unit recruitment"
+        ],
+        "correct": 1,
+        "rationale": "Selecting exercises that involve similar movement around the same joints as observed in the sport movement incorporates specificity of training."
+      },
+      {
+        "id": 8,
+        "q": "When an athlete exercises muscles within the three major cardinal planes, what happens to their strength during real-world movements occurring between planes?",
+        "opts": [
+          "They experience a severe deficit due to lack of specificity",
+          "There is enough overlap of training effects that the muscles are also strengthened for movements between the planes",
+          "Strength decreases because muscles only adapt in a single vector",
+          "The nervous system becomes uncoordinated and inhibits agonist firing"
+        ],
+        "correct": 1,
+        "rationale": "The textbook explicitly affirms that exercising muscles within the three major planes provides enough overlap of training effects to strengthen them for movements between the planes."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which technological tools are explicitly mentioned in Section 2.2 as practical aids for observing and analyzing sport movements? (Select all that apply)",
+        "opts": [
+          "Slow-motion videotape",
+          "Commercially available software for digital video analysis",
+          "Simple visual observation",
+          "Whole-body magnetic resonance imaging during maximal sprinting",
+          "Multi-channel needle electromyography"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "The text notes simple visual observation, slow-motion videotape, and commercially available software analyzing digital video as methods to observe sport movements."
+      },
+      {
+        "id": 2,
+        "q": "Which statements accurately describe the relationship between cardinal anatomical planes and real-world athletic movement? (Select all that apply)",
+        "opts": [
+          "Few body movements occur exclusively in the three major planes",
+          "Standard resistance exercises within the three planes provide overlap of training effects",
+          "Exercising within the cardinal planes also strengthens muscles for movements occurring between the planes",
+          "Athletic movements must strictly follow cardinal planes to be biomechanically valid",
+          "Movement-oriented exercise prescription utilizes the planes as a manageable framework"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Few athletic actions occur solely in one plane; however, planar training provides overlap of training effects that transfers to multi-planar movements. The planes serve as a manageable framework for prescription."
+      },
+      {
+        "id": 3,
+        "q": "What benefits are gained by selecting resistance exercises based on qualitative movement observation of a sport? (Select all that apply)",
+        "opts": [
+          "Exercises involve similar movements around the target sport joints",
+          "The program incorporates specificity of training",
+          "It ensures training matches the basic kinematic features of the target activity",
+          "It eliminates the necessity of training antagonist muscles",
+          "It guarantees the athlete will never experience training fatigue"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Observing joint movements allows the coach to prescribe exercises that involve similar movement around the same joints, incorporating specificity of training and matching sport kinematics."
+      },
+      {
+        "id": 4,
+        "q": "In the absence of specialized biomechanical laboratories, how can a strength and conditioning professional effectively analyze an athlete's movement patterns? (Select all that apply)",
+        "opts": [
+          "Conduct simple visual observation of the target sport activity",
+          "Utilize slow-motion videotape to facilitate observation of rapid actions",
+          "Utilize digital video combined with commercial movement analysis software",
+          "Abandon movement analysis entirely until 3D optical cameras are purchased",
+          "Identify the primary joints involved and the directions of their movements"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "In the absence of expensive equipment, coaches can use visual observation, slow-motion video, commercial software, and joint identification. Abandoning analysis is incorrect."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "In the absence of specialized laboratory equipment, simple visual observation is inadequate for identifying the basic features of a sport movement.",
+        "ans": false,
+        "feedback": "The textbook explicitly states that \"simple visual observation is adequate for identifying the basic features of a sport movement.\""
+      },
+      {
+        "id": 2,
+        "q": "Most dynamic human body movements during athletic competition occur exclusively within a single cardinal anatomical plane.",
+        "ans": false,
+        "feedback": "The textbook states that \"few body movements occur only in these three major planes.\""
+      },
+      {
+        "id": 3,
+        "q": "Exercising muscles within the cardinal planes also strengthens them for movements occurring between the planes due to overlap of training effects.",
+        "ans": true,
+        "feedback": "The textbook emphasizes that there is enough overlap of training effects that training within the planes strengthens muscles for multi-planar movements between the planes."
+      },
+      {
+        "id": 4,
+        "q": "Specificity of training can be incorporated into program design by selecting resistance exercises that involve similar movement around the same joints as the sport movement.",
+        "ans": true,
+        "feedback": "Matching joint movements and planes between resistance exercises and sport skills incorporates specificity of training."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "In the absence of requisite equipment and expertise, simple **visual observation** is adequate for identifying the basic features of a sport movement to incorporate **specificity of training**.",
+        "targets": [
+          "visual observation",
+          "specificity of training"
+        ],
+        "optionsBank": [
+          "visual observation",
+          "specificity of training",
+          "MRI",
+          "force analysis",
+          "random training"
+        ],
+        "hint": "Simple visual observation enables coaches to identify joint movements and incorporate specificity of training."
+      },
+      {
+        "id": 2,
+        "statement": "Observation of fast sport movements can be facilitated by **slow-motion videotape**, while commercially available software enables detailed analysis of movements captured in **digital video**.",
+        "targets": [
+          "slow-motion videotape",
+          "digital video"
+        ],
+        "optionsBank": [
+          "slow-motion videotape",
+          "digital video",
+          "DEXA scans",
+          "ultrasound",
+          "manual palpation"
+        ],
+        "hint": "The text highlights slow-motion videotape and digital video analysis software as practical tools."
+      },
+      {
+        "id": 3,
+        "statement": "Although few athletic movements occur only in the three major planes, there is enough **overlap of training effects** that exercising within the planes also strengthens muscles for movements **between the planes**.",
+        "targets": [
+          "overlap of training effects",
+          "between the planes"
+        ],
+        "optionsBank": [
+          "overlap of training effects",
+          "between the planes",
+          "isolation",
+          "atrophy",
+          "fatigue"
+        ],
+        "hint": "Training within the major planes provides overlap of training effects for dynamic actions between planes."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain how a strength and conditioning coach can practically conduct a movement analysis of an athlete's sport skill in the absence of expensive laboratory equipment, and how this informs exercise selection.",
+        "model": "When specialized laboratory equipment is unavailable, a strength and conditioning coach can perform simple visual observation of the target sport movement, enhanced by slow-motion videotape and commercially available digital video analysis software. By observing the athlete's performance, the coach identifies the primary joints involved, the specific joint articulations (such as flexion, extension, or rotation), and the primary anatomical planes in which these movements occur. The coach then selects resistance training exercises that mimic similar movements around those exact same joints, thereby directly incorporating the foundational principle of specificity of training into the conditioning program.",
+        "criteria": [
+          "State that simple visual observation, slow-motion video, or digital video software is adequate.",
+          "Explain that observation identifies the primary joints and specific joint actions involved.",
+          "Explain that exercises are selected that involve similar movement around the same joints.",
+          "State that this process applies the principle of specificity of training."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Discuss the concept of \"overlap of training effects\" across anatomical planes, explaining why a resistance training program structured around the three cardinal planes remains effective for multi-planar athletic movements.",
+        "model": "Although relatively few athletic movements occur exclusively within a single cardinal plane (as most sport skills are complex, diagonal, or multi-planar), restricting the movement framework to the sagittal, frontal, and transverse planes provides a manageable and systematic structure for exercise prescription. Training within these three cardinal planes remains highly effective because there is substantial overlap of training effects. Strengthening the muscles and neural pathways across the cardinal planes develops comprehensive force capacity, joint stability, and motor control that directly transfers to and reinforces movements occurring obliquely or between the planes.",
+        "criteria": [
+          "Acknowledge that few athletic actions occur purely in a single cardinal plane.",
+          "State that the three cardinal planes provide a manageable framework for exercise prescription.",
+          "Define the \"overlap of training effects\" concept.",
+          "Explain that training within the three planes effectively strengthens muscles for dynamic movements between planes."
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "title": "Part 3: Movement-Oriented Exercise Prescription and Commonly Omitted Sport Movements",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What type of exercise program does Figure 2.10 provide a manageable framework for developing?",
+        "opts": [
+          "Calisthenic endurance circuits",
+          "Movement-oriented exercise prescription",
+          "Strictly single-joint isolation body split routines",
+          "Passive flexibility rehabilitation"
+        ],
+        "correct": 1,
+        "rationale": "Figure 2.10 presents a list of possible body movements that provides a manageable framework for movement-oriented exercise prescription."
+      },
+      {
+        "id": 2,
+        "q": "What would be the primary characteristic of a resistance training program that provided exercises for all the movements listed in Figure 2.10?",
+        "opts": [
+          "It would be excessively focused on the sagittal plane",
+          "It would be both comprehensive and balanced",
+          "It would induce severe neural overtraining in all athletes",
+          "It would cause chronic hamstring-to-quadriceps imbalance"
+        ],
+        "correct": 1,
+        "rationale": "The textbook states: \"Although a program providing resistance exercise for all the movements in figure 2.10 would be both comprehensive and balanced, some of the movements are commonly omitted from standard exercise programs...\""
+      },
+      {
+        "id": 3,
+        "q": "Which sport movement involving the shoulder is commonly omitted from standard resistance training programs despite its importance in throwing and tennis?",
+        "opts": [
+          "Shoulder flexion and extension",
+          "Shoulder internal and external rotation",
+          "Scapular elevation and depression",
+          "Shoulder horizontal adduction"
+        ],
+        "correct": 1,
+        "rationale": "The textbook specifically lists shoulder internal and external rotation (important in throwing and tennis) as commonly omitted from standard resistance training programs."
+      },
+      {
+        "id": 4,
+        "q": "For which athletic activity is knee flexion an important sport movement that is frequently omitted from standard programs?",
+        "opts": [
+          "Shot put",
+          "Sprinting",
+          "Rowing",
+          "Archery"
+        ],
+        "correct": 1,
+        "rationale": "Section 2.2 explicitly lists knee flexion as an important sport movement for sprinting that is not usually incorporated into standard programs."
+      },
+      {
+        "id": 5,
+        "q": "Hip flexion is an important sport movement in which athletic activities cited in the text?",
+        "opts": [
+          "Swimming and diving",
+          "Kicking and sprinting",
+          "Powerlifting and Olympic weightlifting",
+          "Archery and shooting"
+        ],
+        "correct": 1,
+        "rationale": "The textbook identifies hip flexion as critical for kicking and sprinting."
+      },
+      {
+        "id": 6,
+        "q": "Which ankle movement is identified as an important sport movement in running that is commonly omitted from standard resistance training programs?",
+        "opts": [
+          "Ankle inversion",
+          "Ankle dorsiflexion",
+          "Ankle eversion",
+          "Ankle plantar flexion"
+        ],
+        "correct": 1,
+        "rationale": "The textbook specifically lists ankle dorsiflexion (important in running) as a movement commonly omitted from standard resistance training programs."
+      },
+      {
+        "id": 7,
+        "q": "In which athletic movements is torso rotation a critical component that should not be neglected in resistance training?",
+        "opts": [
+          "Sprint cycling and swimming",
+          "Throwing and batting",
+          "Long-distance marathon running",
+          "Bench press and overhead press"
+        ],
+        "correct": 1,
+        "rationale": "Torso rotation is explicitly highlighted in Section 2.2 as an important movement in throwing and batting."
+      },
+      {
+        "id": 8,
+        "q": "In which sports are the various neck movements particularly critical, yet commonly omitted from standard resistance programs?",
+        "opts": [
+          "Tennis and golf",
+          "Boxing and wrestling",
+          "Track sprinting and hurdles",
+          "Baseball pitching and batting"
+        ],
+        "correct": 1,
+        "rationale": "The textbook states that the various neck movements are important sport movements in boxing and wrestling."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following movements are explicitly identified in Section 2.2 as commonly omitted from standard resistance training programs? (Select all that apply)",
+        "opts": [
+          "Shoulder internal and external rotation",
+          "Knee flexion",
+          "Hip flexion",
+          "Ankle dorsiflexion",
+          "Elbow flexion"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "The text lists shoulder internal/external rotation, knee flexion, hip flexion, and ankle dorsiflexion as commonly omitted. Elbow flexion (biceps curls) is a standard, highly emphasized exercise."
+      },
+      {
+        "id": 2,
+        "q": "Which hip movements are identified as critical sport movements that are not usually incorporated into standard resistance training programs? (Select all that apply)",
+        "opts": [
+          "Hip flexion (kicking, sprinting)",
+          "Hip internal and external rotation (pivoting)",
+          "Hip adduction and abduction (lateral cutting)",
+          "Hip extension (squats, deadlifts)",
+          "Forward linear hip displacement"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "The text lists hip flexion (kicking, sprinting), hip internal/external rotation (pivoting), and hip adduction/abduction (lateral cutting) as commonly omitted. Hip extension is heavily emphasized in standard programs."
+      },
+      {
+        "id": 3,
+        "q": "Which pairs correctly match a commonly omitted sport movement with its corresponding sport application according to Section 2.2? (Select all that apply)",
+        "opts": [
+          "Shoulder internal and external rotation \u2014 Throwing, tennis",
+          "Torso rotation \u2014 Throwing, batting",
+          "Hip internal and external rotation \u2014 Pivoting",
+          "Hip adduction and abduction \u2014 Lateral cutting",
+          "Knee flexion \u2014 Bobsled push"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "The text matches: shoulder internal/external rotation (throwing, tennis), torso rotation (throwing, batting), hip rotation (pivoting), hip adduction/abduction (lateral cutting), and knee flexion (sprinting)."
+      },
+      {
+        "id": 4,
+        "q": "Why is incorporating neck movements into resistance training programs especially crucial for boxing and wrestling athletes? (Select all that apply)",
+        "opts": [
+          "Neck movements are commonly omitted from standard resistance training programs",
+          "Boxing and wrestling subject the head and cervical spine to direct impact and grappling forces",
+          "Strengthening neck musculature provides comprehensive and balanced musculoskeletal development",
+          "Neck exercises eliminate the need for shoulder rotator cuff training",
+          "Neck muscles act as the prime movers for sprint acceleration"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Neck movements are commonly omitted, but training them creates balanced development and protects athletes in contact sports like boxing and wrestling from impact forces. They do not replace rotator cuff work or drive sprint acceleration."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "A resistance training program that includes all movements across the cardinal planes would be both comprehensive and balanced.",
+        "ans": true,
+        "feedback": "The text affirms that a program providing resistance exercise for all listed movements would be both comprehensive and balanced."
+      },
+      {
+        "id": 2,
+        "q": "Standard resistance training programs typically place equal emphasis on all major joint movements across all planes of the body.",
+        "ans": false,
+        "feedback": "Section 2.2 notes that \"some of the movements are commonly omitted from standard exercise programs whereas others receive particular emphasis.\""
+      },
+      {
+        "id": 3,
+        "q": "Ankle dorsiflexion is an important sport movement in running that is commonly omitted from standard resistance training programs.",
+        "ans": true,
+        "feedback": "Ankle dorsiflexion is explicitly listed as an important sport movement in running that is not usually incorporated into standard programs."
+      },
+      {
+        "id": 4,
+        "q": "Hip adduction and abduction are critical for lateral cutting movements in athletic competition.",
+        "ans": true,
+        "feedback": "The textbook associates hip adduction and abduction directly with lateral cutting agility maneuvers."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Important sport movements commonly omitted from standard resistance training programs include shoulder internal and external rotation in **throwing** and knee flexion in **sprinting**.",
+        "targets": [
+          "throwing",
+          "sprinting"
+        ],
+        "optionsBank": [
+          "throwing",
+          "sprinting",
+          "sitting",
+          "sleeping",
+          "walking"
+        ],
+        "hint": "The text explicitly pairs shoulder rotation with throwing (and tennis) and knee flexion with sprinting."
+      },
+      {
+        "id": 2,
+        "statement": "Hip adduction and abduction are vital for **lateral cutting**, whereas hip internal and external rotation are critical for **pivoting**.",
+        "targets": [
+          "lateral cutting",
+          "pivoting"
+        ],
+        "optionsBank": [
+          "lateral cutting",
+          "pivoting",
+          "swimming",
+          "jumping",
+          "rowing"
+        ],
+        "hint": "The textbook pairs hip adduction/abduction with lateral cutting and hip rotation with pivoting."
+      },
+      {
+        "id": 3,
+        "statement": "Torso rotation is essential in **throwing and batting**, while neck movements are critical in **boxing and wrestling**.",
+        "targets": [
+          "throwing and batting",
+          "boxing and wrestling"
+        ],
+        "optionsBank": [
+          "throwing and batting",
+          "boxing and wrestling",
+          "cycling",
+          "curling",
+          "marathon running"
+        ],
+        "hint": "Torso rotation is critical in throwing/batting; neck movements are essential in boxing/wrestling."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Identify and discuss at least four joint movements commonly omitted from standard resistance training programs, explaining the specific sport activities that depend upon them.",
+        "model": "Standard resistance training programs frequently omit several critical joint movements despite their high athletic importance: (1) Shoulder internal and external rotation, which are essential in throwing sports and tennis for accelerating the arm and providing eccentric rotator cuff deceleration. (2) Knee flexion, which is critical for sprinting mechanics to facilitate rapid heel recovery during the swing phase. (3) Ankle dorsiflexion, which is vital in running to maintain ground-strike stiffness and prevent shin splints. (4) Hip adduction and abduction, which are crucial in team sports for lateral cutting, change of direction, and pelvic stabilization against knee valgus. Other omitted movements include hip flexion (kicking/sprinting), hip rotation (pivoting), torso rotation (batting/throwing), and neck movements (boxing/wrestling).",
+        "criteria": [
+          "Name at least 4 omitted movements from Section 2.2 (shoulder rotation, knee flexion, hip flexion, ankle dorsiflexion, hip rotation, hip adduction/abduction, torso rotation, neck movements).",
+          "Pair each movement with its correct sport application as stated in the text.",
+          "Explain the functional athletic rationale for including these movements in a program.",
+          "Contrast these omitted actions with standard sagittal-dominant exercise programs."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain how a strength and conditioning professional can utilize the movement-oriented framework in Figure 2.10 to build a \"comprehensive and balanced\" training program that bridges standard gym routines with sport demands.",
+        "model": "Strength and conditioning professionals can use the movement-oriented framework in Figure 2.10 by conducting an inventory of joint movements across all three cardinal planes (sagittal, frontal, and transverse) rather than solely relying on traditional muscle-group splits. Standard gym programs typically overemphasize sagittal plane bilateral movements (such as squats, bench presses, and curls) while neglecting rotational and lateral movements. By deliberately programming exercises for commonly omitted movements\u2014such as hip adduction/abduction for lateral cutting, torso rotation for striking, and rotator cuff rotation for throwing\u2014coaches ensure kinetic chain balance, prevent bilateral and planar asymmetries, enhance multi-planar athletic transfer, and protect vulnerable joint structures from overuse injuries.",
+        "criteria": [
+          "Explain the movement-oriented prescription framework based on Figure 2.10.",
+          "Contrast comprehensive multi-planar training with standard sagittal-dominant gym routines.",
+          "Detail specific examples of incorporating commonly omitted joint actions (e.g., rotational, lateral, or accessory movements).",
+          "Explain the athletic benefits: balanced structural development, enhanced performance transfer, and injury prevention."
+        ]
+      }
+    ]
+  }
+}

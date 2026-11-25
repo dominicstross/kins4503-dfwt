@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "course": "DFWT - KINS 4503 Design of Fitness & WT",
+    "chapter": "1",
+    "section": "1.2",
+    "ch": "1",
+    "mod": "1.2",
+    "moduleTitle": "1.2 Neuromuscular System"
+  },
+  "pages": [
+    {
+      "id": "p1",
+      "title": "Part 1: Motor Unit Activation, the All-or-None Principle, and Twitch Summation",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Motor Unit Activation, Chemical Transmission, and Twitch Summation</h2>\n<p>The neuromuscular system forms the functional bridge between the central nervous system and skeletal muscle tissue. Muscle fibers are innervated by motor neurons that transmit electrical impulses in the form of electrochemical signals originating in the spinal cord. A typical motor neuron possesses an axon with numerous terminal branches, allowing it to innervate multiple muscle fibers simultaneously. The integrated structure of the motor neuron and its target fibers determines muscle fiber type, metabolic profile, and functional involvement in exercise.</p>\n\n<h3>Motor Unit Organization and Precision of Control</h3>\n<p>A <strong>motor unit</strong> consists of a single motor neuron and all the muscle fibers it innervates. When an action potential discharges down a motor neuron, all fibers served by that unit are activated simultaneously and develop contractile force. The functional precision of a muscle depends directly on its motor unit innervation ratio (the number of muscle fibers per motor neuron):</p>\n<ul>\n  <li><strong>High-Precision Muscles:</strong> Muscles requiring intricate, highly refined movements\u2014such as the extraocular muscles controlling the eyeball\u2014possess motor units with as few as one muscle fiber per motor neuron. Activating or derecruiting individual motor units in these small muscles allows extremely fine gradations in force.</li>\n  <li><strong>Gross Locomotor Muscles:</strong> Large muscles responsible for powerful gross movements with less demand for precision\u2014such as the quadriceps femoris group\u2014contain motor units with several hundred to thousands of muscle fibers served by a single motor neuron.</li>\n</ul>\n\n<h3>Chemical Transmission at the Neuromuscular Junction</h3>\n<p>The electrical action potential traveling along an axon is physically incapable of directly exciting muscle fibers. Instead, excitation occurs via chemical synaptic transmission across the <strong>neuromuscular junction</strong> (motor end plate):</p>\n<ol>\n  <li>The action potential arrives at the motor nerve terminal.</li>\n  <li>Depolarization induces the release of the chemical neurotransmitter <strong>acetylcholine (ACh)</strong> from synaptic vesicles into the synaptic cleft.</li>\n  <li>Acetylcholine diffuses across the junction and binds to specific cholinergic receptors on the muscle membrane (sarcolemma).</li>\n  <li>Once a threshold quantity of acetylcholine binds, a wave of depolarization (action potential) generates across the sarcolemma and propagates into transverse tubules (T-tubules), triggering calcium release from the sarcoplasmic reticulum.</li>\n</ol>\n\n<h3>The All-or-None Principle</h3>\n<p>The functional activation of a motor unit is governed by the <strong>all-or-none principle</strong>. When a motor neuron discharges an action potential of sufficient threshold, all muscle fibers within that specific motor unit contract and develop tension at the same instant. A stronger electrical action potential cannot elicit a stronger contraction, nor can an impulse cause only a selective fraction of the unit's fibers to contract. The motor unit responds completely or not at all.</p>\n\n<h3>Twitch Dynamics, Summation, and Tetanus</h3>\n<p>Each action potential traveling down a motor nerve produces a brief, transient contraction of the muscle fibers known as a <strong>twitch</strong>. Calcium is released into the sarcoplasm to allow actin and myosin crossbridge interaction; however, during a single twitch, calcium is rapidly sequestered back into the sarcoplasmic reticulum before maximal force can develop, causing the muscle to relax:</p>\n<ul>\n  <li><strong>Single Twitch:</strong> A single nerve impulse produces a transient force spike followed by complete relaxation.</li>\n  <li><strong>Twitch Summation:</strong> If a second electrical impulse arrives from the motor nerve before the muscle fibers have completely relaxed from the first twitch, the forces developed by the two twitches summate, producing a peak force significantly greater than that of a single twitch. Decreasing the time interval between successive impulses allows greater overlap of crossbridge binding and higher tension development.</li>\n  <li><strong>Unfused Tetanus:</strong> As the frequency of stimulation increases further, individual twitches produce rapid, overlapping force ripples with incomplete relaxation between pulses.</li>\n  <li><strong>Fused Tetanus:</strong> When stimulation frequency reaches a critically high rate, individual twitches merge completely into a smooth, continuous, maximal contraction termed <strong>tetanus</strong>. Tetanus represents the maximal mechanical force that a motor unit can generate.</li>\n</ul>\n\n<div class=\"callout-box\">\n  <div class=\"callout-title\">Coaching / Sport Application</div>\n  <p>To maximize force development in power and strength sports (e.g., Olympic weightlifting, sprinting), athletes must train the central nervous system to fire motor units at high discharge frequencies. High-frequency firing ensures motor units achieve fused tetanus, eliminating mechanical slack and maximizing instantaneous rate of force development (RFD).</p>\n</div>\n\n<table class=\"data-table\">\n  <thead>\n    <tr>\n      <th>Stage of Activation</th>\n      <th>Stimulation Frequency & Timing</th>\n      <th>Myocellular Calcium & Crossbridge Dynamics</th>\n      <th>Mechanical Force Output</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Single Twitch</strong></td>\n      <td>Isolated single action potential</td>\n      <td>Brief Ca\u00b2\u207a release; Ca\u00b2\u207a sequestered before full crossbridge formation</td>\n      <td>Low, transient force spike followed by complete relaxation</td>\n    </tr>\n    <tr>\n      <td><strong>Twitch Summation</strong></td>\n      <td>Second stimulus arrives before complete relaxation</td>\n      <td>Ca\u00b2\u207a release overlaps residual Ca\u00b2\u207a; increased crossbridge attachment</td>\n      <td>Summated force greater than a single isolated twitch</td>\n    </tr>\n    <tr>\n      <td><strong>Unfused Tetanus</strong></td>\n      <td>Moderate-to-high stimulation frequency</td>\n      <td>Persistent Ca\u00b2\u207a elevation with partial re-uptake cycles</td>\n      <td>Oscillating, high-force plateau with minor ripple fluctuations</td>\n    </tr>\n    <tr>\n      <td><strong>Fused Tetanus</strong></td>\n      <td>Extremely high, critical stimulation frequency</td>\n      <td>Continuous saturation of troponin by Ca\u00b2\u207a; maximal crossbridge engagement</td>\n      <td>Smooth, uninterrupted maximal force generation of the motor unit</td>\n    </tr>\n  </tbody>\n</table>"
+    },
+    {
+      "id": "p2",
+      "title": "Part 2: Muscle Fiber Typology, Histochemistry, and Motor Unit Recruitment",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Muscle Fiber Typology, Histochemistry, and Motor Unit Recruitment</h2>\n<p>Human skeletal muscle tissue exhibits marked heterogeneity in morphological, physiological, and histochemical characteristics. Motor units are composed entirely of muscle fibers of the same homogeneous type, allowing motor units themselves to be classified according to their contraction and relaxation kinetics.</p>\n\n<h3>Classification Frameworks: Histochemistry and Myosin Heavy Chain (MHC)</h3>\n<p>Muscle fibers are primarily classified according to their twitch speed and metabolic properties:</p>\n<ul>\n  <li><strong>Twitch Speed Classification:</strong> Distinguishes <strong>slow-twitch fibers</strong> (which develop force and relax slowly, displaying a prolonged twitch time) from <strong>fast-twitch fibers</strong> (which develop force and relax rapidly, exhibiting an abbreviated twitch time).</li>\n  <li><strong>Histochemical Staining for Myosin ATPase:</strong> Evaluates pH-sensitive enzymatic activity of myosin ATPase, differentiating fibers into <strong>Type I</strong> (slow-twitch), <strong>Type IIa</strong> (fast-twitch oxidative-glycolytic), and <strong>Type IIx</strong> (fast-twitch glycolytic).</li>\n  <li><strong>Myosin Heavy Chain (MHC) Protein Quantification:</strong> Measures specific contractile protein isoforms, demonstrating exact nomenclature correspondence with myosin ATPase histochemistry (MHC I, MHC IIa, MHC IIx).</li>\n</ul>\n\n<h3>Morphological and Metabolic Characteristics (Table 1.1)</h3>\n<p>The mechanical characteristics of muscle fibers are linked directly to their energy supply mechanisms and fatigue resistance:</p>\n<ul>\n  <li><strong>Type I (Slow-Twitch):</strong> Highly efficient and fatigue resistant with high aerobic enzyme capacity, high capillary density, and high myoglobin content (imparting a red appearance). However, Type I fibers have low myosin ATPase activity, low anaerobic enzyme content, small motor neuron size, low force production, and limited capacity for rapid force development.</li>\n  <li><strong>Type IIx (Fast-Twitch Glycolytic):</strong> Highly fatigable and energetically inefficient with low aerobic capacity, low mitochondrial density, and low capillary density (white appearance). Conversely, they feature large motor neuron diameters, rapid nerve conduction velocities, high myosin ATPase activity, high anaerobic power, and rapid force production.</li>\n  <li><strong>Type IIa (Fast-Twitch Oxidative-Glycolytic):</strong> Represents an intermediate fiber type sharing high contraction velocity and force output with Type IIx, but possessing greater capillary density, mitochondrial volume, and aerobic enzyme content, conferring intermediate resistance to fatigue.</li>\n</ul>\n\n<h3>Skeletal Muscle Composition and Postural Specificity</h3>\n<p>The proportional distribution of fiber types varies according to muscle function. Tonic postural muscles, such as the <strong>soleus</strong>, contain a high percentage of fatigue-resistant Type I fibers to sustain prolonged upright posture against gravity. In contrast, large dynamic locomotor muscles, such as the <strong>quadriceps femoris group</strong>, display a balanced mixture of Type I and Type II fibers to execute both low-power endurance activities (e.g., jogging) and explosive high-power movements (e.g., jumping and sprinting).</p>\n\n<h3>Motor Unit Recruitment and Rate Coding Dynamics</h3>\n<p>The central nervous system regulates muscular force through two distinct, cooperative mechanisms:</p>\n<ol>\n  <li><strong>Rate Coding (Firing Frequency Variation):</strong> Altering the discharge frequency at which active motor units are stimulated. In small muscles requiring delicate control (e.g., the intrinsic muscles of the hand), most motor units are recruited at very low force levels; variations in force are achieved primarily by modulating firing frequency.</li>\n  <li><strong>Motor Unit Recruitment:</strong> Varying the total number of motor units recruited. In large locomotor muscle groups (e.g., the thigh and gluteals), active motor units fire at near-tetanic frequencies, and significant increases in whole-muscle force depend on recruiting additional motor units.</li>\n</ol>\n\n<h3>Sport-Specific Fiber Involvement (Table 1.2)</h3>\n<p>The recruitment of specific motor units during sport is governed by their physiological characteristics. Pure endurance sports (e.g., marathon running, cross-country skiing, distance cycling) rely predominantly on Type I fibers for sustained, fatigue-resistant ATP production. High-intensity explosive sports (e.g., 100 m sprint, Olympic weightlifting, track cycling, American football) require high Type II fiber involvement. Intermittent team and combat sports (e.g., soccer, basketball, boxing, tennis) demand high contributions from both Type I and Type II fibers to sustain continuous movement and repeated explosive bursts.</p>\n\n<div class=\"callout-box\">\n  <div class=\"callout-title\">Coaching / Sport Application: Strategies to Improve Force Production</div>\n  <p>To maximize force production and recruit high-threshold Type II motor units, strength and conditioning professionals should implement three key training strategies:</p>\n  <ul>\n    <li><strong>Incorporate Heavy Resistance Loading:</strong> Heavy loading phases (\u226585% 1RM) force the central nervous system to optimize neural drive and recruit high-threshold fast-twitch motor units.</li>\n    <li><strong>Increase Muscle Cross-Sectional Area (CSA):</strong> Hypertrophy of task-specific motor units expands the contractile protein pool, increasing the total number of crossbridges available.</li>\n    <li><strong>Perform Multimuscle, Multijoint Explosive Lifts:</strong> Explosive exercises (e.g., Olympic lifts and plyometrics) maximize motor unit firing frequency and recruit high-threshold fast-twitch units at high velocities.</li>\n  </ul>\n</div>\n\n<table class=\"data-table\">\n  <thead>\n    <tr>\n      <th>Characteristic</th>\n      <th>Type I (Slow-Twitch)</th>\n      <th>Type IIa (Fast-Twitch Oxidative)</th>\n      <th>Type IIx (Fast-Twitch Glycolytic)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Motor Neuron Size</strong></td>\n      <td>Small</td>\n      <td>Large</td>\n      <td>Large</td>\n    </tr>\n    <tr>\n      <td><strong>Recruitment Threshold</strong></td>\n      <td>Low</td>\n      <td>Intermediate / High</td>\n      <td>High</td>\n    </tr>\n    <tr>\n      <td><strong>Contraction & Relaxation Speed</strong></td>\n      <td>Slow</td>\n      <td>Fast</td>\n      <td>Fast</td>\n    </tr>\n    <tr>\n      <td><strong>Fatigue Resistance & Endurance</strong></td>\n      <td>High</td>\n      <td>Intermediate / Low</td>\n      <td>Low</td>\n    </tr>\n    <tr>\n      <td><strong>Force Production & Power Output</strong></td>\n      <td>Low</td>\n      <td>Intermediate / High</td>\n      <td>High</td>\n    </tr>\n    <tr>\n      <td><strong>Myosin ATPase Activity</strong></td>\n      <td>Low</td>\n      <td>High</td>\n      <td>High</td>\n    </tr>\n    <tr>\n      <td><strong>Mitochondrial & Capillary Density</strong></td>\n      <td>High</td>\n      <td>Intermediate</td>\n      <td>Low</td>\n    </tr>\n    <tr>\n      <td><strong>Color & Fiber Diameter</strong></td>\n      <td>Red (Small diameter)</td>\n      <td>White / Red (Intermediate)</td>\n      <td>White (Large diameter)</td>\n    </tr>\n  </tbody>\n</table>"
+    },
+    {
+      "id": "p3",
+      "title": "Part 3: Proprioception, Sensory Receptors, and Autogenic Inhibition",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Proprioception, Sensory Receptors, and Autogenic Inhibition</h2>\n<p>Proprioception represents the sensory feedback mechanism that enables the central nervous system to monitor musculoskeletal kinematics, muscle dynamics, and body orientation in space. <strong>Proprioceptors</strong> are specialized sensory receptors located within joints, muscles, and tendons. Sensitive to changes in pressure, tension, and stretch, proprioceptors provide continuous sensory input regarding kinesthetic sense\u2014the conscious and subconscious appreciation of body position relative to gravity.</p>\n\n<h3>Muscle Spindles and the Stretch Reflex</h3>\n<p><strong>Muscle spindles</strong> are sensory proprioceptors distributed throughout the fleshy belly of skeletal muscles. Structurally, each spindle consists of several modified muscle fibers, termed <strong>intrafusal fibers</strong>, enclosed within a sheath of connective tissue and arranged in parallel with normal contractile <strong>extrafusal fibers</strong>:</p>\n<ul>\n  <li><strong>Sensory Function:</strong> Muscle spindles monitor muscle length and the rate of change in length. When a muscle is stretched, the spindle intrafusal fibers deform.</li>\n  <li><strong>Reflex Arc:</strong> Spindle deformation activates a sensory neuron that transmits impulses directly to the spinal cord. Within the spinal cord, the sensory axon synapses directly with alpha motor neurons serving the same (homonymous) muscle.</li>\n  <li><strong>Motor Output:</strong> Motor neurons fire, triggering active contraction of the extrafusal fibers to resist further lengthening. Muscles performing fine, delicate movements possess a high density of spindles per unit mass to ensure exact contractile control.</li>\n  <li><strong>The Knee Jerk Reflex:</strong> A classic clinical demonstration of spindle function occurs during the patellar tendon reflex. Tapping the patellar tendon stretches the quadriceps muscle spindles, initiating an immediate monosynaptic reflex contraction of the quadriceps extrafusal fibers that causes the knee to extend. Shortening of the extrafusal fibers relieves tension on the intrafusal fibers, causing spindle discharge to cease.</li>\n</ul>\n\n<h3>Golgi Tendon Organs (GTOs) and Autogenic Protective Inhibition</h3>\n<p><strong>Golgi tendon organs (GTOs)</strong> are encapsulated sensory proprioceptors located in tendons near the myotendinous junction, situated <strong>in series</strong> (attached end to end) with extrafusal muscle fibers:</p>\n<ul>\n  <li><strong>Sensory Activation:</strong> GTOs are sensitive to mechanical tension developed within the active muscle and tendon. As muscle tension rises during contraction, tension stretches the collagen threads of the GTO, discharging its sensory neuron.</li>\n  <li><strong>Inhibitory Neural Circuitry:</strong> The sensory neuron of the GTO enters the spinal cord and synapses with an <strong>inhibitory interneuron</strong>. This interneuron synapses with and inhibits the alpha motor neuron serving the contracting muscle.</li>\n  <li><strong>Mechanical Consequence:</strong> Inhibition of the alpha motor neuron causes reflexive relaxation of the contracting muscle, rapidly reducing tension within the muscle and its tendon.</li>\n  <li><strong>Protective Mechanism:</strong> The GTO reflex serves as a protective feedback mechanism preventing catastrophic musculoskeletal injury (such as tendon avulsion or muscle tears) when exposed to extreme external loads.</li>\n</ul>\n\n<h3>Cortical Overriding of GTO Inhibition via Heavy Resistance Training</h3>\n<p>While muscle spindles facilitate muscular activation, GTO input provides reflexive inhibition. At low contractile forces, GTO discharge is minimal; under heavy mechanical loads, GTO-mediated autogenic inhibition strongly curbs muscular force expression.</p>\n<p>One of the foundational neuromuscular adaptations to chronic, heavy resistance training is the ability of the motor cortex to <strong>override GTO inhibition</strong>. By progressively exposing the musculoskeletal system to heavy loads, the central nervous system learns to attenuate GTO-mediated inhibitory signals. Suppressing this reflexive inhibition permits athletes to achieve greater motor unit recruitment, sustain higher discharge rates, and generate substantially greater muscular force and power.</p>\n\n<div class=\"callout-box\">\n  <div class=\"callout-title\">Coaching / Sport Application: Spindle Activation vs. GTO Modulation</div>\n  <p>In plyometric and power training, the <strong>stretch-shortening cycle (SSC)</strong> exploits muscle spindle activation: a rapid eccentric pre-stretch stimulates spindle firing, which potentiates concentric force output. Conversely, in heavy strength training (e.g., maximal squats or deadlifts), desensitizing GTO autogenic inhibition allows athletes to express true maximal strength without premature neural shutdown.</p>\n</div>\n\n<table class=\"data-table\">\n  <thead>\n    <tr>\n      <th>Proprioceptor</th>\n      <th>Anatomical Location & Arrangement</th>\n      <th>Mechanical Stimulus Monitored</th>\n      <th>Spinal Reflex Pathway & Action</th>\n      <th>Impact on Muscular Force</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Muscle Spindle</strong></td>\n      <td>Muscle belly; intrafusal fibers arranged <em>in parallel</em> with extrafusal fibers</td>\n      <td>Changes in muscle length and rate of change in length</td>\n      <td>Synapses directly with alpha motor neuron; activates homonymous extrafusal fibers</td>\n      <td><strong>Facilitates</strong> muscle activation and elevates contractile force</td>\n    </tr>\n    <tr>\n      <td><strong>Golgi Tendon Organ (GTO)</strong></td>\n      <td>Myotendinous junction; arranged <em>in series</em> with extrafusal fibers</td>\n      <td>Excessive tension developed within the muscle and tendon</td>\n      <td>Synapses with inhibitory interneuron; inhibits homonymous alpha motor neuron</td>\n      <td><strong>Inhibits</strong> muscle activation, promoting relaxation to protect tissue</td>\n    </tr>\n  </tbody>\n</table>"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Motor unit",
+      "def": "A single motor neuron and all the skeletal muscle fibers that it innervates, contracting together on the all-or-none principle."
+    },
+    {
+      "term": "All-or-none principle",
+      "def": "The neurophysiological principle stating that when a motor neuron discharges an action potential, all muscle fibers in that unit contract simultaneously and completely; a stronger stimulus cannot produce a stronger contraction."
+    },
+    {
+      "term": "Neuromuscular junction",
+      "def": "The specialized synaptic junction (motor end plate) between a terminal branch of a motor neuron and the sarcolemma of a muscle fiber."
+    },
+    {
+      "term": "Acetylcholine (ACh)",
+      "def": "The neurotransmitter released from motor nerve terminals that diffuses across the neuromuscular junction to excite the sarcolemma and initiate an action potential."
+    },
+    {
+      "term": "Twitch",
+      "def": "A brief, transient contraction of a motor unit's muscle fibers resulting from a single action potential from its motor nerve."
+    },
+    {
+      "term": "Twitch summation",
+      "def": "The additive mechanical force resulting when a second action potential stimulates a muscle fiber before it has completely relaxed from an initial twitch."
+    },
+    {
+      "term": "Tetanus",
+      "def": "A state of sustained, maximal mechanical contraction produced when motor unit stimulation frequency is so high that individual twitches completely fuse."
+    },
+    {
+      "term": "Slow-twitch fiber (Type I)",
+      "def": "A fatigue-resistant, highly aerobic muscle fiber characterized by slow contraction and relaxation speeds, low myosin ATPase activity, and small motor neuron size."
+    },
+    {
+      "term": "Fast-twitch fiber (Type IIa)",
+      "def": "An intermediate fast-twitch muscle fiber exhibiting rapid contraction velocities alongside intermediate oxidative and glycolytic capacities, conferring moderate fatigue resistance."
+    },
+    {
+      "term": "Fast-twitch fiber (Type IIx)",
+      "def": "A highly fatigable, highly explosive fast-twitch muscle fiber characterized by rapid contraction speed, high myosin ATPase activity, high anaerobic power, and low aerobic enzyme content."
+    },
+    {
+      "term": "Myosin heavy chain (MHC)",
+      "def": "The structural and enzymatic protein component of the myosin molecule whose specific isoform determines the contractile velocity and typing of skeletal muscle fibers."
+    },
+    {
+      "term": "Rate coding",
+      "def": "The modulation of muscular force through variations in the firing frequency (discharge rate) of active motor units."
+    },
+    {
+      "term": "Motor unit recruitment",
+      "def": "The activation of additional motor units within a muscle to increase whole-muscle force production."
+    },
+    {
+      "term": "Proprioceptor",
+      "def": "A specialized sensory receptor located within joints, muscles, and tendons that monitors pressure, tension, and position to provide kinesthetic awareness."
+    },
+    {
+      "term": "Kinesthetic sense",
+      "def": "The conscious and subconscious perception of body segment position and movement in space relative to gravity."
+    },
+    {
+      "term": "Muscle spindle",
+      "def": "A sensory proprioceptor located in the muscle belly arranged in parallel with extrafusal fibers that monitors muscle length and rate of change in length, initiating the stretch reflex."
+    },
+    {
+      "term": "Intrafusal fibers",
+      "def": "Modified muscle fibers enclosed within the connective tissue sheath of a muscle spindle that detect changes in muscle length."
+    },
+    {
+      "term": "Extrafusal fibers",
+      "def": "Standard skeletal muscle fibers that produce mechanical force and movement, situated outside the muscle spindle capsule."
+    },
+    {
+      "term": "Golgi tendon organ (GTO)",
+      "def": "A proprioceptor located in tendons near the myotendinous junction, arranged in series with extrafusal fibers, that detects excessive muscle tension and reflexively inhibits motor unit activation."
+    },
+    {
+      "term": "Autogenic inhibition",
+      "def": "A protective inhibitory reflex mediated by Golgi tendon organs that induces relaxation of the contracting muscle when excessive tension threatens musculoskeletal structures."
+    }
+  ]
+}

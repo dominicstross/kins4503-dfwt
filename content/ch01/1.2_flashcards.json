@@ -1,0 +1,76 @@
+{
+    "chapterId": "1.2",
+    "title": "1.2 Neuromuscular System",
+    "cards": [
+        {
+            "id": "1.2-01",
+            "tag": "Motor Unit Innervation Ratio & Precision",
+            "reference": "Section 1.2",
+            "front": "How does the motor unit innervation ratio dictate the precision of muscular control across different muscle groups?",
+            "back": "The extent of control depends on the number of muscle fibers served by each motor neuron:<ul><li><strong>High Precision:</strong> Muscles requiring minute, delicate movements (e.g., extraocular eye muscles) have motor units with as few as <strong>one muscle fiber per motor neuron</strong>.</li><li><strong>Gross Power:</strong> Large locomotor muscles requiring less precision (e.g., quadriceps) have <strong>several hundred fibers served by a single motor neuron</strong>.</li></ul>"
+        },
+        {
+            "id": "1.2-02",
+            "tag": "Chemical Transmission & All-or-None Principle",
+            "reference": "Section 1.2",
+            "front": "How does an action potential activate muscle fibers at the neuromuscular junction, and what defines the <strong>all-or-none principle</strong>?",
+            "back": "Action potentials do not directly stimulate fibers; arrival at the nerve terminal triggers the release of the neurotransmitter <strong>acetylcholine (ACh)</strong>, which diffuses across the neuromuscular junction to excite the sarcolemma.<br><br>Under the <strong>all-or-none principle</strong>, when an action potential reaches threshold, <em>all muscle fibers within that motor unit contract simultaneously and develop force</em>. A stronger action potential cannot produce a stronger contraction, and a stimulus never activates only a fraction of a motor unit's fibers."
+        },
+        {
+            "id": "1.2-03",
+            "tag": "Molecular Steps of Muscle Contraction",
+            "reference": "Section 1.2",
+            "front": "Outline the five primary molecular steps of crossbridge cycling and muscle contraction.",
+            "back": "<ol><li><strong>ATP Splitting:</strong> Myosin ATPase splits ATP, putting the myosin head in an \"energized\" state to bind with actin.</li><li><strong>Phosphate Release:</strong> Release of inorganic phosphate causes the myosin head to change shape and shift.</li><li><strong>Power Stroke:</strong> The myosin head pulls the actin filament inward toward the sarcomere center; ADP is released.</li><li><strong>Detachment:</strong> A fresh ATP binds to the myosin head, facilitating detachment from actin.</li><li><strong>Recocking & Cycling:</strong> The myosin head re-energizes to bind the next actin site, repeating as long as ATP, ATPase, and troponin-bound Ca²⁺ are present.</li></ol>"
+        },
+        {
+            "id": "1.2-04",
+            "tag": "Twitch Summation & Tetanus",
+            "reference": "Section 1.2",
+            "front": "How do twitches summate to produce fused <strong>tetanus</strong> in a motor unit?",
+            "back": "<ul><li><strong>Single Twitch:</strong> A brief contraction resulting from a single action potential; calcium is sequestered back into the sarcoplasmic reticulum before maximal force is reached.</li><li><strong>Twitch Summation:</strong> If a second action potential arrives before complete relaxation, calcium release and crossbridge binding overlap, producing greater force than a single twitch.</li><li><strong>Fused Tetanus:</strong> When stimuli are delivered at sufficiently high firing frequencies, individual twitches merge completely into a smooth, sustained maximal contraction, yielding the <strong>maximal force</strong> the motor unit can develop.</li></ul>"
+        },
+        {
+            "id": "1.2-05",
+            "tag": "Fiber Typology & Staining Methodologies",
+            "reference": "Section 1.2",
+            "front": "What primary classification systems and laboratory methods are used to distinguish skeletal muscle fiber types?",
+            "back": "Fibers and motor units are classified through:<ul><li><strong>Twitch Kinetics:</strong> Differentiating <em>slow-twitch</em> (long twitch time, slow force development and relaxation) from <em>fast-twitch</em> (short twitch time, rapid force development and relaxation).</li><li><strong>Histochemical Staining:</strong> Staining for <strong>myosin ATPase</strong> activity, commonly identifying Type I (slow-twitch), Type IIa (fast-twitch), and Type IIx (fast-twitch).</li><li><strong>Myosin Heavy Chain (MHC) Quantification:</strong> Protein analysis identifying specific MHC isoforms corresponding to contractile speed.</li></ul>"
+        },
+        {
+            "id": "1.2-06",
+            "tag": "Fiber Characteristics (Type I vs. IIa vs. IIx)",
+            "reference": "Section 1.2",
+            "front": "Contrast the metabolic, structural, and contractile profiles of Type I, Type IIa, and Type IIx muscle fibers.",
+            "back": "<ul><li><strong>Type I (Slow-Twitch):</strong> Small motor neuron, low recruitment threshold, high fatigue resistance/endurance, high mitochondrial/capillary density, high myoglobin (red), but low force, power, and myosin ATPase activity.</li><li><strong>Type IIx (Fast-Twitch Glycolytic):</strong> Large motor neuron, high recruitment threshold, high force and power output, rapid contraction speed, high myosin ATPase and glycolytic enzyme activity, but low fatigue resistance, low mitochondria, and low capillaries (white).</li><li><strong>Type IIa (Fast-Twitch Oxidative-Glycolytic):</strong> Intermediate/high power and force, fast contraction speed, but possessing greater aerobic enzyme content, capillary density, and fatigue resistance than Type IIx.</li></ul>"
+        },
+        {
+            "id": "1.2-07",
+            "tag": "Muscle Fiber Distribution & Functional Demand",
+            "reference": "Section 1.2",
+            "front": "How does fiber type composition differ between postural muscles and large locomotor muscle groups?",
+            "back": "Fiber composition directly mirrors functional mechanical demands:<ul><li><strong>Postural Muscles (e.g., Soleus):</strong> Predominantly composed of <strong>Type I (slow-twitch)</strong> fibers to sustain continuous, fatigue-resistant low-force contractions for upright posture.</li><li><strong>Locomotor Muscles (e.g., Quadriceps):</strong> Possess a <strong>mixture of both Type I and Type II</strong> fibers, enabling efficient low-power sustained movements (e.g., walking, jogging) as well as explosive, high-power bursts (e.g., jumping, sprinting).</li></ul>"
+        },
+        {
+            "id": "1.2-08",
+            "tag": "Force Gradation: Rate Coding vs. Recruitment",
+            "reference": "Section 1.2",
+            "front": "What two physiological mechanisms allow skeletal muscle to vary force output, and how do they operate across different muscle sizes?",
+            "back": "Muscle force is graded via two distinct neural mechanisms:<ul><li><strong>Rate Coding (Firing Frequency):</strong> Varying the frequency of motor unit activation. Dominant in <em>small muscles</em> (e.g., hands), where nearly all motor units are active even at low forces, and force increases by firing units faster.</li><li><strong>Motor Unit Recruitment:</strong> Varying the <em>number of active motor units</em>. Dominant in <em>large muscles</em> (e.g., quadriceps), which fire near tetanic frequency when called upon and elevate force by recruiting additional motor units.</li></ul>"
+        },
+        {
+            "id": "1.2-09",
+            "tag": "Strategies to Enhance Force Production",
+            "reference": "Section 1.2",
+            "front": "According to Section 1.2, what three training strategies should athletes implement to maximize muscular force production?",
+            "back": "Athletes can enhance force output through:<ul><li><strong>Heavier Training Loads:</strong> Incorporate phases using heavy resistance loads to optimize neural drive and complete motor unit recruitment.</li><li><strong>Hypertrophy:</strong> Increase the physiological cross-sectional area (CSA) of the specific muscles involved in the sporting movement.</li><li><strong>Multijoint Explosive Exercises:</strong> Perform multimuscle, multijoint movements executed with high velocity/explosive intent to optimize high-threshold fast-twitch motor unit recruitment.</li></ul>"
+        },
+        {
+            "id": "1.2-10",
+            "tag": "Proprioceptors: Spindles vs. Golgi Tendon Organs",
+            "reference": "Section 1.2",
+            "front": "Compare the anatomical arrangement, sensory stimulus, and reflexive actions of <strong>muscle spindles</strong> versus <strong>Golgi tendon organs (GTOs)</strong>.",
+            "back": "<ul><li><strong>Muscle Spindles (In Parallel):</strong> Intrafusal fibers running parallel to extrafusal fibers; monitor <em>muscle length and rate of change in length</em>. Stretching triggers a sensory signal that synapses directly with alpha motor neurons, causing <strong>facilitatory contraction</strong> of the same muscle (e.g., knee jerk reflex).</li><li><strong>Golgi Tendon Organs (In Series):</strong> Encapsulated receptors located in tendons near the myotendinous junction; monitor <em>muscle tension</em>. High tension triggers sensory discharge to inhibitory interneurons in the spinal cord, causing <strong>autogenic inhibition (reflexive relaxation)</strong> to protect against excessive tension.<br><em>Training adaptation:</em> Heavy resistance training enables the motor cortex to <strong>override GTO inhibition</strong>.</li></ul>"
+        }
+    ]
+}

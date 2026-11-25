@@ -1,0 +1,76 @@
+{
+    "chapterId": "19.1",
+    "title": "19.1 Speed and Agility Mechanics and Terminology",
+    "cards": [
+        {
+            "id": "19.1-01",
+            "tag": "Movement Qualities & Perceptual-Cognitive Integration",
+            "reference": "Section 19.1",
+            "front": "How are <strong>speed</strong>, <strong>change of direction (COD)</strong>, and <strong>agility</strong> defined and distinguished from one another?",
+            "back": "<ul><li><strong>Speed:</strong> The skills and abilities needed to achieve high movement velocities (accelerating, attaining, and maintaining velocity).</li><li><strong>Change of Direction (COD):</strong> The skills and abilities needed to explosively change movement direction, velocities, or modes in a closed, pre-planned environment.</li><li><strong>Agility:</strong> The skills and abilities needed to change direction, velocity, or mode <strong>in response to a stimulus</strong> (e.g., an opposing player or a ball), uniquely requiring <strong>perceptual–cognitive ability</strong> combined with physical COD capacity.</li></ul>"
+        },
+        {
+            "id": "19.1-02",
+            "tag": "Locomotion Modalities & Sport Applications",
+            "reference": "Section 19.1",
+            "front": "How do <strong>linear</strong> and <strong>multidirectional</strong> locomotion differ in sporting contexts, and what tactical advantage does rapid direction change offer?",
+            "back": "<ul><li><strong>Linear Locomotion (Sprinting):</strong> Trajectory in a straight path; vital for track events and open-field running in game scenarios.</li><li><strong>Multidirectional Locomotion:</strong> The predominant mode in team sports where athletes must continuously respond to shifting game scenarios.</li><li><strong>Tactical Advantage:</strong> The ability to change direction rapidly can <strong>mute the effect of an opponent's linear speed</strong> and provide substantial physical and tactical advantages on the field of play.</li></ul>"
+        },
+        {
+            "id": "19.1-03",
+            "tag": "Strength Expression Constraints in Explosive Locomotion",
+            "reference": "Section 19.1",
+            "front": "Why is an athlete's <strong>maximal strength</strong> unable to be fully expressed during sprint, change-of-direction, and agility events?",
+            "back": "While high maximal strength is a desirable foundational attribute, explosive sprint, COD, and agility actions occur within <strong>extremely brief time windows (often 0 to 200 ms)</strong> that prevent athletes from producing and expressing their absolute maximal voluntary strength (which requires <strong>at least 300 ms</strong>). Consequently, performance is limited by the athlete's ability to apply force rapidly within the temporal constraints of the movement."
+        },
+        {
+            "id": "19.1-04",
+            "tag": "Classical Mechanics: Vectors, Scalars, and Velocity",
+            "reference": "Section 19.1",
+            "front": "In the physics of sprinting and agility, how are <strong>force</strong>, <strong>speed</strong>, <strong>velocity</strong>, and <strong>deceleration</strong> mechanically defined?",
+            "back": "<ul><li><strong>Force ($F = m \\times a$):</strong> A vector quantity possessing both magnitude and direction, representing the physical push or pull between two interacting objects.</li><li><strong>Speed:</strong> A <strong>scalar quantity</strong> describing solely how fast an object moves (the rate at which distance is covered).</li><li><strong>Velocity:</strong> A <strong>vector quantity</strong> describing both speed and direction of travel (\"speed with a direction\").</li><li><strong>Deceleration:</strong> Replaces \"negative acceleration\" in practical settings to describe a change from a higher to a lower velocity.</li></ul>"
+        },
+        {
+            "id": "19.1-05",
+            "tag": "Rate of Force Development (RFD) & Time Constraints",
+            "reference": "Section 19.1",
+            "front": "What is <strong>rate of force development (RFD)</strong>, and why is it more critical to athletic acceleration than maximal force production?",
+            "back": "<strong>Rate of Force Development (RFD):</strong> Defined as the change in force divided by the change in time ($\\Delta \\text{Force} / \\Delta \\text{Time}$), serving as the primary index of explosive strength.<br><br><strong>Significance:</strong> Generating maximal voluntary contraction force takes <strong>at least 300 ms</strong>, whereas most competitive sport movements consume only <strong>0 to 200 ms</strong>. Because available ground contact time is so limited, an athlete wishing to achieve higher acceleration must apply forces at a greater rate rather than relying on slow-developing peak force."
+        },
+        {
+            "id": "19.1-06",
+            "tag": "Impulse & The Impulse–Momentum Relationship",
+            "reference": "Section 19.1",
+            "front": "What is <strong>impulse</strong>, how is it graphically represented, and how does it dictate changes in an athlete's momentum?",
+            "back": "<strong>Impulse:</strong> The product of the generated force and the time required for its production ($F \\times \\Delta t$), measured as the <strong>area under the force–time curve</strong>.<br><br><strong>Impulse–Momentum Relationship:</strong> Impulse dictates the magnitude of change in momentum ($\\text{Mass} \\times \\text{Velocity}$). Because an athlete's body mass remains constant during a sprint, the <strong>only way to achieve a greater impulse within a given time frame is to generate greater force</strong>, driving acceleration, reacceleration, or deceleration."
+        },
+        {
+            "id": "19.1-07",
+            "tag": "Ground Contact Time Kinetics",
+            "reference": "Section 19.1",
+            "front": "What is <strong>ground contact time</strong>, and why can force never be applied instantaneously during locomotion?",
+            "back": "<strong>Ground Contact Time:</strong> The duration an athlete's foot remains in contact with the running surface during the <strong>stance phase</strong> of sprinting or the <strong>plant phase</strong> of changing direction.<br><br>Force can never be applied instantaneously; it must be developed over time. The magnitude of force coupled with the precise length of time that force is exerted onto the ground during an individual foot strike determines the net impulse and resultant change in velocity."
+        },
+        {
+            "id": "19.1-08",
+            "tag": "Acceleration vs. Maximal-Velocity Phase Kinetics",
+            "reference": "Section 19.1",
+            "front": "How do force application, body position, and contact times differ between the <strong>acceleration phase</strong> and the <strong>maximal-velocity phase</strong> of sprinting?",
+            "back": "<ul><li><strong>Acceleration Phase:</strong> Forward body lean; marked by large <strong>horizontal propulsive forces</strong> and longer ground contact times to overcome inertia and accelerate body mass.</li><li><strong>Maximal-Velocity Phase:</strong> Upright posture; characterized by asymmetrical force production, very high RFD, <strong>predominantly vertical ground reaction forces</strong> to counteract gravity, and <strong>much shorter ground contact times</strong> compared to the acceleration phase.</li></ul>"
+        },
+        {
+            "id": "19.1-09",
+            "tag": "Braking Impulse & Change-of-Direction Mechanics",
+            "reference": "Section 19.1",
+            "front": "What is <strong>braking impulse</strong>, and how do entry velocity, cut angle, and perceptual–cognitive demands affect change-of-direction requirements?",
+            "back": "<strong>Braking Impulse:</strong> The production of braking (negative horizontal) forces over time during the plant phase to decelerate momentum prior to redirection.<br><br><strong>Physical Demands:</strong> <ul><li>As <strong>entry velocity</strong> or the <strong>angle of directional change</strong> increases, the required braking and propulsive impulse increases, making sharp cuts at high speeds significantly more physically demanding.</li><li>The <strong>perceptual–cognitive time constraints</strong> of agility further amplify physical demands by restricting the time available to produce the necessary braking force in response to a stimulus.</li></ul>"
+        },
+        {
+            "id": "19.1-10",
+            "tag": "Mechanical Power vs. Direct Kinetic Measures",
+            "reference": "Section 19.1",
+            "front": "Why is <strong>mechanical power</strong> considered less informative than direct measures of force, RFD, and impulse in assessing explosive athletic performance?",
+            "back": "Power is a derived mechanical construct ($P = \\text{Force} \\times \\text{Velocity}$) rather than a direct physical measurement. Consequently, a single power value fails to reveal <em>how</em> that output was generated—whether through high force or high velocity. In contrast, <strong>force, rate of force development (RFD), and impulse</strong> are direct measures that clearly explain the kinetic mechanisms governing sprint acceleration and agility performance."
+        }
+    ]
+}

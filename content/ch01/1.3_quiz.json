@@ -1,0 +1,825 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Structurally and functionally, how is the human heart organized to maintain circulation?",
+        "opts": [
+          "As a single muscular chamber that alternates between pumping to lungs and body",
+          "As two interconnected but separate pumps operating in series",
+          "As four independent contractile sacs operating under identical pressures",
+          "As an open-ended muscular tube without internal division"
+        ],
+        "correct": 1,
+        "rationale": "The textbook states that the heart is a muscular organ composed of two interconnected but separate pumps: the right side pumps blood through the lungs, and the left side pumps blood through the rest of the body."
+      },
+      {
+        "id": 2,
+        "q": "What is the specific physiological role of the right side of the heart within the cardiovascular circuit?",
+        "opts": [
+          "Ejecting blood at high pressure through the systemic arterial tree",
+          "Pumping deoxygenated blood through the pulmonary circulation to the lungs",
+          "Filtering cellular waste products from peripheral tissues",
+          "Generating systemic vascular resistance through arteriolar constriction"
+        ],
+        "correct": 1,
+        "rationale": "The right side of the heart is dedicated to the pulmonary circuit; the right atrium delivers deoxygenated blood into the right ventricle, which pumps it through the lungs for gas exchange."
+      },
+      {
+        "id": 3,
+        "q": "Which heart chambers provide the primary mechanical force for moving blood through the pulmonary and peripheral circulations, respectively?",
+        "opts": [
+          "Right atrium and left atrium",
+          "Right ventricle and left ventricle",
+          "Superior and inferior vena cava",
+          "Sinoatrial and atrioventricular nodes"
+        ],
+        "correct": 1,
+        "rationale": "The right and left atria act as primer pumps delivering blood into the ventricles, whereas the right and left ventricles supply the main force for propelling blood through the pulmonary and peripheral circulations."
+      },
+      {
+        "id": 4,
+        "q": "Which valves prevent the retrograde flow of blood from the ventricles back into the atria during ventricular contraction (systole)?",
+        "opts": [
+          "Aortic valve and pulmonary valve",
+          "Tricuspid valve and mitral (bicuspid) valve",
+          "Venous pocket valves and coronary sinus valves",
+          "Eustachian valve and Thebesian valve"
+        ],
+        "correct": 1,
+        "rationale": "The tricuspid valve (right side) and mitral (bicuspid) valve (left side), collectively called atrioventricular (AV) valves, close to prevent blood flow from the ventricles back into the atria during ventricular systole."
+      },
+      {
+        "id": 5,
+        "q": "What is the collective anatomical designation for the aortic valve and pulmonary valve?",
+        "opts": [
+          "Atrioventricular (AV) valves",
+          "Semilunar valves",
+          "Endocardial cusp valves",
+          "Musculotendinous valves"
+        ],
+        "correct": 1,
+        "rationale": "The aortic and pulmonary valves are collectively termed the semilunar valves. They prevent backflow from the aorta and pulmonary arteries into the ventricles during ventricular relaxation (diastole)."
+      },
+      {
+        "id": 6,
+        "q": "By what mechanical mechanism do cardiac valves open and close during the cardiac cycle?",
+        "opts": [
+          "Active muscular contraction of the valve leaflets",
+          "Direct neural stimulation from sympathetic nerve fibers",
+          "Passively in response to forward and backward pressure gradients",
+          "Electrochemical binding of calcium to endocardial membrane receptors"
+        ],
+        "correct": 2,
+        "rationale": "Heart valves open and close passively; each valve closes when a backward pressure gradient pushes blood back against it, and opens when a forward pressure gradient forces blood forward."
+      },
+      {
+        "id": 7,
+        "q": "During which phase of the cardiac cycle do the semilunar valves close to prevent backflow into the ventricles?",
+        "opts": [
+          "Ventricular systole (contraction)",
+          "Ventricular diastole (relaxation)",
+          "Atrial systole",
+          "Isovolumetric ventricular contraction"
+        ],
+        "correct": 1,
+        "rationale": "The semilunar valves (aortic and pulmonary) prevent backflow from the aorta and pulmonary arteries into the ventricles during ventricular relaxation (diastole)."
+      },
+      {
+        "id": 8,
+        "q": "Which chamber of the heart generates the highest pressure to overcome peripheral vascular resistance?",
+        "opts": [
+          "Right atrium",
+          "Right ventricle",
+          "Left atrium",
+          "Left ventricle"
+        ],
+        "correct": 3,
+        "rationale": "The left ventricle supplies the primary muscular force required to move blood through the entire high-resistance systemic/peripheral circulation of the body."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following valves are classified as atrioventricular (AV) valves? (Select all that apply)",
+        "opts": [
+          "Tricuspid valve",
+          "Mitral valve",
+          "Bicuspid valve",
+          "Aortic valve",
+          "Pulmonary valve"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "The atrioventricular (AV) valves consist of the tricuspid valve on the right side and the mitral (also termed bicuspid) valve on the left side. The aortic and pulmonary valves are semilunar valves."
+      },
+      {
+        "id": 2,
+        "q": "Which statements accurately describe the functional differences between atria and ventricles? (Select all that apply)",
+        "opts": [
+          "Atria deliver blood into the ventricles",
+          "Ventricles supply the primary force moving blood through the circulations",
+          "Atria generate higher systolic ejection pressures than ventricles",
+          "Right ventricle propels blood through the pulmonary circulation",
+          "Left ventricle propels blood through the peripheral/systemic circulation"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "rationale": "Atria act as primer pumps delivering blood to ventricles; ventricles provide the main pumping force through the pulmonary (right) and systemic (left) circuits. Ventricles, not atria, generate high systolic ejection pressures."
+      },
+      {
+        "id": 3,
+        "q": "Which physiological events occur during ventricular systole? (Select all that apply)",
+        "opts": [
+          "Ventricles contract and develop intracardiac pressure",
+          "Atrioventricular (AV) valves close to prevent regurgitation into the atria",
+          "Semilunar valves open when forward pressure exceeds arterial pressure",
+          "Semilunar valves close to prevent backflow into ventricles",
+          "Blood is ejected into the pulmonary artery and aorta"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "During ventricular systole, ventricles contract, AV valves close to prevent backflow into atria, and semilunar valves open as pressure gradients force blood into the pulmonary artery and aorta. Semilunar valves close during diastole."
+      },
+      {
+        "id": 4,
+        "q": "Which of the following are primary physiological roles of the cardiovascular system during exercise and rest? (Select all that apply)",
+        "opts": [
+          "Transporting oxygen and nutrients to active tissues",
+          "Removing metabolic waste products and carbon dioxide",
+          "Regulating body temperature and fluid balance",
+          "Assisting in acid\u2013base regulation",
+          "Initiating skeletal muscle motor unit action potentials"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "The cardiovascular system transports nutrients, removes metabolic wastes, and assists in regulating acid-base balance, fluids, and body temperature. Skeletal motor unit action potentials are initiated by the nervous system."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "The right and left atria provide the main contractile force for moving blood through the pulmonary and systemic circulations.",
+        "ans": false,
+        "feedback": "The right and left atria deliver blood into the ventricles; it is the right and left ventricles that supply the main force for moving blood through the pulmonary and peripheral circulations."
+      },
+      {
+        "id": 2,
+        "q": "The opening and closing of heart valves is an active muscular process driven by contractile proteins within the valve cusps.",
+        "ans": false,
+        "feedback": "Heart valves open and close passively based on forward and backward pressure gradients created by blood flow and chamber pressures."
+      },
+      {
+        "id": 3,
+        "q": "The mitral valve and bicuspid valve refer to the exact same anatomical atrioventricular valve on the left side of the heart.",
+        "ans": true,
+        "feedback": "The mitral valve is also known as the bicuspid valve; both terms denote the left atrioventricular valve."
+      },
+      {
+        "id": 4,
+        "q": "Semilunar valves prevent arterial blood from flowing backward into the ventricles during ventricular diastole.",
+        "ans": true,
+        "feedback": "The aortic and pulmonary semilunar valves close during ventricular diastole (relaxation) to prevent backflow from the aorta and pulmonary arteries into the ventricles."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "The **right** side of the heart pumps blood through the lungs, whereas the **left** side pumps blood through the rest of the body.",
+        "targets": [
+          "right",
+          "left"
+        ],
+        "optionsBank": [
+          "right",
+          "left",
+          "anterior",
+          "posterior",
+          "cranial"
+        ],
+        "hint": "Recall the physiological mechanisms and anatomical structures discussed in this section."
+      },
+      {
+        "id": 2,
+        "statement": "The **tricuspid** valve and **mitral** valve are atrioventricular valves that prevent backflow of blood into the atria during ventricular contraction.",
+        "targets": [
+          "tricuspid",
+          "mitral"
+        ],
+        "optionsBank": [
+          "tricuspid",
+          "mitral",
+          "aortic",
+          "pulmonary",
+          "venous"
+        ],
+        "hint": "Recall the specific heart valves and their operational phases in the cardiac cycle."
+      },
+      {
+        "id": 3,
+        "statement": "Heart valves open and close **passively** depending on forward and backward **pressure gradients**.",
+        "targets": [
+          "passively",
+          "pressure gradients"
+        ],
+        "optionsBank": [
+          "passively",
+          "pressure gradients",
+          "actively",
+          "neural impulses",
+          "calcium ions"
+        ],
+        "hint": "Recall the specific heart valves and their operational phases in the cardiac cycle."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Describe the anatomical dual-pump organization of the human heart, identifying the specific vascular circuits served by the right and left sides.",
+        "model": "The human heart functions as two interconnected but separate muscular pumps operating in series. The right side of the heart consists of the right atrium and right ventricle; it receives deoxygenated systemic venous blood and propels it at low pressure through the pulmonary circulation to the lungs for gas exchange. The left side consists of the left atrium and left ventricle; it receives oxygenated blood returning from the lungs and generates high muscular pressure to eject blood through the aorta into the peripheral/systemic circulation, supplying oxygen and nutrients to all tissues of the body.",
+        "criteria": [
+          "Identify the heart as two interconnected but separate pumps in series.",
+          "State that the right side pumps blood through the pulmonary circulation (lungs).",
+          "State that the left side pumps blood through the peripheral/systemic circulation (body).",
+          "Note the complementary roles of atria (filling primer) and ventricles (main force generator)."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain the mechanical operating mechanism of the cardiac valves, contrasting the actions of atrioventricular valves and semilunar valves during systole and diastole.",
+        "model": "All cardiac valves operate purely passively based on dynamic pressure gradients; they open when forward pressure exceeds downstream pressure, and close when backward pressure pushes blood against the valve leaflets. During ventricular systole (contraction), high pressure generated in the ventricles forces the atrioventricular (AV) valves\u2014the tricuspid and mitral valves\u2014to close, preventing regurgitation into the atria, while forward pressure opens the semilunar valves (aortic and pulmonary) to allow ejection. During ventricular diastole (relaxation), ventricular pressure drops below arterial pressure, causing backward pressure in the aorta and pulmonary artery to close the semilunar valves (preventing ventricular backflow), while forward pressure from venous return opens the AV valves to fill the relaxing ventricles.",
+        "criteria": [
+          "Explain that valves open and close passively due to pressure gradients.",
+          "Identify AV valves (tricuspid and mitral) closing during ventricular systole to prevent backflow into atria.",
+          "Identify semilunar valves (aortic and pulmonary) closing during ventricular diastole to prevent backflow into ventricles.",
+          "Detail the relationship between chamber pressure shifts and valve leaflet movement.",
+          "--"
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "Which specialized anatomical structure serves as the intrinsic pacemaker of the heart where rhythmic electrical impulses normally originate?",
+        "opts": [
+          "Atrioventricular (AV) node",
+          "Sinoatrial (SA) node",
+          "Bundle of His",
+          "Purkinje fiber network"
+        ],
+        "correct": 1,
+        "rationale": "The sinoatrial (SA) node is the intrinsic pacemaker of the heart, where rhythmic electrical impulses are normally initiated under resting conditions."
+      },
+      {
+        "id": 2,
+        "q": "What is the normal inherent discharge rate of the sinoatrial (SA) node in the absence of outside influence?",
+        "opts": [
+          "15 to 40 times per minute",
+          "40 to 60 times per minute",
+          "60 to 80 times per minute",
+          "100 to 120 times per minute"
+        ],
+        "correct": 2,
+        "rationale": "The textbook states that the intrinsic discharge rate of the SA node is considerably greater (60-80 times per minute) than that of the AV node (40-60 times per minute) or ventricular fibers (15-40 times per minute)."
+      },
+      {
+        "id": 3,
+        "q": "What is the primary physiological purpose of the slight electrical delay that occurs at the atrioventricular (AV) node?",
+        "opts": [
+          "To prevent ventricular action potentials from propagating into the bundle branches",
+          "To allow time for the atria to contract and empty blood into the ventricles before ventricular contraction begins",
+          "To allow coronary blood flow to cease during atrial repolarization",
+          "To protect the sinoatrial node from sympathetic overstimulation"
+        ],
+        "correct": 1,
+        "rationale": "The conductive system is organized so that the impulse does not travel into the ventricles too rapidly; the AV node delays each impulse slightly, allowing time for the atria to contract and empty blood into the ventricles before ventricular contraction begins."
+      },
+      {
+        "id": 4,
+        "q": "Where is the atrioventricular (AV) node anatomically situated within the heart?",
+        "opts": [
+          "In the anterior wall of the left ventricle",
+          "In the posterior septal wall of the right atrium",
+          "In the apex of the left ventricle",
+          "In the superior border of the ascending aorta"
+        ],
+        "correct": 1,
+        "rationale": "The textbook explicitly states that the AV node is located in the posterior septal wall of the right atrium."
+      },
+      {
+        "id": 5,
+        "q": "Why does the sinoatrial (SA) node normally dictate heart rhythmicity over the AV node and ventricular Purkinje fibers?",
+        "opts": [
+          "It is the only cardiac tissue capable of depolarizing",
+          "Its intrinsic discharge rate is considerably faster, discharging latent pacemakers before they can self-excite",
+          "It is innervated exclusively by the sympathetic nervous system",
+          "It contains muscular valves that physically block retrograde action potentials"
+        ],
+        "correct": 1,
+        "rationale": "Because the SA node's discharge rate (60-80/min) is faster than the AV node (40-60/min) and ventricular fibers (15-40/min), its impulse conducts into these tissues and discharges their excitable membranes before self-excitation can occur."
+      },
+      {
+        "id": 6,
+        "q": "Which neurological division innervates the atria and SA node to slow heart rate, and what neurotransmitter mechanism is involved?",
+        "opts": [
+          "Somatic nervous system releasing epinephrine",
+          "Sympathetic nervous system causing a chronotropic effect",
+          "Parasympathetic nervous system slowing the rate of SA node discharge",
+          "Enteric nervous system stimulating Purkinje fibers"
+        ],
+        "correct": 2,
+        "rationale": "Stimulation of the parasympathetic nervous system (via the vagus nerve) slows the rate of SA node discharge, which slows the heart rate."
+      },
+      {
+        "id": 7,
+        "q": "What clinical terminology is used to describe a resting heart rate fewer than 60 beats/min and more than 100 beats/min, respectively?",
+        "opts": [
+          "Tachycardia and bradycardia",
+          "Bradycardia and tachycardia",
+          "Fibrillation and flutter",
+          "Arrhythmia and asystole"
+        ],
+        "correct": 1,
+        "rationale": "Normal resting heart rate ranges from 60 to 100 beats/min; fewer than 60 beats/min is called bradycardia, and more than 100 beats/min is called tachycardia."
+      },
+      {
+        "id": 8,
+        "q": "On a surface electrocardiogram (ECG), which waveform represents electrical repolarization of the ventricles?",
+        "opts": [
+          "P-wave",
+          "QRS complex",
+          "T-wave",
+          "U-wave"
+        ],
+        "correct": 2,
+        "rationale": "The T-wave is caused by the electrical potential generated as the ventricles recover from depolarization; this repolarization occurs in ventricular muscle shortly after depolarization."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which components constitute the specialized electrical conduction system of the heart? (Select all that apply)",
+        "opts": [
+          "Sinoatrial (SA) node",
+          "Internodal pathways",
+          "Atrioventricular (AV) node",
+          "Atrioventricular (AV) bundle and bundle branches",
+          "Purkinje fibers"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "rationale": "The heart's electrical conduction system comprises the SA node, internodal pathways, AV node, AV bundle (bundle of His), left and right bundle branches, and Purkinje fibers."
+      },
+      {
+        "id": 2,
+        "q": "Which statements accurately characterize the autonomic regulation of the heart? (Select all that apply)",
+        "opts": [
+          "Signals originate from the cardiovascular center of the medulla",
+          "The atria are supplied with both sympathetic and parasympathetic neurons",
+          "The ventricles receive sympathetic fibers almost exclusively",
+          "Sympathetic stimulation accelerates SA node depolarization (chronotropic effect)",
+          "Parasympathetic stimulation accelerates AV node conduction velocity"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "The medulla modulates heart rate via sympathetic and parasympathetic nerves. Atria have dual innervation; ventricles receive almost exclusively sympathetic fibers. Sympathetic stimulation accelerates SA node depolarization (positive chronotropic effect). Parasympathetic stimulation slows, rather than accelerates, conduction."
+      },
+      {
+        "id": 3,
+        "q": "What physiological electrical events correspond to the waveforms of a standard electrocardiogram (ECG)? (Select all that apply)",
+        "opts": [
+          "P-wave represents atrial depolarization leading to atrial contraction",
+          "QRS complex represents ventricular depolarization leading to ventricular contraction",
+          "Atrial repolarization is masked by the QRS complex",
+          "T-wave represents ventricular repolarization",
+          "P-wave represents ventricular repolarization"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "The P-wave reflects atrial depolarization; the QRS complex reflects ventricular depolarization (which masks atrial repolarization); and the T-wave reflects ventricular repolarization."
+      },
+      {
+        "id": 4,
+        "q": "What are the intrinsic discharge rates of cardiac tissues in descending order? (Select all that apply)",
+        "opts": [
+          "Sinoatrial node: 60 to 80 beats/min",
+          "Atrioventricular node: 40 to 60 beats/min",
+          "Ventricular Purkinje fibers: 15 to 40 beats/min",
+          "Sinoatrial node: 15 to 40 beats/min",
+          "Atrioventricular node: 60 to 80 beats/min"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "The intrinsic pacing hierarchy is SA node (60-80 beats/min), AV node (40-60 beats/min), and ventricular Purkinje fibers (15-40 beats/min)."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "The intrinsic discharge rate of the atrioventricular (AV) node is faster than that of the sinoatrial (SA) node.",
+        "ans": false,
+        "feedback": "The SA node has a discharge rate of 60 to 80 times per minute, which is considerably greater than the AV node's 40 to 60 times per minute."
+      },
+      {
+        "id": 2,
+        "q": "The ventricles receive autonomic innervation almost exclusively from sympathetic nerve fibers.",
+        "ans": true,
+        "feedback": "The textbook states that while the atria receive extensive sympathetic and parasympathetic innervation, the ventricles receive sympathetic fibers almost exclusively."
+      },
+      {
+        "id": 3,
+        "q": "Atrial repolarization does not occur in human cardiac muscle and is therefore absent from heart physiology.",
+        "ans": false,
+        "feedback": "Atrial repolarization does occur, but its electrical wave occurs during the time of ventricular depolarization and is thus masked by the large QRS complex on an ECG."
+      },
+      {
+        "id": 4,
+        "q": "Depolarization represents the reversal of the membrane electrical potential, where the inside of the cell becomes slightly positive relative to the outside.",
+        "ans": true,
+        "feedback": "Depolarization is the reversal of membrane electrical potential, whereby the normally negative potential inside the membrane becomes slightly positive and the outside becomes slightly negative."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "The intrinsic pacemaker of the heart is the **sinoatrial** node, while the **atrioventricular** node delays the impulse before it passes into the ventricles.",
+        "targets": [
+          "sinoatrial",
+          "atrioventricular"
+        ],
+        "optionsBank": [
+          "sinoatrial",
+          "atrioventricular",
+          "Purkinje",
+          "internodal",
+          "aortic"
+        ],
+        "hint": "Recall the cardiac conduction sequence and intrinsic pacemaker firing rates."
+      },
+      {
+        "id": 2,
+        "statement": "On an ECG, the **P-wave** represents atrial depolarization, the **QRS complex** represents ventricular depolarization, and the **T-wave** represents ventricular repolarization.",
+        "targets": [
+          "P-wave",
+          "QRS complex",
+          "T-wave"
+        ],
+        "optionsBank": [
+          "P-wave",
+          "QRS complex",
+          "T-wave",
+          "U-wave",
+          "ST-segment"
+        ],
+        "hint": "Recall the electrical waveforms and deflections of the electrocardiogram."
+      },
+      {
+        "id": 3,
+        "statement": "A resting heart rate of fewer than 60 beats/min is defined as **bradycardia**, whereas a rate exceeding 100 beats/min is termed **tachycardia**.",
+        "targets": [
+          "bradycardia",
+          "tachycardia"
+        ],
+        "optionsBank": [
+          "bradycardia",
+          "tachycardia",
+          "fibrillation",
+          "normocardia",
+          "syncope"
+        ],
+        "hint": "Recall the physiological mechanisms and anatomical structures discussed in this section."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Trace the sequential pathway of an electrical impulse through the cardiac conduction system, explaining the functional significance of the AV nodal delay.",
+        "model": "An electrical impulse originates in the sinoatrial (SA) node located in the right atrium. It spreads across the atria via internodal pathways, initiating atrial depolarization. The impulse reaches the atrioventricular (AV) node, located in the posterior septal wall of the right atrium, where it undergoes a critical physiological delay. After this delay, the impulse conducts rapidly through the atrioventricular (AV) bundle (Bundle of His), splits into the left and right bundle branches in the interventricular septum, and disperses across the ventricular myocardium via the Purkinje fibers. The AV nodal delay is essential because it prevents impulses from entering the ventricles too rapidly, ensuring the atria have sufficient time to contract and completely empty their blood into the ventricles before ventricular systole begins.",
+        "criteria": [
+          "Trace sequence: SA node -> internodal pathways -> AV node -> AV bundle -> bundle branches -> Purkinje fibers.",
+          "Identify the SA node as the intrinsic pacemaker.",
+          "Explain that the AV node delays the impulse.",
+          "State that the delay allows atria to contract and empty blood into ventricles prior to ventricular systole."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain how the autonomic nervous system modulates heart rate, contrasting sympathetic and parasympathetic actions on cardiac tissue and defining resting bradycardia versus tachycardia.",
+        "model": "The cardiovascular center in the medulla regulates cardiac rhythmicity via the autonomic nervous system. Sympathetic nerve fibers innervate both atria and ventricles; sympathetic stimulation accelerates SA node depolarization (a positive chronotropic effect), causing the heart to beat faster and increasing ventricular contractility. In contrast, parasympathetic fibers (via the vagus nerve) supply the atria and SA/AV nodes; parasympathetic stimulation slows the rate of SA node discharge, reducing heart rate. Under normal conditions, resting heart rate ranges from 60 to 100 beats/min. A resting rate below 60 beats/min is termed bradycardia, commonly observed in highly trained endurance athletes due to elevated parasympathetic vagal tone and large stroke volumes. A resting rate exceeding 100 beats/min is termed tachycardia.",
+        "criteria": [
+          "State that the medullary cardiovascular center coordinates sympathetic and parasympathetic control.",
+          "Explain that sympathetic stimulation accelerates SA node depolarization (chronotropic effect) to increase heart rate.",
+          "Explain that parasympathetic stimulation slows SA node discharge to lower heart rate.",
+          "Note ventricular innervation (almost exclusively sympathetic).",
+          "Correctly define bradycardia (<60 bpm) and tachycardia (>100 bpm).",
+          "--"
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What are the two primary structural and hemodynamic components of the closed-circuit cardiovascular system?",
+        "opts": [
+          "Pulmonary alveoli and systemic bronchial beds",
+          "An arterial system carrying blood away from the heart and a venous system returning blood toward the heart",
+          "A lymphatic duct system and a hepatic portal circuit",
+          "An open sinus system and a capillary filtration network"
+        ],
+        "correct": 1,
+        "rationale": "The central and peripheral circulation form a single closed-circuit system with two components: an arterial system (carries blood away from heart) and a venous system (returns blood toward heart)."
+      },
+      {
+        "id": 2,
+        "q": "Why are the walls of arteries constructed with strong, muscular, and elastic tissues?",
+        "opts": [
+          "To facilitate gas diffusion directly across the arterial wall",
+          "To transport blood rapidly under high pressures away from the heart",
+          "To serve as the primary blood reservoir of the systemic circulation",
+          "To prevent oxygen from binding to erythrocyte hemoglobin"
+        ],
+        "correct": 1,
+        "rationale": "Arteries rapidly convey blood pumped from the heart under high pressure; thus, arterial walls are strong and elastic to withstand and cushion these pressure fluctuations."
+      },
+      {
+        "id": 3,
+        "q": "Which blood vessels act as the primary circulatory \"control valves\" governing blood flow into capillary beds?",
+        "opts": [
+          "Muscular arteries",
+          "Arterioles",
+          "Venules",
+          "Capacitance veins"
+        ],
+        "correct": 1,
+        "rationale": "Arterioles act as control valves through which blood is directed into capillaries; their muscular walls can close completely or dilate many times over, vastly altering regional blood flow in response to tissue needs."
+      },
+      {
+        "id": 4,
+        "q": "What is the primary physiological function of the microvascular capillary network?",
+        "opts": [
+          "Dampening arterial systolic pulse waves",
+          "Facilitating exchange of oxygen, fluid, nutrients, electrolytes, and hormones between blood and interstitial fluid",
+          "Storing reserve blood volume under high pressure",
+          "Catalyzing the breakdown of lactic acid into glucose"
+        ],
+        "correct": 1,
+        "rationale": "Capillaries facilitate the exchange of oxygen, fluid, nutrients, electrolytes, hormones, and other substances between the blood and the interstitial fluid of body tissues through their thin, permeable walls."
+      },
+      {
+        "id": 5,
+        "q": "What anatomical feature of leg veins assists in maintaining venous return to the heart against gravity?",
+        "opts": [
+          "Dense internal elastic lamina",
+          "High-pressure precapillary sphincters",
+          "One-way valves preventing retrograde blood flow",
+          "Ciliated endothelial cells that propel erythrocytes"
+        ],
+        "correct": 2,
+        "rationale": "Some veins, such as those in the lower extremities, contain one-way valves that help maintain venous return by preventing retrograde (backward) pooling of blood."
+      },
+      {
+        "id": 6,
+        "q": "Why are the veins characterized as the primary capacitance vessels or \"blood reservoirs\" of the body?",
+        "opts": [
+          "Venous pressure is exceptionally high, forcing vessels to stretch",
+          "Venous walls are thin, muscular, and compliant, allowing them to constrict or dilate extensively",
+          "Veins have thicker muscular tunics than systemic arteries",
+          "Veins produce plasma proteins that retain fluid within the vascular lumen"
+        ],
+        "correct": 1,
+        "rationale": "Because venous pressure is very low, venous walls are thin though muscular; this compliance allows veins to constrict or dilate to a great degree and act as a dynamic reservoir for blood."
+      },
+      {
+        "id": 7,
+        "q": "Which iron\u2013protein molecule carried by red blood cells is responsible for transporting oxygen from lungs to active tissues?",
+        "opts": [
+          "Myoglobin",
+          "Hemoglobin",
+          "Ferritin",
+          "Transferrin"
+        ],
+        "correct": 1,
+        "rationale": "The transport of oxygen is accomplished by hemoglobin, the iron-protein molecule carried by red blood cells."
+      },
+      {
+        "id": 8,
+        "q": "What additional vital physiological role does hemoglobin perform in blood during exercise, beyond oxygen delivery?",
+        "opts": [
+          "Catalyzing glycogenolysis in active muscle fibers",
+          "Acting as an acid\u2013base buffer by regulating hydrogen ion concentration",
+          "Stimulating platelet aggregation in undamaged capillary walls",
+          "Converting ADP to ATP within the vascular lumen"
+        ],
+        "correct": 1,
+        "rationale": "The textbook states that hemoglobin also has an additional important role as an acid-base buffer, a regulator of hydrogen ion concentration, which is crucial to the rates of chemical reactions in cells."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which statements accurately differentiate the functional properties of arteries, arterioles, capillaries, and veins? (Select all that apply)",
+        "opts": [
+          "Arteries transport blood away from the heart under high pressures",
+          "Arterioles act as variable-resistance control valves regulating capillary flow",
+          "Capillaries possess thin, permeable walls enabling nutrient and gas exchange",
+          "Veins operate under very low pressures and serve as capacitance blood reservoirs",
+          "Veins carry blood under higher hydrostatic pressure than systemic arteries"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Arteries are high-pressure conduits away from the heart; arterioles regulate regional distribution; capillaries permit diffusion; and veins return blood under low pressure, acting as volume reservoirs. Vein pressure is much lower than artery pressure."
+      },
+      {
+        "id": 2,
+        "q": "What are the paramount physiological functions of blood in human exercise and resting metabolism? (Select all that apply)",
+        "opts": [
+          "Transporting oxygen from the lungs to exercising tissues for cellular metabolism",
+          "Transporting carbon dioxide from active tissues to the lungs for excretion",
+          "Buffering changes in hydrogen ion concentration to maintain acid\u2013base homeostasis",
+          "Delivering nutrients, electrolytes, and hormones to peripheral tissues",
+          "Providing physical mechanical lubrication for articulating joint capsules"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Blood transports oxygen, carries away metabolic carbon dioxide, buffers systemic pH via hemoglobin, and distributes nutrients and hormones. Synovial fluid, not blood, lubricates joint capsules."
+      },
+      {
+        "id": 3,
+        "q": "Which mechanisms facilitate the transport and removal of carbon dioxide from working muscle beds to the lungs? (Select all that apply)",
+        "opts": [
+          "Red blood cells contain large quantities of the enzyme carbonic anhydrase",
+          "Carbonic anhydrase catalyzes the reaction between carbon dioxide and water",
+          "Carbon dioxide is transported in blood to the lungs where it is removed from the body",
+          "Hemoglobin binds carbon dioxide directly to form oxyhemoglobin",
+          "Carbon dioxide is eliminated through the skin via sweat glands"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Red blood cells contain carbonic anhydrase, which catalyzes the hydration of CO2 and water to facilitate CO2 removal via the lungs. Oxyhemoglobin refers to oxygen bound to hemoglobin, not carbon dioxide."
+      },
+      {
+        "id": 4,
+        "q": "What structural adaptations allow veins to effectively transport blood back to the right atrium under low pressure? (Select all that apply)",
+        "opts": [
+          "Thin, compliant muscular walls that accommodate large volume shifts",
+          "One-way valves in extremity veins that prevent retrograde pooling",
+          "Thick endothelial layers impermeable to gases",
+          "The ability to constrict or dilate to modulate venous return",
+          "Precapillary sphincters that generate high back-pressure"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Venous return under low pressure is assisted by compliant, muscular walls that constrict/dilate, and one-way valves in extremity veins. Precapillary sphincters are located at arterioles/capillaries, not veins."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Arterioles possess muscular walls that can constrict or dilate extensively to alter regional blood flow in response to tissue metabolic demand.",
+        "ans": true,
+        "feedback": "Arterioles serve as control valves; their smooth muscle can constrict completely or dilate widely, redistributing blood flow to capillaries based on metabolic needs."
+      },
+      {
+        "id": 2,
+        "q": "Capillary walls are thick and muscular to generate the high pressures needed to force nutrients into muscle cells.",
+        "ans": false,
+        "feedback": "Capillary walls are extremely thin and permeable to facilitate passive diffusion of oxygen, fluids, and nutrients between blood and interstitial fluid; they have no muscular layer."
+      },
+      {
+        "id": 3,
+        "q": "Hemoglobin functions exclusively as an oxygen transporter and plays no role in acid\u2013base buffering.",
+        "ans": false,
+        "feedback": "In addition to transporting oxygen, hemoglobin is an essential acid-base buffer that regulates hydrogen ion concentration in the blood."
+      },
+      {
+        "id": 4,
+        "q": "Carbonic anhydrase is an enzyme found in high concentrations within red blood cells that facilitates the removal of carbon dioxide.",
+        "ans": true,
+        "feedback": "Red blood cells contain large amounts of carbonic anhydrase, which catalyzes the reaction between carbon dioxide and water to facilitate carbon dioxide transport and removal."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Arteries transport blood away from the heart under **high pressure**, whereas veins return blood under **low pressure** and act as a dynamic blood reservoir.",
+        "targets": [
+          "high pressure",
+          "low pressure"
+        ],
+        "optionsBank": [
+          "high pressure",
+          "low pressure",
+          "negative pressure",
+          "static pressure",
+          "zero pressure"
+        ],
+        "hint": "Recall the vascular tree anatomy, exchange vessels, and blood capacitance functions."
+      },
+      {
+        "id": 2,
+        "statement": "Arterioles act as circulatory **control valves** that alter blood flow to **capillaries** in response to local tissue needs.",
+        "targets": [
+          "control valves",
+          "capillaries"
+        ],
+        "optionsBank": [
+          "control valves",
+          "capillaries",
+          "ventricles",
+          "endocardium",
+          "semilunar valves"
+        ],
+        "hint": "Recall the specific heart valves and their operational phases in the cardiac cycle."
+      },
+      {
+        "id": 3,
+        "statement": "Oxygen transport in the blood is accomplished by **hemoglobin**, while the enzyme **carbonic anhydrase** catalyzes the reaction between carbon dioxide and water to facilitate carbon dioxide removal.",
+        "targets": [
+          "hemoglobin",
+          "carbonic anhydrase"
+        ],
+        "optionsBank": [
+          "hemoglobin",
+          "carbonic anhydrase",
+          "myoglobin",
+          "creatine kinase",
+          "ATPase"
+        ],
+        "hint": "Recall blood gas transport kinetics, hemoglobin buffering, and carbonic anhydrase activity."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Compare the structural characteristics and physiological functions of systemic arteries, arterioles, capillaries, and veins, highlighting how pressure and vessel compliance dictate their roles.",
+        "model": "Systemic blood vessels form a closed circuit optimized for transport, regulation, exchange, and return under varying pressures. Arteries are thick-walled, muscular, and highly elastic conduits designed to transport blood rapidly away from the left ventricle under high hydrostatic pressure, dampening pressure pulsations. Arterioles are smaller, highly muscular resistance vessels that act as adjustable control valves; by constricting or dilating, they modulate peripheral resistance and direct blood flow to specific capillary beds according to local tissue metabolic demands. Capillaries possess extremely thin, permeable single-endothelial walls that maximize surface area and minimize diffusion distance, facilitating the exchange of oxygen, fluid, nutrients, electrolytes, and hormones with interstitial fluid. Veins and venules are thin-walled, compliant vessels that collect blood from capillaries under very low pressure; their high compliance allows them to act as a dynamic blood reservoir (holding the majority of resting blood volume), and extremity veins contain one-way pocket valves to prevent retrograde pooling and facilitate venous return to the heart.",
+        "criteria": [
+          "Characterize arteries as high-pressure, elastic conduits transporting blood away from the heart.",
+          "Characterize arterioles as muscular control valves regulating peripheral resistance and capillary distribution.",
+          "Characterize capillaries as thin, permeable vessels enabling gas, nutrient, and fluid exchange.",
+          "Characterize veins as compliant, low-pressure vessels acting as blood reservoirs with one-way valves."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain the dual physiological roles of hemoglobin in athletic performance and recovery, and describe how red blood cells facilitate the clearance of carbon dioxide.",
+        "model": "Hemoglobin, an iron\u2013protein molecule packaged within red blood cells, performs two paramount physiological roles during exercise. First, it binds oxygen in the pulmonary capillaries of the lungs and delivers it to active skeletal muscle fibers, where oxygen serves as the terminal electron acceptor in mitochondrial oxidative phosphorylation to produce ATP for sustained exercise. Second, hemoglobin acts as a vital acid\u2013base buffer by binding excess hydrogen ions (H+) generated during high-intensity glycolytic metabolism; this buffering mitigates intracellular and systemic acidosis, preserving optimal enzymatic activity and delaying contractile fatigue. Additionally, red blood cells contain high concentrations of the enzyme carbonic anhydrase. This enzyme catalyzes the reversible hydration reaction between carbon dioxide (the primary metabolic by-product of active muscle tissue) and water to form carbonic acid, which dissociates into hydrogen ions and soluble bicarbonate ions (HCO3-). This enables the safe, efficient transport of carbon dioxide in the venous blood back to the pulmonary circulation, where the reaction reverses and carbon dioxide is exhaled by the lungs.",
+        "criteria": [
+          "Detail oxygen transport by hemoglobin to working muscles for oxidative metabolism.",
+          "Detail hemoglobin's role as an acid-base buffer regulating hydrogen ion concentration and mitigating acidosis.",
+          "Explain that red blood cells contain the enzyme carbonic anhydrase.",
+          "Describe carbonic anhydrase catalyzing the reaction between CO2 and water to facilitate CO2 transport and respiratory excretion."
+        ]
+      }
+    ]
+  }
+}

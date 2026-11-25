@@ -1,0 +1,76 @@
+{
+    "chapterId": "19.5",
+    "title": "19.5 Methods of Developing Speed",
+    "cards": [
+        {
+            "id": "19.5-01",
+            "tag": "Periodization & Phasic Progression",
+            "reference": "Section 19.5",
+            "front": "How does an organic approach to sprint programming structure the development of speed qualities across training phases?",
+            "back": "An organic approach coordinates speed development through <strong>phasic progression</strong>, structured by the systematic <strong>emphasis and de-emphasis</strong> of specific qualities (such as acceleration and maximum velocity) within each sequential training phase to progressively mature the athlete's movement potential."
+        },
+        {
+            "id": "19.5-02",
+            "tag": "Sovereignty of Maximum-Velocity Sprinting",
+            "reference": "Section 19.5",
+            "front": "Why is <strong>maximum-velocity sprinting</strong> considered the premier exercise for improving running speed, and what kinetic qualities does it demand?",
+            "back": "Research indicates that <strong>no exercise improves running velocity more than maximum-velocity sprinting itself</strong>.<br><br><strong>Kinetic Demands:</strong> Sprint prowess depends fundamentally on generating <strong>high forces in short periods of time</strong>, which stimulates long-term neurological adaptations that directly elevate the <strong>rate of force development (RFD)</strong> and <strong>impulse generation</strong>."
+        },
+        {
+            "id": "19.5-03",
+            "tag": "Stretch–Shortening Cycle & Plyometric Classification",
+            "reference": "Section 19.5",
+            "front": "Why is upright sprinting classified as a <strong>plyometric movement</strong>, and what physiological adaptation does chronic exposure provide?",
+            "back": "Upright sprinting relies on the <strong>stretch–shortening cycle (SSC)</strong> through rapid eccentric-to-concentric coupling upon ground contact, technically defining it as a plyometric movement.<br><br><strong>Adaptation:</strong> Chronic exposure to movements eliciting the SSC increases <strong>muscular stiffness</strong>, providing a decisive physiological advantage for maintaining center-of-mass velocity and resisting joint collapse under impact."
+        },
+        {
+            "id": "19.5-04",
+            "tag": "Rate Coding & Incomplete Relaxation Dynamics",
+            "reference": "Section 19.5",
+            "front": "What is <strong>rate coding</strong>, and how does reaching a critical signal frequency threshold enhance muscular force production?",
+            "back": "<strong>Rate Coding:</strong> The firing frequency and activation intensity of action potential impulses dispatched by the central nervous system to active musculature.<br><br><strong>Threshold Effect:</strong> When motor unit firing frequency reaches a critical threshold, skeletal muscle fibers <strong>cannot completely relax between successive stimulations</strong>. This incomplete relaxation creates summation, generating <strong>more forceful contractions</strong> and a <strong>greater rate of force development (RFD)</strong> in subsequent contractions."
+        },
+        {
+            "id": "19.5-05",
+            "tag": "Cyclical Dose–Response in Sprint Training",
+            "reference": "Section 19.5",
+            "front": "How does chronic exposure to sprinting establish a <strong>cyclical dose–response relationship</strong> within the central nervous system?",
+            "back": "Sprinting requires near-maximal to maximal neuromuscular activation. Chronic sprinting enhances musculoskeletal control and neural rate coding; these resulting neurophysiological adaptations from previous practices directly bolster the athlete's capacity to tolerate and adapt to subsequent training stimuli, creating an ongoing cyclical dose–response loop."
+        },
+        {
+            "id": "19.5-06",
+            "tag": "Dual Kinetic Functions of Sprint Ground Reaction Forces",
+            "reference": "Section 19.5",
+            "front": "What two essential kinetic tasks must ground reaction forces accomplish during sprint contact to maximize speed?",
+            "back": "Ground reaction forces generated during the brief stance phase must be large enough to:<ol><li><strong>Support body weight</strong> in the presence of gravitational acceleration.</li><li><strong>Displace the body</strong> through progressive increases in running velocity.</li></ol>"
+        },
+        {
+            "id": "19.5-07",
+            "tag": "Transfer of Training Effect & Dynamic Specificity",
+            "reference": "Section 19.5",
+            "front": "What determines the <strong>transfer of training effect</strong> when transferring strength gains from the weight room to track sprinting?",
+            "back": "The degree of performance transfer depends on <strong>movement specificity</strong>—specifically, the degree of similarity between the exercise and the sprint environment regarding:<ul><li>Movement patterns and joint angles</li><li>Peak force magnitude</li><li>Rate of force development (RFD)</li><li>Acceleration and velocity profiles</li></ul><em>Training agendas should deliberately merge maximal strength with speed–strength qualities.</em>"
+        },
+        {
+            "id": "19.5-08",
+            "tag": "Type II Muscle Fiber Architectural Adaptations",
+            "reference": "Section 19.5",
+            "front": "What structural and architectural changes occur within <strong>Type II muscle fibers</strong> when training mimics sprinting forces and velocities?",
+            "back": "Prescribing resistance exercises that display forces and velocities similar to sprinting optimizes central nervous system rate coding while inducing two primary adaptations in fast-twitch Type II fibers:<ul><li>Hypertrophy of <strong>muscle cross-sectional area (CSA)</strong></li><li>Elongation of <strong>fascicle length</strong>, which enhances maximum shortening velocity</li></ul>"
+        },
+        {
+            "id": "19.5-09",
+            "tag": "Olympic Weightlifting Derivatives & Joint Coactivation",
+            "reference": "Section 19.5",
+            "front": "How do <strong>Olympic weightlifting movements and their derivatives</strong> enhance sprinting performance?",
+            "back": "Lifts such as the clean, snatch, and midthigh pulls enhance sprint performance by overloading the musculoskeletal system at high velocities. They induce key adaptations including:<ul><li>Elevated <strong>muscular stiffness</strong> across the kinetic chain</li><li>Enhanced explosive <strong>rate of force development (RFD)</strong></li><li>Optimized <strong>coactivation of the musculature</strong> surrounding the hips and knees</li></ul>"
+        },
+        {
+            "id": "19.5-10",
+            "tag": "Mobility vs. Flexibility & Misplaced Force Penalties",
+            "reference": "Section 19.5",
+            "front": "How do <strong>mobility</strong> and <strong>flexibility</strong> differ, and what mechanical consequence occurs if a sprinter has insufficient mobility during flight?",
+            "back": "<ul><li><strong>Mobility:</strong> The dynamic freedom of an athlete's limb to move through a desired, functional range of motion during movement.</li><li><strong>Flexibility:</strong> A joint's passive, total range of motion.</li></ul><strong>Consequence of Insufficient Mobility:</strong> While high ground reaction forces produce stride length, restricted flight posture compromises foot placement. This causes <strong>misplaced forces</strong> upon ground contact (e.g., severe braking), which dampens forward velocity and significantly elevates injury risk."
+        }
+    ]
+}

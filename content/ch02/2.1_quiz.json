@@ -1,0 +1,822 @@
+{
+  "p1": {
+    "title": "Part 1: Muscle Attachments and Functional Muscle Classifications",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "According to traditional anatomical convention, how are a skeletal muscle's origin and insertion defined?",
+        "opts": [
+          "Origin is the distal attachment, and insertion is the proximal attachment",
+          "Origin is the proximal attachment, and insertion is the distal attachment",
+          "Origin is the more mobile attachment, and insertion is the stationary attachment",
+          "Origin is the fibrous attachment, and insertion is the fleshy attachment"
+        ],
+        "correct": 1,
+        "rationale": "Traditionally, anatomists define the muscle's origin as its proximal (toward the center of the body) attachment, and its insertion as its distal (away from the center of the body) attachment."
+      },
+      {
+        "id": 2,
+        "q": "Why is defining a muscle's origin as the \"stationary structure\" and insertion as the \"mobile structure\" problematic in biomechanics?",
+        "opts": [
+          "Skeletal muscles cannot attach to stationary bones",
+          "It can lead to a confusing reversal of origin and insertion depending on the movement performed",
+          "Tendons only attach to mobile skeletal segments",
+          "Proximal structures are always completely immobilized during exercise"
+        ],
+        "correct": 1,
+        "rationale": "The textbook explains that defining origin as the stationary structure and insertion as the mobile structure can lead to a confusing reversal of origin and insertion. For example, in a straight-leg sit-up the femur is stationary (origin) and pelvis mobile (insertion), but during a leg raise the pelvis is stationary (origin) and femur mobile (insertion). The traditional proximal/distal definition provides the most consistency."
+      },
+      {
+        "id": 3,
+        "q": "In a straight-leg sit-up, which structure is relatively stationary and which is mobile for the iliacus muscle?",
+        "opts": [
+          "Pelvis is stationary; femur is mobile",
+          "Femur is stationary; pelvis is mobile",
+          "Both pelvis and femur are completely immobile",
+          "Patella is stationary; tibia is mobile"
+        ],
+        "correct": 1,
+        "rationale": "During a straight-leg sit-up, the femur is relatively stationary while the pelvis is the more mobile structure being pulled toward the thighs."
+      },
+      {
+        "id": 4,
+        "q": "What characterizes a fleshy muscle attachment to bone?",
+        "opts": [
+          "Collagenous Sharpey's fibers extending deep into the marrow cavity",
+          "Muscle fibers directly affixed to bone over a wide area to distribute force",
+          "A narrow cord-like tendon blending directly into the joint capsule",
+          "A specialized sesamoid bone acting as a mechanical pulley"
+        ],
+        "correct": 1,
+        "rationale": "In fleshy attachments, most often found at the proximal end of a muscle, muscle fibers are directly affixed to the bone, usually over a wide area so that force is distributed rather than localized."
+      },
+      {
+        "id": 5,
+        "q": "How do fibrous muscle attachments, such as tendons, connect skeletal muscle to bone?",
+        "opts": [
+          "They insert loosely into articular cartilage without penetrating bone",
+          "They blend into muscle sheaths and bone connective tissue, with fibers extending into the bone itself",
+          "They attach exclusively to adipose tissue surrounding joint capsules",
+          "They rely purely on chemical adhesion of synovial fluid"
+        ],
+        "correct": 1,
+        "rationale": "Fibrous attachments, such as tendons, blend into and are continuous with both the muscle sheaths and the connective tissue surrounding the bone, with additional fibers extending into the bone itself for a very strong union."
+      },
+      {
+        "id": 6,
+        "q": "What is the functional definition of a muscle acting as an agonist (prime mover)?",
+        "opts": [
+          "A muscle that decelerates and stops joint motion",
+          "The muscle most directly involved in bringing about a movement",
+          "A muscle that indirectly stabilizes a proximal joint",
+          "A muscle that only contracts isometrically during posture"
+        ],
+        "correct": 1,
+        "rationale": "The muscle most directly involved in bringing about a movement is called the prime mover, or agonist."
+      },
+      {
+        "id": 7,
+        "q": "During the acceleration phase of an overhand throwing motion, which muscle acts as the agonist extending the elbow?",
+        "opts": [
+          "Biceps brachii",
+          "Triceps brachii",
+          "Brachioradialis",
+          "Pectoralis minor"
+        ],
+        "correct": 1,
+        "rationale": "During throwing, the triceps acts as an agonist, extending the elbow to accelerate the ball."
+      },
+      {
+        "id": 8,
+        "q": "What is the primary role of an antagonist muscle during rapid joint movements?",
+        "opts": [
+          "Initiating the primary concentric force vector",
+          "Assisting in joint stabilization and braking the limb to protect joint structures",
+          "Contracting isotonically to increase maximum movement velocity",
+          "Maintaining intra-abdominal pressure via the Valsalva maneuver"
+        ],
+        "correct": 1,
+        "rationale": "The antagonist assists in joint stabilization and in braking the limb toward the end of a fast movement, thereby protecting ligamentous and cartilaginous joint structures from potentially destructive forces."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following statements regarding muscle origins and insertions are true? (Select all that apply)",
+        "opts": [
+          "Traditionally, origin is defined as the proximal attachment",
+          "Traditionally, insertion is defined as the distal attachment",
+          "Defining origin as the stationary structure provides greater consistency than proximal/distal definitions",
+          "Proximal attachments are closer to the center of the body",
+          "Distal attachments are farther away from the center of the body"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "rationale": "Traditionally, origin is defined as proximal (toward body center) and insertion as distal (away from body center). Defining origin/insertion by relative mobility is inconsistent because mobility reverses across different exercises."
+      },
+      {
+        "id": 2,
+        "q": "Which characteristics distinguish fibrous muscle attachments from fleshy attachments? (Select all that apply)",
+        "opts": [
+          "Fibrous attachments include tendons",
+          "Fleshy attachments typically affix muscle fibers over a wide bony area",
+          "Fibrous attachments have fibers that extend into the bone itself",
+          "Fleshy attachments blend into connective tissue surrounding bone to form long cords",
+          "Fleshy attachments distribute force rather than localizing it"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Fleshy attachments affix muscle fibers directly over a broad area to distribute force; fibrous attachments (such as tendons) blend into muscle sheaths and bone periosteum, with fibers extending directly into the bone. Tendons are fibrous, not fleshy."
+      },
+      {
+        "id": 3,
+        "q": "During an explosive throwing motion involving rapid elbow extension, which muscular roles are correctly matched? (Select all that apply)",
+        "opts": [
+          "Triceps brachii acts as the agonist to accelerate the ball",
+          "Biceps brachii acts as the antagonist to slow down elbow extension",
+          "Biceps brachii protects elbow joint structures from internal impact",
+          "Triceps brachii acts as the antagonist to stop elbow extension",
+          "Biceps brachii acts as the prime mover extending the forearm"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "In throwing, the triceps brachii is the agonist (extends elbow), while the biceps brachii is the antagonist (decelerates and stops extension near full lockout, protecting joint structures from impact)."
+      },
+      {
+        "id": 4,
+        "q": "Which of the following describe the functions of synergist muscles in human movement? (Select all that apply)",
+        "opts": [
+          "Assisting indirectly in bringing about a movement",
+          "Stabilizing a proximal structure (e.g., muscles stabilizing the scapula during arm motion)",
+          "Counteracting unwanted movements when an agonist crosses two joints",
+          "Serving as the primary prime mover generating the main force vector",
+          "Preventing limb motion entirely by locking all adjacent joints"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Synergists assist indirectly by stabilizing structures (such as scapular stabilizers during arm movements) and controlling motion when a biarticular agonist crosses two joints (e.g., gluteus maximus counteracting rectus femoris hip flexion during squats). They are not prime movers."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Proximal refers to an attachment positioned closer to the center of the body, whereas distal refers to an attachment farther away.",
+        "ans": true,
+        "feedback": "By definition, proximal means toward the center of the body, and distal means away from the center of the body."
+      },
+      {
+        "id": 2,
+        "q": "During elbow flexion in a biceps curl, the triceps brachii functions as the agonist.",
+        "ans": false,
+        "feedback": "During elbow flexion, the biceps brachii (and associated flexors) acts as the agonist; the triceps brachii serves as the antagonist."
+      },
+      {
+        "id": 3,
+        "q": "Tendons possess collagenous fibers that extend into the bone itself, creating a very strong structural union.",
+        "ans": true,
+        "feedback": "Tendon fibers blend into the connective tissue surrounding the bone and have additional fibers extending into the bone matrix, ensuring strong attachment."
+      },
+      {
+        "id": 4,
+        "q": "The rectus femoris muscle crosses only a single joint—the knee joint.",
+        "ans": false,
+        "feedback": "The rectus femoris is a biarticular muscle that crosses two joints: the hip (acting to flex the hip) and the knee (acting to extend the knee)."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Anatomists traditionally define a muscle's **origin** as its proximal attachment and its **insertion** as its distal attachment.",
+        "targets": [
+          "origin",
+          "insertion"
+        ],
+        "optionsBank": [
+          "origin",
+          "insertion",
+          "tendon",
+          "fulcrum",
+          "synergist"
+        ],
+        "hint": "The traditional anatomical definitions state that origin is proximal and insertion is distal."
+      },
+      {
+        "id": 2,
+        "statement": "The muscle most directly involved in bringing about a movement is the **agonist**, whereas a muscle that slows down or stops the movement is the **antagonist**.",
+        "targets": [
+          "agonist",
+          "antagonist"
+        ],
+        "optionsBank": [
+          "agonist",
+          "antagonist",
+          "synergist",
+          "fulcrum",
+          "lever"
+        ],
+        "hint": "The agonist is the prime mover, while the antagonist acts to brake, decelerate, and stabilize."
+      },
+      {
+        "id": 3,
+        "statement": "A **synergist** assists indirectly in movement by stabilizing a bone or counteracting unwanted actions when an agonist crosses **two joints**.",
+        "targets": [
+          "synergist",
+          "two joints"
+        ],
+        "optionsBank": [
+          "synergist",
+          "two joints",
+          "single joint",
+          "antagonist",
+          "prime mover"
+        ],
+        "hint": "Synergists assist indirectly and are critical when multi-joint muscles cross two joints."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain the difference between traditional anatomical definitions of muscle origin and insertion versus definitions based on bone mobility, using the straight-leg sit-up and leg raise exercises to justify which system is preferred.",
+        "model": "Traditionally, anatomists define a muscle's origin as its proximal attachment (closer to the center of the body) and its insertion as its distal attachment (farther away from the center of the body). In contrast, some define the origin as the more stationary bone and the insertion as the more mobile bone. However, defining attachments by relative mobility causes confusing reversals depending on the exercise performed. For example, during a straight-leg sit-up, the femur is relatively stationary while the pelvis moves toward the thighs, making the femur the origin and pelvis the insertion for the iliacus. During a hanging leg raise, the pelvis is stationary while the femur moves, reversing their roles so the pelvis becomes the origin and femur the insertion. Because the physical attachments do not change, the traditional proximal-to-distal definition provides the most reliable and consistent anatomical standard.",
+        "criteria": [
+          "Define traditional origin as proximal (toward body center) and insertion as distal (away from body center).",
+          "Define mobility-based origin as stationary and insertion as mobile.",
+          "Explain the reversal in iliacus attachments between the sit-up (femur stationary, pelvis mobile) and leg raise (pelvis stationary, femur mobile).",
+          "Conclude that the traditional definition is preferred because it avoids confusing functional reversals."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Describe the functional roles of agonists, antagonists, and synergists, providing a sport or exercise movement example that illustrates how all three interact during coordinated execution.",
+        "model": "An agonist (prime mover) is the muscle most directly responsible for generating the force that produces a joint movement. An antagonist opposes the movement, providing joint stabilization and eccentric braking toward the end of high-speed motions to protect cartilage, ligaments, and joint capsules from destructive impact forces. A synergist assists indirectly by stabilizing proximal bones or counteracting unwanted secondary joint torques when an agonist crosses two joints. In an overhead baseball throw, the triceps brachii acts as the agonist extending the elbow to accelerate the ball. As full extension approaches, the biceps brachii acts as the antagonist, contracting eccentrically to decelerate elbow extension and prevent olecranon impingement. Simultaneously, scapular stabilizing muscles (such as the serratus anterior and rhomboids) act as synergists to provide a stable bony base on the thorax, ensuring the arm movers can generate effective torque.",
+        "criteria": [
+          "Define agonist as the prime mover directly producing movement.",
+          "Define antagonist as the opposing muscle that stabilizes and brakes motion to protect joints.",
+          "Define synergist as an indirect assistant that stabilizes structures or controls biarticular movements.",
+          "Provide a coherent multi-muscle movement example (e.g., throwing or squatting) illustrating their synchronized interaction."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "title": "Part 2: Bony Levers and Mechanical Advantage",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What is the biomechanical definition of a lever?",
+        "opts": [
+          "A noncontractile tissue that transmits chemical signals across synovial joints",
+          "A rigid or semirigid body that, when subjected to an off-axis force, exerts force on an impeding object",
+          "A flexible band of connective tissue connecting bone to bone",
+          "An anatomical structure whose sole function is to reduce friction during movement"
+        ],
+        "correct": 1,
+        "rationale": "The textbook defines a lever as a rigid or semirigid body that, when subjected to a force whose line of action does not pass through its pivot point, exerts force on any object impeding its tendency to rotate."
+      },
+      {
+        "id": 2,
+        "q": "In biomechanics, what is the pivot point of a lever called?",
+        "opts": [
+          "Fulcrum",
+          "Moment arm",
+          "Insertion",
+          "Prime mover"
+        ],
+        "correct": 0,
+        "rationale": "The fulcrum is defined as the pivot point of a lever."
+      },
+      {
+        "id": 3,
+        "q": "How is a moment arm (also called force arm or lever arm) defined quantitatively?",
+        "opts": [
+          "The total linear distance between muscle origin and insertion",
+          "The perpendicular distance from the line of action of the force to the fulcrum",
+          "The straight-line length of the contracting muscle belly",
+          "The angle formed between the tendon and the long axis of the bone"
+        ],
+        "correct": 1,
+        "rationale": "The moment arm is the perpendicular distance from the line of action of the force to the fulcrum. The line of action is an infinitely long line passing through the point of application oriented in the direction of the force."
+      },
+      {
+        "id": 4,
+        "q": "How is torque (or moment of force) calculated quantitatively?",
+        "opts": [
+          "The magnitude of a force divided by the length of its moment arm",
+          "The magnitude of a force times the length of its moment arm",
+          "The product of muscle mass and joint angular acceleration",
+          "The ratio of internal muscle force to external body weight"
+        ],
+        "correct": 1,
+        "rationale": "Torque is defined quantitatively as the magnitude of a force times the length of its moment arm, representing the degree to which a force tends to rotate an object about a specified fulcrum."
+      },
+      {
+        "id": 5,
+        "q": "What mathematical formula defines mechanical advantage in a skeletal lever system?",
+        "opts": [
+          "Resistive force divided by muscle force",
+          "Ratio of the muscle force moment arm to the resistive force moment arm ($M_m / M_r$)",
+          "Ratio of the resistive force moment arm to the muscle force moment arm ($M_r / M_m$)",
+          "Muscle force multiplied by movement velocity"
+        ],
+        "correct": 1,
+        "rationale": "Mechanical advantage is the ratio of the moment arm through which an applied (muscle) force acts to that through which a resistive force acts ($M_m / M_r$)."
+      },
+      {
+        "id": 6,
+        "q": "If a calculated mechanical advantage is less than 1.0, what does this indicate regarding the required muscle force?",
+        "opts": [
+          "Muscle force can be less than the resistive force to produce rotational equilibrium",
+          "Muscle force must be greater than the resistive force to balance the resistive torque",
+          "The system is operating at an energetic surplus with zero tendon strain",
+          "The resistive force acts with a shorter moment arm than the muscle force"
+        ],
+        "correct": 1,
+        "rationale": "A calculated mechanical advantage ratio less than 1.0 indicates that one must apply greater muscle force than the amount of resistive force present to achieve equal torque, creating a mechanical disadvantage for the muscle."
+      },
+      {
+        "id": 7,
+        "q": "Which anatomical and mechanical arrangement characterizes a first-class lever?",
+        "opts": [
+          "Muscle force and resistive force act on the same side of the fulcrum with $M_m > M_r$",
+          "Muscle force and resistive force act on opposite sides of the fulcrum",
+          "Muscle force and resistive force act on the same side of the fulcrum with $M_m < M_r$",
+          "The fulcrum is located outside the musculoskeletal system"
+        ],
+        "correct": 1,
+        "rationale": "A first-class lever is defined as a lever for which the muscle force and resistive force act on opposite sides of the fulcrum (e.g., triceps extending the elbow against resistance)."
+      },
+      {
+        "id": 8,
+        "q": "Which exercise and joint action represents a human musculoskeletal second-class lever?",
+        "opts": [
+          "Triceps pushdown during elbow extension",
+          "Standing heel raise (plantar flexion) where the ball of the foot acts as the fulcrum",
+          "Biceps curl during elbow flexion",
+          "Lateral shoulder raise in the frontal plane"
+        ],
+        "correct": 1,
+        "rationale": "A second-class lever occurs when calf muscles work to raise the body onto the balls of the feet during plantar flexion. The ball of the foot is the fulcrum, body weight is the resistive force, and the calf muscle force acts through a longer moment arm ($M_m > M_r$)."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which components are required to achieve a state of rotational equilibrium in a lever system? (Select all that apply)",
+        "opts": [
+          "Applied muscle torque must equal resistive torque ($F_m \\cdot M_m = F_r \\cdot M_r$)",
+          "Muscle force must always be identical in magnitude to resistive force ($F_m = F_r$)",
+          "The muscle moment arm must equal the resistive moment arm ($M_m = M_r$)",
+          "The product of muscle force and its moment arm must balance external resistive torque",
+          "Movement velocity must be zero or rotational speed must be constant"
+        ],
+        "correctArray": [
+          0,
+          3,
+          4
+        ],
+        "rationale": "For rotational equilibrium (isometric exertion or constant-speed joint rotation), applied torque must equal resistive torque: $F_m \\cdot M_m = F_r \\cdot M_r$. Forces do not need to be equal if moment arms differ."
+      },
+      {
+        "id": 2,
+        "q": "Which statements accurately describe a third-class lever arrangement? (Select all that apply)",
+        "opts": [
+          "Muscle force and resistive force act on the same side of the fulcrum",
+          "The muscle force acts through a moment arm shorter than that of the resistive force ($M_m < M_r$)",
+          "Mechanical advantage is less than 1.0",
+          "Required muscle force is smaller than the resistive force",
+          "The biceps curl during elbow flexion is a classic human example"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "In a third-class lever, muscle force and resistive force are on the same side of the fulcrum, with $M_m < M_r$. The mechanical advantage is less than 1.0, requiring muscle force to be greater than resistive force. Biceps elbow flexion is a premier example."
+      },
+      {
+        "id": 3,
+        "q": "Why do most human skeletal muscles operate at a mechanical advantage of less than 1.0 (mechanical disadvantage)? (Select all that apply)",
+        "opts": [
+          "Muscle tendon insertions are typically located very close to the joint center of rotation",
+          "External resistive forces usually act through much longer moment arms than muscle forces",
+          "Internal muscle forces must be much greater than the forces exerted by hands or feet on external objects",
+          "Tendons have zero tensile strength and stretch indefinitely",
+          "The arrangement allows the human body to generate high movement velocities and range of motion"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Most muscles operate with short muscle moment arms relative to external resistance moment arms ($M_m < M_r$), meaning mechanical advantage is < 1.0. Consequently, internal muscle and tendon forces must be far greater than external loads. This arrangement favors range of motion and angular speed over force efficiency."
+      },
+      {
+        "id": 4,
+        "q": "In the textbook example of elbow extension against resistance (figure 2.2), what are the mechanical values and consequences? (Select all that apply)",
+        "opts": [
+          "Muscle moment arm ($M_m$) is 5 cm",
+          "Resistive moment arm ($M_r$) is 40 cm",
+          "Calculated mechanical advantage is 0.125",
+          "The muscle force must be eight times greater than the resistive force to achieve equilibrium",
+          "The arrangement represents a second-class lever with mechanical advantage greater than 1.0"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "In figure 2.2, $M_m = 5\text{ cm}$ and $M_r = 40\text{ cm}$. Mechanical advantage is $5/40 = 0.125$. Because $M_r$ is 8 times longer than $M_m$, muscle force must be 8 times the resistive force ($F_m = 8 \\cdot F_r$). It is a first-class lever, not second-class."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "In a second-class lever, the mechanical advantage is always greater than 1.0 because the muscle moment arm is longer than the resistive moment arm.",
+        "ans": true,
+        "feedback": "Because muscle force acts through a moment arm longer than that of the resistive force ($M_m > M_r$), the mechanical advantage ratio ($M_m / M_r$) is greater than 1.0, meaning less muscle force is needed than resistive force."
+      },
+      {
+        "id": 2,
+        "q": "The extremely high internal forces experienced by muscles and tendons due to mechanical disadvantage account in large part for injuries to these tissues.",
+        "ans": true,
+        "feedback": "The textbook states that internal muscle forces are much greater than external forces, and these extremely high forces account in large part for injury to muscles and tendons."
+      },
+      {
+        "id": 3,
+        "q": "Biceps brachii flexion of the elbow against external resistance operates as a second-class lever.",
+        "ans": false,
+        "feedback": "Elbow flexion during a biceps curl is a third-class lever because the muscle force acts through a moment arm shorter than that of the resistive force on the same side of the fulcrum."
+      },
+      {
+        "id": 4,
+        "q": "Categorizing a lever into first, second, or third class is clinically and biomechanically more important than understanding mechanical advantage.",
+        "ans": false,
+        "feedback": "The text notes that lever classification often depends on an arbitrary decision of where the fulcrum lies; therefore, understanding mechanical advantage is of much greater importance than classifying levers."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Mechanical advantage is calculated as the ratio of the **muscle force** moment arm to the **resistive force** moment arm.",
+        "targets": [
+          "muscle force",
+          "resistive force"
+        ],
+        "optionsBank": [
+          "muscle force",
+          "resistive force",
+          "joint angle",
+          "movement speed",
+          "tendon length"
+        ],
+        "hint": "Mechanical advantage is the ratio of the moment arm of applied force ($M_m$) to that of resistive force ($M_r$)."
+      },
+      {
+        "id": 2,
+        "statement": "In a **first-class** lever, the muscle force and resistive force act on opposite sides of the fulcrum, whereas in a **second-class** lever, they act on the same side with a mechanical advantage greater than 1.0.",
+        "targets": [
+          "first-class",
+          "second-class"
+        ],
+        "optionsBank": [
+          "first-class",
+          "second-class",
+          "third-class",
+          "fourth-class",
+          "neutral"
+        ],
+        "hint": "First-class levers have forces on opposite sides; second-class levers have forces on the same side with $M_m > M_r$."
+      },
+      {
+        "id": 3,
+        "statement": "Most human skeletal muscles operate at a mechanical advantage of **less than 1.0**, meaning internal muscle forces are **much greater** than external resistance.",
+        "targets": [
+          "less than 1.0",
+          "much greater"
+        ],
+        "optionsBank": [
+          "less than 1.0",
+          "much greater",
+          "greater than 1.0",
+          "much smaller",
+          "equal to 1.0"
+        ],
+        "hint": "Human muscles operate at a mechanical disadvantage (< 1.0), requiring internal forces that vastly exceed external loads."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Define mechanical advantage, and explain why most human skeletal muscles operate at a mechanical disadvantage (ratio less than 1.0) and how this relates to athletic injury risk.",
+        "model": "Mechanical advantage is the ratio of the moment arm through which an applied muscle force acts ($M_m$) to that through which an external resistive force acts ($M_r$), expressed as $M_m / M_r$. When this ratio is less than 1.0, the muscle operates at a mechanical disadvantage, meaning the muscle force must be substantially larger than the external resistive force to produce rotational equilibrium ($F_m \\cdot M_m = F_r \\cdot M_r$). Most human joints operate at a mechanical disadvantage because tendons insert close to the joint axis while external loads act further away. Consequently, internal forces within contracting muscles and tendons are routinely many times greater than the forces exerted on external objects or the ground. These extremely high internal tensile loads explain why muscles and tendons are the primary sites of acute strains and chronic overuse injuries during heavy resistance training and sport.",
+        "criteria": [
+          "Define mechanical advantage as the ratio of muscle moment arm to resistive moment arm ($M_m / M_r$).",
+          "State that a ratio < 1.0 represents a mechanical disadvantage where muscle force exceeds resistive force.",
+          "Explain that tendons insert close to joints, creating short muscle moment arms relative to external resistance arms.",
+          "Link the resulting high internal muscle and tendon forces directly to increased risk of injury."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Compare and contrast the structural arrangements and mechanical advantages of first-class, second-class, and third-class levers in the human body, providing an anatomical exercise example for each.",
+        "model": "Levers are classified by the relative positions of the fulcrum ($O$), muscle force ($F_m$), and resistive force ($F_r$). In a first-class lever, muscle force and resistive force act on opposite sides of the fulcrum ($F_m - O - F_r$); an example is elbow extension during a triceps pushdown, where $M_m$ (approx. 5 cm) is shorter than $M_r$ (approx. 40 cm), yielding a mechanical advantage of 0.125 (disadvantage). In a second-class lever, both forces act on the same side of the fulcrum, with the muscle force acting through a longer moment arm than the resistive force ($M_m > M_r$); an example is a standing heel raise (plantar flexion), where the ball of the foot is the fulcrum and calf muscles lift body weight with a mechanical advantage greater than 1.0. In a third-class lever, both forces act on the same side of the fulcrum, but the muscle force acts through a shorter moment arm than the resistive force ($M_m < M_r$); an example is elbow flexion during a biceps curl, operating at a mechanical disadvantage (< 1.0).",
+        "criteria": [
+          "First-class lever: forces on opposite sides of fulcrum; provide triceps extension example with mechanical disadvantage.",
+          "Second-class lever: forces on same side with $M_m > M_r$; provide plantar flexion/calf raise example with mechanical advantage > 1.0.",
+          "Third-class lever: forces on same side with $M_m < M_r$; provide biceps curl example with mechanical disadvantage < 1.0.",
+          "Correctly identify the mechanical advantage status (> 1.0 or < 1.0) for each class."
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "title": "Part 3: Dynamic Moment Arms and Anatomical Tendon Insertion Variations",
+    "mcq": [
+      {
+        "id": 1,
+        "q": "How does the patella (kneecap) mechanically influence the function of the quadriceps muscle group during knee extension?",
+        "opts": [
+          "It eliminates the need for the patellar tendon to attach to the tibia",
+          "It maintains the quadriceps tendon's distance from the knee's axis of rotation, preserving mechanical advantage",
+          "It shortens the muscle moment arm so that the quadriceps can contract at higher velocities",
+          "It converts the knee joint from a hinge into a ball-and-socket articulation"
+        ],
+        "correct": 1,
+        "rationale": "The patella increases the mechanical advantage of the quadriceps muscle group by keeping the quadriceps tendon from falling in close to the knee's axis of rotation, preventing large drops in the muscle moment arm."
+      },
+      {
+        "id": 2,
+        "q": "What biomechanical consequence occurs if an individual lacks a patella (patellectomy)?",
+        "opts": [
+          "The quadriceps moment arm increases, dramatically elevating mechanical advantage",
+          "The tendon falls closer to the joint's center of rotation, shortening the moment arm and reducing mechanical advantage",
+          "The quadriceps muscle no longer experiences any internal mechanical tension",
+          "Knee extension becomes an unresisted second-class lever system"
+        ],
+        "correct": 1,
+        "rationale": "In the absence of the patella, the quadriceps tendon falls closer to the knee's center of rotation, which shortens the moment arm through which muscle force acts and thereby reduces mechanical advantage."
+      },
+      {
+        "id": 3,
+        "q": "Why does the mechanical advantage of the biceps brachii change continuously throughout an elbow flexion exercise?",
+        "opts": [
+          "The insertion of the biceps tendon physically detaches and migrates along the radius",
+          "There is no anatomical structure like the patella to keep the tendon's line of action at a constant distance from the axis of rotation",
+          "The weight of the forearm increases linearly as the elbow flexes",
+          "Muscle force is converted completely into friction at mid-range angles"
+        ],
+        "correct": 1,
+        "rationale": "Unlike the knee, where the patella maintains tendon spacing, the elbow lacks an intervening sesamoid structure; thus, the perpendicular distance from the joint axis of rotation to the tendon's line of action varies continuously through the range of motion."
+      },
+      {
+        "id": 4,
+        "q": "During free-weight resistance training (e.g., a barbell bicep curl), how is the resistive moment arm measured at any point in the range of motion?",
+        "opts": [
+          "The straight-line distance along the forearm from the elbow to the barbell",
+          "The horizontal distance from the barbell's vertical line of action to the joint center of rotation",
+          "The vertical distance from the floor to the barbell",
+          "The length of the barbell shaft divided by the lifter's forearm length"
+        ],
+        "correct": 1,
+        "rationale": "Because gravity acts vertically downward, the moment arm through which a free weight acts equals the horizontal distance from the vertical line passing through the barbell's center of mass to the joint axis of rotation."
+      },
+      {
+        "id": 5,
+        "q": "What mechanical advantage is gained by an individual whose tendon attaches to bone farther from the joint center?",
+        "opts": [
+          "The muscle acts through a longer moment arm, producing greater torque for a given muscle force",
+          "The muscle contracts through less total distance to produce joint rotation",
+          "The joint rotates through a greater angular excursion per centimeter of muscle shortening",
+          "The muscle can achieve higher maximum shortening velocities under heavy loads"
+        ],
+        "correct": 0,
+        "rationale": "A tendon inserted farther from the joint center gives the muscle force a longer moment arm ($M_m$), enabling it to produce greater rotational torque around the joint and lift heavier weights."
+      },
+      {
+        "id": 6,
+        "q": "What is the fundamental biomechanical trade-off associated with having a tendon inserted farther from the joint center?",
+        "opts": [
+          "A loss of maximum movement speed and joint angular velocity",
+          "A severe reduction in maximal isometric force production",
+          "An inability to lock out the joint in full extension",
+          "Immediate tearing of Sharpey's fibers during slow contractions"
+        ],
+        "correct": 0,
+        "rationale": "While inserting farther from the joint increases torque capability, it causes a loss of maximum speed because the muscle must shorten more to produce a given amount of joint rotation."
+      },
+      {
+        "id": 7,
+        "q": "According to the textbook geometry example (figure 2.8), when equal amounts of muscle shortening occur, how does tendon insertion distance affect joint angular rotation?",
+        "opts": [
+          "Insertion closer to the joint produces 37° of rotation, while insertion farther produces only 34°",
+          "Insertion closer to the joint produces 34° of rotation, while insertion farther produces 37°",
+          "Both insertion sites produce an identical 45° of joint rotation",
+          "Insertion farther from the joint doubles the angular excursion"
+        ],
+        "correct": 0,
+        "rationale": "Starting with the joint extended, a given amount of muscle shortening rotates the joint by 37° when inserted close to the joint center (figure 2.8a), but by only 34° when inserted farther away (figure 2.8b)."
+      },
+      {
+        "id": 8,
+        "q": "For which athletic activity is a tendon insertion located farther from the joint center most advantageous?",
+        "opts": [
+          "Hitting a high-velocity tennis serve",
+          "Performing a maximal attempt in powerlifting",
+          "Throwing a javelin in track and field",
+          "Sprinting 100 meters at maximum cadence"
+        ],
+        "correct": 1,
+        "rationale": "Tendon insertion farther from the joint provides greater mechanical advantage and torque production at slower speeds, making it highly advantageous for heavy, slow strength sports like powerlifting."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which factors cause the mechanical advantage of a muscle-joint system to change dynamically during real-world movement? (Select all that apply)",
+        "opts": [
+          "The joint not being a true hinge, causing continuous shifts in the instantaneous axis of rotation",
+          "Changes in the perpendicular distance from the joint axis to the tendon's line of action",
+          "Variations in the horizontal distance between a free-weight load and the rotating joint center",
+          "Spontaneous shifts in a muscle's proximal fleshy attachment during contraction",
+          "Anatomical features like the patella holding tendons away from the joint axis"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Dynamic shifts in mechanical advantage arise from shifting axes of rotation (e.g., knee), variable tendon moment arms (e.g., elbow), changing horizontal load distances with free weights, and structures like the patella. Fleshy attachments do not detach or migrate during contraction."
+      },
+      {
+        "id": 2,
+        "q": "Which statements accurately describe the biomechanics of free-weight exercise? (Select all that apply)",
+        "opts": [
+          "The resistive force acts along a vertical line of action due to gravity",
+          "The resistive moment arm is greatest when the limb segment is horizontal",
+          "The resistive torque remains completely constant across the entire range of motion",
+          "When the weight is positioned directly above or below the joint axis, the resistive moment arm is zero",
+          "Resistive torque fluctuates continuously as the horizontal distance from weight to joint changes"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "rationale": "Gravity acts vertically downward, making resistive torque depend on horizontal distance from the weight to the joint. Resistive torque is maximized when the forearm/limb is horizontal and drops to zero when directly aligned over/under the joint. Resistive torque does not remain constant."
+      },
+      {
+        "id": 3,
+        "q": "Why does an individual with tendons inserted farther from the joint center experience reduced force capability during high-speed movements? (Select all that apply)",
+        "opts": [
+          "Less joint rotation occurs per unit of linear muscle contraction",
+          "To produce a given joint angular velocity, the muscle must shorten at a higher linear contraction speed",
+          "Due to the inverse force–velocity relationship, muscle generates less force as shortening velocity increases",
+          "Tendons inserting farther from the joint cannot transmit force to bone",
+          "Fast movements exceed the structural compliance of Sharpey's fibers"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "When inserted farther away, a muscle must contract faster linearly to achieve the same joint angular speed. By the force-velocity relationship, contracting at higher velocities reduces maximal force generation capacity."
+      },
+      {
+        "id": 4,
+        "q": "Which athletic disciplines are correctly matched with their anatomical tendon insertion advantages? (Select all that apply)",
+        "opts": [
+          "Powerlifting — advantageous for tendon insertion farther from the joint center",
+          "Tennis serve — advantageous for tendon insertion closer to the joint center",
+          "Sprinting — advantageous for tendon insertion closer to the joint center",
+          "Heavy squatting — advantageous for tendon insertion closer to the joint center",
+          "Baseball pitching — advantageous for tendon insertion farther from the joint center"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Insertion farther from the joint provides high torque at slow speeds (advantageous for powerlifting). Insertion closer to the joint provides greater angular velocity with less linear shortening (advantageous for tennis, sprinting, throwing)."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "The patella acts to increase the mechanical advantage of the quadriceps muscle group by holding the tendon away from the knee's axis of rotation.",
+        "ans": true,
+        "feedback": "The patella holds the quadriceps tendon away from the joint axis, lengthening its moment arm and maintaining mechanical advantage during extension."
+      },
+      {
+        "id": 2,
+        "q": "During a standing barbell curl, the resistive torque generated by the barbell is greatest at the start of the movement when the arms are fully extended.",
+        "ans": false,
+        "feedback": "At full extension, the barbell is aligned vertically below the elbow joint, meaning the horizontal distance (moment arm) is minimal/zero; resistive torque peaks at approximately 90° of elbow flexion when the forearm is horizontal."
+      },
+      {
+        "id": 3,
+        "q": "An athlete with a tendon inserted closer to the joint center must shorten their muscle more to produce a given degree of joint rotation compared to an athlete with a farther insertion.",
+        "ans": false,
+        "feedback": "A tendon inserted closer to the joint center requires *less* muscle shortening to produce a given joint rotation (e.g., 37° vs 34° for the same shortening)."
+      },
+      {
+        "id": 4,
+        "q": "Individual anatomical variations in tendon insertion points are nonmodifiable structural traits.",
+        "ans": true,
+        "feedback": "Skeletal dimensions and tendon attachment sites are genetically determined, nonmodifiable anatomical characteristics."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "The **patella** increases the mechanical advantage of the quadriceps muscle group by preventing the tendon from falling close to the knee's **axis of rotation**.",
+        "targets": [
+          "patella",
+          "axis of rotation"
+        ],
+        "optionsBank": [
+          "patella",
+          "axis of rotation",
+          "insertion",
+          "origin",
+          "tibia"
+        ],
+        "hint": "The patella spaces the tendon away from the knee's axis of rotation to preserve mechanical advantage."
+      },
+      {
+        "id": 2,
+        "statement": "A tendon inserted farther from the joint center creates a longer **moment arm**, allowing the athlete to generate greater **torque** at slower speeds.",
+        "targets": [
+          "moment arm",
+          "torque"
+        ],
+        "optionsBank": [
+          "moment arm",
+          "torque",
+          "velocity",
+          "elasticity",
+          "resistance"
+        ],
+        "hint": "A longer moment arm multiplies force to generate greater rotational torque."
+      },
+      {
+        "id": 3,
+        "statement": "Because of the inverse **force–velocity** relationship, a muscle contracting at higher linear shortening speeds produces **less** force.",
+        "targets": [
+          "force–velocity",
+          "less"
+        ],
+        "optionsBank": [
+          "force–velocity",
+          "less",
+          "length–tension",
+          "greater",
+          "equal"
+        ],
+        "hint": "The force-velocity relationship dictates that as concentric shortening velocity increases, muscle force capability decreases."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain the biomechanical mechanism by which the patella enhances quadriceps function during knee extension, and describe the functional consequences of a patellectomy.",
+        "model": "The patella functions as a anatomical spacer (sesamoid bone) that holds the quadriceps tendon away from the knee's instantaneous axis of rotation throughout the range of motion. By maintaining this physical distance, the patella prevents the tendon's line of action from falling close to the joint center, thereby preserving a longer muscle moment arm ($M_m$) and maintaining the mechanical advantage of the quadriceps group. In the absence of a patella (such as following a surgical patellectomy), the quadriceps tendon falls directly against the femoral condyles and collapses closer to the knee's center of rotation. This dramatically shortens $M_m$, reducing mechanical advantage and requiring the quadriceps to generate substantially greater internal muscle tension to overcome the same external knee flexion resistance.",
+        "criteria": [
+          "Identify the patella as a spacer holding the tendon away from the knee's axis of rotation.",
+          "Explain that maintaining distance preserves a longer muscle moment arm ($M_m$) and mechanical advantage.",
+          "Describe that without a patella, the tendon falls closer to the joint center of rotation.",
+          "Conclude that a shortened moment arm reduces mechanical advantage, demanding higher internal quadriceps force."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Analyze the biological trade-off between strength and speed associated with anatomical variations in tendon insertion distance from the joint center, contrasting its impact in powerlifting versus high-velocity throwing or sprinting.",
+        "model": "Individual variation in tendon insertion sites creates a fundamental trade-off between torque production and movement velocity. When a tendon inserts farther from the joint center, the muscle force acts through a longer moment arm ($M_m$), producing greater rotational torque for any given contractile force ($\\text{Torque} = F_m \\cdot M_m$), enabling the athlete to lift heavier external weights. However, geometric constraints dictate that a muscle inserted farther from the joint must undergo greater linear shortening to rotate the joint through a given angular displacement (e.g., rotating 34° vs. 37° for an equal increment of shortening). To achieve high joint angular velocities, this muscle must contract at a much higher linear shortening speed. According to the inverse force–velocity relationship, higher shortening speeds reduce the muscle's force-generating capacity. Therefore, a farther tendon insertion is highly advantageous for slow, heavy sports like powerlifting, but disadvantageous for high-speed sports like sprinting, baseball pitching, or tennis, where closer insertions maximize angular velocity and preserve force at rapid movement cadences.",
+        "criteria": [
+          "Explain that farther tendon insertion increases moment arm ($M_m$) and torque capacity for lifting heavier loads.",
+          "Explain the trade-off: farther insertion produces less joint rotation per unit of muscle shortening.",
+          "Connect linear shortening velocity to the inverse force-velocity relationship (higher contraction speed reduces force capability).",
+          "Contrast application: advantageous for slow heavy strength (powerlifting) vs. disadvantageous for high-velocity sports (sprinting, throwing, tennis)."
+        ]
+      }
+    ]
+  }
+}

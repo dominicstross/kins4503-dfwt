@@ -1,0 +1,546 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What three core components comprise the multifactorial approach required for continual agility development?",
+        "opts": [
+          "Maximal aerobic capacity, static passive flexibility, and isolated joint bodybuilding",
+          "Underpinning physical capacities, technical competence in closed change-of-direction skills, and perceptual\u2013cognitive development",
+          "High-altitude hypoxic conditioning, isometric core endurance, and continuous curvilinear jogging",
+          "Unloaded sprint mechanics, straight-line flight time, and nutritional glycogen supercompensation"
+        ],
+        "correct": 1,
+        "rationale": "** A multifactorial approach develops agility across three pillars: underpinning physical capacities through strength development strategies, technical competence in a closed-skill environment (change-of-direction ability), and perceptual\u2013cognitive capacity through agility drills and sport practice."
+      },
+      {
+        "id": 2,
+        "q": "In strength development for agility, why is there a specialized emphasis placed on developing eccentric strength compared to linear speed training?",
+        "opts": [
+          "Eccentric strength prevents the muscle from utilizing glycogen during exercise",
+          "Change-of-direction and agility movements impose exceptionally large braking forces that require high eccentric force absorption",
+          "Eccentric contractions eliminate all ground reaction forces during the plant phase",
+          "Eccentric strength allows athletes to sprint without flexing their knees or hips"
+        ],
+        "correct": 1,
+        "rationale": "** Strength development for agility requires additional development of eccentric strength due to the large braking forces encountered during deceleration and directional redirection."
+      },
+      {
+        "id": 3,
+        "q": "Which ballistic field-based exercises across the force\u2013velocity curve should be integrated alongside weight room training to support agility strength demands?",
+        "opts": [
+          "Seated leg press held for 30-second isometric intervals",
+          "Squat jumps, countermovement jumps (CMJ), and drop jumps of various heights",
+          "Slow-tempo walking lunges with light dumbbells",
+          "Continuous low-intensity aerobic bench stepping"
+        ],
+        "correct": 1,
+        "rationale": "** Agility training incorporates activities across the force-velocity curve on the field, including squat jumps, countermovement jumps, and drop jumps of various heights combined with change-of-direction drills."
+      },
+      {
+        "id": 4,
+        "q": "What physiological concept explains why an athlete's measurable agility improvements on the field often lag behind their gym strength gains?",
+        "opts": [
+          "The transfer latency principle: fundamental physical requirements develop before athletes can transfer newly gained strength into technical competence",
+          "The law of accommodation: the nervous system permanently shuts down motor unit firing",
+          "The size principle: slow-twitch motor units permanently inhibit fast-twitch motor units",
+          "Autogenic inhibition: Golgi tendon organs permanently abolish tendon stiffness"
+        ],
+        "correct": 0,
+        "rationale": "** Athletes develop foundational physical requirements before being able to coordinate and transfer newly gained strength into technical competence, meaning performance gains inherently lag behind physical adaptations."
+      },
+      {
+        "id": 5,
+        "q": "How are closed-skill change-of-direction (COD) drills systematically progressed from beginner to advanced levels?",
+        "opts": [
+          "By randomly altering drills daily without tracking volume",
+          "Similar to plyometric progressions, advancing from beginner to intermediate to advanced based on physical loading demands",
+          "By having athletes close their eyes during all cutting drills",
+          "By strictly restricting all movements to straight-line running only"
+        ],
+        "correct": 1,
+        "rationale": "** Similar to plyometric activities, closed-skill COD drills progress through beginner, intermediate, and advanced levels based on the physical loading demands (e.g., velocity, angle, braking impulse)."
+      },
+      {
+        "id": 6,
+        "q": "How do the physical loading demands of true agility drills compare to beginner closed-skill change-of-direction drills?",
+        "opts": [
+          "Agility drills impose significantly lower physical loads than beginner COD drills",
+          "The physical loading during agility drills is higher than in beginner change-of-direction drills due to unexpected braking and rapid directional adjustments",
+          "Physical loading is identical across all drills regardless of reactive demands",
+          "Agility drills eliminate eccentric loading on the lower limbs"
+        ],
+        "correct": 1,
+        "rationale": "** The physical loading during agility drills is higher than beginner change-of-direction drills because reactive stimuli demand sudden, unplanned decelerations and intense eccentric braking."
+      },
+      {
+        "id": 7,
+        "q": "What two distinct categories of directional movement drills must be addressed within closed-skill COD progressions?",
+        "opts": [
+          "Isometric wall sits and static calf raises",
+          "Rapid changes of direction (sharp deceleration cuts) and drills associated with maneuverability (curvilinear bending around cones)",
+          "Passive hamstring stretching and seated spinal twists",
+          "Backward walking and downhill jogging"
+        ],
+        "correct": 1,
+        "rationale": "** Progression plans must address both rapid changes of direction that demand abrupt deceleration/reacceleration and maneuverability drills that require bending around objects while maintaining velocity."
+      },
+      {
+        "id": 8,
+        "q": "In addition to eccentric strength, what physical strength qualities along the force\u2013velocity spectrum should be emphasized for agility athletes?",
+        "opts": [
+          "Absolute bulk mass and non-functional visceral adiposity",
+          "Relative strength and a variety of speed\u2013strength qualities",
+          "Isolated slow-twitch endurance and submaximal aerobic efficiency",
+          "Passive flexibility and joint laxity"
+        ],
+        "correct": 1,
+        "rationale": "** Similar to speed development, agility strength training should emphasize relative strength and a spectrum of speed-strength qualities along the force-velocity continuum."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which components are essential in constructing a comprehensive, well-rounded strength program for agility athletes? (Select all that apply)",
+        "opts": [
+          "Developing relative strength and speed\u2013strength qualities across the force\u2013velocity spectrum.",
+          "Targeting eccentric strength to absorb large braking forces during deceleration.",
+          "Utilizing a spectrum of load\u2013velocity profiles in the weight room.",
+          "Incorporating field-based ballistic jump training (squat jumps, CMJs, drop jumps).",
+          "Relying exclusively on slow, heavy machine exercises while avoiding all jumping drills."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "** Agility strength development requires relative strength, speed-strength, eccentric braking capacity, load-velocity profiling in the weight room, and field-based jumps (squat, CMJ, drop jumps). Relying solely on slow machine exercises fails to satisfy agility demands."
+      },
+      {
+        "id": 2,
+        "q": "Which factors explain why technical agility performance gains often lag behind weight room strength improvements? (Select all that apply)",
+        "opts": [
+          "Foundational physical capacities (maximal strength, RFD, eccentric tolerance) develop before technical coordination is mastered.",
+          "Transferring newly acquired physical strength into dynamic, sport-specific movement requires dedicated technical motor learning.",
+          "Neuromuscular recruitment patterns in closed weight room lifts differ from multi-planar cutting mechanics.",
+          "Muscle mass gains permanently prevent athletes from changing direction effectively.",
+          "Cognitive processing demands during sport movements introduce additional coordination complexity."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "** Strength gains precede technical transfer because athletes must physically build capacities before coordinating them into technical movement. Transfer requires motor learning and cognitive integration. Muscle mass does not prevent COD when trained properly."
+      },
+      {
+        "id": 3,
+        "q": "How do closed-skill change-of-direction (COD) drills differ across beginner, intermediate, and advanced progression levels? (Select all that apply)",
+        "opts": [
+          "They progress based on physical loading demands, similar to plyometric intensity tiers.",
+          "Beginner drills emphasize lower entry velocities, planned decelerations, and shallower cutting angles.",
+          "Advanced drills feature high entry velocities, aggressive momentum reversals, and rapid deceleration.",
+          "Beginner drills incorporate unpredictable reactive stimuli to maximize cognitive fatigue.",
+          "Progressions include both rapid deceleration cuts and curvilinear maneuverability drills."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "** COD drills progress by physical loading demands (velocity, angle, deceleration force), differentiating rapid cuts from maneuverability. Beginner drills are closed and predictable; reactive stimuli are added in agility progressions, not beginner COD drills."
+      },
+      {
+        "id": 4,
+        "q": "Which training activities provide varied load\u2013velocity profiles on the field to support agility performance? (Select all that apply)",
+        "opts": [
+          "Squat jumps.",
+          "Countermovement jumps (CMJ).",
+          "Drop jumps of various box heights.",
+          "Change-of-direction cutting drills.",
+          "Prolonged steady-state cycling at 50% maximal heart rate."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "** The text explicitly identifies squat jumps, countermovement jumps, drop jumps of various heights, and COD drills as field-based activities satisfying agility load-velocity requirements. Low-intensity steady-state cycling does not support high-velocity agility qualities."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Strength development for agility requires a greater emphasis on eccentric strength than sprint training due to large braking forces.",
+        "ans": true,
+        "feedback": "** Agility requires specialized development of eccentric strength because athletes must dissipate massive braking forces during sharp directional changes."
+      },
+      {
+        "id": 2,
+        "q": "Technical agility performance gains occur immediately and simultaneously with increases in weight room maximal strength.",
+        "ans": false,
+        "feedback": "** Performance gains lag behind fundamental physical requirements; athletes build physical capacities before successfully transferring them into technical movement competence."
+      },
+      {
+        "id": 3,
+        "q": "Closed-skill change-of-direction drill progressions should be structured based on physical loading demands, similar to plyometric progressions.",
+        "ans": true,
+        "feedback": "** Closed-skill COD drills advance through beginner, intermediate, and advanced stages based on the physical loading demands imposed on the musculoskeletal system."
+      },
+      {
+        "id": 4,
+        "q": "The physical loading demands experienced during true agility drills are typically lower than those of beginner change-of-direction drills.",
+        "ans": false,
+        "feedback": "** The physical loading during agility drills is higher than beginner change-of-direction drills due to reactive, unanticipated braking requirements."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Agility strength training emphasizes relative strength, speed\u2013strength qualities, and **eccentric strength** to absorb large **braking forces**.",
+        "targets": [
+          "eccentric strength",
+          "braking forces"
+        ],
+        "optionsBank": [
+          "eccentric strength",
+          "braking forces",
+          "concentric power",
+          "propulsive impulse",
+          "endurance"
+        ],
+        "hint": "** Agility demands targeted eccentric strength development to tolerate large braking forces during deceleration."
+      },
+      {
+        "id": 2,
+        "statement": "Athletes develop fundamental **physical requirements** before transferring newly gained strength into **technical competence**, creating a performance lag.",
+        "targets": [
+          "physical requirements",
+          "technical competence"
+        ],
+        "optionsBank": [
+          "physical requirements",
+          "technical competence",
+          "visual scanning",
+          "cardiovascular fitness",
+          "flexibility"
+        ],
+        "hint": "** Physical capacities develop first; technical transfer requires subsequent motor adaptation, causing performance to lag behind physical gains."
+      },
+      {
+        "id": 3,
+        "statement": "Closed change-of-direction drills progress based on **physical loading** demands, incorporating both rapid cuts and **maneuverability** drills.",
+        "targets": [
+          "physical loading",
+          "maneuverability"
+        ],
+        "optionsBank": [
+          "physical loading",
+          "maneuverability",
+          "cognitive stress",
+          "passive stretching",
+          "aerobic capacity"
+        ],
+        "hint": "** COD drills advance according to physical loading demands and include both sharp cuts and curvilinear maneuverability drills."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain the multifactorial approach to agility development, detailing the three core pillars and why eccentric strength is specifically prioritized.",
+        "model": "The multifactorial approach to agility development recognizes that agility cannot be improved through a single training mode; rather, it requires integrating three core pillars: (1) underpinning physical capacities developed through comprehensive strength strategies, (2) technical competence in movement-specific mechanics developed within a closed-skill environment (change-of-direction ability), and (3) perceptual\u2013cognitive capacity cultivated through reactive agility drills and sport practice. Within the strength pillar, eccentric strength is specifically prioritized because changing direction\u2014especially at aggressive angles\u2014requires absorbing and dissipating massive ground reaction forces during the braking phase. Without sufficient eccentric strength, athletes cannot rapidly decelerate their center of mass, leading to prolonged ground contact times, inefficient transitions, and heightened risk of lower extremity injury.",
+        "criteria": [
+          "Identify the three core pillars: underpinning physical strength capacities, closed-skill technical competence (COD), and perceptual-cognitive capacity.",
+          "Explain the role of eccentric strength in absorbing large braking forces during deceleration.",
+          "Connect eccentric strength to rapid momentum absorption and efficient redirection.",
+          "Contrast closed-skill physical mechanics with perceptual-cognitive integration."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Discuss the principle of transfer latency (performance lag) and outline how closed-skill change-of-direction drills should be progressed based on physical loading demands.",
+        "model": "The principle of transfer latency describes the physiological and motor learning phenomenon wherein measurable athletic performance gains on the field lag behind the development of fundamental physical requirements. An athlete will adapt neuromuscularly in the weight room\u2014increasing maximal force, RFD, and eccentric capacity\u2014before they can effectively coordinate, synchronize, and express those physical qualities within dynamic, high-velocity movement patterns. To bridge this gap, closed-skill change-of-direction drills must follow a structured progression based on physical loading demands, analogous to plyometric intensity hierarchies. Progression begins at beginner levels with low-velocity entries, controlled decelerations, and gentle cutting angles, minimizing joint loading while solidifying posture and center of mass control. As technical mastery is demonstrated, drills advance to intermediate and advanced stages that feature high approach velocities, aggressive momentum reversals (sharp cuts demanding high braking impulses), and multi-directional maneuverability drills that challenge the athlete to maintain velocity around obstacles.",
+        "criteria": [
+          "Define transfer latency / performance lag: physical strength capacities develop before they can be transferred into technical movement competence.",
+          "Explain that closed-skill COD progressions are based on physical loading demands (similar to plyometrics).",
+          "Detail beginner drill characteristics: low entry velocities, controlled decelerations, and moderate cutting angles.",
+          "Detail advanced drill characteristics: high entry velocities, aggressive momentum-reversal cuts (high braking impulse), and complex maneuverability drills."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "How do the perceptual\u2013cognitive qualities developed during years of inherent sport skills practice differ from those targeted during isolated agility drills?",
+        "opts": [
+          "Sport practice develops sprint acceleration, while agility drills develop aerobic endurance",
+          "Sport practice enhances visual scanning, pattern recognition, and situational knowledge, whereas agility drills primarily focus on anticipation, decision-making time, and decision accuracy",
+          "Agility drills develop general visual scanning, while sport practice only trains linear running",
+          "There is no cognitive difference; both environments train identical neurological pathways simultaneously"
+        ],
+        "correct": 1,
+        "rationale": "** Inherent skills practice within sport continually enhances visual scanning, pattern recognition, and knowledge of the situation; agility drills outside of practice specifically target anticipation, decision-making time, and decision-making accuracy."
+      },
+      {
+        "id": 2,
+        "q": "What is the recommended starting point when transitioning athletes from closed-skill change-of-direction drills to agility training?",
+        "opts": [
+          "Immediately placing athletes in full-contact 11-on-11 scrimmages",
+          "Adding a generic perceptual\u2013cognitive stimulus (e.g., whistle, coach command, flashing arrow or light) to common closed COD drills",
+          "Having athletes perform static balance holds on wobble boards",
+          "Eliminating all physical movement and utilizing passive video watching exclusively"
+        ],
+        "correct": 1,
+        "rationale": "** Agility training should begin by adding a perceptual-cognitive component to common closed-skill COD drills (such as decelerations or the Z-drill) using generic stimuli like a whistle, verbal command, or flashing light."
+      },
+      {
+        "id": 3,
+        "q": "Following successful execution with generic stimuli, what training modalities provide superior transfer to competitive athletic performance?",
+        "opts": [
+          "Unloaded treadmill running at fixed speeds",
+          "Activities featuring sport-specific stimuli, such as 1-on-1 evasive drills and small-sided games",
+          "Continuous linear sled towing with heavy loads",
+          "Blindfolded agility ladder footwork drills"
+        ],
+        "correct": 1,
+        "rationale": "** Progression requires activities with sport-specific stimuli\u2014such as evasive drills and small-sided games\u2014which provide superior transfer to competitive match performance."
+      },
+      {
+        "id": 4,
+        "q": "How can a coach increase the difficulty of an agility drill without changing the core movement pattern or drill setup?",
+        "opts": [
+          "By decreasing the athlete's resting heart rate",
+          "By progressively increasing temporal stress (time constraints) or spatial stress (space/area constraints)",
+          "By having the athlete run in heavy winter clothing",
+          "By eliminating all foot contact with the playing surface"
+        ],
+        "correct": 1,
+        "rationale": "** Both generic and sport-specific agility drills can be made more difficult through progressive increases in either temporal (time) or spatial (space or area) stress on the athlete."
+      },
+      {
+        "id": 5,
+        "q": "Which practical modification represents an increase in \"temporal stress\" within an agility drill?",
+        "opts": [
+          "Expanding the boundaries of the drill to a 100-meter field",
+          "Delaying the presentation of the stimulus or increasing opponent approach speed to shorten the athlete's decision-making window",
+          "Allowing the athlete 10 seconds of rest before initiating the cut",
+          "Adding heavier weights to the athlete's barbell back squat"
+        ],
+        "correct": 1,
+        "rationale": "** Temporal stress involves constraining the available time for perception, decision-making, and execution, such as presenting stimuli later or accelerating the pace of incoming opponents."
+      },
+      {
+        "id": 6,
+        "q": "Which practical modification represents an increase in \"spatial stress\" within an agility drill?",
+        "opts": [
+          "Constraining the physical boundaries or narrowing the corridor of movement, forcing sharper cuts in restricted space",
+          "Lengthening the recovery interval between sets from 2 minutes to 5 minutes",
+          "Increasing the pitch frequency of the coach's whistle",
+          "Testing the athlete's vertical jump height on a force plate"
+        ],
+        "correct": 0,
+        "rationale": "** Spatial stress involves manipulating the spatial dimensions\u2014such as reducing the boundary area or narrowing corridors\u2014forcing athletes to execute sharper directional changes under spatial confinement."
+      },
+      {
+        "id": 7,
+        "q": "Which drill represents an example of a closed change-of-direction drill evolving into an introductory agility drill via a generic stimulus?",
+        "opts": [
+          "Performing a 505 test with electronic timing gates",
+          "Executing the Z-drill where directional changes are initiated in response to a flashing directional light or coach's vocal cue",
+          "Running a 40-yard dash from a three-point stance",
+          "Completing the Illinois agility test around fixed cones"
+        ],
+        "correct": 1,
+        "rationale": "** The text notes that drills like decelerations or the Z-drill evolve into agility drills when a generic stimulus (e.g., whistle, coach command, flashing arrow/light) dictates the movement."
+      },
+      {
+        "id": 8,
+        "q": "In the continuum of agility development, what is the overarching objective of progressively increasing perceptual\u2013cognitive demands?",
+        "opts": [
+          "To train the central nervous system to anticipate, decide, and execute motor responses accurately under time and space constraints matching competition",
+          "To induce systemic glycogen depletion and voluntary muscle cramping",
+          "To replace all strength and conditioning weight room sessions entirely",
+          "To isolate single muscle groups through non-functional concentric actions"
+        ],
+        "correct": 0,
+        "rationale": "** Progressively increasing perceptual-cognitive demands trains anticipation, decision-making speed, and movement execution under realistic temporal and spatial constraints."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which cognitive faculties are continually developed through years of sport-specific skills practice within an athlete's sport? (Select all that apply)",
+        "opts": [
+          "Visual scanning of the playing field.",
+          "Pattern recognition of offensive and defensive formations.",
+          "Knowledge of the situation and tactical context.",
+          "Unconscious alpha motor neuron inhibition.",
+          "Absolute skeletal bone mineral density."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "** Skills training within sport continually enhances visual scanning, pattern recognition, and knowledge of the situation. Motor neuron inhibition and bone density are physiological/anatomical factors."
+      },
+      {
+        "id": 2,
+        "q": "Which cognitive components are specifically isolated and targeted during structured agility drills performed outside of sport practice? (Select all that apply)",
+        "opts": [
+          "Anticipation of movement cues.",
+          "Decision-making time (reducing latency).",
+          "Decision-making accuracy.",
+          "Maximum aerobic VO2max capacity.",
+          "Resting endocrine hormone secretion."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "** Outside of sport practice, agility drills specifically focus on improving anticipation, decision-making time, and decision-making accuracy."
+      },
+      {
+        "id": 3,
+        "q": "What methods can coaches use to introduce generic stimuli into closed change-of-direction drills? (Select all that apply)",
+        "opts": [
+          "Sounding a whistle to trigger a deceleration or directional cut.",
+          "Providing a verbal coach command indicating the cut direction.",
+          "Activating a flashing arrow or directional light system.",
+          "Having the athlete read a written textbook while running.",
+          "Running through a pre-planned cone course with zero external cues."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "** Generic stimuli include whistles, coach vocal commands, or flashing arrows/lights. Running without cues is closed COD; reading a textbook is non-functional."
+      },
+      {
+        "id": 4,
+        "q": "Which drill formats incorporate authentic sport-specific stimuli and provide superior transfer to competitive play? (Select all that apply)",
+        "opts": [
+          "1-on-1 evasive attacker vs. defender drills.",
+          "Small-sided games with tactical constraints.",
+          "Fixed-cone L-runs performed in an empty gym.",
+          "Reactive tag games within constrained boundaries.",
+          "Scripted route running without a defender present."
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "** Evasive drills, small-sided games, and reactive tag games utilize sport-specific stimuli (reading opponents). Fixed-cone runs and un-defended routes are closed COD drills lacking reactive stimuli."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Agility drills performed outside of skills practice primarily focus on improving anticipation, decision-making time, and accuracy.",
+        "ans": true,
+        "feedback": "** Agility drills outside of sports practice specifically target anticipation, decision-making time, and decision-making accuracy."
+      },
+      {
+        "id": 2,
+        "q": "Closed change-of-direction drills can be converted into agility drills by introducing generic stimuli such as whistles or flashing lights.",
+        "ans": true,
+        "feedback": "** Decelerations or the Z-drill evolve into agility drills by incorporating generic stimuli like a whistle, coach command, or flashing light."
+      },
+      {
+        "id": 3,
+        "q": "Generic stimuli drills provide superior transfer to match performance compared to sport-specific evasive drills and small-sided games.",
+        "ans": false,
+        "feedback": "** Sport-specific stimuli (evasive drills, small-sided games) have been shown to have better transfer to performance than generic stimuli drills."
+      },
+      {
+        "id": 4,
+        "q": "Increasing spatial stress in an agility drill involves restricting the physical area or narrowing boundaries to force sharper cuts.",
+        "ans": true,
+        "feedback": "** Spatial stress manipulates physical boundaries and available space, forcing athletes to react and cut within tighter, more demanding areas."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "While sport practice enhances visual scanning and pattern recognition, agility drills primarily target **anticipation**, decision-making time, and **accuracy**.",
+        "targets": [
+          "anticipation",
+          "accuracy"
+        ],
+        "optionsBank": [
+          "anticipation",
+          "accuracy",
+          "maximal strength",
+          "flight time",
+          "flexibility"
+        ],
+        "hint": "** Agility drills specifically focus on improving anticipation, decision-making time, and decision accuracy."
+      },
+      {
+        "id": 2,
+        "statement": "Closed-skill drills evolve into agility drills by adding generic cues like a **whistle**, before progressing to sport-specific drills like **small-sided games**.",
+        "targets": [
+          "whistle",
+          "small-sided games"
+        ],
+        "optionsBank": [
+          "whistle",
+          "small-sided games",
+          "static stretch",
+          "1RM squat",
+          "treadmill"
+        ],
+        "hint": "** Progressions begin with generic stimuli (e.g., whistle) and advance to sport-specific drills (e.g., small-sided games)."
+      },
+      {
+        "id": 3,
+        "statement": "Agility drills are made progressively more difficult by increasing **temporal** stress (reducing time) or **spatial** stress (constraining space).",
+        "targets": [
+          "temporal",
+          "spatial"
+        ],
+        "optionsBank": [
+          "temporal",
+          "spatial",
+          "metabolic",
+          "hormonal",
+          "linear"
+        ],
+        "hint": "** Agility drills are intensified by manipulating temporal (time) and spatial (space) stress vectors."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Compare the perceptual\u2013cognitive adaptations developed through inherent sport skills practice with those trained through targeted agility drills outside of practice.",
+        "model": "Inherent sport skills practice (conducted over years within the sport environment) builds deep, broad cognitive representations of the game. Specifically, it continually refines an athlete's visual scanning strategies across complex visual fields, enhances pattern recognition of opponent postures and tactical schemes, and expands situational knowledge (understanding game context, down-and-distance, or tactical score-time situations). In contrast, targeted agility drills conducted outside of formal skills practice isolate and overload specific components of the perceptual\u2013cognitive loop under controlled conditions. These drills focus primarily on sharpening anticipation (reading immediate pre-movement cues), minimizing decision-making time (reducing neural processing latency), and enhancing decision-making accuracy under fatigue or pressure. Both environments are complementary: sport practice provides the foundational tactical library, while isolated agility drills hone rapid cognitive-motor execution.",
+        "criteria": [
+          "Identify adaptations from inherent sport skills practice: visual scanning, pattern recognition, and knowledge of the situation.",
+          "Identify adaptations from targeted agility drills: anticipation, decision-making time, and decision-making accuracy.",
+          "Explain that sport practice builds broad contextual and tactical understanding over years of exposure.",
+          "Explain that agility drills specifically isolate and accelerate the latency and accuracy of perceptual-motor decisions."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Detail the progression continuum for developing perceptual\u2013cognitive ability in agility, explaining how generic stimuli, sport-specific drills, and environmental stress vectors are sequenced.",
+        "model": "The progression continuum for perceptual\u2013cognitive development follows a structured three-stage hierarchy:   - Stage 1 (Generic Stimulus Integration): Progression begins by converting familiar closed-skill change-of-direction drills (such as linear decelerations or the Z-drill) into agility drills through the introduction of a generic stimulus. These include simple auditory cues (a whistle or vocal coach command) or visual cues (a flashing arrow or light), requiring the athlete to perceive the cue, make a directional decision, and execute the cut.   - Stage 2 (Sport-Specific Stimulus Progression): Following proficiency with generic cues, training advances to drills utilizing authentic sport-specific stimuli, which demonstrate superior transfer to competitive performance. These include 1-on-1 evasive drills (where an athlete must read an opponent's shoulders, trunk, and hips) and small-sided games (which replicate dynamic match play, tactical decision-making, and multi-player interactions).   - Stage 3 (Environmental Stress Vectors): Within both generic and sport-specific drills, task difficulty is progressively elevated by manipulating two environmental stress vectors: temporal stress (reducing available reaction time by delaying the stimulus, increasing approach speed, or accelerating drill tempo) and spatial stress (constraining boundary dimensions, narrowing corridors, or compressing available playing area, forcing sharper cuts and rapid deceleration in confined spaces).",
+        "criteria": [
+          "Stage 1: Transition from closed COD to generic stimuli (whistles, coach vocal commands, flashing lights/arrows).",
+          "Stage 2: Progression to sport-specific stimuli (evasive 1-on-1 drills, small-sided games) for superior transfer.",
+          "Stage 3: Manipulation of environmental stress vectors: temporal stress (time constraints) and spatial stress (space constraints).",
+          "Explain how progressive overload is systematically applied to cognitive and perceptual demands."
+        ]
+      }
+    ]
+  }
+}

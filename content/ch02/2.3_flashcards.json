@@ -1,0 +1,76 @@
+{
+    "chapterId": "2.3",
+    "title": "2.3 Human Strength and Power",
+    "cards": [
+        {
+            "id": "2.3-01",
+            "tag": "Mechanical Work and Power (Linear Physics)",
+            "reference": "Section 2.3",
+            "front": "How are mechanical work and power precisely defined and calculated in linear motion, and what standard SI units are used?",
+            "back": "In physics, work and power are defined by specific mathematical relationships:<ul><li><strong>Mechanical Work:</strong> The product of the force exerted on an object and the distance the object moves in the direction in which the force is exerted:<br>$$\\text{Work} = \\text{Force} \\times \\text{Displacement}$$Measured in <strong>joules (J)</strong> or newton-meters (\\(\\text{N}\\cdot\\text{m}\\)).</li><li><strong>Mechanical Power:</strong> The time rate of doing work:<br>$$\\text{Power} = \\frac{\\text{Work}}{\\text{Time}} = \\text{Force} \\times \\text{Velocity}$$Measured in <strong>watts (W)</strong>, where \\(1\\text{ W} = 1\\text{ J/s}\\).</li><li><strong>SI Units:</strong> Force is measured in newtons (N), distance in meters (m), and time in seconds (s).</li></ul>"
+        },
+        {
+            "id": "2.3-02",
+            "tag": "Negative Work and Power in Eccentric Actions",
+            "reference": "Section 2.3",
+            "front": "What is the physical and physiological meaning of \"negative work\" and \"negative power,\" and during what muscle actions do they occur?",
+            "back": "Calculated work and power have a negative sign when force is exerted on an object in the direction opposite to that in which the object is moving:<ul><li><strong>Eccentric Muscle Actions:</strong> All negative work and power occur during eccentric actions, such as lowering a weight in a controlled manner or decelerating the body at the end of a rapid movement.</li><li><strong>Physiological Reality:</strong> Strictly speaking, there is no such thing as negative work. The term refers to work performed <em>on</em>, rather than <em>by</em>, a muscle.</li><li><strong>Energy Transfer:</strong> When lifting a weight, muscles do work on the weight, increasing its gravitational potential energy. When lowering the weight, that potential energy is used to perform work on the athlete's lengthening muscle fibers.</li></ul>"
+        },
+        {
+            "id": "2.3-03",
+            "tag": "Angular Work, Power, and Torque Differentiation",
+            "reference": "Section 2.3",
+            "front": "How are angular work and power calculated, and what is the critical physical distinction between torque and work (both expressed in N·m)?",
+            "back": "For rotational movement about an axis:<ul><li><strong>Angular Work:</strong> Calculated as:<br>$$\\text{Work} = \\text{Torque} \\times \\text{Angular Displacement}$$where angular displacement is measured in <strong>radians (rad)</strong> (\\(1\\text{ rad} = 180^\\circ / \\pi \\approx 57.3^\\circ\\)) and work is measured in <strong>joules (J)</strong>.</li><li><strong>Angular Power:</strong> Calculated as rotational work divided by time, or torque multiplied by angular velocity (\\(\\text{rad/s}\\)), expressed in <strong>watts (W)</strong>.</li><li><strong>Torque vs. Work (N·m Distinction):</strong> Although both share the unit \\(\\text{N}\\cdot\\text{m}\\), the distance component in <em>torque</em> represents the <strong>moment arm</strong> (perpendicular distance from the pivot point to the force's line of action), whereas the distance component in <em>work</em> represents the <strong>distance moved along the line of action</strong> of the force.</li></ul>"
+        },
+        {
+            "id": "2.3-04",
+            "tag": "Strength versus Power: Scientific Discrepancy & Sport Applications",
+            "reference": "Section 2.3",
+            "front": "Why is it scientifically incorrect to categorize strength solely as \"low-speed\" and power as \"high-speed,\" and how do powerlifting and Olympic weightlifting illustrate this?",
+            "back": "Strength and power are mathematically interconnected rather than opposing qualities:<ul><li><strong>Scientific Reality:</strong> Strength is the capacity to exert force at <em>any given velocity</em>, and power is the mathematical product of force and velocity. Both reflect the identical ability to accelerate a mass at a specified velocity.</li><li><strong>Sport Applications:</strong> Movements resisted by high loads (e.g., colliding football linemen) require low-velocity strength and power. Movements resisted by light loads (e.g., swinging a badminton racket) require high-velocity strength and power.</li><li><strong>Powerlifting vs. Olympic Weightlifting:</strong> Despite its name, <strong>powerlifting</strong> involves very high forces but low movement velocities, generating <em>substantially less mechanical power</em> than <strong>Olympic weightlifting</strong>, which combines heavy loads with very high movement speeds.</li></ul>"
+        },
+        {
+            "id": "2.3-05",
+            "tag": "Neural Control of Strength & Early Training Adaptations",
+            "reference": "Section 2.3",
+            "front": "How does neural control influence maximal muscular force output, and why do novice lifters experience rapid initial strength gains?",
+            "back": "Neural control dictates muscle force through two primary mechanisms:<ul><li><strong>Motor Unit Recruitment:</strong> Determining which and how many motor units are activated, as well as their size. Force increases when more and larger motor units are recruited.</li><li><strong>Rate Coding:</strong> The firing frequency of the active motor units. Higher firing rates produce greater force.</li><li><strong>Early Training Adaptations:</strong> Much of the rapid strength improvement observed during the first few weeks of resistance training is driven by <strong>neural adaptations</strong> as the central nervous system learns to coordinate and recruit a greater proportion of existing muscle tissue, occurring well before significant structural muscle hypertrophy develops.</li></ul>"
+        },
+        {
+            "id": "2.3-06",
+            "tag": "Muscle Cross-Sectional Area vs. Volume & Height Disadvantages",
+            "reference": "Section 2.3",
+            "front": "Why is maximal muscle force proportional to cross-sectional area (CSA) rather than volume, and how does this affect taller athletes in calisthenics and gymnastics?",
+            "back": "Muscular strength is fundamentally governed by surface area rather than total volume:<ul><li><strong>Force Proportional to CSA:</strong> All else being equal, the maximal contractile force a muscle can generate is related directly to its <strong>cross-sectional area</strong>, not its volume.</li><li><strong>Taller vs. Shorter Athlete Comparison:</strong> Two athletes with identical body composition and biceps circumference have approximately the same CSA and therefore produce the same absolute arm strength. However, the taller athlete has longer bones and muscles, resulting in greater muscle volume and greater overall body weight.</li><li><strong>Gymnastics / Calisthenics Impact:</strong> With equal force but greater body mass, the taller athlete has a lower strength-to-mass ratio and less capacity to accelerate and lift their own body, explaining why elite gymnasts are predominantly of shorter stature.</li></ul>"
+        },
+        {
+            "id": "2.3-07",
+            "tag": "Muscle Fiber Pennation: Force vs. Velocity Trade-Off",
+            "reference": "Section 2.3",
+            "front": "What is the angle of pennation, and what biomechanical trade-offs exist between muscles with high pennation versus nonpennate (fusiform) muscles?",
+            "back": "Pennation describes the oblique alignment of muscle fibers relative to their tendon:<ul><li><strong>Angle of Pennation:</strong> The angle between muscle fibers and an imaginary line between the muscle's origin and insertion (0° = no pennation; resting human angles rarely exceed 15°). The angle increases dynamically as the muscle shortens.</li><li><strong>High Pennation Trade-Off:</strong> Packs more sarcomeres <em>in parallel</em> and fewer in series. This significantly increases maximal force generation (at low speeds, isometric, or eccentric actions) at the expense of maximum contraction velocity.</li><li><strong>Low/No Pennation (Nonpennate) Trade-Off:</strong> Features more sarcomeres <em>in series</em> (in a row). This enables higher maximal shortening velocities but yields lower maximal force production.</li><li><strong>Trainability:</strong> Pennation angle is modifiable through resistance training, contributing to individual strength and speed differences.</li></ul>"
+        },
+        {
+            "id": "2.3-08",
+            "tag": "Sarcomere Length-Tension Relationship & Crossbridge Kinetics",
+            "reference": "Section 2.3",
+            "front": "How does sarcomere length dictate a muscle's force-generating capacity, and why does force peak specifically at resting length?",
+            "back": "Force generation capability depends directly on the structural overlap of actin and myosin myofilaments:<ul><li><strong>Resting Length (Peak Force):</strong> At its resting length, actin and myosin filaments lie adjacent to one another with optimal spatial alignment, creating the <strong>maximal number of potential crossbridge sites</strong> and generating peak contractile force.</li><li><strong>Stretched Beyond Resting Length:</strong> Filament overlap is reduced; because fewer crossbridges can bind, force production drops significantly.</li><li><strong>Shortened Below Resting Length:</strong> Opposing actin filaments overlap and interfere with each other, reducing the number of functional crossbridge attachments and impairing force capacity.</li></ul>"
+        },
+        {
+            "id": "2.3-09",
+            "tag": "A.V. Hill Force-Velocity Relationship & Muscle Action Typology",
+            "reference": "Section 2.3",
+            "front": "Describe the A.V. Hill force-velocity curve for concentric muscle actions, and contrast concentric, eccentric, and isometric actions.",
+            "back": "A.V. Hill demonstrated that concentric muscle force declines non-linearly as contraction velocity increases, with the steepest decline occurring at lower speeds:<ul><li><strong>Concentric Muscle Action:</strong> Muscle shortens because contractile force exceeds resistive force (\\(F_m > F_r\\)). Concentric torque drops as angular velocity increases.</li><li><strong>Eccentric Muscle Action:</strong> Muscle lengthens under tension because contractile force is less than resistive force (\\(F_m < F_r\\)). Yields the <strong>greatest force capability</strong> of all actions. During isokinetic eccentric loading, maximal torque increases up to ~\\(90^\\circ/\\text{s}\\) (\\(1.57\\text{ rad/s}\\)) before gradually declining.</li><li><strong>Isometric Muscle Action:</strong> Muscle length remains constant because contractile force equals resistive force (\\(F_m = F_r\\)).</li><li><strong>Sport Application:</strong> In vertical jumping, an upward arm swing exerts downward force on the shoulders, slowing upward trunk acceleration so hip and knee extensors contract more slowly and generate higher forces for longer durations.</li></ul>"
+        },
+        {
+            "id": "2.3-10",
+            "tag": "Strength-to-Mass Ratio & Allometric Scaling (The Classic Formula)",
+            "reference": "Section 2.3",
+            "front": "What is the strength-to-mass ratio, why are smaller athletes pound-for-pound stronger, and how does the classic formula equitably compare athletes across weight classes?",
+            "back": "The strength-to-mass ratio directly reflects an athlete's ability to accelerate their body mass (\\(F/m = a\\)):<ul><li><strong>Square-Cube Law:</strong> Muscle contractile force is proportional to cross-sectional area (scaling with the <em>square</em> of linear body dimensions, \\(L^2\\)), whereas body mass is proportional to volume (scaling with the <em>cube</em> of linear dimensions, \\(L^3\\)). As body size increases, body mass grows faster than strength, giving smaller athletes greater pound-for-pound strength.</li><li><strong>Flaw of Direct Ratio:</strong> Simply dividing weight lifted by body weight (\\(\\text{Load} / \\text{BW}\\)) is biased against heavier athletes because it ignores this physiological scaling reality.</li><li><strong>The Classic Formula:</strong> Divides the load lifted by body weight raised to the two-thirds power:<br>$$\\text{Score} = \\frac{\\text{Load Lifted}}{\\text{Body Weight}^{2/3}}$$<br>This mathematical adjustment normalizes volume to cross-sectional area (\\([L^3]^{2/3} = L^2\\)), allowing equitable comparisons across diverse body sizes.</li></ul>"
+        }
+    ]
+}

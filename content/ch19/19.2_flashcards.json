@@ -1,0 +1,76 @@
+{
+    "chapterId": "19.2",
+    "title": "19.2 Neurophysiological Basis for Speed",
+    "cards": [
+        {
+            "id": "19.2-01",
+            "tag": "Neural Drive & High-Threshold Motor Neurons",
+            "reference": "Section 19.2",
+            "front": "How do combined strength, plyometric, and sprint training enhance <strong>neural drive</strong> and sprint performance?",
+            "back": "<strong>Neural Drive:</strong> The rate and amplitude of action potential impulses transmitted from the central nervous system to target musculature.<br><br><strong>Adaptations:</strong><ul><li><strong>Strength Training:</strong> Increases the firing frequency (rate) and amplitude of impulses, directly enhancing muscular force production and the rate of force development (RFD).</li><li><strong>Plyometric Training:</strong> Elevates the excitability of <strong>high-threshold motor neurons</strong>, which further amplifies neural drive and maximizes impulse generation during foot strike.</li></ul>"
+        },
+        {
+            "id": "19.2-02",
+            "tag": "Stretch–Shortening Cycle (SSC) Fundamentals",
+            "reference": "Section 19.2",
+            "front": "What is the <strong>stretch–shortening cycle (SSC)</strong>, and why is elite SSC performance considered independent of maximal strength?",
+            "back": "<strong>Definition:</strong> An eccentric–concentric coupling phenomenon in which muscle–tendon complexes are rapidly and forcibly stretched (stretch-loaded) during an eccentric countermovement and immediately shortened in a reactive, elastic concentric contraction.<br><br><strong>Independence from Strength:</strong> In elite athletic populations, reactive SSC capability relies on mechanical reflex loops and elastic strain energy storage rather than purely static, slow-velocity force generation, making SSC performance a distinct capability independent of 1RM maximal strength."
+        },
+        {
+            "id": "19.2-03",
+            "tag": "Dual Physiological Mechanisms of the SSC",
+            "reference": "Section 19.2",
+            "front": "What two physiological phenomena are exploited during <strong>stretch–shortening cycle (SSC)</strong> actions?",
+            "back": "<ol><li><strong>Intrinsic Muscle–Tendon Behavior:</strong> Mechanical storage and recovery of elastic strain energy within muscle–tendon architecture (primarily the series elastic component/tendons).</li><li><strong>Reflex Feedback to the Nervous System:</strong> Rapid lengthening stimulates muscle spindle sensory organs, triggering a stretch-reflex response that provides force and length afferent feedback to augment concentric motor drive.</li></ol>"
+        },
+        {
+            "id": "19.2-04",
+            "tag": "Acute vs. Chronic Adaptations to the SSC",
+            "reference": "Section 19.2",
+            "front": "How do <strong>acute</strong> and <strong>chronic</strong> physiological adaptations to stretch–shortening cycle (SSC) actions differ?",
+            "back": "<ul><li><strong>Acute Adaptations:</strong> Immediate elevation of mechanical efficiency and propulsive impulse through the instantaneous recovery of stored elastic strain energy.</li><li><strong>Chronic Adaptations:</strong> Long-term morphological and neural remodeling that upregulates <strong>musculotendinous stiffness</strong> and enhances overall neuromuscular activation and motor unit synchronization.</li></ul>"
+        },
+        {
+            "id": "19.2-05",
+            "tag": "SSC Training Prescription & Complex Training",
+            "reference": "Section 19.2",
+            "front": "What two structural criteria must training fulfill to optimize <strong>SSC performance</strong>, and what is <strong>complex training</strong>?",
+            "back": "<strong>Criteria for SSC Drills:</strong><ol><li>Involve skillful, multijoint movements that transmit forces through the kinetic chain and exploit elastic–reflexive mechanisms.</li><li>Structured around brief work bouts or clusters separated by frequent rest pauses to manage fatigue and prioritize technique.</li></ol><strong>Complex Training:</strong> Alternating heavy resistance exercises with biomechanically similar plyometric/SSC tasks within the same session to exploit <strong>postactivation potentiation (PAP)</strong>, appropriate for advanced athletes but contraindicated for youths or novices."
+        },
+        {
+            "id": "19.2-06",
+            "tag": "Preactivation, Spindle Sensitivity, and Muscle Stiffness",
+            "reference": "Section 19.2",
+            "front": "How do speed and strength training influence <strong>muscular preactivation</strong> prior to foot strike, and what is its physiological benefit?",
+            "back": "Training increases preparatory <strong>preactivation (pre-tension)</strong> of lower limb muscles before ground contact.<br><br><strong>Mechanism:</strong> Heightens the sensitivity of associated <strong>muscle spindles</strong>, which shortens the time required for sensory reflex feedback.<br><br><strong>Benefit:</strong> Optimizes <strong>muscle stiffness</strong> and tendon compliance, establishing the foundational stiffness required to support the stretch–shortening cycle and prevent joint collapse under high impact loads."
+        },
+        {
+            "id": "19.2-07",
+            "tag": "The Spring–Mass Model (SMM) Mechanics",
+            "reference": "Section 19.2",
+            "front": "What is the <strong>spring–mass model (SMM)</strong>, and how does it describe the mechanics of the stance phase in sprinting?",
+            "back": "<strong>Definition:</strong> A mathematical model portraying sprinting as human locomotion where body mass displacement is driven by the collective compression and recoil of spring-like muscle-tendon structures.<br><br><strong>Stance Phase Dynamics:</strong><ul><li><strong>Initial Foot Strike:</strong> Compression of the leg spring begins, absorbing force and producing brief horizontal braking forces that help propel the opposite swing leg forward.</li><li><strong>Midstance:</strong> Lowest vertical point of the center of mass, corresponding to maximal spring compression.</li><li><strong>Push-Off:</strong> Rapid return of stored elastic energy through spring extension, projecting the sprinter forward into flight.</li></ul>"
+        },
+        {
+            "id": "19.2-08",
+            "tag": "Elite vs. Non-Elite Stance Phase Kinetics",
+            "reference": "Section 19.2",
+            "front": "How do <strong>elite sprinters</strong> deviate from the classic <strong>spring–mass model (SMM)</strong> during maximal-velocity sprinting compared to non-elite athletes?",
+            "back": "<ul><li><strong>Non-Elite Athletes (Field/Team Sports):</strong> Display stance phases that closely adhere to the classic SMM, generating a relatively <strong>symmetrical vertical force curve</strong> across ground contact.</li><li><strong>Elite Sprinters:</strong> Deviate from the classic model by producing an asymmetrical vertical force curve, generating the vast majority of their vertical force in the <strong>first half of ground contact</strong> to rapidly reverse downward velocity.</li></ul><em>Note: As stride frequency increases at a given running speed, increasing leg spring stiffness is paramount.</em>"
+        },
+        {
+            "id": "19.2-09",
+            "tag": "Locomotor Ground Contact Time Spectrum",
+            "reference": "Section 19.2",
+            "front": "How do typical <strong>ground contact times</strong> compare across maximal-velocity sprinting, acceleration, agility, and change-of-direction maneuvers?",
+            "back": "Ground contact times follow a distinct continuum:<ul><li><strong>Maximal-Velocity Sprinting:</strong> <code>0.09 to 0.11 seconds</code> (ultra-short, fast SSC).</li><li><strong>Sprint Acceleration Phase:</strong> <code>0.17 to 0.20 seconds</code>.</li><li><strong>Agility Plant Phase:</strong> <code>0.23 to 0.25 seconds</code>.</li><li><strong>Change-of-Direction (COD) Plant Phase:</strong> <code>0.44 to 0.722 seconds</code> (extended, long SSC).</li></ul><em>Because COD and agility plant phases are substantially longer, they rely on long-duration SSC actions and heavy eccentric braking.</em>"
+        },
+        {
+            "id": "19.2-10",
+            "tag": "Eccentric Neuromuscular Specificity & Perceptual Demands",
+            "reference": "Section 19.2",
+            "front": "Why is high-velocity <strong>eccentric training</strong> essential for agility braking, and how do <strong>tactical scenarios</strong> alter agility neurophysiology?",
+            "back": "<strong>Eccentric Specialization:</strong> Effective braking requires specialized eccentric training because:<ol><li>Motor unit recruitment pathways during eccentric muscle actions differ from those used in concentric contractions.</li><li>Neuromuscular adaptations to eccentric loading are <strong>velocity-specific</strong>.</li></ol><strong>Perceptual–Cognitive Integration:</strong> Agility neurophysiology extends beyond mechanical braking into visual scanning, anticipation, and decision-making; the brain processing strategy shifts fundamentally depending on whether the athlete is in an <strong>offensive</strong> vs. <strong>defensive</strong> tactical scenario."
+        }
+    ]
+}

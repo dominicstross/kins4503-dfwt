@@ -1,0 +1,76 @@
+{
+    "chapterId": "2.2",
+    "title": "2.2 Anatomical Planes and Major Body Movements",
+    "cards": [
+        {
+            "id": "2.2-01",
+            "tag": "Standard Anatomical Position",
+            "reference": "Section 2.2",
+            "front": "How is a person oriented in the standard anatomical position, and why is this standardized posture essential in biomechanics?",
+            "back": "In the standard anatomical position:<ul><li>The body is standing <strong>erect</strong>.</li><li>The arms are resting down at the sides.</li><li>The <strong>palms face forward</strong> (supinated).</li></ul>This universal orientation serves as the neutral starting reference for describing all planes, axes, joint articulations, and directional terms, eliminating ambiguity during movement analysis."
+        },
+        {
+            "id": "2.2-02",
+            "tag": "Cardinal Anatomical Planes & Sectioning",
+            "reference": "Section 2.2",
+            "front": "Define the three cardinal anatomical planes of the human body and describe how each plane sections bodily structures.",
+            "back": "The body is sliced across three mutually perpendicular cardinal planes:<ul><li><strong>Sagittal Plane:</strong> Slices the body vertically into <strong>left and right sections</strong> (not necessarily at the midline).</li><li><strong>Frontal (Coronal) Plane:</strong> Slices the body vertically into <strong>front and back (anterior and posterior) sections</strong>.</li><li><strong>Transverse (Horizontal) Plane:</strong> Slices the body horizontally into <strong>upper and lower (superior and inferior) sections</strong>.</li></ul><em>Clinical Reference:</em> Anatomical views in magnetic resonance imaging (MRI) are standardly aligned with these three planes."
+        },
+        {
+            "id": "2.2-03",
+            "tag": "Sagittal Plane Exercise Movements",
+            "reference": "Section 2.2",
+            "front": "What primary joint actions and resistance exercise movements occur within the sagittal plane?",
+            "back": "Movements parallel to the sagittal plane consist primarily of forward and backward actions:<ul><li><strong>Primary Joint Actions:</strong> <em>Flexion</em> (decreasing joint angle) and <em>extension</em> (increasing joint angle).</li><li><strong>Resistance Exercise Example:</strong> The <strong>standing barbell curl</strong> (elbow flexion and extension), as well as back squats, lunges, and linear running strides.</li></ul>"
+        },
+        {
+            "id": "2.2-04",
+            "tag": "Frontal Plane Exercise Movements",
+            "reference": "Section 2.2",
+            "front": "What primary joint actions and resistance exercise movements occur within the frontal plane?",
+            "back": "Movements parallel to the frontal plane consist of side-to-side, lateral actions:<ul><li><strong>Primary Joint Actions:</strong> <em>Abduction</em> (moving away from the midline), <em>adduction</em> (moving toward the midline), lateral spinal flexion, and ankle inversion/eversion.</li><li><strong>Resistance Exercise Example:</strong> The <strong>standing lateral dumbbell raise</strong> (shoulder abduction and adduction), as well as lateral lunges and side shuffles.</li></ul>"
+        },
+        {
+            "id": "2.2-05",
+            "tag": "Transverse Plane Exercise Movements",
+            "reference": "Section 2.2",
+            "front": "What primary joint actions and resistance exercise movements occur within the transverse plane?",
+            "back": "Movements parallel to the transverse plane involve rotational actions and horizontal limb motions:<ul><li><strong>Primary Joint Actions:</strong> <em>Internal (medial) rotation</em>, <em>external (lateral) rotation</em>, horizontal adduction, horizontal abduction, and axial torso rotation.</li><li><strong>Resistance Exercise Example:</strong> The <strong>dumbbell fly</strong> (horizontal adduction and abduction at the glenohumeral joint), seated cable twists, and batting/swinging motions.</li></ul>"
+        },
+        {
+            "id": "2.2-06",
+            "tag": "Qualitative Biomechanical Movement Observation",
+            "reference": "Section 2.2",
+            "front": "In the absence of specialized biomechanical laboratory equipment, what practical method is adequate for analyzing sport movements, and what technologies facilitate it?",
+            "back": "In the absence of specialized equipment and technical expertise, <strong>simple visual observation</strong> is fully adequate for identifying the primary kinematic features of a sport movement.<br><br>Coaches can enhance observational accuracy using:<ul><li><strong>Slow-Motion Videotape / High-Speed Video:</strong> Slows rapid athletic actions to eliminate motion blur and facilitate observation of joint sequencing.</li><li><strong>Commercially Available Software:</strong> Digital motion analysis apps that allow frame-by-frame scrubbing, joint angle measurements, and kinematic tracking.</li></ul>"
+        },
+        {
+            "id": "2.2-07",
+            "tag": "Specificity of Training via Joint Kinematics",
+            "reference": "Section 2.2",
+            "front": "How does qualitative biomechanical observation directly guide exercise selection under the principle of specificity of training?",
+            "back": "Through visual observation or video analysis, the strength and conditioning professional identifies the target sport activity's primary joint actions and planes of motion.<br><br>Under the <strong>specificity of training</strong> principle, exercises are selected that <strong>involve similar movement around the same joints</strong>, ensuring mechanical and neuromuscular transfer to competition."
+        },
+        {
+            "id": "2.2-08",
+            "tag": "Multi-Planar Movement & Planar Overlap",
+            "reference": "Section 2.2",
+            "front": "Why is exercise prescription based on the three cardinal planes effective even though few athletic movements occur purely in a single plane?",
+            "back": "Although few real-world athletic movements occur exclusively in one cardinal plane (most sport skills are diagonal, multi-planar, or spiral), there is sufficient <strong>overlap of training effects</strong>.<br><br>Exercising muscles systematically within the three major cardinal planes also strengthens and stabilizes them for complex, diagonal movements occurring <em>between</em> the planes."
+        },
+        {
+            "id": "2.2-09",
+            "tag": "Commonly Omitted Lower-Body & Torso Movements",
+            "reference": "Section 2.2",
+            "front": "Which lower-body and torso sport movements are commonly omitted from standard resistance training programs, and what sports demand them?",
+            "back": "Standard programs often overemphasize bilateral sagittal lifting, neglecting:<ul><li><strong>Knee Flexion:</strong> Vital in sprinting (hamstring recovery mechanics).</li><li><strong>Hip Flexion:</strong> Critical in sprinting knee drive and kicking.</li><li><strong>Ankle Dorsiflexion:</strong> Essential in running ground strikes and tibial stress management.</li><li><strong>Hip Internal and External Rotation:</strong> Required for pivoting and dynamic change of direction.</li><li><strong>Hip Adduction and Abduction:</strong> Essential for lateral cutting maneuvers and pelvic stability.</li><li><strong>Torso Rotation:</strong> Fundamental for rotational power in throwing and batting.</li></ul>"
+        },
+        {
+            "id": "2.2-10",
+            "tag": "Commonly Omitted Upper-Body & Neck Movements",
+            "reference": "Section 2.2",
+            "front": "Which upper-body and cervical movements are frequently omitted from standard resistance programs, and what sports require them?",
+            "back": "Critical movements often omitted from standard training include:<ul><li><strong>Shoulder Internal and External Rotation:</strong> Critical in <em>throwing</em> (baseball, football) and <em>tennis</em> for rotator cuff acceleration and eccentric deceleration of the arm.</li><li><strong>Neck Movements (Flexion, Extension, Lateral Flexion, Rotation):</strong> Essential in <em>boxing</em> and <em>wrestling</em> to develop cervical muscular stiffness, dissipate impact forces, and protect against head and neck injury.</li></ul>"
+        }
+    ]
+}

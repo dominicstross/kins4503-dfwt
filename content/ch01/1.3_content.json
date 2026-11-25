@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "course": "DFWT - KINS 4503 Design of Fitness & WT",
+    "chapter": "1",
+    "section": "1.3",
+    "ch": "1",
+    "mod": "1.3",
+    "moduleTitle": "1.3 Cardiovascular System"
+  },
+  "pages": [
+    {
+      "id": "p1",
+      "title": "Part 1: Cardiac Anatomy, Heart Valves, and Hemodynamic Circuits",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Functional Anatomy of the Heart, Cardiac Chambers, and Systemic Circuits</h2><p>The cardiovascular system plays an indispensable role in maintaining systemic homeostasis, transporting oxygen and vital nutrients to exercising tissues, removing metabolic waste products and carbon dioxide, and assisting with systemic acid–base, fluid, and thermoregulatory control. At the operational core of this network is the heart: a specialized muscular organ functioning as two interconnected but distinct muscular pumps working in strict hydraulic series.</p><h3>Dual-Pump Architecture: Pulmonary vs. Peripheral Circulation</h3><p>The mammalian heart is divided longitudinally into right and left functional divisions, each containing an atrium and a ventricle:</p><ul><li><strong>The Right Side (Pulmonary Circulation):</strong> The right atrium receives deoxygenated blood returning from the peripheral tissues via the superior and inferior vena cavae and delivers it into the right ventricle. The right ventricle provides the primary mechanical force required to pump deoxygenated blood through the pulmonary arteries into the low-pressure pulmonary capillary bed of the lungs for gas exchange.</li><li><strong>The Left Side (Peripheral/Systemic Circulation):</strong> Oxygenated blood returns from the pulmonary veins into the left atrium, which delivers it into the thick-walled left ventricle. The left ventricle supplies the primary muscular pumping force required to eject blood into the aorta and distribute oxygenated blood throughout the high-resistance peripheral circulation to the rest of the body.</li></ul><h3>Atrioventricular and Semilunar Heart Valves</h3><p>Directional blood flow through the cardiac chambers is strictly maintained by four one-way heart valves that open and close passively in response to dynamic pressure gradients. When a forward pressure gradient develops, the valve leaflets are forced apart to permit unobstructed forward laminar flow; when a backward pressure gradient develops, blood surges against the leaflets, forcing them closed to prevent retrograde backflow.</p><ol><li><strong>Atrioventricular (AV) Valves:</strong> The <strong>tricuspid valve</strong> (positioned between the right atrium and right ventricle) and the <strong>mitral (bicuspid) valve</strong> (positioned between the left atrium and left ventricle) prevent the regurgitation of blood from the ventricles back into the atria during ventricular contraction (systole).</li><li><strong>Semilunar Valves:</strong> The <strong>aortic valve</strong> (located at the junction of the left ventricle and aorta) and the <strong>pulmonary valve</strong> (located at the junction of the right ventricle and pulmonary artery) prevent the backflow of blood from the high-pressure aorta and pulmonary trunk back into the ventricles during ventricular relaxation (diastole).</li></ol><div class=\"callout-box\"><div class=\"callout-title\">Coaching / Sport Application</div><p>During heavy resistance training involving the Valsalva maneuver or maximal isometric efforts, systemic peripheral vascular resistance and intrathoracic pressure rise precipitously. The passive opening and closing mechanics of the semilunar and AV valves ensure unidirectional blood flow despite extreme acute pressure fluctuations, preventing retrograde flow and protecting cardiac chamber geometry under heavy athletic loading.</p></div><table class=\"data-table\"><thead><tr><th>Cardiac Valve</th><th>Anatomical Location</th><th>Mechanical Functional Role</th><th>Operational Phase</th></tr></thead><tbody><tr><td><strong>Tricuspid Valve</strong></td><td>Between right atrium and right ventricle</td><td>Prevents backflow from right ventricle into right atrium</td><td>Closed during ventricular systole</td></tr><tr><td><strong>Mitral (Bicuspid) Valve</strong></td><td>Between left atrium and left ventricle</td><td>Prevents backflow from left ventricle into left atrium</td><td>Closed during ventricular systole</td></tr><tr><td><strong>Pulmonary Valve</strong></td><td>Between right ventricle and pulmonary trunk</td><td>Prevents retrograde flow from pulmonary trunk into right ventricle</td><td>Closed during ventricular diastole</td></tr><tr><td><strong>Aortic Valve</strong></td><td>Between left ventricle and ascending aorta</td><td>Prevents retrograde flow from aorta into left ventricle</td><td>Closed during ventricular diastole</td></tr></tbody></table>"
+    },
+    {
+      "id": "p2",
+      "title": "Part 2: Electrical Conduction System, Autonomic Regulation, and Electrocardiography",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Cardiac Electrical Conduction, Autonomic Regulation, and Electrocardiography</h2><p>Mechanical contraction of the myocardium is orchestrated by a specialized intrinsic electrical conduction system. This neuromuscular apparatus generates and synchronizes rhythmic electrochemical depolarizations across the atria and ventricles, ensuring that atrial filling and contraction precede ventricular ejection.</p><h3>The Specialized Electrical Conduction Pathway</h3><p>Under normal physiological conditions, electrical excitation follows an orderly, sequential anatomical pathway:</p><ol><li><strong>Sinoatrial (SA) Node:</strong> Situated in the superior lateral wall of the right atrium near the entrance of the superior vena cava, the SA node functions as the heart's <strong>intrinsic pacemaker</strong>. It initiates rhythmic electrical impulses at a baseline intrinsic rate of \\(60\\text{ to } 80\\text{ discharges per minute}\\). Because its inherent discharge rate is faster than that of any other cardiac tissue, the SA node overrides downstream pacemaker sites before self-excitation can occur.</li><li><strong>Internodal Pathways:</strong> Specialized conductive tracks that rapidly conduct the action potential from the SA node across the atrial myocardium to the atrioventricular node. Because SA nodal fibers are contiguous with atrial muscle fibers, the electrical wave spreads immediately across both atria, stimulating simultaneous atrial contraction.</li><li><strong>Atrioventricular (AV) Node:</strong> Located in the posterior septal wall of the right atrium. The AV node performs a critical physiological function: it <strong>delays the electrical impulse slightly</strong> before allowing it to pass into the ventricles. This delay allows adequate time for the atria to contract fully and empty their blood volume into the ventricles before ventricular systole commences. The AV node's intrinsic pacemaker rate is \\(40\\text{ to } 60\\text{ beats/min}\\).</li><li><strong>Atrioventricular (AV) Bundle (Bundle of His):</strong> Transmits the delayed electrical impulse from the AV node through the fibrous insulating skeleton of the heart into the ventricles.</li><li><strong>Bundle Branches and Purkinje Fibers:</strong> The AV bundle divides into the left and right bundle branches, which travel down the interventricular septum and branch into extensive networks of <strong>Purkinje fibers</strong>. These large-diameter conductive fibers rapidly conduct impulses across the entire ventricular myocardium (intrinsic rate of \\(15\\text{ to } 40\\text{ beats/min}\\)), triggering virtually simultaneous, coordinated ventricular contraction from the apex upward.</li></ol><h3>Autonomic Neural Modulation of Heart Rate</h3><p>While intrinsic rhythmicity originates in the SA node, the cardiovascular center located in the <strong>medulla oblongata</strong> of the brainstem modulates heart rate via dual branches of the autonomic nervous system:</p><ul><li><strong>Sympathetic Nervous System:</strong> Sympathetic postganglionic fibers extensively innervate both atria and ventricles. Sympathetic stimulation releases norepinephrine, which accelerates depolarization of the SA node (a positive <strong>chronotropic effect</strong>), causing the heart to beat faster and increasing myocardial contractility.</li><li><strong>Parasympathetic Nervous System:</strong> Parasympathetic fibers travel via the vagus nerve (cranial nerve X) to innervate the atria, primarily supplying the SA and AV nodes (with minimal innervation of the ventricles). Parasympathetic stimulation releases acetylcholine, which hyperpolarizes the SA node, slowing its discharge rate and lowering resting heart rate.</li><li><strong>Clinical Rate Terminology:</strong> Normal resting heart rate ranges from \\(60\\text{ to } 100\\text{ beats/min}\\). A resting heart rate slower than \\(60\\text{ beats/min}\\) is defined as <strong>bradycardia</strong> (frequently observed in elite endurance athletes due to elevated vagal tone), whereas a resting rate exceeding \\(100\\text{ beats/min}\\) is termed <strong>tachycardia</strong>.</li></ul><h3>The Electrocardiogram (ECG) and Electrical Waveforms</h3><p>The electrical currents generated during cardiac muscle depolarization and repolarization can be recorded from the surface of the body using an <strong>electrocardiogram (ECG)</strong>. Depolarization represents the reversal of membrane electrical potential (the interior becomes slightly positive relative to the negative exterior), which triggers mechanical contraction, whereas repolarization restores resting membrane potential:</p><ul><li><strong>P-Wave:</strong> Generated by the electrical potential that depolarizes the atria, culminating in mechanical atrial contraction.</li><li><strong>QRS Complex:</strong> Composed of the Q-wave, R-wave, and S-wave, reflecting electrical depolarization of the ventricles. This large deflection precedes and initiates ventricular contraction. Crucially, <strong>atrial repolarization occurs simultaneously with ventricular depolarization and is masked by the QRS complex</strong> on the surface ECG.</li><li><strong>T-Wave:</strong> Reflects electrical repolarization of the ventricular myocardium as ventricular muscle cells recover from depolarization.</li></ul><div class=\"callout-box\"><div class=\"callout-title\">Coaching / Sport Application</div><p>Elite endurance athletes consistently present with resting bradycardia (\\(<60\\text{ beats/min}\\), occasionally below \\(40\\text{ beats/min}\\)). Strength and conditioning coaches should recognize this not as pathology, but as an athletic adaptation driven by elevated resting parasympathetic (vagal) tone and eccentric left ventricular hypertrophy, which elevates stroke volume so normal resting cardiac output is maintained with fewer contractions.</p></div><table class=\"data-table\"><thead><tr><th>ECG Component</th><th>Electrical Cardiac Event</th><th>Associated Mechanical Event</th><th>Clinical / Diagnostic Significance</th></tr></thead><tbody><tr><td><strong>P-Wave</strong></td><td>Atrial electrical depolarization</td><td>Atrial contraction and ventricular topping-off</td><td>Evaluates SA node firing and atrial conduction</td></tr><tr><td><strong>QRS Complex</strong></td><td>Ventricular depolarization (masks atrial repolarization)</td><td>Ventricular contraction (systole)</td><td>Assesses conduction velocity through bundle branches and Purkinje fibers</td></tr><tr><td><strong>T-Wave</strong></td><td>Ventricular electrical repolarization</td><td>Ventricular relaxation (diastole)</td><td>Evaluates ventricular recovery; sensitive to ischemia and electrolyte shifts</td></tr></tbody></table>"
+    },
+    {
+      "id": "p3",
+      "title": "Part 3: Vascular Architecture, Microcirculation, and Hemoglobin Dynamics",
+      "sampleCounts": {
+        "mcq": 2,
+        "ms": 2,
+        "tf": 2,
+        "cloze": 2,
+        "sa": 1
+      },
+      "readingHtml": "<h2>Vascular Architecture, Microcirculation, and Hemoglobin Transport Dynamics</h2><p>The blood vessels of the central and peripheral circulations form a continuous closed-loop circuit categorized into two operational domains: an <strong>arterial system</strong>, which transports high-pressure blood away from the heart, and a <strong>venous system</strong>, which collects and returns low-pressure blood to the heart.</p><h3>Vascular Circuit Divisions: Arteries, Arterioles, Capillaries, and Veins</h3><ol><li><strong>Arteries:</strong> Robust, elastic, thick-walled conduits designed to transport blood under high systemic pressures rapidly away from the left ventricle. Because blood is intermittently ejected from the heart into the arterial tree, arterial walls possess high elasticity to buffer pressure pulsations.</li><li><strong>Arterioles:</strong> Small branch vessels that act as the primary <strong>control valves</strong> of the circulatory system. Arterioles possess strong, muscular walls that can constrict completely or dilate multiple times their resting diameter. By dynamically adjusting vascular resistance, arterioles regulate blood pressure and vastly alter local blood flow distribution to capillary beds in response to the metabolic demands of working skeletal muscle.</li><li><strong>Capillaries:</strong> The microscopic functional exchange units of the cardiovascular system. Capillary walls are exceptionally thin, consisting of a single layer of endothelial cells permeable to water, electrolytes, respiratory gases, nutrients, and hormones. Their immense total cross-sectional surface area facilitates rapid microvascular diffusion between intravascular blood and interstitial tissue fluid.</li><li><strong>Venules and Veins:</strong> Venules collect blood emerging from capillary networks and progressively merge into larger veins. Because pressure within the venous system is exceptionally low, venous walls are relatively thin, although muscular. This high compliance allows veins to constrict or dilate extensively, acting as a dynamic <strong>blood reservoir</strong> holding approximately \\(60\\%\\text{ to } 70\\%\\) of total blood volume at rest. To prevent retrograde blood pooling and ensure adequate venous return against gravity, veins in the extremities contain <strong>one-way pocket valves</strong>.</li></ol><h3>Physiological Functions of Blood and Hemoglobin</h3><p>Blood is the circulating medium responsible for respiratory gas transport, acid–base regulation, nutrient delivery, and metabolic waste clearance:</p><ul><li><strong>Oxygen Transport via Hemoglobin:</strong> The transport of oxygen from pulmonary alveoli to peripheral active tissues is accomplished by <strong>hemoglobin</strong>, an iron–protein molecule packaged within erythrocytes (red blood cells). Each gram of hemoglobin can bind up to \\(1.34\\text{ ml}\\) of oxygen when fully saturated, dramatically increasing blood oxygen-carrying capacity compared to physical plasma dissolution alone.</li><li><strong>Acid–Base Buffering:</strong> Hemoglobin also serves an essential physiological role as a systemic <strong>acid–base buffer</strong>, regulating hydrogen ion concentration (\\(\\text{pH}\\)). By binding excess protons (\\(\\text{H}^+\\)) generated during intense muscular exertion, hemoglobin prevents dangerous drops in cellular and blood pH that would otherwise inhibit contractile enzymes.</li><li><strong>Carbonic Anhydrase and Carbon Dioxide Removal:</strong> Carbon dioxide is the most abundant by-product of cellular metabolism. In addition to transporting oxygen, red blood cells contain massive concentrations of the enzyme <strong>carbonic anhydrase</strong>. Carbonic anhydrase catalyzes the rapid reversible hydration of carbon dioxide into carbonic acid (\\(\\text{CO}_2 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{H}_2\\text{CO}_3 \\rightleftharpoons \\text{H}^+ + \\text{HCO}_3^-\\)), converting carbon dioxide into soluble bicarbonate ions for safe transport in venous plasma to the lungs for expiration.</li></ul><div class=\"callout-box\"><div class=\"callout-title\">Coaching / Sport Application</div><p>During high-intensity interval training, working muscle produces large volumes of lactic acid, dissociating into lactate and hydrogen ions. The dual capacity of blood—hemoglobin buffering excess \\(\\text{H}^+\\) and erythrocyte carbonic anhydrase facilitating rapid conversion and pulmonary expulsion of \\(\\text{CO}_2\\)—underpins athletic recovery and prevents early fatigue from intracellular acidosis.</p></div><table class=\"data-table\"><thead><tr><th>Vessel Type</th><th>Structural Characteristic</th><th>Pressure Profile</th><th>Primary Physiological Function</th></tr></thead><tbody><tr><td><strong>Arteries</strong></td><td>Thick, highly elastic muscular walls</td><td>High pressure</td><td>Rapid transport of oxygenated blood away from the heart</td></tr><tr><td><strong>Arterioles</strong></td><td>Strong muscular walls, variable lumen</td><td>High/Intermediate (major resistance)</td><td>Control valves; regulate systemic resistance and local tissue blood flow</td></tr><tr><td><strong>Capillaries</strong></td><td>Single endothelial layer, highly permeable</td><td>Low/Intermediate pressure</td><td>Microvascular exchange of gases, fluids, nutrients, and electrolytes</td></tr><tr><td><strong>Venules & Veins</strong></td><td>Thin muscular walls with one-way pocket valves</td><td>Very low pressure</td><td>Capacitance vessels (blood reservoir); venous return to the heart</td></tr></tbody></table>"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Atrioventricular (AV) valves",
+      "def": "The tricuspid and mitral (bicuspid) valves located between the atria and ventricles that prevent retrograde blood flow into the atria during ventricular systole."
+    },
+    {
+      "term": "Semilunar valves",
+      "def": "The aortic and pulmonary valves located at the exits of the ventricles that prevent backflow from the aorta and pulmonary artery into the ventricles during diastole."
+    },
+    {
+      "term": "Sinoatrial (SA) node",
+      "def": "The intrinsic pacemaker of the heart, located in the right atrium, that generates rhythmic electrical impulses at 60 to 80 beats per minute under normal resting conditions."
+    },
+    {
+      "term": "Atrioventricular (AV) node",
+      "def": "A specialized cardiac conduction structure in the posterior septal wall of the right atrium that delays the electrical impulse before it enters the ventricles."
+    },
+    {
+      "term": "Purkinje fibers",
+      "def": "Specialized conductive fibers branching from the bundle branches that rapidly conduct action potentials throughout the ventricular myocardium to trigger coordinated contraction."
+    },
+    {
+      "term": "Chronotropic effect",
+      "def": "The effect of autonomic nerve stimulation on heart rate; sympathetic stimulation produces a positive chronotropic effect by accelerating SA node depolarization."
+    },
+    {
+      "term": "Bradycardia",
+      "def": "A resting heart rate of fewer than 60 beats per minute, commonly found in highly trained endurance athletes due to elevated vagal tone."
+    },
+    {
+      "term": "Tachycardia",
+      "def": "A resting heart rate exceeding 100 beats per minute."
+    },
+    {
+      "term": "Electrocardiogram (ECG)",
+      "def": "A graphical recording of the electrical potentials generated by cardiac muscle depolarization and repolarization measured from the surface of the body."
+    },
+    {
+      "term": "P-wave",
+      "def": "The component of the ECG waveform representing electrical depolarization of the atria, which precedes and results in atrial contraction."
+    },
+    {
+      "term": "QRS complex",
+      "def": "The ECG deflection representing electrical depolarization of the ventricles, which precedes ventricular contraction and masks atrial repolarization."
+    },
+    {
+      "term": "T-wave",
+      "def": "The ECG deflection caused by the electrical repolarization of the ventricles during ventricular relaxation."
+    },
+    {
+      "term": "Arterioles",
+      "def": "Small, muscular arterial branches that act as control valves of the circulatory system, constricting or dilating to regulate peripheral resistance and tissue blood flow."
+    },
+    {
+      "term": "Capillaries",
+      "def": "Microscopic, thin-walled blood vessels with permeable membranes that facilitate the exchange of oxygen, nutrients, fluids, and electrolytes between blood and interstitial fluid."
+    },
+    {
+      "term": "Venous capacitance",
+      "def": "The ability of thin-walled, compliant veins to expand or constrict and act as a dynamic blood reservoir holding 60% to 70% of total blood volume at rest."
+    },
+    {
+      "term": "Hemoglobin",
+      "def": "An iron-protein molecule within red blood cells that transports oxygen from the lungs to peripheral tissues and acts as a vital acid–base buffer."
+    },
+    {
+      "term": "Carbonic anhydrase",
+      "def": "An enzyme found in high concentrations within red blood cells that catalyzes the reaction between carbon dioxide and water to facilitate carbon dioxide removal."
+    },
+    {
+      "term": "Systole",
+      "def": "The mechanical contraction phase of the cardiac cycle during which blood is forcefully ejected from the ventricles into the pulmonary and systemic circulations."
+    },
+    {
+      "term": "Diastole",
+      "def": "The relaxation and filling phase of the cardiac cycle during which ventricular chambers expand and fill with blood."
+    },
+    {
+      "term": "Venous valves",
+      "def": "One-way pocket valves located within the veins of the extremities that prevent retrograde blood pooling and ensure unidirectional venous return toward the heart."
+    }
+  ]
+}

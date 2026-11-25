@@ -1,0 +1,76 @@
+{
+    "chapterId": "1.3",
+    "title": "1.3 Cardiovascular System",
+    "cards": [
+        {
+            "id": "1.3-01",
+            "tag": "Dual-Pump Anatomy & Hemodynamics",
+            "reference": "Section 1.3",
+            "front": "How is the human heart structured as a dual pump, and what are the specific roles of the right and left sides?",
+            "back": "The heart consists of two separate but interconnected pumps operating in series:<ul><li><strong>Right Side:</strong> The right atrium receives deoxygenated systemic venous blood and delivers it into the right ventricle, which pumps it through the <em>pulmonary circulation</em> to the lungs.</li><li><strong>Left Side:</strong> The left atrium receives oxygenated blood from the lungs and delivers it into the left ventricle, which provides the primary high-pressure force to propel blood through the <em>systemic/peripheral circulation</em> to the rest of the body.</li></ul>"
+        },
+        {
+            "id": "1.3-02",
+            "tag": "Heart Valves & Passive Operation",
+            "reference": "Section 1.3",
+            "front": "What are the two major categories of heart valves, which specific valves belong to each, and what governs their opening and closing?",
+            "back": "All heart valves open and close <strong>passively</strong> based on forward and backward pressure gradients:<ul><li><strong>Atrioventricular (AV) Valves:</strong> The <em>tricuspid valve</em> (right side) and <em>mitral/bicuspid valve</em> (left side); prevent retrograde backflow from ventricles into atria during ventricular contraction (<strong>systole</strong>).</li><li><strong>Semilunar Valves:</strong> The <em>aortic valve</em> and <em>pulmonary valve</em>; prevent backflow from the aorta and pulmonary arteries into the ventricles during ventricular relaxation (<strong>diastole</strong>).</li></ul>"
+        },
+        {
+            "id": "1.3-03",
+            "tag": "Electrical Conduction Pathway",
+            "reference": "Section 1.3",
+            "front": "Outline the sequential anatomical pathway of the cardiac electrical conduction system from impulse initiation to ventricular depolarization.",
+            "back": "The electrical conduction impulse travels in the following sequence:<ol><li><strong>Sinoatrial (SA) Node:</strong> The intrinsic pacemaker located in the right atrium that initiates rhythmic impulses.</li><li><strong>Internodal Pathways:</strong> Conduct the action potential across the atria to the AV node.</li><li><strong>Atrioventricular (AV) Node:</strong> Delays the electrical impulse slightly before allowing it to pass into the ventricles.</li><li><strong>Atrioventricular (AV) Bundle (Bundle of His):</strong> Conducts the impulse into the ventricles.</li><li><strong>Left & Right Bundle Branches & Purkinje Fibers:</strong> Rapidly disperse the impulse throughout the entire ventricular myocardium.</li></ol>"
+        },
+        {
+            "id": "1.3-04",
+            "tag": "AV Node Delay Function",
+            "reference": "Section 1.3",
+            "front": "Why is the slight electrical delay introduced at the atrioventricular (AV) node physiologically essential?",
+            "back": "The conductive delay at the AV node ensures that the electrical impulse does not travel into the ventricles too rapidly. This delay allows <strong>sufficient time for the atria to fully contract and empty their blood into the ventricles</strong> before ventricular contraction (systole) begins."
+        },
+        {
+            "id": "1.3-05",
+            "tag": "Intrinsic Pacemaker Firing Rates",
+            "reference": "Section 1.3",
+            "front": "Why does the sinoatrial (SA) node normally dominate and control heart rhythm over other potential cardiac pacemakers?",
+            "back": "The SA node controls heart rhythm because its intrinsic discharge rate is considerably faster than downstream latent pacemakers:<ul><li><strong>SA Node:</strong> 60–80 discharges/min</li><li><strong>AV Node:</strong> 40–60 discharges/min</li><li><strong>Ventricular (Purkinje) Fibers:</strong> 15–40 discharges/min</li></ul>Each SA node impulse sweeps through and depolarizes these excitable tissues before they can reach self-excitation threshold spontaneously."
+        },
+        {
+            "id": "1.3-06",
+            "tag": "Autonomic Nervous System Regulation",
+            "reference": "Section 1.3",
+            "front": "How do sympathetic and parasympathetic nerves modulate resting and exercise heart rates, and what are the clinical heart rate thresholds?",
+            "back": "The cardiovascular center of the medulla transmits autonomic impulses to the heart:<ul><li><strong>Sympathetic Stimulation:</strong> Accelerates SA node depolarization (the <em>chronotropic effect</em>) and increases heart rate and myocardial contractility.</li><li><strong>Parasympathetic Stimulation:</strong> Slower SA node discharge rate via acetylcholine release, reducing heart rate.</li></ul><strong>Clinical Thresholds:</strong> Normal resting heart rate is <strong>60 to 100 beats/min</strong>; fewer than 60 beats/min is <strong>bradycardia</strong>, while greater than 100 beats/min is <strong>tachycardia</strong>."
+        },
+        {
+            "id": "1.3-07",
+            "tag": "Electrocardiogram (ECG) Deflections",
+            "reference": "Section 1.3",
+            "front": "What physiological cardiac events correspond to the P-wave, QRS complex, and T-wave on a standard surface electrocardiogram (ECG)?",
+            "back": "<ul><li><strong>P-Wave:</strong> Electrical depolarization of the atria, which directly initiates atrial mechanical contraction.</li><li><strong>QRS Complex:</strong> Electrical depolarization of the ventricles, triggering ventricular contraction (systole). <em>Note:</em> Atrial repolarization occurs simultaneously but is masked on the ECG by the large QRS complex.</li><li><strong>T-Wave:</strong> Electrical repolarization of the ventricles as they recover during diastole.</li></ul>"
+        },
+        {
+            "id": "1.3-08",
+            "tag": "Vascular Functional Classifications",
+            "reference": "Section 1.3",
+            "front": "Contrast the structural characteristics and primary physiological functions of arteries, arterioles, capillaries, and veins.",
+            "back": "<ul><li><strong>Arteries:</strong> Rapidly transport blood pumped from the heart under high pressure; possess strong, elastic muscular walls.</li><li><strong>Arterioles:</strong> Small muscular branches that act as <em>control valves</em>; constrict or dilate extensively to regulate blood flow entering capillaries based on tissue metabolic demand.</li><li><strong>Capillaries:</strong> Thin, permeable microvessels with single-endothelial walls allowing bidirectional exchange of oxygen, fluid, nutrients, electrolytes, and hormones with interstitial fluid.</li><li><strong>Veins & Venules:</strong> Collect blood from capillaries and transport it under low pressure back to the heart; compliant walls allow veins to act as a dynamic <em>blood reservoir</em>, and leg veins feature <em>one-way valves</em> to prevent retrograde pooling.</li></ul>"
+        },
+        {
+            "id": "1.3-09",
+            "tag": "Hemoglobin Transport & Buffering",
+            "reference": "Section 1.3",
+            "front": "What two vital physiological functions does <strong>hemoglobin</strong> perform in blood during exercise?",
+            "back": "Hemoglobin, an iron–protein molecule carried by red blood cells, serves two primary roles:<ul><li><strong>Oxygen Transport:</strong> Binds oxygen in pulmonary capillaries and transports it to exercising tissues for cellular aerobic metabolism.</li><li><strong>Acid–Base Buffer:</strong> Acts as a crucial regulator of hydrogen ion (H⁺) concentration, buffering exercise-induced cellular acidosis to preserve chemical reaction rates.</li></ul>"
+        },
+        {
+            "id": "1.3-10",
+            "tag": "Carbonic Anhydrase & CO2 Removal",
+            "reference": "Section 1.3",
+            "front": "How do red blood cells facilitate the removal of carbon dioxide (CO2), the most abundant metabolic by-product, from exercising tissues?",
+            "back": "Red blood cells contain large quantities of the enzyme <strong>carbonic anhydrase</strong>. Carbonic anhydrase catalyzes the reversible chemical reaction between carbon dioxide and water (\\(\\text{CO}_2 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{H}_2\\text{CO}_3 \\rightleftharpoons \\text{H}^+ + \\text{HCO}_3^-\\)), allowing \\(\\text{CO}_2\\) to be transported primarily as soluble bicarbonate in the blood back to the lungs for expiration."
+        }
+    ]
+}

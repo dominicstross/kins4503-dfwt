@@ -1,0 +1,76 @@
+{
+    "chapterId": "1.4",
+    "title": "1.4 Respiratory System",
+    "cards": [
+        {
+            "id": "1.4-01",
+            "tag": "Primary Function & Nasal Cavity Triad",
+            "reference": "Section 1.4",
+            "front": "What is the primary physiological function of the respiratory system, and what three conditioning functions do the nasal cavities perform?",
+            "back": "The primary function of the respiratory system is the <strong>basic exchange of oxygen and carbon dioxide</strong> between the ambient environment and the blood.<br><br>As air enters through the nose, the nasal cavities perform three distinct conditioning functions:<ul><li><strong>Warming:</strong> Elevates incoming air toward core body temperature.</li><li><strong>Humidifying:</strong> Saturates ambient air with water vapor.</li><li><strong>Purifying:</strong> Traps airborne particulate matter and debris in mucous membranes to protect delicate lower airway structures.</li></ul>"
+        },
+        {
+            "id": "1.4-02",
+            "tag": "Tracheobronchial Branching Hierarchy",
+            "reference": "Section 1.4",
+            "front": "How is the tracheobronchial tree anatomically divided and numbered across its branching generations?",
+            "back": "Air is distributed through lungs across approximately <strong>23 branching generations</strong> before reaching terminal gas exchange surfaces:<ul><li><strong>1st Generation:</strong> The <em>trachea</em>, the primary conduit directing inspired air into the thoracic cavity.</li><li><strong>2nd Generation:</strong> The <em>right and left main bronchi</em>, distributing air into each lung.</li><li><strong>Subsequent Generations (3 to 23):</strong> Successive subdivisions of <em>bronchioles</em> of decreasing diameter.</li><li><strong>Terminal Gas Exchange:</strong> The microscopic <em>alveoli</em>, where diffusion of oxygen and carbon dioxide occurs across the alveolar-capillary membrane.</li></ul>"
+        },
+        {
+            "id": "1.4-03",
+            "tag": "Skeletal Muscle Pump Dynamics",
+            "reference": "Section 1.4",
+            "front": "What is the skeletal muscle pump, how does it interact with venous valves, and why is post-exercise movement critical?",
+            "back": "The <strong>skeletal muscle pump</strong> is the circulatory assistance provided by contracting skeletal muscles compressing deep peripheral veins:<ul><li><strong>One-Way Venous Valves:</strong> Veins contain pocket valves that permit flow only toward the heart, preventing retrograde pooling. Muscle contractions compress veins and propel venous blood forward.</li><li><strong>Post-Exercise Movement:</strong> Maintaining low-intensity locomotion (cool-down) activates the muscle pump to prevent blood pooling in lower extremities, preserving central venous return, stroke volume, and arterial blood pressure to prevent syncope.</li><li><strong>Prolonged Sitting:</strong> Periodically contracting leg muscles assists venous return against gravity during long periods of physical inactivity.</li></ul>"
+        },
+        {
+            "id": "1.4-04",
+            "tag": "Mechanics of Lung Volume Alteration",
+            "reference": "Section 1.4",
+            "front": "Do the lungs actively expand and contract, and what two physical mechanisms control lung volume changes?",
+            "back": "The lungs <strong>do not actively expand or recoil themselves</strong>; they are completely passive elastic structures acted upon by external musculoskeletal forces via two mechanisms:<ul><li><strong>Diaphragmatic Excursion:</strong> Downward and upward movement of the diaphragm to lengthen and shorten the vertical dimension of the chest cavity.</li><li><strong>Rib Cage Elevation and Depression:</strong> Because resting ribs slant downward, elevating the rib cage projects ribs forward and drives the sternum outward and away from the spine, increasing the <em>anteroposterior (back-to-front) diameter</em> of the chest cavity.</li></ul>"
+        },
+        {
+            "id": "1.4-05",
+            "tag": "Quiet vs. Heavy Breathing Mechanics",
+            "reference": "Section 1.4",
+            "front": "Contrast the biomechanical muscular actions of normal quiet breathing versus heavy exercise breathing.",
+            "back": "<ul><li><strong>Normal Quiet Breathing:</strong> Driven almost entirely by the diaphragm. <em>Inspiration</em> is active (contraction lowers the diaphragm, creating negative intrathoracic pressure). <em>Expiration</em> is completely passive, relying on the natural elastic recoil of the lungs, chest wall, and abdominal viscera.</li><li><strong>Heavy Exercise Breathing:</strong> Elastic recoil alone cannot expel air fast enough. Active expiration is achieved primarily through powerful contraction of the <strong>abdominal muscles</strong> (rectus abdominis, obliques, transversus abdominis), which forcefully compress abdominal contents upward against the bottom of the relaxed diaphragm.</li></ul>"
+        },
+        {
+            "id": "1.4-06",
+            "tag": "Muscles of Inspiration & Expiration",
+            "reference": "Section 1.4",
+            "front": "Which specific muscle groups serve as primary and accessory muscles of inspiration and expiration?",
+            "back": "<ul><li><strong>Muscles of Inspiration (Rib Elevators):</strong><ul><li><em>Diaphragm</em> (primary inspiratory muscle)</li><li><em>External intercostals</em></li><li><em>Sternocleidomastoids</em></li><li><em>Anterior serrati</em></li><li><em>Scaleni</em></li></ul></li><li><strong>Muscles of Expiration (Chest Depressors & Abdominal Compressors):</strong><ul><li><em>Abdominal wall muscles</em> (rectus abdominis, external and internal obliques, transversus abdominis)</li><li><em>Internal intercostals</em></li></ul></li></ul>"
+        },
+        {
+            "id": "1.4-07",
+            "tag": "Pleural vs. Alveolar Pressure Gradients",
+            "reference": "Section 1.4",
+            "front": "Differentiate <strong>pleural pressure</strong> from <strong>alveolar pressure</strong>, and explain their fluctuations during inspiration and expiration.",
+            "back": "<ul><li><strong>Pleural Pressure:</strong> The fluid pressure in the narrow space between the visceral (lung) pleura and parietal (chest wall) pleura. It is normally slightly negative. As the chest cage expands during inspiration, it pulls outward on the lungs, making pleural pressure <em>more negative</em>.</li><li><strong>Alveolar Pressure:</strong> The air pressure inside the alveoli. When the glottis is open and no air flows, alveolar pressure equals atmospheric pressure (0 mmHg relative). To draw air inward during inspiration, alveolar pressure must fall <em>slightly below atmospheric pressure</em>; during expiration, it rises <em>above atmospheric pressure</em> to expel air.</li></ul>"
+        },
+        {
+            "id": "1.4-08",
+            "tag": "Energetics of Breathing & Exercise-Induced Asthma",
+            "reference": "Section 1.4",
+            "front": "What percentage of total body energy expenditure is dedicated to pulmonary ventilation at rest versus heavy exercise, and what factors elevate this cost?",
+            "back": "<ul><li><strong>Normal Rest:</strong> Only <strong>3% to 5%</strong> of total body energy expenditure is required for pulmonary ventilation.</li><li><strong>Heavy Exercise:</strong> The energetic cost of breathing can escalate to <strong>8% to 15%</strong> of total body energy expenditure.</li><li><strong>Airway Resistance Impact:</strong> Pathological conditions that increase airway resistance—such as <em>exercise-induced asthma (exercise-induced bronchoconstriction)</em>—substantially increase the work of breathing, requiring medical screening and physician evaluation for athletic safety.</li></ul>"
+        },
+        {
+            "id": "1.4-09",
+            "tag": "Alveolar Gas Diffusion & Pressure Gradients",
+            "reference": "Section 1.4",
+            "front": "What physical process governs alveolar gas exchange, and what resting partial pressure gradient drives oxygen into pulmonary blood?",
+            "back": "Gas exchange occurs via <strong>simple diffusion</strong> driven by the random kinetic motion of molecules across the alveolar-capillary membrane from regions of higher concentration to lower concentration:<ul><li><strong>Alveolar Oxygen Gradient:</strong> At rest, the partial pressure of oxygen in the alveoli is approximately <strong>60 mmHg greater</strong> than in deoxygenated pulmonary capillary blood, driving rapid net influx of \\(\\text{O}_2\\) into the blood.</li><li><strong>Carbon Dioxide Clearance:</strong> Carbon dioxide diffuses down its partial pressure gradient from the capillary blood into the alveoli.</li><li><strong>Kinetics:</strong> This transcapillary gas exchange process is so rapid that it is considered virtually instantaneous.</li></ul>"
+        },
+        {
+            "id": "1.4-10",
+            "tag": "Respiratory Muscle Conditioning & Adaptation",
+            "reference": "Section 1.4",
+            "front": "How do endurance and resistance training adapt the respiratory muscles, and is isolated respiratory muscle training necessary for healthy athletes?",
+            "back": "Regular exercise maintains and strengthens respiratory musculature:<ul><li><strong>Endurance Exercise:</strong> Imposes continuous, repetitive contractions on breathing muscles.</li><li><strong>Resistance Exercise:</strong> Heavily taxes the diaphragm and abdominal wall to stabilize the spine and generate elevated intra-abdominal pressure (<em>Valsalva maneuver</em>), helping preserve pulmonary function across aging.</li><li><strong>Training Necessity:</strong> Targeted, isolated training of the respiratory muscles is <strong>generally not necessary in healthy athletes</strong> due to large physiological reserves, but is clinically indicated following surgery or during prolonged bed rest when normal ventilation is compromised.</li></ul>"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "chapterId": "19.7",
+    "title": "19.7 Program Design",
+    "cards": [
+        {
+            "id": "19.7-01",
+            "tag": "Periodization Hierarchy",
+            "reference": "Section 19.7",
+            "front": "What is <strong>periodization</strong>, and what are its three primary planning structural levels?",
+            "back": "<strong>Periodization:</strong> The strategic manipulation of an athlete's preparedness through the employment of sequenced training phases defined by cycles and stages of workload.<br><br><strong>Planning Horizons:</strong><ul><li><strong>Microcycles:</strong> Short-term planning (e.g., daily to weekly).</li><li><strong>Mesocycles:</strong> Medium-term planning (e.g., several weeks or a training block).</li><li><strong>Macrocycles:</strong> Long-term planning (e.g., multi-month, annual, or multi-year).</li></ul>"
+        },
+        {
+            "id": "19.7-02",
+            "tag": "Fatigue and Accommodation Dynamic",
+            "reference": "Section 19.7",
+            "front": "Why are planned workloads systematically varied within a periodized training program?",
+            "back": "Planned workloads are varied to integrate programming tactics that <strong>harmonize the relationship between training-induced fatigue and accommodation</strong>, preventing biological and neuromuscular stagnation while optimizing adaptation."
+        },
+        {
+            "id": "19.7-03",
+            "tag": "Athlete Monitoring Loop",
+            "reference": "Section 19.7",
+            "front": "How does <strong>athlete monitoring</strong> guide both the short-term and long-term execution of a training plan?",
+            "back": "Consistent monitoring reveals individual responses to training stimuli:<ul><li><strong>Short-Term:</strong> Shows how the athlete is acutely responding to the workload.</li><li><strong>Long-Term:</strong> Informs how the athlete should be developed and guides modifications to the original training program to reflect actual adaptations.</li></ul>"
+        },
+        {
+            "id": "19.7-04",
+            "tag": "Exercise Interval vs. Exercise Order",
+            "reference": "Section 19.7",
+            "front": "How are the <strong>exercise (work) interval</strong> and <strong>exercise order</strong> defined in speed and agility program design?",
+            "back": "<ul><li><strong>Exercise (Work) Interval:</strong> The duration or distance over which a repetition is executed.</li><li><strong>Exercise Order:</strong> The sequence in which a set of repetitions or drills is executed.</li></ul>"
+        },
+        {
+            "id": "19.7-05",
+            "tag": "Frequency vs. Intensity",
+            "reference": "Section 19.7",
+            "front": "Define <strong>frequency</strong> and <strong>intensity</strong> as core training variables.",
+            "back": "<ul><li><strong>Frequency:</strong> The number of training sessions performed in a given time period (e.g., per day or per week).</li><li><strong>Intensity:</strong> The effort with which a repetition is executed, expressed as a percentage of maximum effort or speed (% of maximum).</li></ul>"
+        },
+        {
+            "id": "19.7-06",
+            "tag": "Recovery Interval vs. Work-to-Rest Ratio",
+            "reference": "Section 19.7",
+            "front": "Differentiate between a <strong>recovery (rest) interval</strong> and a <strong>work-to-rest ratio</strong>.",
+            "back": "<ul><li><strong>Recovery (Rest) Interval:</strong> The time period allocated between repetitions and sets to facilitate recovery.</li><li><strong>Work-to-Rest Ratio:</strong> The relative density of exercise and relief intervals in a set, expressed as a mathematical ratio.</li></ul>"
+        },
+        {
+            "id": "19.7-07",
+            "tag": "Repetition, Set, and Series",
+            "reference": "Section 19.7",
+            "front": "Define and distinguish the structural hierarchy of <strong>repetition</strong>, <strong>set</strong>, and <strong>series</strong>.",
+            "back": "<ul><li><strong>Repetition:</strong> The execution of a specific workload assignment or movement technique.</li><li><strong>Set:</strong> A group of repetitions combined with rest intervals.</li><li><strong>Series:</strong> A larger group of sets and recovery intervals.</li></ul>"
+        },
+        {
+            "id": "19.7-08",
+            "tag": "Volume vs. Volume Load",
+            "reference": "Section 19.7",
+            "front": "How do <strong>volume</strong> and <strong>volume load</strong> differ in workload quantification?",
+            "back": "<ul><li><strong>Volume:</strong> The total amount of work performed in a given training session or time period (e.g., 3 sets of 5 repetitions).</li><li><strong>Volume Load:</strong> The density of volume performed at prescribed intensities (e.g., 3 sets of 5 repetitions at 100 kg results in a volume load of 1,500 kg).</li></ul>"
+        },
+        {
+            "id": "19.7-09",
+            "tag": "Systemic Variable Interaction",
+            "reference": "Section 19.7",
+            "front": "Why must coaches consider program design variables both <strong>individually</strong> and as a <strong>collective system</strong>?",
+            "back": "While variables characterize agendas and quantify workloads individually, manipulating any single variable (e.g., increasing intensity or sprint distance) directly alters systemic fatigue, recovery demands, and volume load across the entire training system."
+        },
+        {
+            "id": "19.7-10",
+            "tag": "Cross-Disciplinary Application",
+            "reference": "Section 19.7",
+            "front": "How do resistance training periodization concepts (Chapter 21) apply to sprint, change-of-direction, and agility training?",
+            "back": "The fundamental principles of periodization—sequenced phase progression, workload manipulation, balancing fatigue and accommodation, and variable density—apply universally across resistance training, sprint development, change-of-direction, and agility programming."
+        }
+    ]
+}

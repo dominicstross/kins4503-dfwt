@@ -1,0 +1,76 @@
+{
+    "chapterId": "1.1",
+    "title": "1.1 Musculoskeletal System",
+    "cards": [
+        {
+            "id": "1.1-01",
+            "tag": "Bony Levers & Skeletal Divisions",
+            "reference": "Section 1.1",
+            "front": "How do skeletal muscles exert force on external objects, and how is the human skeleton divided?",
+            "back": "Muscles <strong>can only pull, not push</strong>; they function by pulling against bones that rotate about joint axes, transmitting force through lever systems to manifest external pushing or pulling forces.<br><br>The human body contains <strong>approximately 206 bones</strong>, divided into:<ul><li><strong>Axial Skeleton:</strong> Skull (cranium), vertebral column (C1 through coccyx), ribs, and sternum.</li><li><strong>Appendicular Skeleton:</strong> Shoulder/pectoral girdle, pelvic girdle, and bones of the upper and lower extremities.</li></ul>"
+        },
+        {
+            "id": "1.1-02",
+            "tag": "Vertebral Column Segmentation",
+            "reference": "Section 1.1",
+            "front": "What are the structural regions and respective vertebral counts of the human vertebral column?",
+            "back": "The vertebral column consists of 5 anatomical regions separated by flexible intervertebral disks:<ul><li><strong>Cervical vertebrae:</strong> 7 (neck region)</li><li><strong>Thoracic vertebrae:</strong> 12 (middle to upper back)</li><li><strong>Lumbar vertebrae:</strong> 5 (lower back)</li><li><strong>Sacral vertebrae:</strong> 5 (fused together; posterior pelvis)</li><li><strong>Coccygeal vertebrae:</strong> 3 to 5 (vestigial internal tail extending downward)</li></ul>"
+        },
+        {
+            "id": "1.1-03",
+            "tag": "Joint Classifications & Degrees of Freedom",
+            "reference": "Section 1.1",
+            "front": "How are skeletal joints classified by structural mobility and axes of rotation?",
+            "back": "<strong>Structural Mobility:</strong><ul><li><strong>Fibrous joints:</strong> Virtually no movement (e.g., sutures of the skull).</li><li><strong>Cartilaginous joints:</strong> Limited movement (e.g., intervertebral disks).</li><li><strong>Synovial joints:</strong> Large range of motion with low friction, featuring articulating hyaline cartilage, joint capsules, and synovial fluid (e.g., elbow, knee).</li></ul><strong>Rotational Axes:</strong><ul><li><strong>Uniaxial:</strong> Hinge-like rotation about 1 axis (e.g., elbow; note: knee axis of rotation shifts throughout range of motion).</li><li><strong>Biaxial:</strong> Movement about 2 perpendicular axes (e.g., ankle, wrist).</li><li><strong>Multiaxial:</strong> Movement about all 3 perpendicular spatial axes (e.g., shoulder and hip ball-and-socket joints).</li></ul>"
+        },
+        {
+            "id": "1.1-04",
+            "tag": "Factors Affecting Adult Bone Growth",
+            "reference": "Section 1.1",
+            "front": "What training factors positively stimulate adult skeletal bone mineral density and bone modeling?",
+            "back": "Adult bone adapts to muscular force and mechanical loading through:<ul><li><strong>Heavy resistance loading:</strong> Elevates bone density and bone mineral content.</li><li><strong>High-impact explosive movements:</strong> Exercises involving hard landings (e.g., gymnastics).</li><li><strong>Axial skeletal loading:</strong> Forces directed along the spine and longitudinal skeletal axis.</li><li><strong>Frequency and stimulus variation:</strong> Because bone adaptation takes substantially longer than skeletal muscle remodeling, stimuli must be systematically varied across frequency, intensity, and modality.</li></ul>"
+        },
+        {
+            "id": "1.1-05",
+            "tag": "Connective Tissue Hierarchy & Attachments",
+            "reference": "Section 1.1",
+            "front": "Describe the three connective tissue sheaths of skeletal muscle and their role in force transmission.",
+            "back": "The body's >430 skeletal muscles are organized by three continuous fibrous connective tissue layers:<ul><li><strong>Epimysium:</strong> Outer fibrous layer encasing the entire muscle; contiguous with tendons that attach to bone <em>periosteum</em>.</li><li><strong>Perimysium:</strong> Surrounds bundles (fasciculi) of up to 150 muscle fibers.</li><li><strong>Endomysium:</strong> Encases individual muscle fibers; contiguous with the cell membrane (sarcolemma).</li></ul>All three sheaths are continuous with the tendon, ensuring tension generated within individual muscle cells transmits directly to the bone.<br><em>Anatomical attachments:</em> <strong>Proximal</strong> (closer to trunk) vs. <strong>Distal</strong> (farther from trunk) in limbs; <strong>Superior</strong> (closer to head) vs. <strong>Inferior</strong> (closer to feet) in the trunk."
+        },
+        {
+            "id": "1.1-06",
+            "tag": "Motor Unit & Neuromuscular Junction",
+            "reference": "Section 1.1",
+            "front": "What constitutes a <strong>motor unit</strong>, and how does the neuromuscular junction function?",
+            "back": "<ul><li><strong>Neuromuscular Junction (Motor End Plate):</strong> The junction between a motor neuron and the muscle fiber it innervates. Each muscle cell possesses only <em>one</em> neuromuscular junction.</li><li><strong>Motor Unit:</strong> A single motor neuron and all the muscle fibers it innervates (ranging from a few to hundreds or thousands of fibers).</li><li><strong>All-or-None Response:</strong> When stimulated by an action potential from the motor neuron, all muscle fibers within that motor unit contract simultaneously.</li></ul>"
+        },
+        {
+            "id": "1.1-07",
+            "tag": "Sarcoplasmic Reticulum & T-Tubules",
+            "reference": "Section 1.1",
+            "front": "What roles do the <strong>sarcoplasmic reticulum</strong> and <strong>transverse tubules (T-tubules)</strong> play in muscle activation?",
+            "back": "<ul><li><strong>Sarcoplasmic Reticulum (SR):</strong> An intricate tubular network surrounding each myofibril, terminating as vesicles near the Z-lines that store <strong>calcium ions (Ca²⁺)</strong>.</li><li><strong>T-Tubules:</strong> Run perpendicular to the SR and are contiguous with the sarcolemma at the fiber surface.</li><li><strong>Coordinated Contraction:</strong> Action potentials propagate from the sarcolemma down the T-tubules deep into all levels of the fiber nearly simultaneously, triggering widespread calcium release from the SR vesicles into the myofibril to initiate tension development.</li></ul>"
+        },
+        {
+            "id": "1.1-08",
+            "tag": "Sarcomere Anatomy & Banding Shifts",
+            "reference": "Section 1.1",
+            "front": "Describe the molecular structure of the sarcomere and how its bands change during muscle contraction.",
+            "back": "The <strong>sarcomere</strong> is the smallest contractile unit of skeletal muscle (~2.5 µm resting length), repeated longitudinally across the myofibril:<ul><li><strong>Myosin (thick filaments):</strong> ~16 nm diameter, containing ~200 molecules with globular heads that form crossbridges; anchored at the <strong>M-bridge</strong> in the center of the <strong>H-zone</strong>.</li><li><strong>Actin (thin filaments):</strong> ~6 nm diameter double helix; anchored at the <strong>Z-line</strong>.</li><li><strong>Banding Pattern:</strong> <strong>A-band</strong> corresponds to the alignment of myosin filaments (dark); <strong>I-band</strong> contains only actin (light), bisected by the Z-line.</li><li><strong>Contraction Dynamics:</strong> Actin slides over myosin toward the center of the sarcomere; the <strong>H-zone and I-band shrink</strong>, pulling the Z-lines closer together, while the <strong>A-band width remains constant</strong>.</li></ul>"
+        },
+        {
+            "id": "1.1-09",
+            "tag": "Sliding-Filament Theory & Force Production",
+            "reference": "Section 1.1",
+            "front": "What governs the magnitude of force generated by a muscle at any given instant under the sliding-filament theory?",
+            "back": "The actin filaments slide inward on myosin filaments, pulling Z-lines toward the sarcomere center via repetitive flexions of myosin crossbridges.<br><br><strong>Primary Force Principle:</strong> The amount of force produced by a muscle at any instant in time is <strong>directly related to the number of myosin crossbridges bound to actin filaments cross-sectionally</strong> at that exact instant."
+        },
+        {
+            "id": "1.1-10",
+            "tag": "Five Phases of Muscle Contraction",
+            "reference": "Section 1.1",
+            "front": "Outline the five sequential phases of muscular contraction and relaxation.",
+            "back": "<ol><li><strong>Resting Phase:</strong> Minimal calcium in myofibril; actin sites covered; weak actin–myosin interaction without tension.</li><li><strong>Excitation–Contraction Coupling:</strong> Action potential triggers SR calcium release; Ca²⁺ binds to <strong>troponin</strong>, causing a shift in <strong>tropomyosin</strong> to expose active binding sites on actin for rapid crossbridge attachment.</li><li><strong>Contraction Phase:</strong> Hydrolysis of <strong>ATP to ADP and inorganic phosphate</strong> (catalyzed by <em>myosin ATPase</em>) powers the crossbridge pull (power stroke). A fresh ATP binds to detach the myosin head.</li><li><strong>Recharge Phase:</strong> Repeated cycles of binding, power stroke, detachment, and recocking continue as long as Ca²⁺, ATP, and active myosin ATPase remain available.</li><li><strong>Relaxation Phase:</strong> Motor nerve stimulation ceases; calcium is actively pumped back into the SR, tropomyosin covers actin sites, and filaments return to their unbound state.</li></ol>"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "chapterId": "2.1",
+    "title": "2.1 Skeletal Musculature",
+    "cards": [
+        {
+            "id": "2.1-01",
+            "tag": "Muscle Origin vs. Insertion",
+            "reference": "Section 2.1",
+            "front": "How do anatomists traditionally define a skeletal muscle's origin versus its insertion, and why is this preferred over definitions based on bone mobility?",
+            "back": "Traditionally, anatomists define the <strong>origin</strong> as the proximal attachment (toward the center of the body) and the <strong>insertion</strong> as the distal attachment (away from the center of the body).<br><br>Defining origin as the 'stationary bone' and insertion as the 'mobile bone' is problematic because it causes confusing functional reversals depending on the movement performed:<ul><li>In a <em>straight-leg sit-up</em>, the femur is stationary and pelvis mobile (femur = origin, pelvis = insertion).</li><li>In a <em>hanging leg raise</em>, the pelvis is stationary and femur mobile (pelvis = origin, femur = insertion).</li></ul>The traditional proximal-to-distal anatomical convention maintains consistent structural terminology."
+        },
+        {
+            "id": "2.1-02",
+            "tag": "Bone Attachment Morphology",
+            "reference": "Section 2.1",
+            "front": "Contrast the anatomical structure and mechanical stress distribution of <strong>fleshy attachments</strong> versus <strong>fibrous attachments</strong> (tendons).",
+            "back": "<ul><li><strong>Fleshy Attachments:</strong> Muscle fibers affix directly to the bone surface (typically at proximal ends) across broad surface areas, distributing tensile force broadly over the bony cortex rather than localizing it at a single focal point.</li><li><strong>Fibrous Attachments (e.g., Tendons):</strong> Dense connective tissues that blend continuously with muscle sheaths and bone connective tissue. Additional specialized fibers extend directly into the bone matrix itself, forming an exceptionally strong union capable of transmitting concentrated tensile loads.</li></ul>"
+        },
+        {
+            "id": "2.1-03",
+            "tag": "Functional Muscular Classifications",
+            "reference": "Section 2.1",
+            "front": "Define the functional roles of an <strong>agonist</strong>, an <strong>antagonist</strong>, and a <strong>synergist</strong> during dynamic human movement.",
+            "back": "<ul><li><strong>Agonist (Prime Mover):</strong> The muscle most directly involved in bringing about a specific movement (e.g., triceps brachii extending the elbow during throwing).</li><li><strong>Antagonist:</strong> A muscle capable of slowing down or stopping the movement; provides eccentric joint stabilization and terminal braking to protect ligamentous and cartilaginous joint structures from potentially destructive impact forces (e.g., biceps brachii braking elbow extension in throwing).</li><li><strong>Synergist:</strong> A muscle that assists indirectly by stabilizing proximal joints/bones (e.g., scapular stabilizers anchoring humeral movers) or counteracting unwanted secondary actions when an agonist crosses two joints (e.g., gluteus maximus extending the hip to counteract rectus femoris hip flexion during squats).</li></ul>"
+        },
+        {
+            "id": "2.1-04",
+            "tag": "Lever Fundamentals & Moment Arms",
+            "reference": "Section 2.1",
+            "front": "Define a <strong>lever</strong>, a <strong>fulcrum</strong>, and a <strong>moment arm</strong> within the human musculoskeletal system.",
+            "back": "<ul><li><strong>Lever:</strong> A rigid or semirigid body that, when subjected to a force whose line of action does not pass through its pivot point, exerts force on any object impeding its tendency to rotate.</li><li><strong>Fulcrum:</strong> The fixed pivot point of a lever.</li><li><strong>Moment Arm (Force/Torque Arm):</strong> The <em>perpendicular distance</em> from the line of action of the applied force to the fulcrum. The line of action is an infinitely long line passing through the point of force application, oriented in the direction in which the force is exerted.</li></ul>"
+        },
+        {
+            "id": "2.1-05",
+            "tag": "Torque Equilibrium & Mechanical Advantage",
+            "reference": "Section 2.1",
+            "front": "How is <strong>mechanical advantage</strong> mathematically calculated, and what do ratios greater than or less than 1.0 signify for muscle force requirements?",
+            "back": "Mechanical advantage is quantified as the ratio of the moment arm through which an applied muscle force acts (M_m) to that through which a resistive force acts (M_r):<br><br><strong>Mechanical Advantage = M_m / M_r</strong><br><br>For rotational equilibrium, muscle torque must balance resistive torque (F_m · M_m = F_r · M_r):<ul><li><strong>Ratio &gt; 1.0 (Mechanical Advantage):</strong> Applied muscle force (F_m) can be <em>less</em> than the resistive force (F_r) to produce an equal amount of torque.</li><li><strong>Ratio &lt; 1.0 (Mechanical Disadvantage):</strong> Muscle force must be <em>substantially greater</em> than the external resistive load to produce equal torque.</li></ul>"
+        },
+        {
+            "id": "2.1-06",
+            "tag": "The Three Classes of Bony Levers",
+            "reference": "Section 2.1",
+            "front": "Distinguish between <strong>first-class</strong>, <strong>second-class</strong>, and <strong>third-class</strong> levers, providing an anatomical exercise example for each.",
+            "back": "<ul><li><strong>First-Class Lever:</strong> Muscle force and resistive force act on opposite sides of the fulcrum. <em>Example:</em> Triceps elbow extension against resistance (M_m = 5 cm, M_r = 40 cm; mechanical advantage = 0.125, which is less than 1.0).</li><li><strong>Second-Class Lever:</strong> Muscle force and resistive force act on the same side of the fulcrum, with the muscle force acting through a moment arm longer than that of the resistive force (M_m &gt; M_r; mechanical advantage &gt; 1.0). <em>Example:</em> Standing heel raise / plantar flexion (ball of foot = fulcrum; body weight = resistance; calf muscles = muscle force).</li><li><strong>Third-Class Lever:</strong> Muscle force and resistive force act on the same side of the fulcrum, with the muscle force acting through a moment arm shorter than that of the resistive force (M_m &lt; M_r; mechanical advantage &lt; 1.0). <em>Example:</em> Biceps elbow flexion during a curl.</li></ul>"
+        },
+        {
+            "id": "2.1-07",
+            "tag": "Musculoskeletal Disadvantage & Injury Etiology",
+            "reference": "Section 2.1",
+            "front": "Why do most skeletal muscles operate at a mechanical disadvantage (&lt; 1.0), and how does this relate to musculoskeletal injury risk?",
+            "back": "Most human muscles that rotate limbs about body joints operate at a mechanical advantage of less than 1.0 because muscle moment arms (M_m) are much shorter than resistive moment arms (M_r).<br><br>Consequently, internal muscle and tendon forces (F_m) must be <strong>significantly greater</strong> than the forces exerted by the body on external objects or the ground. These extremely high internal forces experienced by muscles and tendons account in large part for injury to these tissues during sport and resistance exercise."
+        },
+        {
+            "id": "2.1-08",
+            "tag": "Patellar Biomechanics & Knee Moment Arms",
+            "reference": "Section 2.1",
+            "front": "How does the <strong>patella</strong> preserve the mechanical advantage of the quadriceps muscle group during knee extension?",
+            "back": "Because the knee joint is not a true hinge, its axis of rotation changes continuously throughout the range of motion, affecting moment arm length.<ul><li>The <strong>patella (kneecap)</strong> helps prevent large changes in the mechanical advantage of the quadriceps by keeping the quadriceps tendon from falling in close to the axis of rotation.</li><li>In the absence of the patella, the tendon falls closer to the knee's center of rotation, shortening the moment arm through which muscle force acts and thereby reducing mechanical advantage.</li></ul>"
+        },
+        {
+            "id": "2.1-09",
+            "tag": "Free-Weight Dynamic Resistive Torque",
+            "reference": "Section 2.1",
+            "front": "During resistance training with free weights, how does the resistive torque dynamically fluctuate across a joint's range of motion?",
+            "back": "During resistance training with free weights, the moment arm through which the weight acts (M_r) equals the <strong>horizontal distance</strong> from a vertical line through the center of mass of the barbell or dumbbell to the body joint about which limb rotation occurs.<br><br>Because this horizontal distance continuously varies throughout the movement arc (e.g., during elbow flexion), the resistive moment arm and resulting resistive torque change continuously as the weight is lifted."
+        },
+        {
+            "id": "2.1-10",
+            "tag": "Tendon Insertion Variations & Speed-Strength Trade-Off",
+            "reference": "Section 2.1",
+            "front": "What functional trade-off occurs when an individual's tendon inserts <strong>farther from the joint center</strong> versus closer to it?",
+            "back": "Anatomical variation in tendon insertion distance produces a fundamental biomechanical trade-off between <strong>torque generation</strong> and <strong>movement velocity</strong>:<ul><li><strong>Inserting Farther from Joint Center:</strong> Increases the muscle moment arm (M_m), allowing the lifter to produce greater torque and lift heavier weights for a given muscle force. However, it requires greater muscle shortening for a given joint range of motion (e.g., 34° vs. 37° rotation for equal shortening), resulting in a loss of movement speed. Because of the inverse <em>force–velocity relationship</em>, contracting at higher speed to achieve a given joint velocity reduces muscle force capability, proving disadvantageous for high-speed sport tasks (e.g., tennis) but advantageous for slower, maximal lifts (e.g., powerlifting).</li><li><strong>Inserting Closer to Joint Center:</strong> Shorter moment arm produces less torque per unit of muscle force, but yields more joint rotation per unit of shortening, preserving high angular velocities and force at high speeds.</li></ul>"
+        }
+    ]
+}

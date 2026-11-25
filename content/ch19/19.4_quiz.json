@@ -1,0 +1,555 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What primary mechanical feature distinguishes change-of-direction (COD) maneuvers performed at shallow cutting angles (<75\u00b0) from those at aggressive cutting angles (\u226575\u00b0)?",
+        "opts": [
+          "Shallow cuts require pure concentric force without ground contact, while aggressive cuts are isometric",
+          "Shallow cuts feature shorter ground contact times (<250 ms) and speed-like mechanics, whereas aggressive cuts exceed 250 ms and demand high eccentric braking strength",
+          "Shallow cuts eliminate all braking forces, while aggressive cuts eliminate propulsive forces",
+          "Aggressive cuts require higher center of mass elevation, while shallow cuts require trunk twisting"
+        ],
+        "correct": 1,
+        "rationale": "Shallow cutting angles (<75\u00b0) exhibit shorter ground contact times (<250 ms) benefiting from speed-like training, while aggressive cuts (\u226575\u00b0) exceed 250 ms due to greater eccentric braking requirements."
+      },
+      {
+        "id": 2,
+        "q": "In elite basketball players, what body composition profile has been identified as a significant predictor of superior change-of-direction performance on the T-test?",
+        "opts": [
+          "Increased body fat combined with decreased muscular power",
+          "Increased muscle mass in combination with decreased body fat",
+          "Minimal lean muscle mass paired with high visceral adiposity",
+          "Equal proportions of adipose and lean mass regardless of body weight"
+        ],
+        "correct": 1,
+        "rationale": "Considering the requirements for rapidly changing momentum, increased muscle mass in combination with decreased body fat is a predictor of change-of-direction performance when assessed by the T-test."
+      },
+      {
+        "id": 3,
+        "q": "Why is lowering the athlete's body center of mass (COM) height advantageous during lateral change-of-direction maneuvers?",
+        "opts": [
+          "It eliminates ground reaction force to allow frictionless sliding",
+          "It improves base of support stability, allows optimal body lean, and facilitates effective lateral force transmission",
+          "It decreases the firing frequency of high-threshold alpha motor neurons",
+          "It completely removes the need for knee flexion during plant phases"
+        ],
+        "correct": 1,
+        "rationale": "Lower center of mass height is directly related to improved lateral change-of-direction performance by establishing stability and allowing effective directional force application into the surface."
+      },
+      {
+        "id": 4,
+        "q": "What lower limb kinematic adjustment entering a change of direction helps an athlete effectively dissipate high eccentric braking loads?",
+        "opts": [
+          "Increased knee flexion through an active, dynamic range of motion",
+          "Stiff-legged knee extension with an locked joint angle",
+          "Excessive hip abduction with internal knee rotation (valgus collapse)",
+          "Completely dorsiflexing the ankle while maintaining an upright knee"
+        ],
+        "correct": 0,
+        "rationale": "Athletes must effectively dissipate or tolerate eccentric braking loads through an effective range of motion at the knee (increased knee flexion) and avoid a stiff-legged braking style."
+      },
+      {
+        "id": 5,
+        "q": "What specific strength adaptation is essential for absorbing high-velocity momentum during the initial plant phase of a sharp directional cut?",
+        "opts": [
+          "Aerobic muscular endurance",
+          "High-velocity eccentric strength capacity",
+          "Isometric neck stabilizing strength",
+          "Static concentric absolute flexibility"
+        ],
+        "correct": 1,
+        "rationale": "The neuromuscular requirements for braking capacity must be specifically trained using high-velocity eccentric contractions to tolerate the rapid rate of loading during the braking phase."
+      },
+      {
+        "id": 6,
+        "q": "Which exercises provide specific neuromuscular training for high-velocity eccentric braking capacity in change-of-direction athletes?",
+        "opts": [
+          "Drop landings, landing from a loaded jump, and the catch phase of Olympic cleans or snatches",
+          "Seated machine leg extensions performed with slow 10-second tempos",
+          "Passive hamstring stretching on a massage table",
+          "Unloaded recumbent stationary bicycling"
+        ],
+        "correct": 0,
+        "rationale": "High-velocity eccentric training modalities include drop landings, landing from a loaded jump, and the catch phase of a power clean or power snatch, all of which place dynamic eccentric loading demands on the hips, knees, and ankles."
+      },
+      {
+        "id": 7,
+        "q": "Which kinematic adaptation during 180\u00b0 directional changes facilitates rapid redirection of momentum?",
+        "opts": [
+          "Large forward trunk flexion collapse over the knees",
+          "Increased lateral trunk tilt toward the intended direction",
+          "Complete hyperextension of the lumbar spine",
+          "Rotating the head in the opposite direction of travel"
+        ],
+        "correct": 1,
+        "rationale": "Biomechanical research demonstrates that change-of-direction performance during 180\u00b0 turns improves with increased lateral trunk tilt toward the new movement direction."
+      },
+      {
+        "id": 8,
+        "q": "What three integrated phases determine overall change-of-direction ability?",
+        "opts": [
+          "Rapid deceleration, body reorientation toward the intended path, and explosive reacceleration",
+          "Maximal flight time, arm swing elevation, and passive foot plant",
+          "Deep breathing, cognitive dissociation, and terminal stride lengthening",
+          "Static balance hold, visual suppression, and slow amortization"
+        ],
+        "correct": 0,
+        "rationale": "It is a combination of the ability to decelerate, reorient the body to face or partially face the direction of intended travel, and then explosively reaccelerate that truly determines change-of-direction ability."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which kinetic and kinematic factors have been shown to directly improve change-of-direction performance across various cutting angles? (Select all that apply)",
+        "opts": [
+          "Increased hip extension velocity (rapid force application by hip extensors).",
+          "Low center of mass height entering and exiting the turn.",
+          "Increased braking impulse and propulsive impulse.",
+          "Minimized trunk angular displacement entering the deceleration phase.",
+          "Maintaining a completely rigid, stiff-legged knee plant upon contact."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "COD performance improves with increased hip extension velocity, low COM height, elevated braking and propulsive impulse, dynamic knee flexion, minimized trunk angular displacement, and lateral trunk tilt. A stiff-legged braking style is mechanically detrimental and unsafe."
+      },
+      {
+        "id": 2,
+        "q": "Why must neuromuscular braking capacity be trained using specialized eccentric exercise modalities? (Select all that apply)",
+        "opts": [
+          "Neuromuscular recruitment pathways during eccentric muscle actions differ from those during concentric actions.",
+          "Adaptations to eccentric training appear to be specific to the velocity of eccentric loading.",
+          "Eccentric contractions eliminate all sensory feedback from muscle spindles.",
+          "Sharp cutting maneuvers impose extreme rates of eccentric loading during the plant phase.",
+          "Concentric-only strength training completely transfers to high-speed deceleration."
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "Eccentric contractions utilize different motor unit recruitment pathways, adaptations are velocity-specific, and sharp cuts impose massive eccentric loads. Concentric-only training does not fully prepare the neuromuscular system for high-velocity braking."
+      },
+      {
+        "id": 3,
+        "q": "Which movement characteristics describe change-of-direction tasks performed at cutting angles equal to or greater than 75\u00b0? (Select all that apply)",
+        "opts": [
+          "Ground contact times frequently exceeding 250 ms.",
+          "Substantially greater braking impulse requirements to halt momentum.",
+          "High reliance on eccentric and maximal strength.",
+          "Exclusive reliance on pure sprint acceleration mechanics without braking.",
+          "Explosive concentric strength required during reacceleration."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Aggressive cuts (\u226575\u00b0) involve longer contact times (>250 ms), massive braking impulses, and heavy reliance on eccentric, maximal, and concentric strength. They cannot be executed using pure linear sprint mechanics without deceleration."
+      },
+      {
+        "id": 4,
+        "q": "Which physical factors are modifiable through targeted strength and conditioning to enhance change-of-direction ability? (Select all that apply)",
+        "opts": [
+          "Muscle mass and body fat percentage.",
+          "Dynamic knee flexion range of motion and eccentric strength.",
+          "Center of mass height during cutting maneuvers.",
+          "Total anatomical limb length and adult skeletal height.",
+          "Hip extension velocity during reacceleration."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Body composition, eccentric strength/joint flexion, COM height, and hip extension velocity are modifiable through training. Height and limb length are non-modifiable anthropometrics."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Change-of-direction movements performed at shallow cutting angles (<75\u00b0) typically exhibit ground contact times shorter than 250 ms.",
+        "ans": true,
+        "feedback": "Shallow cuts (<75\u00b0) are associated with ground contact times under 250 ms and physical demands similar to speed training."
+      },
+      {
+        "id": 2,
+        "q": "A stiff-legged braking style during the plant phase is the most effective technique for dissipating high ground reaction forces.",
+        "ans": false,
+        "feedback": "Athletes must dissipate braking loads through an effective range of motion at the knee; a stiff-legged braking style fails to absorb force and increases injury risk."
+      },
+      {
+        "id": 3,
+        "q": "Increased muscle mass combined with decreased body fat is a strong anthropometric predictor of change-of-direction performance.",
+        "ans": true,
+        "feedback": "Higher lean muscle mass paired with lower fat mass provides superior relative force-to-mass ratio, directly predicting COD performance on tests like the T-test."
+      },
+      {
+        "id": 4,
+        "q": "Minimizing trunk angular displacement entering the deceleration phase of a cut enhances change-of-direction performance.",
+        "ans": true,
+        "feedback": "Controlling the trunk and minimizing angular displacement entering the deceleration phase ensures dynamic stability and prevents excessive deceleration time."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Change-of-direction movements at cutting angles less than 75\u00b0 feature contact times under **250 ms**, whereas cuts of 75\u00b0 or greater require greater **braking** capacity and exceed 250 ms.",
+        "targets": [
+          "250 ms",
+          "braking**"
+        ],
+        "optionsBank": [
+          "250 ms",
+          "braking",
+          "500 ms",
+          "propulsive",
+          "flight"
+        ],
+        "hint": "Shallow cuts (<75\u00b0) feature contact times <250 ms; cuts \u226575\u00b0 exceed 250 ms due to high braking demands."
+      },
+      {
+        "id": 2,
+        "statement": "Change-of-direction ability is governed by the ability to decelerate, **reorient** the body toward the new direction, and explosively **reaccelerate**.",
+        "targets": [
+          "reorient",
+          "reaccelerate**"
+        ],
+        "optionsBank": [
+          "reorient",
+          "reaccelerate",
+          "elevate",
+          "glide",
+          "isolate"
+        ],
+        "hint": "The triad of COD ability consists of decelerating, reorienting the body, and explosively reaccelerating."
+      },
+      {
+        "id": 3,
+        "statement": "Neuromuscular braking adaptations are specific to the **velocity** of eccentric loading, which can be developed using drills like **drop landings**.",
+        "targets": [
+          "velocity",
+          "drop landings**"
+        ],
+        "optionsBank": [
+          "velocity",
+          "drop landings",
+          "volume",
+          "static stretching",
+          "isometric holds"
+        ],
+        "hint": "Eccentric adaptations are velocity-specific, and drop landings specifically train high-velocity eccentric force absorption."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Contrast the biomechanical demands and ground contact kinetics of shallow cutting angles (<75\u00b0) with aggressive cutting angles (\u226575\u00b0), detailing the specific strength qualities required for each.",
+        "model": "Shallow cutting angles (<75\u00b0) involve smaller changes in movement trajectory, resulting in brief ground contact times (<250 ms) during the plant phase. Kinetically, the physical demands mirror linear sprinting, requiring a high rate of force development (RFD), reactive stretch-shortening cycle (SSC) function, and rapid propulsive force application. In contrast, aggressive cutting angles (\u226575\u00b0) require substantial alterations in momentum, demanding large braking impulses that prolong plant phase ground contact times (>250 ms). These aggressive cuts require substantial high-velocity eccentric strength and maximal strength to decelerate and absorb massive ground reaction forces, coupled with explosive concentric strength to reaccelerate out of the cut.",
+        "criteria": [
+          "Differentiate cutting angles: shallow (<75\u00b0) vs. aggressive (\u226575\u00b0).",
+          "Compare ground contact times: <250 ms for shallow cuts vs. >250 ms for aggressive cuts.",
+          "Detail physical demands of shallow cuts: sprint-like mechanics, high RFD, reactive SSC.",
+          "Detail physical demands of aggressive cuts: high braking impulse, eccentric strength, maximal strength, and concentric reacceleration power."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Describe the key kinematic body positioning factors that optimize change-of-direction performance during the deceleration, plant, and reacceleration phases.",
+        "model": "During the deceleration phase, the athlete must control the trunk by minimizing angular displacement and maintain a low center of mass (COM) to optimize stability. Entering the plant phase, the athlete must actively flex the knee through an effective range of motion to dissipate high eccentric braking forces, strictly avoiding a stiff-legged plant. In sharp turns (such as 180\u00b0 cuts), increasing lateral trunk tilt toward the intended direction facilitates momentum redirection. Throughout the plant and transition, the athlete must reorient the trunk and hips toward the new exit trajectory while maintaining directional body lean that aligns the ankle, knee, hip, and shoulders. Finally, during the reacceleration phase, the athlete applies rapid hip extension velocity and large propulsive impulses to explosively accelerate down the new movement path.",
+        "criteria": [
+          "Describe trunk control: minimizing angular displacement entering deceleration and lateral trunk tilt during sharp 180\u00b0 turns.",
+          "Detail center of mass (COM): maintaining a low COM entering and exiting cuts.",
+          "Explain knee mechanics: dynamic knee flexion to dissipate eccentric braking loads (avoiding stiff legs).",
+          "Describe body alignment and reorientation: aligning ankle-knee-hip-trunk-shoulders and reorienting hips toward the exit path.",
+          "State reacceleration kinematics: high hip extension velocity and large propulsive impulse."
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What defining element must be present in a movement assessment for it to be classified as a true test of agility rather than change of direction?",
+        "opts": [
+          "Electronic timing gates measuring split times to 0.001 s",
+          "A reactive external stimulus requiring perceptual\u2013cognitive processing",
+          "A minimum running distance of at least 40 yards",
+          "At least three distinct 180-degree cutting maneuvers"
+        ],
+        "correct": 1,
+        "rationale": "Tests without a reactive aspect are considered change-of-direction tests; a test that includes a reactive stimulus is by definition a test of agility."
+      },
+      {
+        "id": 2,
+        "q": "Why is the Illinois agility test often considered a test of maneuverability and metabolic capacity rather than pure change-of-direction deceleration?",
+        "opts": [
+          "It relies exclusively on vertical jumping over hurdles",
+          "Its extended duration imposes high metabolic demands, and its curved path requires bending around cones rather than sharp deceleration",
+          "It forbids athletes from sprinting at maximal effort",
+          "It measures upper body throwing power rather than lower body locomotion"
+        ],
+        "correct": 1,
+        "rationale": "The length of the Illinois test imposes high metabolic demands, and tests with multiple changes of direction require bending around cones while maintaining velocity (maneuverability) rather than sharp deceleration."
+      },
+      {
+        "id": 3,
+        "q": "Why do similar-length field tests, such as the 505 test and the L-run, exhibit only a moderate correlation when performed on the same athletes?",
+        "opts": [
+          "They assess different physical qualities: the 505 demands sharp 180\u00b0 deceleration and reacceleration, whereas the L-run tests maneuverability and curvilinear speed",
+          "The 505 test is an aerobic endurance test while the L-run is an isometric balance test",
+          "Timing gates fail to capture data accurately during the 505 test",
+          "Athlete motivation changes completely between tests"
+        ],
+        "correct": 0,
+        "rationale": "The traditional 505 and L-run have only a moderate relationship because they evaluate different underpinning requirements: the 505 requires aggressive braking and a 180\u00b0 cut, while the L-run requires bending around cones (maneuverability)."
+      },
+      {
+        "id": 4,
+        "q": "When reacting to an opposing player in open play, where should an athlete direct their primary visual focus?",
+        "opts": [
+          "The opponent's eyes and facial expressions",
+          "The opponent's shoulders, trunk, and hips",
+          "The opponent's shoes and lower feet",
+          "The surrounding stadium scoreboard and sideline markers"
+        ],
+        "correct": 1,
+        "rationale": "When changing direction in response to an opponent, the athlete should focus on the shoulders, trunk, and hips, as these core structures reflect true center of mass movement without deception."
+      },
+      {
+        "id": 5,
+        "q": "What attentional focus cue has been scientifically shown to improve change-of-direction performance compared to focusing internally on body parts?",
+        "opts": [
+          "Concentrating on \"feeling the quadriceps contract\"",
+          "Concentrating on \"pushing the ground away\" (an external focus of attention)",
+          "Concentrating on \"keeping the elbows tucked to the ribs\"",
+          "Concentrating on \"counting the heart rate during the plant\""
+        ],
+        "correct": 1,
+        "rationale": "External focus of attention\u2014through instructions to concentrate on the ground instead of a body part (\"push the ground away\")\u2014has been shown to improve change-of-direction performance."
+      },
+      {
+        "id": 6,
+        "q": "How does the tactical context (offensive maneuvering vs. defensive containment) affect agility performance?",
+        "opts": [
+          "It fundamentally changes the brain processing strategy and perceptual\u2013cognitive demands placed on the athlete",
+          "It has zero effect because all agility movements use identical neurological pathways",
+          "It only alters the shoe friction coefficient against the grass",
+          "Defensive play requires pure linear speed while offense requires pure jogging"
+        ],
+        "correct": 0,
+        "rationale": "The tactical situation (offensive vs. defensive) changes the brain processing strategy required, altering visual scanning, anticipation, and decision-making demands."
+      },
+      {
+        "id": 7,
+        "q": "Which of the following is NOT listed as a core component of perceptual\u2013cognitive ability in agility performance?",
+        "opts": [
+          "Visual scanning and pattern recognition",
+          "Knowledge of the situation and anticipation",
+          "Decision-making time and accuracy",
+          "Maximal uninhibited isometric jaw clenching force"
+        ],
+        "correct": 3,
+        "rationale": "Core components of perceptual-cognitive ability include visual scanning, anticipation, pattern recognition, knowledge of the situation, decision-making time and accuracy, and reaction time."
+      },
+      {
+        "id": 8,
+        "q": "What are the three primary overarching goals of agility performance training?",
+        "opts": [
+          "Enhanced perceptual\u2013cognitive ability, effective and rapid braking, and rapid reacceleration",
+          "Maximizing 1RM back squat, increasing shoe cushioning, and jogging",
+          "Increasing straight-line flight time, minimizing knee flexion, and upright posture",
+          "Memorizing fixed cone layouts, eliminating visual scanning, and static holds"
+        ],
+        "correct": 0,
+        "rationale": "The three goals of agility performance are enhanced perceptual\u2013cognitive ability in various situations, effective and rapid braking of momentum, and rapid reacceleration toward the new direction of travel."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which components comprise the perceptual\u2013cognitive dimension of athletic agility? (Select all that apply)",
+        "opts": [
+          "Visual scanning and pattern recognition.",
+          "Anticipation and reaction time.",
+          "Knowledge of the situation.",
+          "Decision-making time and decision accuracy.",
+          "Absolute skeletal bone mineral density."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Perceptual-cognitive ability includes visual scanning, anticipation, pattern recognition, situational knowledge, decision-making time and accuracy, and reaction time. Bone density is a structural tissue quality."
+      },
+      {
+        "id": 2,
+        "q": "Which factors explain why performance on the Illinois agility test may improve after a training cycle even if an athlete's change-of-direction mechanics have not changed? (Select all that apply)",
+        "opts": [
+          "The prolonged duration of the test imposes a substantial metabolic demand that benefits from improved aerobic/glycolytic conditioning.",
+          "The test primarily evaluates maneuverability (bending around cones) rather than aggressive braking and deceleration.",
+          "The test incorporates a reactive visual light stimulus that trains reaction time.",
+          "Enhanced general cardiovascular fitness allows the athlete to maintain velocity over the multi-second course.",
+          "The test is a closed-skill assessment that does not measure true perceptual-cognitive agility."
+        ],
+        "correctArray": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "rationale": "The Illinois test is long and metabolically demanding, measures maneuverability (curving around cones), is a closed test lacking a reactive stimulus, and improvements often reflect metabolic conditioning. It does NOT include a reactive stimulus."
+      },
+      {
+        "id": 3,
+        "q": "Which technical coaching recommendations optimize an athlete's performance during change-of-direction and agility drills? (Select all that apply)",
+        "opts": [
+          "Direct visual focus to the opponent's shoulders, trunk, and hips during reactive tasks.",
+          "Use an external focus of attention by cueing the athlete to \"push the ground away.\"",
+          "Maintain powerful, coordinated arm action to facilitate leg drive without counterproductive rotational flailing.",
+          "Instruct the athlete to plant with a completely stiff, unbending knee to maximize shock transmission.",
+          "Reorient the trunk and hips toward the intended direction of travel during the stance phase."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Coaches should cue visual focus on core structures (shoulders/trunk/hips), external attention (\"push the ground away\"), coordinated arm drive, and hip/trunk reorientation. Stiff-legged plants are strictly contraindicated."
+      },
+      {
+        "id": 4,
+        "q": "In what ways does the chosen movement technique (e.g., single-leg outside cut vs. jump turn) alter change-of-direction performance? (Select all that apply)",
+        "opts": [
+          "It alters the ground reaction force profile experienced by the athlete.",
+          "It changes the total ground contact time during the plant phase.",
+          "It alters the specific mechanical adaptations elicited during training.",
+          "It completely eliminates the influence of gravity on the body.",
+          "It dictates whether the maneuver reflects realistic on-field sport mechanics."
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "rationale": "Technique (single-leg cut vs. jump turn) dictates ground reaction forces, ground contact times, training adaptations, and sport-specific validity (jump turns are rare in field play). Gravity is never eliminated."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "A change-of-direction test that does not include a reactive stimulus cannot be classified as a true test of agility.",
+        "ans": true,
+        "feedback": "Tests without a reactive aspect are considered change-of-direction tests; true agility tests must include a reactive stimulus."
+      },
+      {
+        "id": 2,
+        "q": "During reactive agility tasks, an athlete should focus their visual attention primarily on the opponent's head and eyes to anticipate movement.",
+        "ans": false,
+        "feedback": "Athletes should direct visual focus toward the opponent's shoulders, trunk, and hips, as these reflect true center of mass movement without deception."
+      },
+      {
+        "id": 3,
+        "q": "Maneuverability refers to an athlete's ability to bend around objects or cones while maintaining as much forward velocity as possible.",
+        "ans": true,
+        "feedback": "Maneuverability describes maintaining velocity while negotiating curved paths or bending around cones, distinct from sharp deceleration."
+      },
+      {
+        "id": 4,
+        "q": "Directing an athlete's attention externally toward the ground improves change-of-direction performance compared to internal body-part cueing.",
+        "ans": true,
+        "feedback": "Research shows an external focus of attention (\"push the ground away\") enhances force application and COD performance over internal focus."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "While change-of-direction tests measure pre-planned movement, true agility tests must include a **reactive stimulus** that engages **perceptual-cognitive** processing.",
+        "targets": [
+          "reactive stimulus",
+          "perceptual-cognitive**"
+        ],
+        "optionsBank": [
+          "reactive stimulus",
+          "perceptual-cognitive",
+          "predetermined route",
+          "metabolic",
+          "maximal strength"
+        ],
+        "hint": "True agility requires a reactive stimulus coupled with perceptual-cognitive processing."
+      },
+      {
+        "id": 2,
+        "statement": "Tests like the Illinois agility test require bending around cones to maintain velocity and are considered tests of **maneuverability**, whereas the 505 test demands aggressive **deceleration**.",
+        "targets": [
+          "maneuverability",
+          "deceleration**"
+        ],
+        "optionsBank": [
+          "maneuverability",
+          "deceleration",
+          "agility",
+          "flight time",
+          "isometric strength"
+        ],
+        "hint": "Curvilinear cone running tests maneuverability; sharp momentum reversals (505) assess deceleration."
+      },
+      {
+        "id": 3,
+        "statement": "Coaches should instruct athletes to direct their visual focus toward the opponent's **shoulders, trunk, and hips**, and cue them to **push the ground away** to promote an external focus.",
+        "targets": [
+          "shoulders",
+          "trunk",
+          "and hips",
+          "push the ground away**"
+        ],
+        "optionsBank": [
+          "shoulders",
+          "trunk",
+          "and hips",
+          "push the ground away",
+          "head and feet",
+          "pull the knees up",
+          "scoreboard"
+        ],
+        "hint": "Visual focus should target core body structures, and external cues (\"push the ground away\") optimize force application."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Explain why standardized agility tests must be critically evaluated regarding reactive stimuli, metabolic demands, and maneuverability versus aggressive deceleration.",
+        "model": "Standardized tests commonly labeled as \"agility tests\" must be critically evaluated because their physical and cognitive demands vary widely. First, any test lacking a reactive stimulus (e.g., Pro Agility, T-Test, traditional 505) measures closed-skill change-of-direction (COD) ability rather than true agility, which requires perceptual\u2013cognitive processing in response to an external cue. Second, test duration dictates metabolic contributions; extended assessments like the Illinois agility test impose substantial glycolytic fatigue, meaning post-training improvements may simply reflect enhanced metabolic conditioning rather than improved COD mechanics. Third, movement topology differentiates test qualities: courses with multiple gentle turns (such as the L-run or Illinois test) assess maneuverability\u2014the ability to bend around cones while maintaining forward velocity\u2014whereas tests with sharp 180\u00b0 turns (such as the 505) specifically assess an athlete's capacity to aggressively decelerate, absorb braking forces, and reaccelerate.",
+        "criteria": [
+          "State that tests without a stimulus measure COD, whereas true agility requires a reactive stimulus.",
+          "Explain that lengthy tests (e.g., Illinois test) introduce high metabolic demands, confounding fitness with movement mechanics.",
+          "Distinguish maneuverability (bending around cones to maintain velocity in tests like the L-run) from aggressive deceleration (sharp momentum reversals in tests like the 505).",
+          "Conclude that test selection must align with the specific physical and cognitive demands of the athlete's sport."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Outline the three primary goals of agility development and detail the specific technical coaching guidelines for visual focus, body position, leg action, and arm action.",
+        "model": "The three primary goals of agility development are: (1) enhancing perceptual\u2013cognitive abilities across tactical scenarios, (2) executing effective and rapid braking of momentum, and (3) achieving explosive reacceleration toward the new direction of travel. To achieve these goals, coaches should implement four technical guidelines: - Visual Focus: When reacting to an opponent, athletes must focus on core structures\u2014the shoulders, trunk, and hips\u2014which reflect true center of mass displacement and resist deception, before quickly redirecting gaze to the new path. - Body Position: Athletes must control trunk posture by minimizing angular displacement entering braking, maintain a low center of mass (especially during lateral shuffling), utilize directional body lean, and align the ankle, knee, hip, trunk, and shoulders. - Leg Action: Athletes must dynamically flex the knee through an effective range of motion to dissipate eccentric braking loads (strictly avoiding stiff-legged braking) and adopt an external focus of attention by \"pushing the ground away.\" - Arm Action: Powerful, coordinated arm drive must be used to facilitate leg drive while avoiding counterproductive rotational movements that decrease transitional efficiency.",
+        "criteria": [
+          "State the three goals: perceptual-cognitive development, rapid braking, explosive reacceleration.",
+          "Detail visual focus: shoulders, trunk, and hips to detect true movement without deception.",
+          "Detail body position: low center of mass, trunk control, and directional body lean aligning kinetic chain.",
+          "Detail leg action: dynamic knee flexion to dissipate loads (avoiding stiff legs) and external cueing (\"push the ground away\").",
+          "Detail arm action: powerful arm drive facilitating leg propulsion without counterproductive flailing."
+        ]
+      }
+    ]
+  }
+}

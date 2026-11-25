@@ -1,0 +1,76 @@
+{
+    "chapterId": "19.4",
+    "title": "19.4 Agility Performance and Change-of-Direction Ability",
+    "cards": [
+        {
+            "id": "19.4-01",
+            "tag": "Movement Taxonomy & Reactive Stimulus Integration",
+            "reference": "Section 19.4",
+            "front": "How do <strong>change-of-direction (COD) ability</strong> and <strong>agility</strong> differ regarding movement planning and athletic scenarios?",
+            "back": "<ul><li><strong>Change-of-Direction (COD) Ability:</strong> The physical capacity to rapidly decelerate, reorient, and reaccelerate in a <em>predetermined, closed scenario</em> where the movement path is decided prior to initiation (e.g., executing a designed football pass route or breaking into a sprint off a baseball base).</li><li><strong>Agility:</strong> Requires coupling physical COD mechanics with <strong>perceptual–cognitive ability</strong> to change direction, velocity, or mode <strong>in response to an external stimulus</strong> (e.g., reacting to an opponent's feint or ball trajectory in open court/field play).</li></ul>"
+        },
+        {
+            "id": "19.4-02",
+            "tag": "Cutting Angle Biomechanics & Ground Contact Kinetics",
+            "reference": "Section 19.4",
+            "front": "How do ground contact times and physical force demands differ between <strong>shallow cutting angles (<75°)</strong> and <strong>aggressive cutting angles (≥75°)</strong>?",
+            "back": "<ul><li><strong>Shallow Cuts (&lt;75°):</strong> Exhibit short ground contact times (<strong>&lt;250 ms</strong>); physical demands mirror linear speed training, prioritizing high rate of force development (RFD) and rapid stretch–shortening cycle function.</li><li><strong>Aggressive Cuts (≥75°):</strong> Exhibit longer ground contact times (often <strong>&gt;250 ms</strong>) due to substantially greater braking requirements; requires heavy emphasis on <strong>eccentric strength</strong> and <strong>maximal strength</strong> alongside explosive concentric reacceleration.</li></ul>"
+        },
+        {
+            "id": "19.4-03",
+            "tag": "Test Selection Validity: Reactive Stimulus & Metabolic Demands",
+            "reference": "Section 19.4",
+            "front": "Why must coaches critically evaluate \"agility\" field tests regarding <strong>stimulus presence</strong> and <strong>metabolic demands</strong>?",
+            "back": "<ul><li><strong>Reactive Stimulus Requirement:</strong> Any assessment lacking a reactive stimulus (e.g., Pro Agility, T-Test, traditional 505) evaluates closed <strong>change-of-direction ability</strong>, not true agility. A test must incorporate a reactive stimulus to assess agility.</li><li><strong>Metabolic Confounding:</strong> Prolonged tests like the <strong>Illinois agility test</strong> place high demands on anaerobic glycolysis/metabolic capacity. Post-training score improvements may simply reflect improved metabolic conditioning rather than enhanced COD mechanics.</li></ul>"
+        },
+        {
+            "id": "19.4-04",
+            "tag": "Maneuverability vs. Deceleration in Direction Change",
+            "reference": "Section 19.4",
+            "front": "What distinguishes tests of <strong>maneuverability</strong> from tests assessing aggressive <strong>change-of-direction deceleration</strong>?",
+            "back": "<ul><li><strong>Maneuverability Tests:</strong> Involve multiple directional changes requiring the athlete to \"bend\" around objects or cones while maintaining as much forward velocity as possible (e.g., <strong>Illinois agility test</strong>, <strong>L-run</strong>).</li><li><strong>Deceleration / COD Tests:</strong> Demand an abrupt, high-velocity entry followed by aggressive braking to rapidly halt momentum before redirecting (e.g., the <strong>505 test</strong>).</li></ul><em>Note: Tests of maneuverability and sharp 180° cuts correlate only moderately, indicating different underlying physical qualities.</em>"
+        },
+        {
+            "id": "19.4-05",
+            "tag": "Biomechanical Triad of Change-of-Direction Execution",
+            "reference": "Section 19.4",
+            "front": "What three sequential mechanical phases truly determine an athlete's <strong>change-of-direction ability</strong>?",
+            "back": "Change-of-direction performance is determined by the integrated ability to:<ol><li><strong>Rapidly Decelerate:</strong> Absorb kinetic energy and halt forward momentum via high eccentric braking impulse.</li><li><strong>Reorient the Body:</strong> Align the trunk, hips, and pelvis toward or partially toward the intended path of travel while controlling center of mass height.</li><li><strong>Explosively Reaccelerate:</strong> Apply large concentric propulsive horizontal forces through triple extension to attain high velocity in the new direction.</li></ol>"
+        },
+        {
+            "id": "19.4-06",
+            "tag": "Kinematic & Anthropometric Determinants of COD",
+            "reference": "Section 19.4",
+            "front": "Which modifiable <strong>kinematic alignments</strong> and <strong>body composition factors</strong> enhance change-of-direction performance?",
+            "back": "<ul><li><strong>Body Composition:</strong> Increased muscle mass combined with decreased fat mass strongly predicts COD performance (e.g., T-Test in elite basketball players).</li><li><strong>Kinematic Factors:</strong> <ul><li><strong>Low Center of Mass (COM) Height:</strong> Facilitates lateral stability and force transmission.</li><li><strong>Increased Hip Extension Velocity:</strong> Rapid propulsive force application exiting the cut.</li><li><strong>Lower Limb Angles:</strong> Increased knee flexion entering the plant phase to dissipate braking loads.</li><li><strong>Trunk Control:</strong> Minimized trunk angular displacement entering deceleration, paired with lateral trunk tilt during 180° turns.</li></ul></li></ul>"
+        },
+        {
+            "id": "19.4-07",
+            "tag": "Eccentric Neuromuscular Braking Specialization",
+            "reference": "Section 19.4",
+            "front": "Why does braking capacity in COD maneuvers specifically require <strong>high-velocity eccentric strength training</strong>?",
+            "back": "High-velocity eccentric training is essential for two physiological reasons:<ol><li><strong>Distinct Recruitment Pathways:</strong> Motor unit recruitment patterns and neural pathways activated during eccentric muscle actions differ from those used in concentric actions.</li><li><strong>Velocity Specificity:</strong> Neuromuscular and structural adaptations to eccentric loading are specific to the <em>velocity of eccentric loading</em>.</li></ol><em>Recommended drills include drop landings, landings from loaded jumps, and the catch phase of Olympic cleans or snatches.</em>"
+        },
+        {
+            "id": "19.4-08",
+            "tag": "Perceptual–Cognitive Components & Tactical Processing",
+            "reference": "Section 19.4",
+            "front": "What are the core components of <strong>perceptual–cognitive ability</strong>, and how does tactical context alter brain processing?",
+            "back": "<strong>Core Components:</strong> Visual scanning, anticipation, pattern recognition, knowledge of the situation, decision-making time and accuracy, and reaction time.<br><br><strong>Tactical Processing Shift:</strong> The neural processing strategies utilized by the brain change fundamentally depending on whether the athlete operates in an <strong>offensive</strong> vs. <strong>defensive</strong> scenario (e.g., proactively attempting to deceive an opponent vs. reacting to anticipate and contain an attacker's movement)."
+        },
+        {
+            "id": "19.4-09",
+            "tag": "Technical Coaching Guidelines & Attentional Focus",
+            "reference": "Section 19.4",
+            "front": "What coaching cues optimize an athlete's <strong>visual focus</strong>, <strong>knee mechanics</strong>, and <strong>attentional focus</strong> during cutting drills?",
+            "back": "<ul><li><strong>Visual Focus:</strong> Direct visual attention toward the opponent's <strong>shoulders, trunk, and hips</strong> (core structures reflecting true center of mass displacement); then quickly redirect gaze to the new path of travel.</li><li><strong>Knee Dissipation:</strong> Ensure the athlete bends the knee through an effective range of motion to dissipate eccentric braking loads, strictly avoiding a stiff-legged plant.</li><li><strong>External Attentional Focus:</strong> Cue the athlete to <strong>\"push the ground away\"</strong> rather than focusing internally on limb movement, which significantly improves force application and COD speed.</li></ul>"
+        },
+        {
+            "id": "19.4-10",
+            "tag": "The Three Overarching Training Goals of Agility",
+            "reference": "Section 19.4",
+            "front": "What are the <strong>three primary goals</strong> of agility development, and how are they achieved in practical training?",
+            "back": "The three primary goals of agility development are:<ol><li><strong>Enhanced Perceptual–Cognitive Ability:</strong> Developing visual scanning, anticipation, and decision-making across sport-specific offensive and defensive tactical scenarios.</li><li><strong>Effective and Rapid Braking:</strong> Positioning the body to maximize braking capacity and dissipate momentum quickly from forward, backward, or lateral shuffling movements.</li><li><strong>Rapid Reacceleration:</strong> Maintaining body control post-braking, orienting the hips/trunk toward the exit angle, and executing sprint acceleration mechanics to reaccelerate.</li></ol>"
+        }
+    ]
+}

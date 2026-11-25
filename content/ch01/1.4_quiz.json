@@ -1,0 +1,820 @@
+{
+  "p1": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "What is the primary physiological function of the human respiratory system?",
+        "opts": [
+          "Regulating systemic blood volume through renin secretion",
+          "The basic exchange of oxygen and carbon dioxide",
+          "Direct mechanical pumping of venous blood to the heart",
+          "Enzymatic hydrolysis of circulating macronutrients"
+        ],
+        "correct": 1,
+        "rationale": "The textbook explicitly states in the Key Point that the primary function of the respiratory system is the basic exchange of oxygen and carbon dioxide."
+      },
+      {
+        "id": 2,
+        "q": "As ambient air passes through the nasal cavities, what three distinct conditioning functions are performed?",
+        "opts": [
+          "Pressurizing, cooling, and oxygenating",
+          "Warming, humidifying, and purifying",
+          "Dehydrating, buffering, and sterilizing",
+          "Acidifying, filtering, and decelerating"
+        ],
+        "correct": 1,
+        "rationale": "As air passes through the nose, the nasal cavities perform three distinct functions: warming, humidifying, and purifying the air before it travels deeper into the respiratory tract."
+      },
+      {
+        "id": 3,
+        "q": "In the anatomical hierarchy of the tracheobronchial tree, which structure is designated as the first-generation respiratory passage?",
+        "opts": [
+          "Right main bronchus",
+          "Pharynx",
+          "Trachea",
+          "Terminal bronchiole"
+        ],
+        "correct": 2,
+        "rationale": "According to Section 1.4, the trachea is called the first-generation respiratory passage, and the right and left main bronchi are the second-generation passages."
+      },
+      {
+        "id": 4,
+        "q": "Which structures represent the second-generation respiratory passages in the bronchial branching tree?",
+        "opts": [
+          "Alveolar ducts",
+          "Right and left main bronchi",
+          "Terminal bronchioles",
+          "Laryngeal cartilages"
+        ],
+        "correct": 1,
+        "rationale": "The right and left main bronchi branch directly from the trachea and constitute the second-generation respiratory passages."
+      },
+      {
+        "id": 5,
+        "q": "Approximately how many branching generations occur within the human respiratory tree before air reaches the alveoli?",
+        "opts": [
+          "10 generations",
+          "16 generations",
+          "23 generations",
+          "35 generations"
+        ],
+        "correct": 2,
+        "rationale": "The textbook notes that there are approximately 23 generations of branching divisions before the inspired air finally reaches the alveoli."
+      },
+      {
+        "id": 6,
+        "q": "At which microscopic anatomical site does actual respiratory gas exchange occur?",
+        "opts": [
+          "Trachea",
+          "Primary bronchi",
+          "Terminal bronchioles",
+          "Alveoli"
+        ],
+        "correct": 3,
+        "rationale": "The alveoli are the microscopic terminal structures of the respiratory tree where respiratory gases are exchanged between air and blood in respiration."
+      },
+      {
+        "id": 7,
+        "q": "How does the skeletal muscle pump mechanically assist the circulatory system during physical movement?",
+        "opts": [
+          "Contracting muscles compress veins, propelling blood through one-way valves toward the heart",
+          "Contracting muscles directly compress arteries to increase systemic systolic blood pressure",
+          "Rhythmic muscle contractions accelerate electrical conduction through the cardiac SA node",
+          "Contracting muscles dilate capillaries to trap deoxygenated blood in active limbs"
+        ],
+        "correct": 0,
+        "rationale": "The skeletal muscle pump operates when contracting muscles compress deep veins; because veins contain one-way valves allowing flow only toward the heart, this compression assists venous return."
+      },
+      {
+        "id": 8,
+        "q": "Why are athletes advised to engage in an active cool-down with continuous movement immediately following strenuous exercise?",
+        "opts": [
+          "To prevent rapid arterial vasoconstriction in pulmonary capillaries",
+          "To avoid blood pooling in the lower extremities via the skeletal muscle pump",
+          "To prevent the diaphragm from entering spastic tetanic contractions",
+          "To immediately halt all alveolar gas diffusion"
+        ],
+        "correct": 1,
+        "rationale": "Moving around after exercise uses the skeletal muscle pump to maintain venous return, preventing blood from pooling in the lower extremities where pressure is low."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following functions are performed by the nasal cavities upon incoming ambient air? (Select all that apply)",
+        "opts": [
+          "Warming the air",
+          "Humidifying the air",
+          "Purifying the air",
+          "Direct gas exchange with red blood cells",
+          "Oxygenating circulating plasma"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "As air passes through the nose, the nasal cavities perform warming, humidifying, and purifying. Gas exchange and oxygenation occur exclusively in the alveoli."
+      },
+      {
+        "id": 2,
+        "q": "Which statements accurately describe the tracheobronchial branching generations? (Select all that apply)",
+        "opts": [
+          "The trachea is the first-generation respiratory passage",
+          "The right and left main bronchi are second-generation passages",
+          "Each division after the main bronchi represents an additional generation of bronchioles",
+          "There are approximately 23 branching generations before reaching the alveoli",
+          "Alveoli represent the third-generation respiratory passage"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "The trachea is generation 1, the main bronchi are generation 2, subsequent subdivisions are further generations (approx. 23 total), terminating at the alveoli (not generation 3)."
+      },
+      {
+        "id": 3,
+        "q": "Which components and mechanisms are essential for the operation of the skeletal muscle pump? (Select all that apply)",
+        "opts": [
+          "Contracting skeletal muscle tissue",
+          "Deep veins subject to mechanical compression",
+          "One-way venous pocket valves directing blood toward the heart",
+          "High-pressure elastic recoil of muscular arteries",
+          "Direct electrical activation from the cardiac Purkinje network"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "The skeletal muscle pump depends on contracting muscles compressing veins and one-way valves in the venous system ensuring unidirectional flow toward the heart. Arterial recoil and Purkinje fibers are not components of this pump."
+      },
+      {
+        "id": 4,
+        "q": "In which practical scenarios is the skeletal muscle pump physiologically critical? (Select all that apply)",
+        "opts": [
+          "Facilitating venous return during and immediately after heavy exercise",
+          "Preventing blood pooling in the lower extremities during post-exercise recovery",
+          "Facilitating blood return to the heart by periodically squeezing muscles during prolonged sitting",
+          "Actively expanding the alveolar capillary membrane during inspiration",
+          "Regulating the resting intrinsic firing rate of the sinoatrial node"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "The skeletal muscle pump aids venous return post-exercise (preventing lower extremity pooling) and during prolonged sitting when periodic muscle contractions assist circulation. It does not expand alveoli or set SA node firing."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "The trachea represents the second-generation respiratory passage in the human respiratory tract.",
+        "ans": false,
+        "feedback": "The trachea is the first-generation respiratory passage; the right and left main bronchi are the second-generation passages."
+      },
+      {
+        "id": 2,
+        "q": "There are approximately 23 generations of airway branching before air reaches the gas-exchanging alveoli.",
+        "ans": true,
+        "feedback": "The textbook states that there are approximately 23 generations before the air finally reaches the alveoli."
+      },
+      {
+        "id": 3,
+        "q": "Venous one-way valves allow blood to flow bidirectionally whenever surrounding skeletal muscles contract.",
+        "ans": false,
+        "feedback": "One-way valves in the venous system permit blood flow only in one direction\u2014toward the heart\u2014preventing retrograde flow."
+      },
+      {
+        "id": 4,
+        "q": "Periodically squeezing skeletal muscles during prolonged sitting helps facilitate venous blood return to the heart.",
+        "ans": true,
+        "feedback": "Squeezing muscles during prolonged sitting engages the skeletal muscle pump, compressing veins and driving pooled blood back toward the heart."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "The **trachea** is designated as the first-generation respiratory passage, and the right and left main **bronchi** represent the second-generation passages.",
+        "targets": [
+          "trachea",
+          "bronchi"
+        ],
+        "optionsBank": [
+          "trachea",
+          "bronchi",
+          "bronchioles",
+          "alveoli",
+          "pharynx"
+        ],
+        "hint": "Trachea is generation 1; right and left main bronchi are generation 2."
+      },
+      {
+        "id": 2,
+        "statement": "There are approximately **23** branching generations in the respiratory tree before air reaches the microscopic **alveoli**.",
+        "targets": [
+          "23",
+          "alveoli"
+        ],
+        "optionsBank": [
+          "23",
+          "alveoli",
+          "12",
+          "pleura",
+          "bronchi"
+        ],
+        "hint": "Air traverses approximately 23 generations of branching to reach the terminal alveoli."
+      },
+      {
+        "id": 3,
+        "statement": "The skeletal muscle pump works in conjunction with the venous system, utilizing **one-way valves** to prevent blood **pooling** in the lower extremities.",
+        "targets": [
+          "one-way valves",
+          "pooling"
+        ],
+        "optionsBank": [
+          "one-way valves",
+          "pooling",
+          "semilunar valves",
+          "dilation",
+          "diffusion"
+        ],
+        "hint": "One-way valves in veins allow contracting muscles to return blood toward the heart and prevent lower extremity pooling."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Describe the anatomical hierarchy of the human tracheobronchial tree from the trachea to the alveoli, detailing generation numbering and the primary conditioning functions of the nasal cavity.",
+        "model": "Incoming ambient air enters the nasal cavities, which perform three vital conditioning functions: warming the air to core body temperature, humidifying it with water vapor, and purifying it by trapping airborne particulates in the mucous membrane. From the upper airway, air is conducted into the lungs via the tracheobronchial tree. The trachea serves as the first-generation respiratory passage. It bifurcates into the right and left main bronchi, which represent the second-generation passages. Each successive division thereafter forms an additional generation of progressively smaller bronchioles. In total, there are approximately 23 branching generations before inspired air reaches the microscopic alveoli, which provide the vast, thin-walled surface area required for respiratory gas exchange.",
+        "criteria": [
+          "Identify the 3 nasal cavity functions: warming, humidifying, and purifying.",
+          "Identify the trachea as the first-generation respiratory passage.",
+          "Identify the right and left main bronchi as the second-generation passages.",
+          "State that there are approximately 23 generations terminating at the alveoli where gas exchange occurs."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain the physiological mechanism of the skeletal muscle pump, and discuss why it is critical for athletes to stay active after intense exercise and periodically contract muscles during prolonged sitting.",
+        "model": "The skeletal muscle pump is a mechanical circulatory assist mechanism provided by active skeletal muscles working in conjunction with deep veins. Because pressure in the venous system is low, veins rely on surrounding skeletal muscle contractions to compress their compliant walls. One-way pocket valves within these veins ensure that compressed blood flows unidirectionally toward the heart, preventing retrograde flow. Following intense exercise, systemic vascular beds remain dilated; if an athlete stops moving abruptly, venous return drops sharply and blood pools in the lower extremities due to gravity, which can cause sudden hypotension, dizziness, or syncope. Active post-exercise movement keeps the muscle pump engaged, sustaining venous return and cardiac output. Similarly, during prolonged sedentary sitting, periodic muscle contraction prevents peripheral blood stasis and supports central blood return.",
+        "criteria": [
+          "Explain that contracting muscles compress deep veins.",
+          "Explain that one-way venous valves ensure unidirectional blood flow toward the heart.",
+          "Explain that post-exercise movement prevents blood pooling in the lower extremities and maintains venous return.",
+          "Explain that contracting muscles during prolonged sitting prevents venous stasis and assists cardiac return.",
+          "--"
+        ]
+      }
+    ]
+  },
+  "p2": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "How do the lungs physically expand and recoil during pulmonary ventilation?",
+        "opts": [
+          "Through intrinsic rhythmic contractions of smooth muscle within the lung parenchyma",
+          "Passively, by being acted upon by diaphragm movement and rib cage elevation/depression",
+          "By direct peristaltic pumping of alveolar capillaries",
+          "Through active shortening of elastic cartilaginous rings within the bronchi"
+        ],
+        "correct": 1,
+        "rationale": "The lungs do not actively expand and recoil themselves; they are completely passive elastic structures acted upon by downward/upward diaphragmatic excursion and elevation/depression of the rib cage."
+      },
+      {
+        "id": 2,
+        "q": "Which mechanical action is almost entirely responsible for pulmonary ventilation during normal, quiet breathing?",
+        "opts": [
+          "Contraction of the internal intercostal muscles",
+          "Movement of the diaphragm",
+          "Forceful contraction of the rectus abdominis",
+          "Elevation of the clavicles by the trapezius"
+        ],
+        "correct": 1,
+        "rationale": "The textbook states that normal, quiet breathing is accomplished almost entirely by movement of the diaphragm."
+      },
+      {
+        "id": 3,
+        "q": "What mechanical event creates the vacuum required to draw air into the lungs during normal inspiration?",
+        "opts": [
+          "Passive elastic recoil of abdominal viscera",
+          "Contraction of the diaphragm moving downward to lengthen the chest cavity",
+          "Forceful contraction of the transversus abdominis",
+          "Elevation of alveolar pressure above atmospheric pressure"
+        ],
+        "correct": 1,
+        "rationale": "During inspiration, contraction of the diaphragm pulls it downward, lengthening the chest cavity and creating a negative pressure (vacuum) that draws air into the lungs."
+      },
+      {
+        "id": 4,
+        "q": "How is normal expiration accomplished during quiet, resting respiration?",
+        "opts": [
+          "Active contraction of the diaphragm pushing upward",
+          "Passive relaxation of the diaphragm and elastic recoil of the lungs, chest wall, and abdomen",
+          "Vigorous contraction of the sternocleidomastoid and scaleni muscles",
+          "Opening of the glottis to generate a high positive intra-abdominal pressure"
+        ],
+        "correct": 1,
+        "rationale": "During normal quiet expiration, the diaphragm simply relaxes; the elastic recoil of the lungs, chest wall, and abdominal structures naturally compresses the lungs and expels air without active muscular contraction."
+      },
+      {
+        "id": 5,
+        "q": "During heavy exercise breathing, which muscles contract forcefully to achieve the extra required expiratory response?",
+        "opts": [
+          "External intercostals and scaleni",
+          "Abdominal muscles, which push the abdomen upward against the diaphragm",
+          "Pectoralis major and latissimus dorsi",
+          "Diaphragm and anterior serrati"
+        ],
+        "correct": 1,
+        "rationale": "During heavy breathing, elastic recoil alone is insufficient; the extra force is achieved mainly by contraction of the abdominal muscles, which push the abdominal contents upward against the bottom of the diaphragm."
+      },
+      {
+        "id": 6,
+        "q": "Which group of muscles functions to elevate the rib cage and is classified as muscles of inspiration?",
+        "opts": [
+          "Rectus abdominis, transversus abdominis, and internal intercostals",
+          "External intercostals, sternocleidomastoids, anterior serrati, and scaleni",
+          "Internal obliques, external obliques, and pelvic floor muscles",
+          "Diaphragm, internal intercostals, and quadratus lumborum"
+        ],
+        "correct": 1,
+        "rationale": "The muscles that elevate the rib cage are called muscles of inspiration and include the external intercostals, sternocleidomastoids, anterior serrati, and scaleni."
+      },
+      {
+        "id": 7,
+        "q": "What is pleural pressure, and what is its typical resting value relative to atmospheric pressure?",
+        "opts": [
+          "Pressure within the bronchial lumen, typically strongly positive",
+          "Pressure in the narrow space between lung pleura and chest wall pleura, normally slightly negative",
+          "Pressure inside the pulmonary capillaries, equal to aortic pressure",
+          "Pressure beneath the diaphragm, strictly positive during inspiration"
+        ],
+        "correct": 1,
+        "rationale": "Pleural pressure is the pressure in the narrow space between the lung pleura and the chest wall pleura; this pressure is normally slightly negative (subatmospheric)."
+      },
+      {
+        "id": 8,
+        "q": "To cause an inward flow of air into the lungs during inspiration, what must happen to alveolar pressure?",
+        "opts": [
+          "It must rise significantly above atmospheric pressure",
+          "It must fall to a value slightly below atmospheric pressure",
+          "It must equal systemic mean arterial pressure",
+          "It must remain exactly at absolute zero"
+        ],
+        "correct": 1,
+        "rationale": "To cause inward flow of air during inspiration, alveolar pressure inside the alveoli must fall to a value slightly below atmospheric pressure, creating a favorable pressure gradient."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which of the following muscles are classified as muscles of inspiration that elevate the rib cage? (Select all that apply)",
+        "opts": [
+          "External intercostals",
+          "Sternocleidomastoids",
+          "Anterior serrati",
+          "Scaleni",
+          "Internal intercostals"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Muscles that elevate the rib cage for inspiration include the external intercostals, sternocleidomastoids, anterior serrati, and scaleni. The internal intercostals depress the chest during expiration."
+      },
+      {
+        "id": 2,
+        "q": "Which muscles actively contract to depress the chest and assist expiration during heavy exercise? (Select all that apply)",
+        "opts": [
+          "Rectus abdominis",
+          "External and internal obliques",
+          "Transversus abdominis",
+          "Internal intercostals",
+          "Scaleni"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Muscles of expiration that depress the chest cavity include the abdominal muscles (rectus abdominis, external/internal obliques, transversus abdominis) and the internal intercostals. Scaleni are inspiratory muscles."
+      },
+      {
+        "id": 3,
+        "q": "Which statements regarding pleural and alveolar pressure dynamics during respiration are correct? (Select all that apply)",
+        "opts": [
+          "Pleural pressure is normally slightly negative",
+          "During inspiration, expansion of the chest cage pulls on the lung surface, creating a more negative pleural pressure",
+          "Alveolar pressure equals atmospheric pressure when the glottis is open and no air is flowing",
+          "During inspiration, alveolar pressure falls slightly below atmospheric pressure",
+          "During expiration, alveolar pressure drops below pleural pressure"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Pleural pressure is normally slightly negative and becomes more negative during inspiration. Alveolar pressure equals atmospheric pressure when static, falls below atmospheric pressure during inspiration, and rises above atmospheric pressure during expiration."
+      },
+      {
+        "id": 4,
+        "q": "How does elevating the rib cage expand chest cavity dimensions during inspiration? (Select all that apply)",
+        "opts": [
+          "In resting position, the ribs slant downward",
+          "Elevating the rib cage allows ribs to project almost directly forward",
+          "The sternum moves forward and away from the spine",
+          "The anteroposterior (back-to-front) diameter of the chest cavity increases",
+          "The vertical length of the chest cavity decreases"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "At rest, ribs slant downward. Elevating them causes them to project forward, moving the sternum away from the spine and expanding the back-to-front chest diameter. Diaphragm descent increases vertical length."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "The lungs contain intrinsic skeletal muscles that actively contract to drive inspiration and expiration.",
+        "ans": false,
+        "feedback": "Lungs do not actively expand or recoil themselves; they are passive elastic structures acted upon by the diaphragm and rib cage musculature."
+      },
+      {
+        "id": 2,
+        "q": "During normal, quiet expiration, the diaphragm actively contracts to push upward against the lungs.",
+        "ans": false,
+        "feedback": "During normal quiet expiration, the diaphragm simply relaxes; elastic recoil of the lungs, chest wall, and abdomen expels air passively."
+      },
+      {
+        "id": 3,
+        "q": "Elevating the rib cage causes the sternum to move forward and away from the spine, increasing the back-to-front diameter of the chest cavity.",
+        "ans": true,
+        "feedback": "Because ribs slant downward at rest, elevating them projects them forward and moves the sternum away from the spine."
+      },
+      {
+        "id": 4,
+        "q": "To expel air during expiration, alveolar pressure must rise above atmospheric pressure.",
+        "ans": true,
+        "feedback": "An outward flow of air requires that pressure inside the alveoli rise above atmospheric pressure, establishing a positive outward gradient."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Normal quiet breathing is accomplished almost entirely by movement of the **diaphragm**, whereas heavy breathing requires active contraction of the **abdominal** muscles.",
+        "targets": [
+          "diaphragm",
+          "abdominal"
+        ],
+        "optionsBank": [
+          "diaphragm",
+          "abdominal",
+          "intercostal",
+          "scaleni",
+          "sternocleidomastoid"
+        ],
+        "hint": "Quiet ventilation relies on the diaphragm; heavy ventilation recruits abdominal muscles to forcefully push upward against the diaphragm."
+      },
+      {
+        "id": 2,
+        "statement": "Muscles that elevate the rib cage are called muscles of **inspiration**, whereas muscles that depress the chest are muscles of **expiration**.",
+        "targets": [
+          "inspiration",
+          "expiration"
+        ],
+        "optionsBank": [
+          "inspiration",
+          "expiration",
+          "relaxation",
+          "circulation",
+          "diffusion"
+        ],
+        "hint": "Rib cage elevators (e.g., external intercostals) drive inspiration; depressors (e.g., abdominals, internal intercostals) drive expiration."
+      },
+      {
+        "id": 3,
+        "statement": "Pressure in the narrow space between the lung pleura and chest wall pleura is called **pleural** pressure and is normally slightly **negative**.",
+        "targets": [
+          "pleural",
+          "negative"
+        ],
+        "optionsBank": [
+          "pleural",
+          "negative",
+          "alveolar",
+          "positive",
+          "atmospheric"
+        ],
+        "hint": "Pleural pressure occupies the pleural space and is subatmospheric (negative) under normal resting conditions."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Contrast the mechanical mechanisms, muscle recruitment patterns, and energetic drivers of normal quiet breathing versus heavy exercise breathing.",
+        "model": "Normal quiet breathing is a largely passive, energy-efficient process accomplished almost entirely by the diaphragm. During quiet inspiration, the diaphragm contracts and flattens downward, lengthening the chest cavity and generating a mild negative intra-thoracic pressure that draws air inward. Quiet expiration requires no active muscular contraction; the diaphragm relaxes, and the passive elastic recoil of the lungs, chest wall, and abdominal viscera compresses the lung volume to expel air. In contrast, during heavy exercise breathing, minute ventilation increases dramatically and elastic recoil alone is insufficient. Active muscular effort is required for both phases. Inspiration recruits accessory inspiratory muscles\u2014including the external intercostals, sternocleidomastoids, anterior serrati, and scaleni\u2014to elevate the downward-slanted ribs and project the sternum forward. Expiration becomes an active, forceful process driven primarily by contraction of the abdominal wall muscles (rectus abdominis, obliques, and transversus abdominis), which forcefully compress the abdomen and push viscera upward against the diaphragm, assisted by the internal intercostals depressing the ribs.",
+        "criteria": [
+          "State that quiet inspiration is driven by diaphragmatic contraction lengthening the chest cavity.",
+          "Explain that quiet expiration is passive, driven by elastic recoil of the lungs and chest wall.",
+          "Identify accessory inspiratory muscles recruited during heavy breathing (external intercostals, sternocleidomastoid, serrati, scaleni).",
+          "Explain that heavy expiration is active, driven by abdominal muscles pushing upward against the diaphragm and internal intercostals depressing ribs."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Explain the physiological roles of pleural pressure and alveolar pressure in generating pulmonary airflow, detailing how each pressure shifts during inspiration and expiration.",
+        "model": "Pulmonary airflow is governed by pressure gradients established between the atmosphere, the pleural cavity, and the alveoli. Pleural pressure is the hydrostatic pressure within the narrow fluid-filled space between the visceral lung pleura and parietal chest wall pleura; it is normally slightly negative (subatmospheric), creating a suction effect that keeps the elastic lungs adhered to the thoracic wall. During inspiration, expansion of the chest cage pulls outward on the lung surface, causing pleural pressure to become even more negative, which expands lung volume. Alveolar pressure is the pressure inside the alveoli. When the glottis is open and no air is flowing, alveolar pressure equals atmospheric pressure (0 mmHg relative). To initiate inward airflow during inspiration, lung expansion causes alveolar pressure to fall slightly below atmospheric pressure, creating a favorable gradient for air entry. During expiration, thoracic recoil and compression increase alveolar pressure above atmospheric pressure, driving air outward into the environment until pressures equalize.",
+        "criteria": [
+          "Define pleural pressure as the pressure between lung and chest wall pleurae, normally slightly negative.",
+          "Explain that chest expansion pulls on lungs during inspiration, making pleural pressure more negative.",
+          "Define alveolar pressure as pressure inside alveoli, equal to atmospheric pressure at rest with glottis open.",
+          "State that alveolar pressure falls below atmospheric during inspiration and rises above atmospheric during expiration.",
+          "--"
+        ]
+      }
+    ]
+  },
+  "p3": {
+    "mcq": [
+      {
+        "id": 1,
+        "q": "By what biophysical process do oxygen and carbon dioxide cross the alveolar-capillary membrane during pulmonary ventilation?",
+        "opts": [
+          "Primary active transport powered by ATP hydrolysis",
+          "Simple random molecular diffusion from high to low concentration",
+          "Facilitated diffusion mediated by carrier protein channels",
+          "Bulk fluid filtration driven by hydrostatic pressure"
+        ],
+        "correct": 1,
+        "rationale": "The textbook states that the process of diffusion is a simple random motion of molecules moving in opposite directions through the alveolar-capillary membrane, moving from high to low concentration."
+      },
+      {
+        "id": 2,
+        "q": "What provides the physical energy that powers the diffusion of respiratory gases across the alveolar-capillary membrane?",
+        "opts": [
+          "Cleavage of high-energy phosphate bonds in ATP",
+          "The kinetic motion of the gas molecules themselves",
+          "Electrical polarization of the pulmonary capillary endothelium",
+          "Mechanical friction generated by diaphragmatic excursion"
+        ],
+        "correct": 1,
+        "rationale": "The textbook explicitly states that the energy for diffusion is provided by the kinetic motion of the molecules themselves."
+      },
+      {
+        "id": 3,
+        "q": "At rest, what is the approximate partial pressure gradient between alveolar oxygen and pulmonary capillary oxygen?",
+        "opts": [
+          "About 10 mmHg",
+          "About 30 mmHg",
+          "About 60 mmHg",
+          "About 100 mmHg"
+        ],
+        "correct": 2,
+        "rationale": "Section 1.4 highlights that at rest, the partial pressure of oxygen in the alveoli is about 60 mmHg greater than that in the pulmonary capillaries, driving rapid oxygen diffusion into the blood."
+      },
+      {
+        "id": 4,
+        "q": "How rapid is the process of respiratory gas exchange across the alveolar-capillary membrane?",
+        "opts": [
+          "It requires 10 to 15 seconds of steady transit time",
+          "It requires 1 to 2 minutes of capillary equilibration",
+          "It is so rapid as to be thought of as instantaneous",
+          "It only occurs during post-exercise recovery intervals"
+        ],
+        "correct": 2,
+        "rationale": "The textbook notes that this process of gas exchange is so rapid as to be thought of as instantaneous."
+      },
+      {
+        "id": 5,
+        "q": "What percentage of the body's total energy expenditure is required for pulmonary ventilation during normal resting respiration?",
+        "opts": [
+          "Less than 1%",
+          "3% to 5%",
+          "8% to 15%",
+          "20% to 25%"
+        ],
+        "correct": 1,
+        "rationale": "During normal respiration at rest, only 3% to 5% of the total energy expended by the body is required for pulmonary ventilation."
+      },
+      {
+        "id": 6,
+        "q": "During very heavy exercise, to what percentage range can the metabolic energy cost of pulmonary ventilation increase?",
+        "opts": [
+          "3% to 5%",
+          "8% to 15%",
+          "25% to 35%",
+          "40% to 50%"
+        ],
+        "correct": 1,
+        "rationale": "During very heavy exercise, the amount of energy required for pulmonary ventilation can increase to as much as 8% to 15% of total body energy expenditure."
+      },
+      {
+        "id": 7,
+        "q": "How does exercise-induced asthma affect the metabolic cost of breathing during strenuous exertion?",
+        "opts": [
+          "It eliminates all energetic costs of ventilation",
+          "It increases airway resistance, substantially elevating ventilatory energy expenditure",
+          "It increases alveolar oxygen partial pressure by 60 mmHg",
+          "It accelerates carbonic anhydrase catalysis in red blood cells"
+        ],
+        "correct": 1,
+        "rationale": "Any degree of increased airway resistance, as occurs with exercise-induced asthma, escalates the energy required for breathing beyond normal exercise ranges, potentially requiring physician evaluation."
+      },
+      {
+        "id": 8,
+        "q": "According to Section 1.4, is it generally necessary for healthy athletes to specifically train the muscles of respiration?",
+        "opts": [
+          "Yes, isolated respiratory muscle training should occupy 50% of every workout",
+          "No, regular exercise maintains function, and specific training is generally unnecessary except following surgery or prolonged bed rest",
+          "Yes, because the diaphragm cannot adapt to standard resistance or endurance training",
+          "No, because pulmonary ventilation does not adapt to any form of physical exercise"
+        ],
+        "correct": 1,
+        "rationale": "It is generally not necessary to specifically train the muscles of respiration except following surgery or during prolonged bed rest when normal breathing patterns are compromised, because regular exercise naturally maintains respiratory function."
+      }
+    ],
+    "ms": [
+      {
+        "id": 1,
+        "q": "Which factors directly determine the rate of diffusion of respiratory gases across the alveolar-capillary membrane? (Select all that apply)",
+        "opts": [
+          "The concentration of the gases in the capillaries and alveoli",
+          "The partial pressure of each gas across the membrane",
+          "The kinetic motion of the gas molecules",
+          "Active transport pumping rates of myosin ATPase",
+          "The degree of bone mineral density in the ribs"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Rates of diffusion depend on gas concentrations in capillaries and alveoli, the partial pressure of each gas, and molecular kinetic motion. Myosin ATPase and bone density do not govern alveolar gas diffusion."
+      },
+      {
+        "id": 2,
+        "q": "Which statements accurately describe the energetic cost of pulmonary ventilation? (Select all that apply)",
+        "opts": [
+          "At rest, ventilation requires only 3% to 5% of total body energy expenditure",
+          "During very heavy exercise, ventilatory energy cost can rise to 8% to 15% of total body energy expenditure",
+          "Increased airway resistance from exercise-induced asthma can further increase the work of breathing",
+          "At rest, ventilation requires 20% to 25% of total body caloric expenditure",
+          "During heavy exercise, ventilatory cost never exceeds resting values"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2
+        ],
+        "rationale": "Resting ventilation consumes 3%\u20135% of total energy; during heavy exercise it rises to 8%\u201315%, and airway resistance (e.g., asthma) elevates it further."
+      },
+      {
+        "id": 3,
+        "q": "How do standard endurance and resistance training modalities influence respiratory muscle adaptations? (Select all that apply)",
+        "opts": [
+          "Endurance exercise involves repetitive contraction of breathing muscles",
+          "Resistance exercise taxes the diaphragm and abdominal muscles for trunk stabilization",
+          "Heavy resistance training utilizes breathing musculature to increase intra-abdominal pressure (Valsalva maneuver)",
+          "Regular exercise training can help preserve pulmonary function with aging",
+          "Resistance training permanently impairs normal alveolar gas diffusion"
+        ],
+        "correctArray": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rationale": "Endurance training repetitively taxes breathing muscles; resistance training challenges the diaphragm and abdominals for core stabilization and intra-abdominal pressure generation (Valsalva), preserving pulmonary function with age."
+      },
+      {
+        "id": 4,
+        "q": "In which clinical or rehabilitation situations is specific, targeted training of respiratory muscles recommended? (Select all that apply)",
+        "opts": [
+          "Following major thoracic or abdominal surgery",
+          "During or following prolonged bed rest when normal breathing patterns are compromised",
+          "As an essential requirement for all healthy elite sprinters",
+          "When an athlete presents with compromised normal breathing mechanics due to clinical confinement",
+          "In place of all aerobic and resistance exercise conditioning"
+        ],
+        "correctArray": [
+          0,
+          1,
+          3
+        ],
+        "rationale": "The textbook explicitly states that specific respiratory muscle training is generally not necessary except following surgery or during prolonged bed rest when normal breathing patterns are compromised."
+      }
+    ],
+    "tf": [
+      {
+        "id": 1,
+        "q": "Net diffusion of respiratory gases occurs spontaneously from regions of low concentration to regions of high concentration.",
+        "ans": false,
+        "feedback": "Net diffusion of gas molecules occurs from regions of high concentration (or high partial pressure) to regions of low concentration."
+      },
+      {
+        "id": 2,
+        "q": "At rest, the partial pressure of oxygen in the alveoli is approximately 60 mmHg greater than in pulmonary capillaries.",
+        "ans": true,
+        "feedback": "Section 1.4 confirms that resting alveolar oxygen partial pressure exceeds pulmonary capillary oxygen partial pressure by approximately 60 mmHg."
+      },
+      {
+        "id": 3,
+        "q": "During heavy exercise, the energetic cost of pulmonary ventilation remains constant at 3% to 5% of total body energy expenditure.",
+        "ans": false,
+        "feedback": "While resting ventilatory cost is 3% to 5%, very heavy exercise increases ventilatory energy demand to 8% to 15% of total body energy expenditure."
+      },
+      {
+        "id": 4,
+        "q": "Resistance exercise taxes the diaphragm and abdominal muscles partly because of their recruitment for spinal stabilization and increasing intra-abdominal pressure.",
+        "ans": true,
+        "feedback": "The diaphragm and abdominals are heavily recruited during resistance training to brace the trunk and generate intra-abdominal pressure (Valsalva maneuver)."
+      }
+    ],
+    "cloze": [
+      {
+        "id": 1,
+        "statement": "Respiratory gas diffusion is powered by the **kinetic motion** of molecules, resulting in net movement from regions of **high** concentration to regions of low concentration.",
+        "targets": [
+          "kinetic motion",
+          "high"
+        ],
+        "optionsBank": [
+          "kinetic motion",
+          "high",
+          "low",
+          "ATP hydrolysis",
+          "electrical potential"
+        ],
+        "hint": "Molecular kinetic energy drives diffusion from high to low concentration."
+      },
+      {
+        "id": 2,
+        "statement": "At rest, the alveolar partial pressure of oxygen is approximately **60 mmHg** greater than that in the pulmonary capillaries, making gas exchange so rapid as to be considered **instantaneous**.",
+        "targets": [
+          "60 mmHg",
+          "instantaneous"
+        ],
+        "optionsBank": [
+          "60 mmHg",
+          "instantaneous",
+          "20 mmHg",
+          "delayed",
+          "100 mmHg"
+        ],
+        "hint": "The resting oxygen gradient is ~60 mmHg, driving rapid, near-instantaneous diffusion."
+      },
+      {
+        "id": 3,
+        "statement": "Pulmonary ventilation accounts for **3% to 5%** of total energy expenditure at rest, but can increase to **8% to 15%** during very heavy exercise.",
+        "targets": [
+          "3% to 5%",
+          "8% to 15%"
+        ],
+        "optionsBank": [
+          "3% to 5%",
+          "8% to 15%",
+          "1% to 2%",
+          "20% to 25%",
+          "50%"
+        ],
+        "hint": "Resting ventilation consumes 3%\u20135% of energy; heavy exercise raises it to 8%\u201315%."
+      }
+    ],
+    "sa": [
+      {
+        "id": 1,
+        "prompt": "Describe the biophysical principles governing alveolar-capillary gas exchange, including the energy source for diffusion, direction of molecular flux, and resting partial pressure gradients for oxygen and carbon dioxide.",
+        "model": "Gas exchange across the alveolar-capillary membrane is governed by the physical principles of simple diffusion. Diffusion does not require metabolic energy (ATP); rather, it is powered entirely by the intrinsic kinetic motion of the gas molecules themselves. Gas molecules move randomly in opposite directions through the ultra-thin alveolar-capillary membrane, resulting in a net movement from regions of high partial pressure (concentration) to regions of low partial pressure. At rest, the partial pressure of oxygen in the alveoli is approximately 60 mmHg higher than that in the deoxygenated blood of pulmonary capillaries. This substantial pressure gradient drives rapid oxygen diffusion across the membrane into capillary blood, where it binds to hemoglobin. Concurrently, carbon dioxide, which exists at a higher partial pressure in capillary blood than in the alveoli, diffuses down its gradient from blood into the alveoli to be exhaled. Due to the minimal diffusion distance and large surface area, this exchange is so rapid as to be considered virtually instantaneous.",
+        "criteria": [
+          "State that diffusion is passive and powered by intrinsic molecular kinetic motion.",
+          "Explain that net diffusion flows from high partial pressure/concentration to low partial pressure.",
+          "Identify the resting alveolar-capillary oxygen gradient of approximately 60 mmHg driving oxygen into blood.",
+          "Note that carbon dioxide diffuses in the opposite direction and describe gas exchange as virtually instantaneous."
+        ]
+      },
+      {
+        "id": 2,
+        "prompt": "Analyze the metabolic energy cost of pulmonary ventilation from rest to maximal exercise, and evaluate the necessity of isolated respiratory muscle training for athletic performance and clinical rehabilitation.",
+        "model": "During resting respiration, the mechanical work of breathing is remarkably economical, requiring only 3% to 5% of the body's total energy expenditure. However, during very heavy exercise, the exponential rise in minute ventilation, recruitment of accessory inspiratory muscles, and forceful contraction of expiratory abdominals escalate the energetic cost of breathing to 8% to 15% of total body energy expenditure. In individuals with heightened airway resistance, such as those suffering from exercise-induced asthma, ventilatory work can rise even higher, impairing athletic performance and requiring medical management. Regarding respiratory conditioning, isolated training of the respiratory muscles is generally unnecessary for healthy athletes. Regular participation in endurance exercise (which involves repetitive breathing contractions) and heavy resistance training (which heavily taxes the diaphragm and abdominal musculature for trunk stabilization and intra-abdominal pressure generation via the Valsalva maneuver) naturally stimulates respiratory muscle adaptations and preserves pulmonary function with aging. Specific respiratory muscle training is primarily indicated in clinical populations, such as patients recovering from major thoracic/abdominal surgery or prolonged bed rest where normal ventilatory mechanics have been compromised.",
+        "criteria": [
+          "Quantify resting ventilatory cost (3% to 5% of total energy expenditure).",
+          "Quantify heavy exercise ventilatory cost (8% to 15% of total energy expenditure) and discuss exercise-induced asthma.",
+          "Explain that isolated respiratory training is generally unnecessary for healthy athletes because endurance and resistance exercise naturally adapt breathing musculature.",
+          "Highlight clinical exceptions where respiratory muscle training is warranted (post-surgery, prolonged bed rest)."
+        ]
+      }
+    ]
+  }
+}

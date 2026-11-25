@@ -1,0 +1,76 @@
+{
+  "chapterId": "2.4",
+  "title": "2.4 Sources of Resistance to Muscle Contraction",
+  "cards": [
+    {
+      "id": "2.4-01",
+      "tag": "Gravitational Force, Mass vs. Weight, and Units",
+      "reference": "Section 2.4",
+      "front": "What is the physical relationship between mass, weight, and gravity ($F_g = m \\cdot a_g$), and why is popular terminology regarding kilograms and pounds frequently misused?",
+      "back": "The downward force exerted on an object by gravity is defined by Newton's second law:<br><br>$$F_g = m \\cdot a_g$$<br>where <strong>F_g</strong> is the gravitational force (the object's actual weight in newtons, N), <strong>m</strong> is the object's mass in kilograms (kg), and <strong>a_g</strong> is the local acceleration due to gravity (approximately 9.8 m/s\u00b2).<br><br>Popular weight room terminology frequently confuses mass and force:<ul><li><strong>Kilogram (kg):</strong> A metric unit of <em>mass</em>, which remains constant regardless of location (an 85 kg barbell has 85 kg of mass on Earth, on the moon, or in orbit).</li><li><strong>Pound (lb):</strong> A unit of <em>force</em> (weight), not mass. In SI units, 1 lb equals approximately 4.448 N.</li><li><strong>Terrestrial & Planetary Variations:</strong> Weight varies with local gravitational acceleration. That same 85 kg barbell would feel like approximately 14 kg on the moon due to reduced lunar gravity, despite its physical mass remaining completely unchanged.</li></ul>"
+    },
+    {
+      "id": "2.4-02",
+      "tag": "Dynamic Resistive Torque of Gravity with Free Weights",
+      "reference": "Section 2.4",
+      "front": "Why is the moment arm of a free weight always horizontal, and how does resistive torque dynamically fluctuate throughout an arm curl?",
+      "back": "Because gravity acts exclusively in a downward vertical direction, the moment arm (perpendicular distance from the line of action to the joint center) is <strong>always horizontal</strong>.<br><br>Resistive torque equals the weight of the object multiplied by this horizontal distance:<ul><li><strong>Maximal Torque Position:</strong> During an arm curl, the horizontal distance from the elbow joint axis to the barbell is greatest when the <em>forearm is exactly horizontal</em> (90\u00b0 elbow flexion), requiring maximal internal muscle torque to counteract the load.</li><li><strong>Diminishing Torque:</strong> As the forearm rotates either upward or downward away from the horizontal, the horizontal distance shortens, decreasing the resistive torque.</li><li><strong>Zero Torque:</strong> When the weight is positioned directly above or directly below the elbow pivot point, the horizontal distance is zero, producing <em>zero gravitational resistive torque</em>.</li></ul>"
+    },
+    {
+      "id": "2.4-03",
+      "tag": "Barbell Positioning & Torque Distribution: Low Bar vs. High Bar Squats",
+      "reference": "Section 2.4",
+      "front": "How does trunk inclination and barbell placement alter the resistive torque distribution between the hips and knees in low bar versus high bar squats?",
+      "back": "Barbell placement directly alters trunk kinematics and the resulting horizontal moment arms about the hip and knee joints:<ul><li><strong>Low Bar Squat:</strong> The barbell is positioned low across the posterior deltoids. To keep the combined center of mass of the body and bar centered over the midfoot, the lifter must incline the trunk relatively far forward. This brings the barbell <em>horizontally closer to the knees</em> (reducing knee extensor/quadriceps resistive torque) and <em>horizontally farther from the hips</em> (substantially increasing hip extensor/gluteus and hamstring resistive torque).</li><li><strong>High Bar Squat:</strong> The barbell rests higher on the upper trapezius closer to the neck. The lifter maintains a more upright torso, shifting the weight horizontally farther from the knees (increasing quadriceps torque demands) and horizontally closer to the hips (reducing hip extensor torque demands).</li></ul>"
+    },
+    {
+      "id": "2.4-04",
+      "tag": "Weight-Stack Machines vs. Free Weights: Mechanical Trade-offs",
+      "reference": "Section 2.4",
+      "front": "Compare the biomechanical and physiological advantages of weight-stack machines versus free weights in resistance training.",
+      "back": "Both modalities utilize gravity as their primary resistance source but offer distinct training adaptations:<ul><li><strong>Advantages of Weight-Stack Machines:</strong><ul><li><em>Safety:</em> Reduced risk of dropping weights, tripping, or getting trapped under a load; requires less technical skill.</li><li><em>Design Flexibility:</em> Cams, pulleys, and cables allow resistance to be applied to joint movements that are difficult to load with free weights (e.g., lat pulldown, leg curl, hip adduction/abduction).</li><li><em>Ease of Use:</em> Faster load selection via selectorized weight pins and lower coordination barriers.</li></ul></li><li><strong>Advantages of Free Weights:</strong><ul><li><em>Whole-Body Training:</em> Often performed standing, supporting loads through the entire skeleton, which promotes greater bone mineralization to prevent osteoporosis.</li><li><em>Stabilization Demands:</em> Unconstrained movement forces stabilizer and synergist muscles to actively maintain balance and joint control.</li><li><em>Simulation of Real-Life Activities:</em> Fosters multi-joint coordination and natural movement patterns that transfer directly to athletic tasks.</li></ul></li></ul>"
+    },
+    {
+      "id": "2.4-05",
+      "tag": "Cam-Based Resistance Machines & Torque Matching Limitations",
+      "reference": "Section 2.4",
+      "front": "How do cam-based weight-stack machines attempt to alter resistance across a range of motion, and what practical biomechanical limitations do they face?",
+      "back": "Cam-based exercise machines (popularized by Nautilus) utilize an irregular pulley (cam) of variable radius to adjust mechanical resistance throughout a joint's range of motion:<ul><li><strong>Intended Mechanism:</strong> Rotating the cam changes the moment arm through which the weight stack acts, intending to provide greater resistive torque where muscles are mechanically strongest and less torque where muscles are weaker.</li><li><strong>Biomechanical Limitations:</strong><ul><li><em>Constant Velocity Requirement:</em> The machine only matches torque profiles if the lifter moves at a slow, constant angular velocity, which is nearly impossible to sustain consistently in practice.</li><li><em>Failure to Match Natural Strength Curves:</em> Manufactured cam profiles frequently fail to match complex, individual human torque-generating capabilities across diverse anthropometrics.</li></ul></li></ul>"
+    },
+    {
+      "id": "2.4-06",
+      "tag": "Inertial Forces and Resistance Distribution in Explosive Lifts",
+      "reference": "Section 2.4",
+      "front": "How does inertia alter the resistance experienced by agonist muscles during accelerative movements, and why can athletes handle heavier loads in explosive lifts like the power clean?",
+      "back": "Inertia (F = m \u00b7 a) exerts resistance in any direction of acceleration, acting in addition to gravitational weight:<ul><li><strong>Accelerative Resistance Distribution:</strong> Early in the range of motion, upward acceleration causes total resistance to <em>exceed</em> bar weight (F = mg + ma). Near the end of the range of motion, deceleration causes resistance to drop <em>below</em> bar weight as the lifter reduces force or uses antagonists to brake the bar.</li><li><strong>Explosive Lifting Mechanics (e.g., Power Clean):</strong> Explosive leg, hip, and lower back extension accelerates a heavy barbell to high upward velocity. Even though the weaker upper-body muscles cannot exert vertical force equal to the bar's static weight, the bar's upward momentum allows it to continue traveling upward until gravity decelerates it to zero velocity at the catch position.</li></ul>"
+    },
+    {
+      "id": "2.4-07",
+      "tag": "The Bracketing Technique in Acceleration Training",
+      "reference": "Section 2.4",
+      "front": "What is the bracketing technique, how does it exploit the force-velocity relationship, and what technical caution must coaches observe?",
+      "back": "The <strong>bracketing technique</strong> involves training a sport movement using implements with less than normal and greater than normal resistance (e.g., throwing heavy and light shot puts):<ul><li><strong>Heavier Implements:</strong> Increased inertia forces muscles to contract at lower velocities, training the neuromuscular system to develop higher forces along the force\u2013velocity curve.</li><li><strong>Lighter Implements:</strong> Reduced inertia allows the athlete to accelerate the implement more rapidly and reach higher release velocities, training rapid neuromuscular firing rates.</li><li><strong>Coaching Caution:</strong> Altering implement loading can alter movement kinematics and motor recruitment patterns, potentially compromising technique in highly refined motor skills (e.g., pitching, sprinting, javelin throwing) if overused.</li></ul>"
+    },
+    {
+      "id": "2.4-08",
+      "tag": "Frictional Resistance Mechanics & Weighted Sled Dynamics",
+      "reference": "Section 2.4",
+      "front": "How is frictional resistance calculated ($F_r = k \\cdot F_n$), and how do static versus sliding friction affect devices like weighted sleds?",
+      "back": "Frictional resistance is the force opposing relative motion between two pressed surfaces:<br><br>$$F_r = k \\cdot F_n$$<br>where <strong>k</strong> is the coefficient of friction and <strong>F_n</strong> is the normal force pressing the surfaces together.<ul><li><strong>Static vs. Sliding Friction:</strong> The coefficient of static friction is always greater than sliding (kinetic) friction. Therefore, it requires significantly more force to <em>initiate</em> movement than to <em>maintain</em> movement.</li><li><strong>Velocity Independence vs. Power Output:</strong> Friction resistance remains relatively constant regardless of movement speed once sliding begins; however, mechanical power output (P = F \u00b7 v) increases linearly with velocity.</li><li><strong>Weighted Sled Dynamics:</strong> Sleds combine friction and inertia, providing horizontal resistance that free weights cannot deliver directly. However, friction varies across outdoor surfaces (grass, turf, dirt, wet grass), preventing standardized resistance.</li></ul>"
+    },
+    {
+      "id": "2.4-09",
+      "tag": "Fluid Resistance Mechanics & Lack of Eccentric Loading",
+      "reference": "Section 2.4",
+      "front": "What governs fluid resistance ($F_r = k \\cdot v$), why are fluid machines not truly isokinetic, and what is the training consequence of their lack of eccentric resistance?",
+      "back": "Fluid resistance is generated by an object moving through a fluid or fluid forced through an orifice (liquid in hydraulic machines, gas in pneumatic machines):<ul><li><strong>Governing Dynamics:</strong> Resistance is roughly proportional to piston velocity ($F_r = k \\cdot v$), fluid viscosity, and piston orifice size. Resistance increases with velocity, allowing rapid initial acceleration but limiting velocity at higher speeds.</li><li><strong>Not Isokinetic:</strong> Although movement speed is kept within an intermediate window, fluid machines do not hold velocity strictly constant and are therefore not truly isokinetic.</li><li><strong>Absence of Eccentric Muscle Actions:</strong> Without specialized internal pumps, fluid machines provide resistance only concentrically. Agonists contract concentrically during the primary movement, and antagonists contract concentrically during the return movement, allowing each muscle group to rest while its opposing group works. This lacks eccentric specificity for jumping, sprinting, and throwing, which rely heavily on stretch-shortening cycles.</li></ul>"
+    },
+    {
+      "id": "2.4-10",
+      "tag": "Elastic Resistance Dynamics & Inverted Strength Curve Contradiction",
+      "reference": "Section 2.4",
+      "front": "How is elastic resistance calculated ($F_r = k \\cdot x$), why does it contradict human muscle strength curves, and why are elastic jump bands potentially problematic?",
+      "back": "Elastic resistance (springs, bands, bows, rods) is governed by Hooke's law:<br><br>$$F_r = k \\cdot x$$<br>where <strong>k</strong> is the elastic component's stiffness constant and <strong>x</strong> is the distance stretched beyond resting length.<ul><li><strong>Contradiction of Human Strength Curves:</strong> Elastic resistance provides minimal resistance at the beginning of an exercise and maximal resistance at terminal stretch. This directly contradicts human muscle strength curves, where joint torque capability drops off substantially toward end range of motion.</li><li><strong>Vertical Jump Band Problems:</strong> Elastic bands attached to the body provide little resistance at the start of a jump when the hip and knee extensors are mechanically capable of exerting maximal force. The bands reach peak tension while the jumper is in the air, pulling them forcefully back to the floor and accelerating landing velocity, which may substantially increase joint impact stress and injury risk.</li></ul>"
+    }
+  ]
+}

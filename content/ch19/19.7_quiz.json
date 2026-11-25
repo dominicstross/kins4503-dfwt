@@ -1,0 +1,580 @@
+{
+  "meta": {
+    "course": "DFWT - KINS 4503 Design of Fitness & WT",
+    "chapter": "19",
+    "section": "19.7",
+    "ch": "19",
+    "mod": "19.7",
+    "moduleTitle": "19.7 Program Design"
+  },
+  "pages": [
+    {
+      "id": "p1",
+      "title": "Periodization Hierarchies, Athlete Monitoring, and Fatigue Management",
+      "counts": {
+        "mcq": 8,
+        "ms": 4,
+        "tf": 4,
+        "cloze": 3,
+        "sa": 2
+      },
+      "questions": {
+        "mcq": [
+          {
+            "id": 1,
+            "q": "What is the precise definition of periodization in athletic training program design?",
+            "opts": [
+              "The continuous repetition of identical daily workouts throughout an athlete's entire career",
+              "The strategic manipulation of an athlete's preparedness through the employment of sequenced training phases defined by cycles and stages of workload",
+              "The complete elimination of high-intensity training during competitive seasons",
+              "The random assignment of exercises based on athlete daily preference"
+            ],
+            "correct": 1,
+            "rationale": "Periodization is defined as the strategic manipulation of an athlete's preparedness through the employment of sequenced training phases defined by cycles and stages of workload."
+          },
+          {
+            "id": 2,
+            "q": "What are the three primary planning horizons or levels involved in program design?",
+            "opts": [
+              "Daily, hourly, and minutely cycles",
+              "Microcycles (short-term), mesocycles (medium-term), and macrocycles (long-term)",
+              "Concentric, eccentric, and isometric phases",
+              "Hypertrophy, endurance, and flexibility stages"
+            ],
+            "correct": 1,
+            "rationale": "Program design involves planning across three distinct structural horizons: microcycles (short-term, e.g., days to a week), mesocycles (medium-term, e.g., weeks to months), and macrocycles (long-term, e.g., annual plans)."
+          },
+          {
+            "id": 3,
+            "q": "Why are planned workloads systematically varied across sequenced training phases?",
+            "opts": [
+              "To guarantee that athletes never experience any physical fatigue during a training cycle",
+              "To facilitate the integration of planned programming tactics that harmonize the relationship between training-induced fatigue and accommodation",
+              "To prevent athletes from learning fundamental movement techniques",
+              "To induce immediate glycogen depletion in all muscle fibers"
+            ],
+            "correct": 1,
+            "rationale": "Workloads are systematically varied in order to integrate planned programming tactics that harmonize the relationship between training-induced fatigue and accommodation, preventing stagnation while promoting supercompensation."
+          },
+          {
+            "id": 4,
+            "q": "What essential role does the athlete monitoring process play within periodized program design?",
+            "opts": [
+              "It provides a legal record of team attendance without affecting programming",
+              "It collects consistent data showing acute short-term responses and guides long-term program modifications",
+              "It eliminates the need for coaches to manipulate training variables",
+              "It ensures that athletes perform identical volumes regardless of fatigue"
+            ],
+            "correct": 1,
+            "rationale": "Information acquired through consistent monitoring strategies shows how the athlete is responding to training stimuli in the short term and indicates how the original program should be modified for long-term development."
+          },
+          {
+            "id": 5,
+            "q": "What biological phenomenon occurs if training stimuli remain monotonous and unvaried over an extended period?",
+            "opts": [
+              "Immediate rupture of the patellar tendon",
+              "Accommodation, resulting in biological stagnation and plateaued physiological adaptations",
+              "Rapid enhancement of maximal velocity sprint mechanics",
+              "Spontaneous transformation of slow-twitch fibers into fast-twitch glycolytic fibers"
+            ],
+            "correct": 1,
+            "rationale": "When training workloads are not properly varied, athletes experience accommodation\u2014a plateau where the biological system adapts to a static stimulus, halting further performance improvements."
+          },
+          {
+            "id": 6,
+            "q": "How should coaches apply the resistance training periodization concepts described in Chapter 21 to speed and agility training?",
+            "opts": [
+              "Resistance periodization principles cannot be applied to speed or agility under any circumstances",
+              "The same underlying concepts of phase progression, workload variation, and fatigue management apply directly to sprint, change-of-direction, and agility training",
+              "Only endurance running concepts should be applied to sprint programming",
+              "Periodization should only be utilized during off-season resistance blocks"
+            ],
+            "correct": 1,
+            "rationale": "Chapter 21 details periodization of resistance training programs, and the textbook specifically states that the same fundamental concepts apply directly to sprint, change-of-direction, and agility training."
+          },
+          {
+            "id": 7,
+            "q": "In a periodized model, how does acute fatigue interact with an athlete's preparedness during a heavy training microcycle?",
+            "opts": [
+              "Preparedness increases instantaneously during the most exhausting workouts",
+              "Training-induced fatigue temporarily suppresses preparedness, requiring planned recovery to reveal fitness adaptations",
+              "Fatigue has zero measurable impact on an athlete's performance capacity",
+              "Preparedness becomes permanently zero and cannot be restored"
+            ],
+            "correct": 1,
+            "rationale": "Workloads induce fatigue that temporarily depresses preparedness; periodization balances fatigue and recovery so that fitness gains are unmasked during competition."
+          },
+          {
+            "id": 8,
+            "q": "When athlete monitoring indicates that an individual is experiencing excessive residual fatigue and failing to adapt, what programming action should be taken?",
+            "opts": [
+              "Double the training volume load to force rapid biological adaptation",
+              "Modify the original training variables and adjust workloads to match the athlete's individual response",
+              "Cease all physical activity permanently",
+              "Ignore the monitoring data and follow the written plan rigidly"
+            ],
+            "correct": 1,
+            "rationale": "Athlete monitoring is specifically intended to show how the original training program should be modified to reflect individual responses to training."
+          }
+        ],
+        "ms": [
+          {
+            "id": 9,
+            "q": "Which planning horizons are fundamental to periodized program design in strength and conditioning? (Select all that apply)",
+            "opts": [
+              "Microcycles (short-term training blocks)",
+              "Mesocycles (medium-term training phases)",
+              "Macrocycles (long-term training annual/multi-year plans)",
+              "Nanocycles (sub-second cellular cycles)",
+              "Planetary orbital cycles"
+            ],
+            "correctArray": [
+              0,
+              1,
+              2
+            ],
+            "rationale": "Program design involves planning at microcycles (short-term), mesocycles (medium-term), and macrocycles (long-term). Nanocycles and planetary cycles are not exercise science constructs."
+          },
+          {
+            "id": 10,
+            "q": "Which objectives are directly achieved through systematic workload variation in a periodized plan? (Select all that apply)",
+            "opts": [
+              "Harmonizing the relationship between training-induced fatigue and accommodation.",
+              "Facilitating the strategic integration of planned programming tactics.",
+              "Optimizing the athlete's preparedness across sequenced training phases.",
+              "Ensuring that motor unit recruitment patterns permanently shut down.",
+              "Preventing biological plateaus and overuse maladaptations."
+            ],
+            "correctArray": [
+              0,
+              1,
+              2,
+              4
+            ],
+            "rationale": "Workload variation harmonizes fatigue and accommodation, integrates tactics, peaks preparedness, and prevents plateaus. It does not shut down motor unit recruitment."
+          },
+          {
+            "id": 11,
+            "q": "What insights does an ongoing athlete monitoring process provide to strength and conditioning practitioners? (Select all that apply)",
+            "opts": [
+              "Demonstrates how the athlete is responding acutely to the training stimulus in the short term.",
+              "Guides long-term athlete development and progression pathways.",
+              "Indicates how the original training program should be modified based on individual recovery.",
+              "Accurately predicts the precise score of future sporting contests.",
+              "Informs the manipulation of individual and systemic program design variables."
+            ],
+            "correctArray": [
+              0,
+              1,
+              2,
+              4
+            ],
+            "rationale": "Monitoring tracks short-term stimulus response, long-term development, program modifications, and variable manipulation. It cannot predict athletic contest scores."
+          },
+          {
+            "id": 12,
+            "q": "Which statements accurately characterize the relationship between training fatigue and accommodation? (Select all that apply)",
+            "opts": [
+              "Accommodation occurs when an unvarying stimulus leads to stagnating performance gains.",
+              "Training-induced fatigue must be managed to allow true physiological adaptations to manifest as enhanced preparedness.",
+              "High training fatigue is always detrimental and should never be induced in athletic training.",
+              "Sequenced training phases allow coaches to balance fatigue accumulation with planned relief intervals.",
+              "Periodization seeks to eliminate both fatigue and adaptation entirely."
+            ],
+            "correctArray": [
+              0,
+              1,
+              3
+            ],
+            "rationale": "Accommodation is biological stagnation from unvaried training, while fatigue must be balanced across sequenced phases to peak preparedness. Inducing functional overload (and transient fatigue) is necessary for adaptation."
+          }
+        ],
+        "tf": [
+          {
+            "id": 13,
+            "q": "Periodization is defined as the strategic manipulation of an athlete's preparedness through sequenced training phases defined by cycles and stages of workload.",
+            "ans": true,
+            "feedback": "This represents the exact foundational definition of periodization provided in the text."
+          },
+          {
+            "id": 14,
+            "q": "Workloads are deliberately varied in periodized programming to harmonize the relationship between training-induced fatigue and accommodation.",
+            "ans": true,
+            "feedback": "Workloads are varied specifically to balance fatigue accumulation against accommodation and stagnation."
+          },
+          {
+            "id": 15,
+            "q": "Once a long-term macrocycle program is designed, it should be followed rigidly without modifications regardless of athlete monitoring data.",
+            "ans": false,
+            "feedback": "The periodization process is guided by athlete monitoring to show how the original program should be modified to reflect individual responses."
+          },
+          {
+            "id": 16,
+            "q": "The periodization concepts established for resistance training in Chapter 21 can be applied directly to sprint, change-of-direction, and agility training.",
+            "ans": true,
+            "feedback": "The textbook explicitly notes that the same periodization concepts apply across resistance, sprint, change-of-direction, and agility training."
+          }
+        ],
+        "cloze": [
+          {
+            "id": 17,
+            "statement": "Program design involves planning across three structural levels: **microcycles** for short-term planning, **mesocycles** for medium-term planning, and **macrocycles** for long-term planning.",
+            "targets": [
+              "microcycles",
+              "mesocycles",
+              "macrocycles"
+            ],
+            "optionsBank": [
+              "microcycles",
+              "mesocycles",
+              "macrocycles",
+              "nanocycles",
+              "megacycles"
+            ],
+            "hint": "The structural levels of periodization consist of microcycles (short-term), mesocycles (medium-term), and macrocycles (long-term)."
+          },
+          {
+            "id": 18,
+            "statement": "Periodization strategically manipulates an athlete's **preparedness** through sequenced training phases designed to balance training-induced fatigue and **accommodation**.",
+            "targets": [
+              "preparedness",
+              "accommodation"
+            ],
+            "optionsBank": [
+              "preparedness",
+              "accommodation",
+              "flexibility",
+              "detraining",
+              "genetics"
+            ],
+            "hint": "Periodization strategically manipulates preparedness by balancing fatigue against accommodation across sequenced cycles."
+          },
+          {
+            "id": 19,
+            "statement": "Athlete monitoring reveals how an athlete responds to a training stimulus in the **short term** and directs how the original program should be modified in the **long term**.",
+            "targets": [
+              "short term",
+              "long term"
+            ],
+            "optionsBank": [
+              "short term",
+              "long term",
+              "past season",
+              "gym setting",
+              "laboratory"
+            ],
+            "hint": "Monitoring provides acute feedback on short-term responses and informs modifications for long-term development."
+          }
+        ],
+        "sa": [
+          {
+            "id": 20,
+            "prompt": "Define periodization and explain why planned workloads must be systematically varied to harmonize training-induced fatigue and accommodation.",
+            "model": "Periodization is defined as the strategic manipulation of an athlete's preparedness through the employment of sequenced training phases defined by cycles and stages of workload. In athletic training, applying an identical, unvarying workload over an extended duration leads to accommodation\u2014a physiological state of stagnation where the neuromusculoskeletal system adapts to the static stimulus and ceases to make performance gains. Conversely, applying excessively high, unremitting workloads induces severe, uncompensated fatigue that suppresses athletic preparedness and increases injury risk. By systematically varying planned workloads across cycles, coaches integrate planned programming tactics that harmonize the relationship between fatigue and accommodation. This variation introduces novel adaptive stimuli to prevent accommodation while interspersing appropriate recovery stages to dissipate fatigue, allowing supercompensation to manifest as peak preparedness for competition.",
+            "criteria": [
+              "State the textbook definition of periodization (strategic manipulation of preparedness via sequenced cycles/stages of workload).",
+              "Define accommodation as biological/neuromuscular stagnation from static, unvarying training stimuli.",
+              "Explain that excessive unmanaged fatigue suppresses preparedness and elevates injury risk.",
+              "Explain how systematic workload variation prevents accommodation while managing fatigue to optimize athletic preparedness."
+            ]
+          },
+          {
+            "id": 21,
+            "prompt": "Describe the role of the athlete monitoring process across short-term and long-term program design horizons.",
+            "model": "The athlete monitoring process serves as an essential guiding mechanism for periodized program design, ensuring that training plans do not remain rigid, theoretical documents but evolve dynamically based on real-time physiological feedback. In the short term, consistent data collected through various monitoring strategies (such as tracking bar velocity, wellness questionnaires, jump performance, or heart rate metrics) shows how the athlete is acutely responding to the immediate training stimulus, revealing current fatigue levels and readiness. In the long term, these accumulated monitoring insights demonstrate how the athlete is adapting over weeks and months, informing coaches on how the athlete should be further developed. Crucially, athlete monitoring directs practitioners on how the original training program should be modified\u2014allowing coaches to calibrate variables like volume, intensity, and recovery to match individual dose\u2013response profiles.",
+            "criteria": [
+              "Explain that athlete monitoring provides continuous feedback to guide periodization.",
+              "Describe short-term monitoring: assessing acute response and fatigue from immediate training stimuli.",
+              "Describe long-term monitoring: tracking cumulative adaptation to inform future development.",
+              "State that monitoring guides the modification of original training variables to match individual athlete responses."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "p2",
+      "title": "Program Design Variables, Workload Density, and Volume-Load Quantification",
+      "counts": {
+        "mcq": 8,
+        "ms": 4,
+        "tf": 4,
+        "cloze": 3,
+        "sa": 2
+      },
+      "questions": {
+        "mcq": [
+          {
+            "id": 1,
+            "q": "In sprint and conditioning program design, how is the \"exercise (or work) interval\" defined?",
+            "opts": [
+              "The total number of hours an athlete sleeps each night",
+              "The duration or distance over which a repetition is executed",
+              "The rest period taken between sets",
+              "The calendar days between competitive games"
+            ],
+            "correct": 1,
+            "rationale": "The exercise (or work) interval is defined as the duration or distance over which a repetition is executed (e.g., 20 m acceleration or 5 seconds of sprinting)."
+          },
+          {
+            "id": 2,
+            "q": "How is \"exercise order\" defined within a speed, agility, or resistance training session?",
+            "opts": [
+              "The number of athletes training in a single lane",
+              "The sequence in which a set of repetitions or exercises is executed",
+              "The monetary cost of gym equipment",
+              "The chronological age of the athletes"
+            ],
+            "correct": 1,
+            "rationale": "Exercise order is the sequence in which a set of repetitions or exercises is executed (e.g., placing high-velocity technical sprints before fatiguing conditioning)."
+          },
+          {
+            "id": 3,
+            "q": "What core program variable describes the number of training sessions performed in a given time period (such as per day or per week)?",
+            "opts": [
+              "Volume load",
+              "Frequency",
+              "Work-to-rest ratio",
+              "Exercise interval"
+            ],
+            "correct": 1,
+            "rationale": "Frequency is defined as the number of training sessions performed in a given time period (e.g., day or week)."
+          },
+          {
+            "id": 4,
+            "q": "In training variable terminology, how is \"intensity\" defined?",
+            "opts": [
+              "The total tonnage lifted across a 12-week mesocycle",
+              "The effort with which a repetition is executed, expressed as a percentage of maximum",
+              "The duration of the rest interval in seconds",
+              "The distance of the stadium track"
+            ],
+            "correct": 1,
+            "rationale": "Intensity represents the effort with which a repetition is executed, expressed as a percentage of maximum (% of maximum effort, velocity, or 1RM)."
+          },
+          {
+            "id": 5,
+            "q": "What is the structural distinction between a \"repetition\", a \"set\", and a \"series\"?",
+            "opts": [
+              "A repetition is a group of series; a set is a single movement; a series is a rest period",
+              "A repetition is the execution of a specific workload assignment/technique; a set is a group of repetitions and rest intervals; a series is a group of sets and recovery intervals",
+              "A repetition is measured in weeks; a set is measured in months; a series is measured in years",
+              "There is no distinction; all three terms describe the exact same quantity of work"
+            ],
+            "correct": 1,
+            "rationale": "A repetition is the execution of a specific workload assignment or movement technique; a set is a group of repetitions and rest intervals; a series is a group of sets and recovery intervals."
+          },
+          {
+            "id": 6,
+            "q": "How is \"work-to-rest ratio\" defined and utilized in speed and agility training?",
+            "opts": [
+              "The total weight lifted divided by athlete body weight",
+              "The relative density of exercise and relief intervals in a set, expressed as a ratio",
+              "The number of coaches per student athlete",
+              "The percentage of fast-twitch fibers compared to slow-twitch fibers"
+            ],
+            "correct": 1,
+            "rationale": "Work-to-rest ratio is the relative density of exercise and relief intervals in a set, expressed as a ratio (e.g., 1:12 for alactic sprint training)."
+          },
+          {
+            "id": 7,
+            "q": "How is \"volume load\" defined, and what is the volume load of an athlete completing 3 sets of 5 repetitions at 100 kg?",
+            "opts": [
+              "Volume load is average velocity; 3 \u00d7 5 \u00d7 100 = 15 kg",
+              "Volume load is the density of volume performed at prescribed intensities; 3 \u00d7 5 \u00d7 100 kg = 1,500 kg",
+              "Volume load is total rest time; 3 \u00d7 5 \u00d7 100 = 500 seconds",
+              "Volume load is heart rate reserve; 3 \u00d7 5 \u00d7 100 = 75 bpm"
+            ],
+            "correct": 1,
+            "rationale": "Volume load is the density of volume performed at prescribed intensities, calculated as sets \u00d7 reps \u00d7 load (e.g., 3 sets of 5 reps at 100 kg results in a volume load of 1,500 kg)."
+          },
+          {
+            "id": 8,
+            "q": "Why must coaches consider training variables both individually and with regard to how they affect the collective system?",
+            "opts": [
+              "Because manipulating one variable in isolation (e.g., increasing intensity) causes cascade effects on fatigue, volume capacity, and recovery across the whole system",
+              "Because training variables function completely independently of one another",
+              "Because all training variables must be maintained at 100% at all times",
+              "Because systemic consideration is only relevant for aerobic distance runners"
+            ],
+            "correct": 0,
+            "rationale": "While each variable characterizes the training agenda, coaches must recognize that variables interact systemically\u2014changing one variable (such as intensity or exercise interval) directly influences recovery requirements, volume tolerance, and cumulative fatigue."
+          }
+        ],
+        "ms": [
+          {
+            "id": 9,
+            "q": "Which program design variables are essential for quantifying workloads and characterizing a training agenda? (Select all that apply)",
+            "opts": [
+              "Exercise interval and exercise order",
+              "Frequency and intensity",
+              "Recovery (rest) interval and work-to-rest ratio",
+              "Volume and volume load",
+              "Ambient stadium atmospheric nitrogen levels"
+            ],
+            "correctArray": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "rationale": "The core variables listed in Section 19.7 include exercise interval, exercise order, frequency, intensity, recovery interval, repetition, series, set, volume, work-to-rest ratio, and volume load. Atmospheric nitrogen is not a program variable."
+          },
+          {
+            "id": 10,
+            "q": "Which definitions correctly match the program design variable from the textbook? (Select all that apply)",
+            "opts": [
+              "Recovery (rest) interval: the time period between repetitions and sets.",
+              "Repetition: the execution of a specific workload assignment or movement technique.",
+              "Set: a group of repetitions and rest intervals.",
+              "Series: a group of sets and recovery intervals.",
+              "Volume: the heart rate achieved during a 100 m sprint."
+            ],
+            "correctArray": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "rationale": "Recovery interval, repetition, set, and series are all accurately defined. Volume is the amount of work performed (e.g., sets \u00d7 reps or total distance), not heart rate."
+          },
+          {
+            "id": 11,
+            "q": "What occurs across the collective training system when a coach elevates sprint intensity from 85% to 100% of maximum velocity? (Select all that apply)",
+            "opts": [
+              "The required recovery (rest) interval between repetitions must increase to maintain movement quality.",
+              "The work-to-rest ratio becomes wider (e.g., from 1:4 to 1:12 or greater).",
+              "Total volume must typically be capped or decreased to prevent severe neural fatigue.",
+              "High-threshold motor unit rate coding and central nervous system demands increase dramatically.",
+              "Recovery intervals can be completely eliminated because maximal velocity creates zero fatigue."
+            ],
+            "correctArray": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "rationale": "Near-maximal and maximal sprinting places extreme demands on the central nervous system, requiring longer rest intervals, wider work-to-rest ratios, and lower volume to prevent metabolic degradation of mechanics."
+          },
+          {
+            "id": 12,
+            "q": "In what ways should individual athlete monitoring data be used to manipulate training variables? (Select all that apply)",
+            "opts": [
+              "To reduce volume or intensity when an athlete demonstrates excessive uncompensated fatigue.",
+              "To extend recovery intervals if movement velocity declines prematurely within a set.",
+              "To advance workload density when an athlete demonstrates enhanced preparedness and rapid recovery.",
+              "To tailor work-to-rest ratios based on individual bioenergetic clearance rates.",
+              "To force all athletes into an identical rigid workload template regardless of readiness."
+            ],
+            "correctArray": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "rationale": "Monitoring guides the individualized manipulation of volume, intensity, rest, and work-to-rest ratios. It explicitly replaces rigid, one-size-fits-all programming templates."
+          }
+        ],
+        "tf": [
+          {
+            "id": 13,
+            "q": "An exercise (or work) interval is defined as the duration or distance over which a repetition is executed.",
+            "ans": true,
+            "feedback": "This is the exact definition provided in the textbook."
+          },
+          {
+            "id": 14,
+            "q": "Volume load is calculated as the density of volume performed at prescribed intensities, such as sets \u00d7 reps \u00d7 resistance.",
+            "ans": true,
+            "feedback": "Volume load reflects the mechanical workload density at prescribed intensities (e.g., 3 sets \u00d7 5 reps \u00d7 100 kg = 1,500 kg)."
+          },
+          {
+            "id": 15,
+            "q": "Training variables can be manipulated in complete isolation without producing any systemic effects on the overall training program.",
+            "ans": false,
+            "feedback": "Coaches must consider each variable individually as well as with regard to how it affects the collective system, as variables are interdependent."
+          },
+          {
+            "id": 16,
+            "q": "A series is defined as a group of repetitions, whereas a set is defined as a group of series.",
+            "ans": false,
+            "feedback": "A set is a group of repetitions and rest intervals, whereas a series is a higher-level group of sets and recovery intervals."
+          }
+        ],
+        "cloze": [
+          {
+            "id": 17,
+            "statement": "The density of volume performed at prescribed intensities is termed **volume load**, whereas the total amount of work performed is termed **volume**.",
+            "targets": [
+              "volume load",
+              "volume"
+            ],
+            "optionsBank": [
+              "volume load",
+              "volume",
+              "intensity",
+              "frequency",
+              "rest interval"
+            ],
+            "hint": "Volume represents total work performed, while volume load factors in the prescribed intensity or resistance."
+          },
+          {
+            "id": 18,
+            "statement": "In training program design, a **set** consists of a group of repetitions and rest intervals, while a **series** consists of a group of sets and recovery intervals.",
+            "targets": [
+              "set",
+              "series"
+            ],
+            "optionsBank": [
+              "set",
+              "series",
+              "microcycle",
+              "mesocycle",
+              "workout"
+            ],
+            "hint": "Repetitions form sets, and sets grouped with recovery intervals form a series."
+          },
+          {
+            "id": 19,
+            "statement": "The relative density of exercise and relief intervals in a set is expressed as the **work-to-rest ratio**, with effort quantified by **intensity**.",
+            "targets": [
+              "work-to-rest ratio",
+              "intensity"
+            ],
+            "optionsBank": [
+              "work-to-rest ratio",
+              "intensity",
+              "exercise order",
+              "frequency",
+              "volume load"
+            ],
+            "hint": "Work-to-rest ratio reflects exercise-to-relief density, while intensity reflects percentage of maximal effort."
+          }
+        ],
+        "sa": [
+          {
+            "id": 20,
+            "prompt": "List and define at least five core training variables that strength and conditioning professionals must manipulate when designing speed, agility, and resistance programs.",
+            "model": "Strength and conditioning professionals manipulate several key program variables to characterize training agendas and quantify workloads:  \n- **Exercise (or work) interval:** The duration or distance over which a repetition is executed (e.g., a 20-meter sprint or a 4-second lift).  \n- **Intensity:** The effort with which a repetition is executed, expressed as a percentage of maximum voluntary effort, velocity, or 1RM (e.g., 95\u2013100% of maximum velocity).  \n- **Volume:** The amount of work performed in a given training session or time period (e.g., 3 sets of 5 repetitions, or 300 total sprint meters).  \n- **Recovery (rest) interval:** The time period allocated between repetitions and sets to facilitate physiological recovery and phosphagen restoration.  \n- **Work-to-rest ratio:** The relative density of exercise and relief intervals in a set, expressed as a ratio (e.g., 1:10 for alactic speed training).  \n*(Additional acceptable variables include exercise order, frequency, repetition, set, series, and volume load).*",
+            "criteria": [
+              "Accurately name at least five variables from Section 19.7.",
+              "Provide the correct textbook definition for each of the five selected variables.",
+              "Demonstrate an understanding of how these variables quantify workload and characterize training."
+            ]
+          },
+          {
+            "id": 21,
+            "prompt": "Explain why program design variables must be considered both individually and as an interdependent collective system, providing a practical example of how changing one variable alters others.",
+            "model": "In program design, each variable serves a specific role in characterizing the training agenda (e.g., determining the bioenergetic pathway or movement pattern) and quantifying workload (e.g., calculating volume load). However, variables cannot function in isolation; they exist within an interdependent, collective physiological system. Manipulating one variable inevitably creates a ripple effect that alters the demands placed on the athlete's recovery capacity and neuromuscular system. For example, if a coach decides to increase the *intensity* of a sprinting session from 85% (submaximal tempo) to 100% (maximal velocity sprinting), this single change dramatically elevates central nervous system rate coding, ground reaction force demands, and alactic ATP-PCr depletion. Consequently, to maintain movement quality and avoid metabolic fatigue, the coach must systemically adjust other variables: the *recovery interval* between repetitions must be extended, the *work-to-rest ratio* must widen (e.g., expanding from 1:4 to 1:12 or greater), and the overall *volume* (total sprint meters) must be reduced. Failing to adjust the collective system when manipulating one variable will result in excessive uncompensated fatigue, technical breakdown, and increased injury risk.",
+            "criteria": [
+              "Explain that variables characterize agendas individually but interact systemically.",
+              "State that altering one variable creates cascading physiological and biomechanical demands across the entire plan.",
+              "Provide a clear, concrete practical example (e.g., increasing intensity necessitates increasing rest intervals, widening work-to-rest ratios, and decreasing volume).",
+              "Mention the consequences of failing to consider systemic interactions (excessive fatigue, technical failure, injury)."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
